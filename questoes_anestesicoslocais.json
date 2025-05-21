@@ -1,0 +1,431 @@
+[
+  {
+    "question": "Qual é o principal mecanismo de ação dos anestésicos locais (AL)?",
+    "options": [
+      "Bloqueio dos canais de sódio dependentes de voltagem",
+      "Estimulação dos receptores GABA-A",
+      "Ativação de canais de potássio sensíveis a ATP",
+      "Inibição da enzima acetilcolinesterase",
+      "Antagonismo dos receptores NMDA"
+    ],
+    "correctIndex": 0,
+    "explanation": "Os AL impedem a despolarização ao bloquear canais de sódio dependentes de voltagem. As demais alternativas descrevem mecanismos de outras classes de fármacos: GABA-A (benzodiazepínicos), canais de potássio (sulfonilureias), acetilcolinesterase (inibidores colinérgicos) e receptores NMDA (dissociativos).",
+    "type": "conteudista"
+  },
+  {
+    "question": "Quais são as duas grandes classes químicas dos anestésicos locais?",
+    "options": [
+      "Ésteres e amidas",
+      "Ácidos e bases",
+      "Peptídeos e esteroides",
+      "Alcaloides e cetonas",
+      "Glicídeos e lipídeos"
+    ],
+    "correctIndex": 0,
+    "explanation": "Os AL classificam-se em ésteres ou amidas segundo a cadeia intermediária. As demais categorias não correspondem à divisão química específica dos AL.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Em qual situação clínica o uso de vasoconstritor junto ao anestésico local NÃO é indicado?",
+    "options": [
+      "Quando se deseja prolongar a duração do bloqueio",
+      "Para reduzir toxicidade sistêmica",
+      "Em áreas com comprometimento vascular terminal",
+      "Para diminuir o sangramento no campo operatório",
+      "Para retardar a absorção sistêmica do fármaco"
+    ],
+    "correctIndex": 2,
+    "explanation": "Vasoconstritores não devem ser usados em regiões com circulação terminal (ex.: dedos, nariz), pois o risco de isquemia aumenta. Nas outras situações o vasoconstritor é benéfico, prolongando o efeito, reduzindo toxicidade e sangramento.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Qual característica farmacocinética dos AL explica a necessidade de coadministrar um agonista α-simpaticomimético?",
+    "options": [
+      "Eles são vasodilatadores por si mesmos",
+      "Possuem longa meia-vida plasmática",
+      "São altamente lipofílicos",
+      "Apresentam alto peso molecular",
+      "São ácidos fortes em solução"
+    ],
+    "correctIndex": 0,
+    "explanation": "AL provocam vasodilatação local, acelerando a remoção do fármaco; por isso adiciona-se vasoconstritor. As demais opções não justificam diretamente essa prática clínica.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual parte estrutural do anestésico local é responsável pela penetração na fibra nervosa?",
+    "options": [
+      "Grupo lipofílico aromático",
+      "Cadeia intermediária éster/amida",
+      "Grupo amino hidrofílico",
+      "Grupo carboxila terminal",
+      "Íon cloreto acompanhante"
+    ],
+    "correctIndex": 0,
+    "explanation": "O anel aromático lipofílico facilita a travessia da membrana neuronal. A cadeia intermediária define a classe química, o grupo amino aumenta solubilidade e as demais estruturas não participam dessa etapa.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Em tecido inflamado, o tempo de latência de um AL tende a:",
+    "options": [
+      "Aumentar devido ao pH mais baixo",
+      "Diminuir devido à vasodilatação",
+      "Permanecer inalterado",
+      "Diminuir porque há mais forma apolar",
+      "Ser imprevisível, pois pH não interfere"
+    ],
+    "correctIndex": 0,
+    "explanation": "Inflamação ↓ pH → maior fração ionizada → menor penetração → latência ↑. As demais opções contradizem essa relação ácido-base bem estabelecida.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Qual fator determina diretamente a rapidez de início de ação de um AL em condições fisiológicas normais?",
+    "options": [
+      "Valor de pKa do fármaco",
+      "Peso molecular",
+      "Cor da solução",
+      "Ligação a proteínas plasmáticas",
+      "Via de eliminação hepática"
+    ],
+    "correctIndex": 0,
+    "explanation": "Quanto mais próximo o pKa do pH fisiológico, maior a fração não ionizada e mais rápido o início. Peso, cor, ligação e metabolização influenciam outros parâmetros, não a latência inicial.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual das drogas abaixo apresenta latência considerada rápida segundo a tabela de pKa?",
+    "options": [
+      "Lidocaína (pKa 7,7)",
+      "Bupivacaína (pKa 8,1)",
+      "Cocaína (pKa 8,7)",
+      "Procaína (pKa 8,5)",
+      "Ropivacaína (pKa 8,2)"
+    ],
+    "correctIndex": 0,
+    "explanation": "Lidocaína tem pKa 7,7, próximo ao pH fisiológico, resultando em latência curta. As demais têm pKa maior, correlacionado a inícios mais lentos.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é a dose máxima de lidocaína 2 % (em mg/kg) recomendada para minimizar toxicidade?",
+    "options": [
+      "4,4 mg/kg",
+      "1,8 mg/kg",
+      "7,0 mg/kg",
+      "2,0 mg/kg",
+      "10,0 mg/kg"
+    ],
+    "correctIndex": 0,
+    "explanation": "O limite seguro difundido é 4,4 mg/kg. Os demais valores não correspondem à recomendação usual.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Em um paciente adulto de 70 kg, quantos tubetes de lidocaína 2 % (36 mg/tubete) podem ser administrados sem exceder a dose máxima?",
+    "options": [
+      "Até 8 tubetes",
+      "Até 12 tubetes",
+      "Até 5 tubetes",
+      "Até 3 tubetes",
+      "Até 15 tubetes"
+    ],
+    "correctIndex": 0,
+    "explanation": "70 kg × 4,4 mg/kg = 308 mg. 308/36 ≈ 8,5. Assim, 8 tubetes não ultrapassam a dose. As outras quantidades excedem ou ficam muito abaixo do limite calculado.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Qual é a principal via de biotransformação dos anestésicos locais do tipo éster?",
+    "options": [
+      "Esterases plasmáticas",
+      "Citocromo P450 hepático",
+      "Filtração glomerular direta",
+      "Hidrolyse gástrica",
+      "Oxidação pulmonar"
+    ],
+    "correctIndex": 0,
+    "explanation": "Ésteres são rapidamente hidrolisados por esterases plasmáticas. As amidas dependem do fígado (CYP 450). As demais vias não são significativas para AL.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual propriedade NÃO é desejável em um anestésico local ideal?",
+    "options": [
+      "Irritação mínima ao tecido injetado",
+      "Bloqueio reversível sem lesão nervosa",
+      "Alta toxicidade sistêmica para ação prolongada",
+      "Início de ação rápido",
+      "Duração adequada ao procedimento"
+    ],
+    "correctIndex": 2,
+    "explanation": "Baixa, e não alta, toxicidade sistêmica é desejada. As outras características constam explicitamente na lista de propriedades ideais.",
+    "type": "conteudista"
+  },
+  {
+    "question": "No slide de \"Farmacodinâmica\", uma das teorias propõe que a molécula anestésica:",
+    "options": [
+      "Deforma a matriz lipoproteica diminuindo o diâmetro do canal de sódio",
+      "Ativa receptores muscarínicos para bloquear o impulso",
+      "Quelata cálcio intracelular, impedindo a exocitose",
+      "Aumenta a síntese de prostaglandinas",
+      "Estimula a bomba Na+/K+-ATPase"
+    ],
+    "correctIndex": 0,
+    "explanation": "A teoria descrita envolve deformação da matriz lipoproteica dos canais de sódio. Receptores muscarínicos, cálcio, prostaglandinas e bombas iônicas não fazem parte dessa hipótese específica.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual dos seguintes efeitos adversos surge em doses muito elevadas de AL sobre o sistema nervoso central?",
+    "options": [
+      "Convulsões seguidas de coma",
+      "Bradicardia extrema",
+      "Anemia hemolítica",
+      "Hipertireoidismo agudo",
+      "Surdez permanente imediata"
+    ],
+    "correctIndex": 0,
+    "explanation": "Altas doses podem precipitar convulsões e depressão cardiorrespiratória. Bradicardia é mais cardíaca, anemia, tireoide e surdez não são descritas como efeitos centrais típicos.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Ao preparar uma solução injetável de AL, adiciona-se HCl. O objetivo é:",
+    "options": [
+      "Aumentar solubilidade e estabilidade",
+      "Diminuir pKa",
+      "Promover vasodilatação local",
+      "Aumentar lipofilicidade",
+      "Estender a meia-vida hepática"
+    ],
+    "correctIndex": 0,
+    "explanation": "Converter a base fraca em sal cloridrato ↑ solubilidade/estabilidade. Não altera pKa significativamente, nem tem relação direta com vasodilatação, lipofilicidade ou meia-vida.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual indicação NÃO está listada para uso de anestésicos locais?",
+    "options": [
+      "Tratamento de taquicardia supraventricular",
+      "Cirurgias pequenas",
+      "Lacerações de pele",
+      "Alívio de dor associada ao câncer",
+      "Irritações de pele"
+    ],
+    "correctIndex": 0,
+    "explanation": "AL não são antiarrítmicos de escolha para taquicardia supraventricular (lidocaína IV é usada em arritmias ventriculares). As outras situações aparecem explicitamente como indicações.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Entre os vasoconstritores listados, qual é um derivado do hormônio ADH?",
+    "options": [
+      "Felipressina",
+      "Adrenalina",
+      "Noradrenalina",
+      "Fenilefrina",
+      "Efedrina"
+    ],
+    "correctIndex": 0,
+    "explanation": "Felipressina é um análogo de vasopressina (ADH). Os demais são catecolaminas ou simpatomiméticos que não derivam do ADH.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Se um paciente recebe 3 tubetes de lidocaína 2 % (cada um 36 mg) e pesa 40 kg, a dose total está:",
+    "options": [
+      "Abaixo do limite seguro",
+      "Exatamente no limite",
+      "Acima do limite em 10 mg",
+      "Acima do limite em 40 mg",
+      "Incalculável sem a idade"
+    ],
+    "correctIndex": 0,
+    "explanation": "Dose total = 108 mg. Limite = 40 kg × 4,4 = 176 mg. 108 < 176, logo está abaixo. As outras opções superestimam ou exigem dados irrelevantes.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "A forma ionizada do AL dentro do axônio é importante porque:",
+    "options": [
+      "Possui maior afinidade pelo receptor do canal de sódio",
+      "Facilita a passagem pela membrana lipídica",
+      "Reduz a latência ao conservar pH",
+      "Aumenta a vasodilatação local",
+      "Estimula síntese de catecolaminas"
+    ],
+    "correctIndex": 0,
+    "explanation": "Dentro da célula, a fração ionizada liga-se com maior afinidade ao receptor interno do canal de sódio. Penetração ocorre pela forma apolar, e os demais efeitos não se relacionam com a ligação intracelular.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Qual é a ação direta dos vasoconstritores classificados como \"ação indireta\" no slide?",
+    "options": [
+      "Atuam via centros bulbares simpáticos",
+      "Inibem MAO-A no SNC",
+      "Aumentam síntese de prostaglandina E2",
+      "Antagonizam receptores β2",
+      "Destroem fibras colinérgicas"
+    ],
+    "correctIndex": 0,
+    "explanation": "Ação indireta refere-se a vasoconstrição mediada por estimulação bulbar simpática. As outras alternativas não descrevem o mecanismo citado.",
+    "type": "conteudista"
+  },
+  {
+    "question": "De acordo com os critérios de \"Propriedades desejáveis\", por que um AL com longa latência pode ser desvantajoso em alguns procedimentos?",
+    "options": [
+      "Atrasa o início do efeito, prolongando o tempo cirúrgico",
+      "Eleva o pH do tecido",
+      "Aumenta a lipossolubilidade excessivamente",
+      "Exige sempre adição de felipressina",
+      "Provoca meta-hemoglobinemia severa"
+    ],
+    "correctIndex": 0,
+    "explanation": "Longa latência atrasa o procedimento. Elevar pH, lipossolubilidade ou necessidade universal de felipressina não são consequências diretas; meta-hemoglobinemia relaciona-se mais a prilocaína em dose alta.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Qual fator NÃO influencia diretamente o cálculo de dose máxima de lidocaína?",
+    "options": [
+      "Peso do paciente",
+      "Concentração da solução",
+      "Volume por tubete",
+      "Cor do rótulo da ampola",
+      "Dose limite em mg/kg"
+    ],
+    "correctIndex": 3,
+    "explanation": "A cor do rótulo é irrelevante. Peso, concentração, volume e limite mg/kg entram no cálculo.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual técnica de administração utiliza AL sem grupo hidrofílico, como benzocaína, para alterar a conformação do canal pela penetração na membrana?",
+    "options": [
+      "Tópica",
+      "Peridural",
+      "Anestesia geral inalatória",
+      "Bloqueio de nervo periférico por injeção",
+      "Raquidiana"
+    ],
+    "correctIndex": 0,
+    "explanation": "A apresentação descreve especificamente uso tópico de benzocaína sem porção hidrofílica. As demais opções envolvem injeções ou técnicas sistêmicas.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Se o pKa de um AL é 8,5, em pH fisiológico (7,4) espera-se:",
+    "options": [
+      "Maioria da droga ionizada, latência maior",
+      "Maioria não ionizada, latência menor",
+      "Equalização de formas ionizada/apolar",
+      "Inativação completa do fármaco",
+      "Explosão do tubete por reação exotérmica"
+    ],
+    "correctIndex": 0,
+    "explanation": "Quanto maior o pKa acima do pH, maior fração ionizada → penetração mais lenta. Equalização ocorre quando pKa ≈ pH; inativação ou explosão não são fenômenos pertinentes.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Qual destes usos NÃO é citado para vasoconstritores no material?",
+    "options": [
+      "Tratamento de hipotensão ortostática crônica",
+      "Hemorragia localizada",
+      "Manter o AL por mais tempo",
+      "Elevar pressão arterial em cirurgias",
+      "Alívio de congestão nasal"
+    ],
+    "correctIndex": 0,
+    "explanation": "Hipotensão ortostática crônica não foi listada. Hemorragia, prolongar anestesia, aumentar PA e congestão nasal aparecem como indicações.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Durante um procedimento, o anestesista deseja um AL de latência média para um bloqueio de nervo periférico prolongado. Qual escolha é mais apropriada segundo a tabela?",
+    "options": [
+      "Bupivacaína (pKa 8,1)",
+      "Procaína (pKa 8,5)",
+      "Cocaína (pKa 8,7)",
+      "Lidocaína (pKa 7,7)",
+      "Mepivacaína (pKa 7,6)"
+    ],
+    "correctIndex": 0,
+    "explanation": "A tabela indica bupivacaína (e ropivacaína) como latência média; procaína e cocaína são lentas, lidocaína e mepivacaína rápidas.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Qual é o efeito da forma apolar do AL antes de atravessar a membrana, segundo a seção de pH?",
+    "options": [
+      "Facilita a difusão através da bicamada lipídica",
+      "Ativa receptores adrenérgicos β1",
+      "Aumenta excreção renal imediata",
+      "Oxida catecolaminas no local",
+      "Induz síntese de endorfinas"
+    ],
+    "correctIndex": 0,
+    "explanation": "A forma apolar passa pela membrana. As demais alternativas descrevem ações não relacionadas à difusão.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Por que a meta-hemoglobinemia é citada no slide \"Uso Clínico\" como aspecto relevante?",
+    "options": [
+      "É possível com algumas amidas, exigindo cautela na escolha do AL",
+      "É um efeito sinérgico desejável com vasoconstritor",
+      "Indica aumento de eficácia analgésica",
+      "Resulta da neutralização do ácido clorídrico",
+      "Só ocorre em tecidos alcalinos"
+    ],
+    "correctIndex": 0,
+    "explanation": "Prilocaína e benzocaína podem induzir meta-hemoglobinemia; logo o efeito requer monitorização. Não é desejável nem relacionado ao ácido ou pH alcalino.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Se uma solução de lidocaína 2 % contém 20 mg/mL, quantos mg há em 5 mL?",
+    "options": [
+      "100 mg",
+      "40 mg",
+      "50 mg",
+      "25 mg",
+      "200 mg"
+    ],
+    "correctIndex": 0,
+    "explanation": "20 mg/mL × 5 mL = 100 mg. As demais multiplicações não correspondem.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Qual das seguintes opções descreve corretamente um AL tipo amida com início rápido?",
+    "options": [
+      "Mepivacaína, pKa 7,6",
+      "Cocaína, pKa 8,7",
+      "Procaína, pKa 8,5",
+      "Bupivacaína, pKa 8,1",
+      "Ropivacaína, pKa 8,2"
+    ],
+    "correctIndex": 0,
+    "explanation": "A mepivacaína é amida e tem pKa 7,6 (rápida). Cocaína/procaína são ésteres; bupivacaína/ropivacaína têm latência média.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Durante um quadro de inflamação intensa, qual estratégia pode compensar o aumento da latência do AL?",
+    "options": [
+      "Usar um AL com pKa mais baixo",
+      "Adicionar solução alcalina ao campo",
+      "Diminuir a dose total",
+      "Remover vasoconstritor",
+      "Aumentar o intervalo entre as injeções"
+    ],
+    "correctIndex": 0,
+    "explanation": "AL com pKa mais baixo mantém fração apolar maior mesmo em pH baixo, encurtando a latência. Alcalinizar localmente é pouco prático; reduzir dose, retirar vasoconstritor ou espaçar injeções não resolvem a penetração retardada.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Qual dos seguintes NÃO é um efeito adverso sobre SNC listado?",
+    "options": [
+      "Hipotireoidismo",
+      "Delírios",
+      "Nistagmo",
+      "Convulsões em dose alta",
+      "Sedação"
+    ],
+    "correctIndex": 0,
+    "explanation": "Hipotireoidismo não é efeito descrito. Delírios, nistagmo, convulsões e sedação constam como manifestações centrais.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Um paciente de 25 kg necessita anestesia local. Quantos mg de lidocaína correspondem à dose máxima segura?",
+    "options": [
+      "110 mg",
+      "150 mg",
+      "50 mg",
+      "220 mg",
+      "300 mg"
+    ],
+    "correctIndex": 0,
+    "explanation": "25 kg × 4,4 mg/kg = 110 mg. Outros valores incorretos resultam de multiplicações distintas.",
+    "type": "raciocínio"
+  }
+]

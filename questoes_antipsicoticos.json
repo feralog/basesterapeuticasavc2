@@ -1,0 +1,379 @@
+[
+  {
+    "question": "A psicose é uma síndrome associada ao funcionamento anormal de quais estruturas cerebrais?",
+    "options": [
+      "Lobos parietal e occipital",
+      "Lobos frontal e temporal",
+      "Cerebelo e ponte",
+      "Tálamo e hipotálamo",
+      "Córtex motor e sensitivo"
+    ],
+    "correctIndex": 1,
+    "explanation": "A psicose está associada ao funcionamento anormal dos lobos frontal e temporal, bem como às projeções dopaminérgicas e serotoninérgicas para essas áreas. Os lobos parietal e occipital estão mais relacionados ao processamento sensorial e visual, o cerebelo e ponte ao equilíbrio e coordenação motora, o tálamo e hipotálamo às funções endócrinas e de relé sensorial, e o córtex motor e sensitivo às funções motoras e sensoriais básicas.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é a prevalência da esquizofrenia na população mundial?",
+    "options": [
+      "0,1%",
+      "1%",
+      "5%",
+      "10%",
+      "0,5%"
+    ],
+    "correctIndex": 1,
+    "explanation": "A esquizofrenia tem prevalência de 1% da população mundial. As outras alternativas representam valores incorretos: 0,1% seria muito baixo para uma condição relativamente comum, 5% e 10% seriam valores excessivamente altos para este transtorno, e 0,5% também subestima a real prevalência da esquizofrenia.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Os delírios são caracterizados como:",
+    "options": [
+      "Alterações da percepção auditiva",
+      "Sensações corporais alteradas",
+      "Ideias distorcidas da realidade cuja crença não se perde mesmo com comprovação contrária",
+      "Movimentos involuntários repetitivos",
+      "Alterações do humor sem base real"
+    ],
+    "correctIndex": 2,
+    "explanation": "Os delírios são ideias distorcidas da realidade, cuja crença não se perde mesmo com a comprovação do contrário. As alterações da percepção auditiva e sensações corporais alteradas correspondem às alucinações, os movimentos involuntários repetitivos são sintomas extrapiramidais, e as alterações do humor sem base real não caracterizam adequadamente os delírios.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Quais são os principais grupos de fármacos antipsicóticos típicos mencionados?",
+    "options": [
+      "Fenotiazinas, tioxantinas e butirofenonas",
+      "Benzisoxazóis, quinolinonas e dibenzotiazepinas",
+      "Imidazolidonas, benzotiazóis e tiofenos",
+      "Indóis, pirimidinas e benzofuranos",
+      "Triazóis, oxazóis e tiazóis"
+    ],
+    "correctIndex": 0,
+    "explanation": "Os principais grupos de antipsicóticos típicos são fenotiazinas (como clorpromazina), tioxantinas (como tiotixeno) e butirofenonas (como haloperidol). Os outros grupos mencionados nas alternativas são classes químicas diferentes que não correspondem aos antipsicóticos típicos clássicos descritos no texto.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual fármaco antipsicótico atípico é indicado especificamente para esquizofrenia refratária?",
+    "options": [
+      "Aripiprazol",
+      "Olanzapina",
+      "Clozapina",
+      "Quetiapina",
+      "Risperidona"
+    ],
+    "correctIndex": 2,
+    "explanation": "A clozapina é o fármaco antipsicótico atípico indicado especificamente para esquizofrenia refratária. O aripiprazol, olanzapina, quetiapina e risperidona são antipsicóticos atípicos, mas não têm indicação específica para casos refratários como a clozapina, que é reservada para pacientes que não respondem aos demais antipsicóticos.",
+    "type": "conteudista"
+  },
+  {
+    "question": "A via tuberoinfundibular da dopamina está relacionada a qual função?",
+    "options": [
+      "Controle de movimentos voluntários",
+      "Regulação do humor",
+      "Ação inibitória nas células produtoras de prolactina",
+      "Processamento de memória",
+      "Controle da temperatura corporal"
+    ],
+    "correctIndex": 2,
+    "explanation": "A via tuberoinfundibular tem ação inibitória nas células produtoras de prolactina. O controle de movimentos voluntários está relacionado à via nigroestriatal, a regulação do humor às vias mesolímbica e mesocortical, o processamento de memória principalmente à via mesocortical, e o controle da temperatura corporal não é uma função específica das vias dopaminérgicas descritas.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Os sintomas negativos da esquizofrenia incluem:",
+    "options": [
+      "Alucinações auditivas e visuais",
+      "Delírios de perseguição",
+      "Afeto deprimido e isolamento social",
+      "Comportamentos bizarros e agitados",
+      "Pensamentos desorganizados"
+    ],
+    "correctIndex": 2,
+    "explanation": "Os sintomas negativos incluem afeto deprimido e isolamento social. As alucinações auditivas e visuais, delírios de perseguição, comportamentos bizarros e agitados, e pensamentos desorganizados são classificados como sintomas positivos da esquizofrenia, representando acréscimos patológicos ao comportamento normal.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é a porcentagem de bloqueio dos receptores D2 pelos antipsicóticos típicos?",
+    "options": [
+      "50 a 60%",
+      "60 a 70%",
+      "70 a 80%",
+      "80 a 90%",
+      "90 a 100%"
+    ],
+    "correctIndex": 2,
+    "explanation": "Os fármacos antipsicóticos típicos bloqueiam os receptores D2 pós-sinápticos em cerca de 70 a 80%. Porcentagens menores (50-70%) seriam insuficientes para o efeito antipsicótico adequado, enquanto porcentagens maiores (80-100%) aumentariam significativamente os efeitos adversos extrapiramidais.",
+    "type": "conteudista"
+  },
+  {
+    "question": "A síndrome extrapiramidal (SEP) inclui todos os seguintes sintomas, EXCETO:",
+    "options": [
+      "Hipocinesia",
+      "Acatisia",
+      "Tremores involuntários",
+      "Hiperprolactinemia",
+      "Distonias agudas"
+    ],
+    "correctIndex": 3,
+    "explanation": "A hiperprolactinemia não faz parte da síndrome extrapiramidal, sendo causada pelo bloqueio da via tuberoinfundibular. A hipocinesia, acatisia, tremores involuntários e distonias agudas são todos componentes da SEP, resultantes do bloqueio da via nigroestriatal e seus efeitos no sistema motor extrapiramidal.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual antipsicótico atípico está associado ao risco de agranulocitose?",
+    "options": [
+      "Aripiprazol",
+      "Clozapina",
+      "Olanzapina",
+      "Quetiapina",
+      "Ziprasidona"
+    ],
+    "correctIndex": 1,
+    "explanation": "A clozapina está associada ao risco de agranulocitose, uma condição grave que requer monitoramento hematológico regular. O aripiprazol causa sedação branda, a olanzapina tem mínimo efeito piramidal e ganho de peso, a quetiapina causa sedação, e a ziprasidona pode causar alterações eletrocardiográficas.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Os antipsicóticos fenotiazínicos foram desenvolvidos a partir de qual classe de fármacos?",
+    "options": [
+      "Anti-histamínicos H2",
+      "Anti-histamínicos H1",
+      "Antidepressivos tricíclicos",
+      "Benzodiazepínicos",
+      "Barbitúricos"
+    ],
+    "correctIndex": 1,
+    "explanation": "Os fenotiazínicos foram desenvolvidos a partir de anti-histamínicos H1, como a prometazina. Os anti-histamínicos H2 são usados para úlcera péptica, os antidepressivos tricíclicos têm estrutura e função diferentes, os benzodiazepínicos são ansiolíticos, e os barbitúricos são sedativos-hipnóticos.",
+    "type": "conteudista"
+  },
+  {
+    "question": "A hiperatividade dopaminérgica na esquizofrenia ocorre em qual sistema?",
+    "options": [
+      "Sistema mesocortical",
+      "Sistema mesolímbico",
+      "Sistema nigroestriatal",
+      "Sistema tuberoinfundibular",
+      "Sistema corticoespinhal"
+    ],
+    "correctIndex": 1,
+    "explanation": "A hiperatividade dopaminérgica na esquizofrenia ocorre no sistema mesolímbico, onde há bloqueio do GABA. O sistema mesocortical apresenta hipoatividade dopaminérgica, o sistema nigroestriatal está relacionado ao controle motor, o tuberoinfundibular ao controle da prolactina, e o corticoespinhal não é uma via dopaminérgica.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual neurotransmissor excitatório é mediado pelo receptor 5HT2A na via mesocortical?",
+    "options": [
+      "Dopamina",
+      "GABA",
+      "Glutamato",
+      "Acetilcolina",
+      "Noradrenalina"
+    ],
+    "correctIndex": 2,
+    "explanation": "O glutamato é o neurotransmissor excitatório mediado pelo receptor 5HT2A na via mesocortical. A dopamina atua nos receptores D1 e D5, o GABA é inibitório (não excitatório), a acetilcolina atua em receptores muscarínicos e nicotínicos, e a noradrenalina atua em receptores alfa e beta-adrenérgicos.",
+    "type": "conteudista"
+  },
+  {
+    "question": "O início da esquizofrenia geralmente ocorre em qual período da vida?",
+    "options": [
+      "Infância precoce",
+      "Término da puberdade",
+      "Meia-idade",
+      "Terceira idade",
+      "Idade pré-escolar"
+    ],
+    "correctIndex": 1,
+    "explanation": "A esquizofrenia tem início geralmente no término da puberdade. A infância precoce e idade pré-escolar são muito cedo para o desenvolvimento típico da esquizofrenia, enquanto a meia-idade e terceira idade são períodos tardios demais para o início típico desta condição.",
+    "type": "conteudista"
+  },
+  {
+    "question": "A acatisia é caracterizada por:",
+    "options": [
+      "Diminuição dos movimentos voluntários",
+      "Ausência de expressão facial",
+      "Inquietude e agitação que impede ficar sentado",
+      "Movimentos parkinsonianos",
+      "Alterações da linguagem"
+    ],
+    "correctIndex": 2,
+    "explanation": "A acatisia é caracterizada por inquietude e agitação que impede ficar sentado. A diminuição dos movimentos voluntários é hipocinesia, a ausência de expressão facial é amimia, os movimentos parkinsonianos são outro tipo de distúrbio motor, e as alterações da linguagem são um sintoma adicional, não específico da acatisia.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual antipsicótico atípico pode causar alterações eletrocardiográficas (QT)?",
+    "options": [
+      "Aripiprazol",
+      "Clozapina",
+      "Olanzapina",
+      "Quetiapina",
+      "Ziprasidona"
+    ],
+    "correctIndex": 4,
+    "explanation": "A ziprasidona pode causar alterações eletrocardiográficas (prolongamento do QT). O aripiprazol causa sedação branda, a clozapina está associada à agranulocitose, a olanzapina causa ganho de peso, e a quetiapina causa principalmente sedação.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Os antipsicóticos eram chamados no passado de:",
+    "options": [
+      "Ansiolíticos ou calmantes",
+      "Neurolépticos ou tranquilizantes maiores",
+      "Antidepressivos ou estabilizadores",
+      "Hipnóticos ou sedativos",
+      "Anticonvulsivantes ou antiepilépticos"
+    ],
+    "correctIndex": 1,
+    "explanation": "Os antipsicóticos eram chamados no passado de neurolépticos ou tranquilizantes maiores. Ansiolíticos referem-se aos medicamentos para ansiedade, antidepressivos são para depressão, hipnóticos para insônia, e anticonvulsivantes para epilepsia, não sendo denominações históricas dos antipsicóticos.",
+    "type": "conteudista"
+  },
+  {
+    "question": "A risperidona possui qual característica farmacocinética especial?",
+    "options": [
+      "Excreção exclusivamente renal",
+      "Absorção apenas parenteral",
+      "Metabólito ativo",
+      "Não se liga a proteínas plasmáticas",
+      "Biotransformação exclusivamente biliar"
+    ],
+    "correctIndex": 2,
+    "explanation": "A risperidona possui metabólito ativo. A excreção não é exclusivamente renal (também ocorre pela bile), a absorção é por via oral, há ligação intensa às proteínas plasmáticas, e a biotransformação é hepática, não exclusivamente biliar.",
+    "type": "conteudista"
+  },
+  {
+    "question": "O comprometimento cognitivo na esquizofrenia inclui deficiência de:",
+    "options": [
+      "Coordenação motora fina",
+      "Atenção e memória de curto prazo",
+      "Reflexos tendinosos",
+      "Acuidade visual",
+      "Sensibilidade tátil"
+    ],
+    "correctIndex": 1,
+    "explanation": "O comprometimento cognitivo na esquizofrenia inclui deficiência de atenção e memória de curto prazo. A coordenação motora fina, reflexos tendinosos, acuidade visual e sensibilidade tátil não são os principais déficits cognitivos característicos da esquizofrenia, que afeta principalmente funções executivas superiores.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é o mecanismo básico de ação dos antipsicóticos descoberto inicialmente?",
+    "options": [
+      "Bloqueio do receptor 5HT2A",
+      "Bloqueio dos receptores D2 e D1",
+      "Ativação do receptor NMDA",
+      "Inibição da recaptação de serotonina",
+      "Antagonismo do receptor GABA"
+    ],
+    "correctIndex": 1,
+    "explanation": "O mecanismo básico descoberto inicialmente foi o bloqueio dos receptores D2 e também D1. O bloqueio do receptor 5HT2A é característico dos atípicos, a ativação do receptor NMDA não é o mecanismo principal, a inibição da recaptação de serotonina é dos antidepressivos, e o antagonismo do receptor GABA não é o mecanismo dos antipsicóticos.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Um paciente com esquizofrenia apresenta sintomas como alucinações auditivas e delírios de perseguição, mas mantém-se orientado e com déficits cognitivos mínimos. Com base nas características apresentadas, qual seria a classificação mais provável deste quadro?",
+    "options": [
+      "Psicose secundária ao uso de drogas",
+      "Psicose associada a transtorno psiquiátrico primário",
+      "Psicose devido a causas clínicas",
+      "Delirium com componente psicótico",
+      "Demência com sintomas psicóticos"
+    ],
+    "correctIndex": 1,
+    "explanation": "O quadro descrito é característico de psicose associada a transtorno psiquiátrico primário, pois o paciente apresenta alucinações e delírios típicos, mantém orientação e tem déficits cognitivos mínimos. A psicose secundária ao uso de drogas ou causas clínicas geralmente apresenta sinais vitais alterados, alucinações visuais e comprometimento cognitivo grave. Delirium e demência cursam com maior comprometimento cognitivo e desorientação.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Um paciente em uso de haloperidol desenvolve rigidez muscular, bradicinesia e tremores. Considerando a fisiopatologia dos antipsicóticos típicos, qual seria a melhor explicação para esses sintomas?",
+    "options": [
+      "Bloqueio excessivo da via mesocortical causando déficit dopaminérgico",
+      "Hiperativação da via mesolímbica gerando excesso de dopamina",
+      "Bloqueio da via nigroestriatal resultando em síndrome extrapiramidal",
+      "Antagonismo da via tuberoinfundibular causando hiperprolactinemia",
+      "Ativação inadequada dos receptores 5HT2A no córtex frontal"
+    ],
+    "correctIndex": 2,
+    "explanation": "Os sintomas descritos (rigidez, bradicinesia, tremores) são característicos da síndrome extrapiramidal, causada pelo bloqueio da via nigroestriatal pelo haloperidol. O bloqueio da via mesocortical causaria principalmente sintomas negativos, a hiperativação mesolímbica não é causada pelos antipsicóticos típicos, o bloqueio tuberoinfundibular causa hiperprolactinemia (não sintomas motores), e os típicos não ativam receptores 5HT2A.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Um psiquiatra precisa escolher entre um antipsicótico típico e atípico para um paciente com esquizofrenia que apresenta predominantemente sintomas negativos (isolamento social, afeto embotado). Qual seria a escolha mais adequada e por quê?",
+    "options": [
+      "Típico, pois bloqueia mais intensamente os receptores D2",
+      "Atípico, pois tem melhor resultado nos sintomas negativos devido ao antagonismo 5HT2A",
+      "Típico, pois tem menor risco de efeitos adversos",
+      "Atípico, pois não causa síndrome extrapiramidal",
+      "Indiferente, pois ambos têm a mesma eficácia para sintomas negativos"
+    ],
+    "correctIndex": 1,
+    "explanation": "O antipsicótico atípico seria mais adequado porque tem melhor resultado nos sintomas negativos devido ao antagonismo dos receptores 5HT2A, que aumenta a liberação de dopamina no córtex pré-frontal. Os típicos bloqueiam mais intensamente D2 mas são menos eficazes para sintomas negativos, têm maior risco de efeitos adversos extrapiramidais, e não são equivalentes aos atípicos no tratamento de sintomas negativos.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Um paciente desenvolve agranulocitose durante tratamento com antipsicótico atípico. Considerando os perfis de segurança descritos, qual medicamento provavelmente estava sendo utilizado e qual conduta seria necessária?",
+    "options": [
+      "Quetiapina; suspender e trocar por risperidona",
+      "Clozapina; monitoramento hematológico rigoroso e possível suspensão",
+      "Aripiprazol; reduzir dose e manter tratamento",
+      "Olanzapina; adicionar protetor gástrico",
+      "Ziprasidona; realizar eletrocardiograma"
+    ],
+    "correctIndex": 1,
+    "explanation": "A clozapina é o antipsicótico atípico associado ao risco de agranulocitose, requerendo monitoramento hematológico rigoroso e possível suspensão em casos de agranulocitose grave. A quetiapina causa principalmente sedação, o aripiprazol sedação branda, a olanzapina ganho de peso, e a ziprasidona alterações eletrocardiográficas, não sendo associados à agranulocitose.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Um paciente com esquizofrenia não respondeu adequadamente a múltiplos antipsicóticos típicos e atípicos convencionais. Baseando-se no conhecimento sobre esquizofrenia refratária, qual seria a próxima opção terapêutica mais apropriada?",
+    "options": [
+      "Aumentar a dose do antipsicótico atual",
+      "Combinar dois antipsicóticos típicos",
+      "Iniciar clozapina com monitoramento adequado",
+      "Suspender medicação e tentar apenas psicoterapia",
+      "Trocar para antidepressivo tricíclico"
+    ],
+    "correctIndex": 2,
+    "explanation": "Para esquizofrenia refratária (que não responde a múltiplos antipsicóticos), a clozapina é a opção específica indicada, requerendo monitoramento adequado devido ao risco de agranulocitose. Aumentar doses pode intensificar efeitos adversos sem benefício, combinar típicos aumenta o risco de SEP, suspender medicação não é apropriado para esquizofrenia, e antidepressivos tricíclicos não são antipsicóticos.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Analisando a hipótese dopaminérgica da esquizofrenia, qual seria o resultado esperado do bloqueio dos receptores D2 na via mesolímbica por um antipsicótico?",
+    "options": [
+      "Aumento dos sintomas positivos por maior liberação de GABA",
+      "Redução dos sintomas positivos por diminuição da inibição do GABA",
+      "Piora dos sintomas negativos por déficit dopaminérgico adicional",
+      "Melhora da função cognitiva por ativação glutamatérgica",
+      "Desenvolvimento de síndrome extrapiramidal por déficit motor"
+    ],
+    "correctIndex": 1,
+    "explanation": "O bloqueio dos receptores D2 na via mesolímbica resulta em redução dos sintomas positivos por diminuição da inibição do GABA, permitindo que o GABA exerça sua função inibitória normal e controlando os sintomas positivos. O aumento de sintomas positivos seria o oposto do desejado, a piora de sintomas negativos ocorre na via mesocortical, e a SEP ocorre por bloqueio da via nigroestriatal.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Um médico observa que um paciente em uso de antipsicótico apresenta ginecomastia. Considerando as vias dopaminérgicas, qual mecanismo melhor explica este efeito adverso?",
+    "options": [
+      "Bloqueio da via mesocortical causando déficit cognitivo",
+      "Hiperativação da via mesolímbica gerando excesso hormonal",
+      "Bloqueio da via tuberoinfundibular resultando em hiperprolactinemia",
+      "Antagonismo da via nigroestriatal causando alterações endócrinas",
+      "Ativação inadequada de receptores 5HT2A no hipotálamo"
+    ],
+    "correctIndex": 2,
+    "explanation": "A ginecomastia é causada pelo bloqueio da via tuberoinfundibular, que normalmente exerce ação inibitória nas células produtoras de prolactina. O bloqueio desta via resulta em hiperprolactinemia, levando à ginecomastia. O bloqueio mesocortical causa sintomas negativos, a via mesolímbica não está hiperativada com antipsicóticos, a via nigroestriatal causa SEP, e os típicos não ativam 5HT2A.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Considerando a farmacodinâmica dos antipsicóticos atípicos versus típicos, por que os atípicos apresentam menor incidência de síndrome extrapiramidal?",
+    "options": [
+      "Bloqueiam mais intensamente os receptores D2",
+      "Não atravessam a barreira hematoencefálica",
+      "Têm atividade antagonista menor sobre D2 e antagonismo adicional a 5HT2A",
+      "Ativam especificamente receptores GABA",
+      "Não se ligam a proteínas plasmáticas"
+    ],
+    "correctIndex": 2,
+    "explanation": "Os atípicos apresentam menor SEP porque têm atividade antagonista menor sobre os receptores D2 e antagonismo adicional aos receptores 5HT2A, proporcionando eficácia antipsicótica com menor bloqueio dopaminérgico na via nigroestriatal. Bloqueio mais intenso de D2 aumentaria a SEP, todos atravessam a barreira hematoencefálica, não ativam GABA especificamente, e a ligação proteica não explica a menor SEP.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Um paciente apresenta psicose aguda com sinais vitais alterados, alucinações visuais predominantes e grave comprometimento cognitivo com desorientação. Qual seria a abordagem diagnóstica mais apropriada?",
+    "options": [
+      "Diagnóstico imediato de esquizofrenia e início de antipsicótico típico",
+      "Investigação de psicose secundária com avaliação clínica e laboratorial completa",
+      "Prescrição de antipsicótico atípico sem investigação adicional",
+      "Encaminhamento direto para psicoterapia",
+      "Aguardar resolução espontânea dos sintomas"
+    ],
+    "correctIndex": 1,
+    "explanation": "O quadro descrito (sinais vitais alterados, alucinações visuais, comprometimento cognitivo grave com desorientação) sugere psicose secundária ao uso de drogas ou causas clínicas, requerendo investigação completa antes do tratamento específico. A esquizofrenia tipicamente apresenta sinais vitais normais e menor comprometimento cognitivo, e o tratamento sem investigação pode mascarar a causa subjacente. Psicoterapia isolada ou aguardar resolução não são apropriados para psicose aguda.",
+    "type": "raciocínio"
+  }
+]

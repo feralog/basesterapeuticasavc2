@@ -1,0 +1,379 @@
+[
+  {
+    "question": "Qual é a principal característica da enzima COX-1?",
+    "options": [
+      "É constitutiva e mantém sua concentração estável no organismo",
+      "É induzida apenas durante processos inflamatórios",
+      "É gerada somente em células especiais do pulmão",
+      "É estimulada apenas pelas citocinas inflamatórias",
+      "É expressa exclusivamente no sistema nervoso central"
+    ],
+    "correctIndex": 0,
+    "explanation": "A COX-1 é constitutiva e continuamente estimulada no organismo, mantendo sua concentração estável para gerar prostaglandinas essenciais aos processos básicos. As outras opções descrevem características da COX-2 ou são incorretas.",
+    "type": "conteudista"
+  },
+  {
+    "question": "A COX-2 é caracterizada por ser:",
+    "options": [
+      "Constitutiva em todos os tecidos do organismo",
+      "Induzida e normalmente não presente nas células",
+      "Responsável apenas pela produção de muco gástrico",
+      "Ativa exclusivamente no sistema renal",
+      "Independente de estímulos inflamatórios"
+    ],
+    "correctIndex": 1,
+    "explanation": "A COX-2 é induzida e normalmente não está presente nas células, sendo estimulada por citocinas inflamatórias e fatores de crescimento durante processos inflamatórios. As outras alternativas descrevem características da COX-1 ou são incorretas.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual das seguintes funções é mediada pelas prostaglandinas produzidas pela COX-1?",
+    "options": [
+      "Sensibilização central à dor",
+      "Resposta inflamatória aguda",
+      "Produção de muco na parede do estômago",
+      "Ativação de leucócitos",
+      "Proliferação vascular"
+    ],
+    "correctIndex": 2,
+    "explanation": "A COX-1 produz prostaglandinas que estimulam a produção de muco na parede do estômago, regulação do ácido gástrico e excreção de água pelos rins. As outras funções são mediadas pela COX-2 ou por outros mediadores.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Entre os inibidores altamente seletivos da COX-2, encontram-se:",
+    "options": [
+      "Aspirina e ibuprofeno",
+      "Meloxicam e nimesulida",
+      "Diclofenaco e piroxicam",
+      "Celecoxib e refecoxib",
+      "Indometacina e salicilato"
+    ],
+    "correctIndex": 3,
+    "explanation": "Celecoxib e refecoxib são classificados como inibidores altamente seletivos da COX-2. Aspirina, ibuprofeno, diclofenaco e piroxicam são inibidores seletivos da COX-1, enquanto meloxicam e nimesulida têm mais ação sobre COX-2 mas não são altamente seletivos.",
+    "type": "conteudista"
+  },
+  {
+    "question": "O principal mecanismo de ação dos salicilatos inclui:",
+    "options": [
+      "Bloqueio dos canais de cálcio",
+      "Inibição da síntese proteica",
+      "Ativação de receptores opióides",
+      "Bloqueio dos receptores de histamina",
+      "Inibição das ciclo-oxigenases (COX)"
+    ],
+    "correctIndex": 4,
+    "explanation": "Os salicilatos, como a aspirina, atuam principalmente através da inibição das ciclo-oxigenases (COX), reduzindo a produção de prostaglandinas. As outras opções representam mecanismos de ação de diferentes classes de fármacos.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual fármaco é um exemplo dos derivados do ácido fenilacético?",
+    "options": [
+      "Diclofenaco",
+      "Ibuprofeno",
+      "Naproxeno",
+      "Ácido mefenâmico",
+      "Nimesulida"
+    ],
+    "correctIndex": 0,
+    "explanation": "O diclofenaco é um derivado do ácido fenilacético, comercializado como Tandrilax®, Arten®, Voltaren® e Cataflan®. Ibuprofeno e naproxeno são derivados do ácido propiônico, ácido mefenâmico é um fenamato, e nimesulida pertence a outra classe.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Os derivados do ácido propiônico incluem:",
+    "options": [
+      "Diclofenaco e indometacina",
+      "Cetoprofeno e ibuprofeno",
+      "Aspirina e piroxicam",
+      "Nimesulida e meloxicam",
+      "Celecoxib e refecoxib"
+    ],
+    "correctIndex": 1,
+    "explanation": "Cetoprofeno e ibuprofeno são derivados do ácido propiônico, juntamente com naproxeno e fenoprofeno. As outras opções pertencem a diferentes classes de AINEs ou inibidores seletivos.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é uma característica distintiva dos fenamatos?",
+    "options": [
+      "São inibidores potentes das prostaglandinas",
+      "Atuam exclusivamente por via tópica",
+      "São inibidores fracos das prostaglandinas com mecanismo central analgésico noradrenérgico",
+      "Têm ação específica sobre COX-2",
+      "Não causam efeitos gastrointestinais"
+    ],
+    "correctIndex": 2,
+    "explanation": "Os fenamatos são inibidores fracos das prostaglandinas, mas possuem mecanismo central analgésico noradrenérgico. Eles ainda causam efeitos gastrointestinais e não são específicos para COX-2.",
+    "type": "conteudista"
+  },
+  {
+    "question": "O celecoxib (Celebra®, Foxis®) é indicado para:",
+    "options": [
+      "Apenas dor aguda pós-operatória",
+      "Somente artrite reumatoide",
+      "Exclusivamente osteoartrite",
+      "Osteoartrite, artrite reumatoide e espondilite anquilosante",
+      "Apenas dismenorreia primária"
+    ],
+    "correctIndex": 3,
+    "explanation": "O celecoxib tem múltiplas indicações incluindo osteoartrite, artrite reumatoide, espondilite anquilosante, além de alívio da dor aguda e sintomas de dismenorreia primária. As outras opções são muito restritivas.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual zona da glândula suprarrenal produz glicocorticoides?",
+    "options": [
+      "Zona glomerular",
+      "Zona fasciculada",
+      "Zona reticular",
+      "Zona medular",
+      "Zona cortical externa"
+    ],
+    "correctIndex": 1,
+    "explanation": "A zona fasciculada é responsável pela formação de glicocorticoides (cortisol e corticosterona). A zona glomerular produz mineralocorticoides, a zona reticular produz androgênios, e a zona medular produz catecolaminas.",
+    "type": "conteudista"
+  },
+  {
+    "question": "A aldosterona é secretada em resposta a:",
+    "options": [
+      "ACTH da hipófise",
+      "CRH do hipotálamo",
+      "Angiotensina II",
+      "Hormônio do crescimento",
+      "Insulina"
+    ],
+    "correctIndex": 2,
+    "explanation": "A secreção de aldosterona é estimulada pela angiotensina II como parte do sistema renina-angiotensina-aldosterona. O ACTH estimula principalmente o cortisol, não a aldosterona.",
+    "type": "conteudista"
+  },
+  {
+    "question": "O mecanismo de ação dos glicocorticoides envolve:",
+    "options": [
+      "Bloqueio direto das prostaglandinas",
+      "Ativação de receptores de membrana",
+      "Inibição direta da ciclo-oxigenase",
+      "Ação sobre receptores intracelulares e aumento da síntese de lipocortina",
+      "Bloqueio dos canais de sódio"
+    ],
+    "correctIndex": 3,
+    "explanation": "Os glicocorticoides atuam sobre receptores intracelulares, aumentando a síntese de lipocortina que inibe a fosfolipase A2. Eles não bloqueiam diretamente prostaglandinas ou COX como os AINEs.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Entre os glicocorticoides sintéticos, aqueles com maior potência anti-inflamatória e que não retêm sal e água são:",
+    "options": [
+      "Hidrocortisona e cortisol",
+      "Prednisona e prednisolona",
+      "Metilprednisolona apenas",
+      "Dexametasona apenas",
+      "Betametasona e dexametasona"
+    ],
+    "correctIndex": 4,
+    "explanation": "Betametasona e dexametasona são os glicocorticoides com maior potência anti-inflamatória e que não causam retenção de sal e água, diferentemente da hidrocortisona que promove retenção de sódio.",
+    "type": "conteudista"
+  },
+  {
+    "question": "A síndrome de Cushing pode ser causada por:",
+    "options": [
+      "Administração prolongada de glicocorticoides",
+      "Deficiência aguda de ACTH",
+      "Falência da suprarrenal",
+      "Hipotireoidismo",
+      "Deficiência de insulina"
+    ],
+    "correctIndex": 0,
+    "explanation": "A síndrome de Cushing resulta do excesso de corticoides, sendo a administração a longo prazo de glicocorticoides uma das principais causas. Deficiência de ACTH e falência da suprarrenal causam doença de Addison.",
+    "type": "conteudista"
+  },
+  {
+    "question": "O furoato de mometasona (NASONEX®) tem início de ação:",
+    "options": [
+      "Imediato após aplicação",
+      "1-2 horas após aplicação",
+      "4-6 horas após aplicação",
+      "7-12 horas após primeira aplicação",
+      "24-48 horas após aplicação"
+    ],
+    "correctIndex": 3,
+    "explanation": "O furoato de mometasona tem início de ação de 7 a 12 horas após a primeira aplicação, com benefício máximo obtido após 1 a 2 semanas de uso. As outras opções são tempos incorretos.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual dos seguintes efeitos adversos é mais comum com o uso de AINEs?",
+    "options": [
+      "Efeitos gastrointestinais",
+      "Alopecia",
+      "Catarata",
+      "Diabetes mellitus",
+      "Osteoporose"
+    ],
+    "correctIndex": 0,
+    "explanation": "Os efeitos gastrointestinais (dispepsia, úlcera péptica, hemorragia) são os mais comuns com AINEs. Diabetes, osteoporose e catarata são mais associados aos corticoides, e alopecia não é um efeito comum dessas classes.",
+    "type": "conteudista"
+  },
+  {
+    "question": "O acetaminofeno difere dos outros AINEs por:",
+    "options": [
+      "Não afetar a função plaquetária",
+      "Ter maior ação anti-inflamatória",
+      "Causar mais efeitos gastrointestinais",
+      "Ser metabolizado pelos rins",
+      "Ter ação exclusiva sobre COX-2"
+    ],
+    "correctIndex": 0,
+    "explanation": "O acetaminofeno não afeta a função plaquetária, diferentemente dos outros AINEs. Ele tem menor ação anti-inflamatória, causa menos efeitos gastrointestinais e é metabolizado pelo fígado.",
+    "type": "conteudista"
+  },
+  {
+    "question": "A fenacetina é comercializada sob os nomes:",
+    "options": [
+      "Voltaren® e Cataflan®",
+      "Escon®, Cibalena® e Dorilax®",
+      "Profenid® e Artril®",
+      "Celebra® e Foxis®",
+      "Ponstan® e Misodor®"
+    ],
+    "correctIndex": 1,
+    "explanation": "A fenacetina é comercializada como Escon®, Cibalena® e Dorilax®. Voltaren® é diclofenaco, Profenid® é cetoprofeno, Celebra® é celecoxib, e Ponstan® é ácido mefenâmico.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Os principais efeitos adversos dos corticoides incluem:",
+    "options": [
+      "Hipocalemia e hipertensão",
+      "Aumento da função imune",
+      "Hipoglicemia persistente",
+      "Diminuição da pressão arterial",
+      "Aumento da densidade óssea"
+    ],
+    "correctIndex": 0,
+    "explanation": "Os corticoides causam hipocalemia (perda de potássio) e retenção de sal com aumento da pressão arterial. Eles causam imunossupressão, diabetes esteroidal (hiperglicemia) e osteoporose.",
+    "type": "conteudista"
+  },
+  {
+    "question": "O trometamol cetorolaco (Toragesic®) é principalmente indicado para:",
+    "options": [
+      "Tratamento de infecções",
+      "Dor moderada a grave em tratamentos curtos",
+      "Hipertensão arterial",
+      "Diabetes mellitus",
+      "Distúrbios psiquiátricos"
+    ],
+    "correctIndex": 1,
+    "explanation": "O trometamol cetorolaco é usado para tratamentos curtos de dor moderada a grave, especialmente por via oral, e via parenteral em pós-operatórios para dor aguda grave. Não é usado para as outras condições listadas.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Considerando o mecanismo de ação, por que a inibição seletiva da COX-2 foi inicialmente considerada vantajosa?",
+    "options": [
+      "Porque a COX-2 não participa de processos inflamatórios",
+      "Para reduzir efeitos deletérios gastrointestinais mantendo a homeostase da COX-1",
+      "Porque a COX-1 é mais tóxica que a COX-2",
+      "Para aumentar a produção de prostaglandinas",
+      "Porque elimina completamente os riscos cardiovasculares"
+    ],
+    "correctIndex": 1,
+    "explanation": "A inibição seletiva da COX-2 surgiu para reduzir efeitos gastrointestinais deletérios da inibição não seletiva, preservando as funções homeostáticas da COX-1. Porém, posteriormente descobriu-se que isso aumenta riscos cardiovasculares.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Um paciente com histórico de úlcera gástrica precisa de tratamento anti-inflamatório. Qual seria a escolha mais adequada baseada no perfil de segurança?",
+    "options": [
+      "Aspirina em altas doses",
+      "Diclofenaco convencional",
+      "Celecoxib (inibidor seletivo COX-2)",
+      "Ibuprofeno em doses máximas",
+      "Indometacina"
+    ],
+    "correctIndex": 2,
+    "explanation": "Para pacientes com histórico de úlcera gástrica, inibidores seletivos da COX-2 como celecoxib são preferíveis por causarem menos efeitos gastrointestinais. Os AINEs não seletivos aumentam o risco de complicações gástricas.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Por que o desenvolvimento de inibidores seletivos da COX-2 gerou preocupações cardiovasculares?",
+    "options": [
+      "Porque aumentam a pressão arterial diretamente",
+      "Devido ao desequilíbrio entre prostaciclina e tromboxano",
+      "Porque bloqueiam completamente a coagulação",
+      "Por causarem arritmias cardíacas",
+      "Devido ao aumento do colesterol"
+    ],
+    "correctIndex": 1,
+    "explanation": "A inibição exclusiva da COX-2 causa desequilíbrio entre prostaciclina (antiagregante) e tromboxano (pró-agregante), aumentando riscos de eventos trombóticos como infarto e AVC. Não é um efeito direto sobre pressão ou colesterol.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Analisando a farmacocinética dos salicilatos, por que podem ser encontrados no leite materno?",
+    "options": [
+      "Devido à sua ampla distribuição nos tecidos",
+      "Porque são metabolizados exclusivamente na mama",
+      "Por serem eliminados apenas pelo leite",
+      "Devido à sua baixa lipossolubilidade",
+      "Porque não sofrem metabolização hepática"
+    ],
+    "correctIndex": 0,
+    "explanation": "Os salicilatos têm distribuição ampla nos tecidos, incluindo leite materno e placenta, devido às suas características farmacocinéticas. Eles são metabolizados no fígado e eliminados pelos rins, mas sua distribuição é extensa.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Se um paciente desenvolver Síndrome de Cushing por uso prolongado de corticoides, qual seria a abordagem terapêutica mais lógica?",
+    "options": [
+      "Aumentar a dose do corticoide",
+      "Suspensão abrupta do medicamento",
+      "Redução gradual da dose do corticoide",
+      "Adicionar outro corticoide",
+      "Manter a mesma dose indefinidamente"
+    ],
+    "correctIndex": 2,
+    "explanation": "Na Síndrome de Cushing iatrogênica, a redução gradual é essencial para evitar insuficiência adrenal aguda. A suspensão abrupta pode ser perigosa, e aumentar a dose pioraria o quadro. A retirada deve ser controlada.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Por que os fenamatos, apesar de serem inibidores fracos das prostaglandinas, ainda têm eficácia analgésica?",
+    "options": [
+      "Porque inibem completamente a COX-2",
+      "Devido ao seu mecanismo central analgésico noradrenérgico",
+      "Por terem ação apenas periférica",
+      "Porque estimulam a produção de endorfinas",
+      "Devido à sua ação anti-histamínica"
+    ],
+    "correctIndex": 1,
+    "explanation": "Os fenamatos compensam sua fraca inibição das prostaglandinas através de um mecanismo central analgésico noradrenérgico, proporcionando alívio da dor por via diferente da inibição da COX.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Considerando o mecanismo de ação dos glicocorticoides via lipocortina, por que eles têm início de ação lento?",
+    "options": [
+      "Porque são mal absorvidos",
+      "Devido à necessidade de síntese proteica (lipocortina) após ativação dos receptores intracelulares",
+      "Por serem rapidamente metabolizados",
+      "Porque têm baixa afinidade pelos receptores",
+      "Devido à sua distribuição limitada"
+    ],
+    "correctIndex": 1,
+    "explanation": "O início lento ocorre porque os glicocorticoides precisam ativar receptores intracelulares, promover transcrição gênica e síntese da lipocortina-1 antes de exercer efeito anti-inflamatório. É um processo dependente de síntese proteica.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Por que pacientes com doença cardiovascular prévia devem evitar inibidores seletivos da COX-2?",
+    "options": [
+      "Porque causam bradicardia severa",
+      "Devido ao risco aumentado de infarto, AVC e insuficiência cardíaca",
+      "Por interferirem com marcapassos",
+      "Porque reduzem muito a pressão arterial",
+      "Devido à interação com anticoagulantes"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pacientes com doença cardiovascular têm maior risco de eventos adversos graves como infarto do miocárdio, AVC e insuficiência cardíaca com inibidores seletivos da COX-2, devido ao desequilíbrio entre prostaciclina e tromboxano.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Analisando a função da aldosterona, por que medicamentos como valsartana (BRA) reduzem a pressão arterial?",
+    "options": [
+      "Por bloquearem diretamente os receptores de aldosterona, reduzindo reabsorção de sódio e água",
+      "Por estimularem a produção de aldosterona",
+      "Por aumentarem a excreção de potássio",
+      "Por ativarem o sistema renina-angiotensina",
+      "Por bloquearem a síntese de cortisol"
+    ],
+    "correctIndex": 0,
+    "explanation": "Os BRAs bloqueiam receptores de angiotensina II, reduzindo a produção de aldosterona e consequentemente a reabsorção de sódio e água, diminuindo a volemia e pressão arterial. É o oposto do efeito da aldosterona.",
+    "type": "raciocínio"
+  }
+]

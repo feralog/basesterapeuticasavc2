@@ -1,0 +1,392 @@
+[
+  {
+    "question": "Qual é a incidência atual de agranulocitose induzida por clozapina segundo estudos de 1998?",
+    "options": [
+      "1 a 2%",
+      "0,38%",
+      "0,012%",
+      "3,5%",
+      "1,5%"
+    ],
+    "correctIndex": 1,
+    "explanation": "Segundo o estudo de 1998 com 99.502 pacientes, a incidência de agranulocitose induzida por clozapina foi de 0,38%. As outras opções estão incorretas: 1 a 2% era a estimativa inicial, 0,012% se refere às mortes secundárias, e 3,5% e 1,5% não correspondem aos dados apresentados.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual dos seguintes NÃO é uma indicação para morfina?",
+    "options": [
+      "Analgésico para dor intensa em infarto",
+      "Controle da dor pós-operatória",
+      "Tratamento de hipertensão arterial sistêmica",
+      "Alívio da dispneia na insuficiência ventricular esquerda aguda",
+      "Alívio da dor do parto via intratecal"
+    ],
+    "correctIndex": 2,
+    "explanation": "A morfina não é indicada para tratamento de hipertensão arterial sistêmica. As indicações corretas incluem analgesia para dor intensa, controle pós-operatório, dispneia na insuficiência ventricular esquerda e alívio da dor do parto via intratecal.",
+    "type": "conteudista"
+  },
+  {
+    "question": "O que significa a sigla HM no contexto anestésico?",
+    "options": [
+      "Hipotermia Moderada",
+      "Hipertensão Maligna",
+      "Hipertermia Maligna",
+      "Hepatotoxicidade Medicamentosa",
+      "Hipóxia Muscular"
+    ],
+    "correctIndex": 2,
+    "explanation": "HM significa Hipertermia Maligna, uma reação farmacogenética rara e grave durante anestesia volátil ou suxametônio. As outras opções não correspondem à sigla apresentada no contexto anestésico.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Quem realizou a primeira demonstração científica da anestesia em 1846?",
+    "options": [
+      "James Simpson",
+      "Oliver Wendell",
+      "Hipócrates",
+      "William Morton",
+      "Galeno"
+    ],
+    "correctIndex": 3,
+    "explanation": "William Morton realizou a primeira demonstração científica da anestesia em 1846 utilizando éter dietílico. James Simpson introduziu o clorofórmio posteriormente, Oliver Wendell criou o termo anestesia, e Hipócrates e Galeno usavam métodos primitivos como a 'esponja soporífera'.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Quantos objetivos ideais um anestésico deveria fornecer segundo o texto?",
+    "options": [
+      "3 objetivos",
+      "4 objetivos",
+      "5 objetivos",
+      "6 objetivos",
+      "7 objetivos"
+    ],
+    "correctIndex": 2,
+    "explanation": "Um anestésico ideal deveria fornecer 5 objetivos: sedação, perda de consciência e amnésia, relaxamento da musculatura esquelética, supressão de reflexos indesejáveis e analgesia. Como não existe um único fármaco capaz de realizar todos esses efeitos, combina-se várias classes.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é o COEP (Concentração Alveolar Mínima Efetiva) do halotano?",
+    "options": [
+      "1,4",
+      "1,9",
+      "2,7",
+      "0,59",
+      "0,47"
+    ],
+    "correctIndex": 2,
+    "explanation": "O COEP do halotano é 2,7. Os outros valores correspondem a diferentes anestésicos: isoflurano (1,4), enflurano (1,9), sevoflurano (0,59) e óxido nitroso (0,47).",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual anestésico inalatório é preferido em ambulatórios?",
+    "options": [
+      "Halotano",
+      "Isoflurano",
+      "Enflurano",
+      "Sevoflurano",
+      "Óxido nitroso"
+    ],
+    "correctIndex": 3,
+    "explanation": "O sevoflurano é preferido em ambulatórios devido ao seu perfil de recuperação e baixo poder irritante, além de ter indução rápida. Os outros anestésicos têm limitações específicas que os tornam menos adequados para uso ambulatorial.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é a duração típica do efeito do tiopental?",
+    "options": [
+      "2-3 minutos",
+      "5-10 minutos",
+      "15-20 minutos",
+      "30-40 minutos",
+      "1-2 horas"
+    ],
+    "correctIndex": 1,
+    "explanation": "O tiopental tem duração de 5-10 minutos. Esta duração relativamente curta é uma característica importante deste barbitúrico de alta lipossolubilidade usado na indução anestésica.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual receptor é antagonizado pela quetamina?",
+    "options": [
+      "GABA-A",
+      "NMDA",
+      "Nicotínico",
+      "Opioide",
+      "Adrenérgico"
+    ],
+    "correctIndex": 1,
+    "explanation": "A quetamina é um antagonista não-competitivo do receptor NMDA. Ela não compete com o glutamato no sítio de ligação, diferindo de outros anestésicos que atuam principalmente em receptores GABA-A.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é o tempo típico para início da ação dos anestésicos intravenosos?",
+    "options": [
+      "~5 segundos",
+      "~20 segundos",
+      "~60 segundos",
+      "~2 minutos",
+      "~5 minutos"
+    ],
+    "correctIndex": 1,
+    "explanation": "Os anestésicos intravenosos têm início de ação em aproximadamente 20 segundos. Isso ocorre porque são lipofílicos e perfundem rapidamente o SNC, sendo mais rápidos que outras vias de administração.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual sistema de neurotransmissores os opioides afetam causando euforia?",
+    "options": [
+      "Sistema serotoninérgico",
+      "Sistema colinérgico",
+      "Sistema dopaminérgico de recompensa",
+      "Sistema GABAérgico",
+      "Sistema noradrenérgico"
+    ],
+    "correctIndex": 2,
+    "explanation": "Os opioides atuam no sistema de recompensa dopaminérgico, liberando dopamina no núcleo accumbens e inibindo a secreção de GABA pelos neurônios da área tegmentar ventral. Os outros sistemas não são os responsáveis pelo efeito de recompensa dos opioides.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual anestésico inalatório tem o menor COEP?",
+    "options": [
+      "Halotano",
+      "Isoflurano",
+      "Enflurano",
+      "Sevoflurano",
+      "Óxido nitroso"
+    ],
+    "correctIndex": 4,
+    "explanation": "O óxido nitroso tem o menor COEP (0,47), seguido pelo sevoflurano (0,59). Um COEP menor indica maior potência anestésica. Os outros anestésicos têm COEPs maiores: isoflurano (1,4), enflurano (1,9) e halotano (2,7).",
+    "type": "conteudista"
+  },
+  {
+    "question": "Quantos estágios de profundidade da anestesia são descritos classicamente?",
+    "options": [
+      "2 estágios",
+      "3 estágios",
+      "4 estágios",
+      "5 estágios",
+      "6 estágios"
+    ],
+    "correctIndex": 2,
+    "explanation": "São descritos 4 estágios clássicos: analgesia, excitação, anestesia cirúrgica e paralisia bulbar. O quarto estágio (paralisia bulbar) deve ser evitado por causar grave depressão respiratória e vasomotora.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual conservante é usado no halotano devido à sua instabilidade?",
+    "options": [
+      "Benzalcônio",
+      "Timol",
+      "Parabenos",
+      "EDTA",
+      "Álcool benzílico"
+    ],
+    "correctIndex": 1,
+    "explanation": "O timol é usado como conservante no halotano devido à instabilidade deste anestésico. Os outros conservantes listados não são mencionados no contexto do halotano.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é a dose de codeína na associação com paracetamol mencionada?",
+    "options": [
+      "15 mg",
+      "30 mg",
+      "45 mg",
+      "60 mg",
+      "75 mg"
+    ],
+    "correctIndex": 1,
+    "explanation": "A associação mencionada contém paracetamol 500 mg + fosfato de codeína 30 mg para alívio de dores moderadas a intensas. As outras dosagens não correspondem à formulação apresentada.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual anestésico pode causar convulsões como efeito adverso?",
+    "options": [
+      "Halotano",
+      "Isoflurano",
+      "Enflurano",
+      "Sevoflurano",
+      "Óxido nitroso"
+    ],
+    "correctIndex": 2,
+    "explanation": "O enflurano apresenta risco de convulsões como desvantagem. Os outros anestésicos inalatórios têm diferentes perfis de efeitos adversos, mas não incluem convulsões como característica destacada.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual via de administração é usada para hidrocarbonetos halogenados voláteis?",
+    "options": [
+      "Intravenosa",
+      "Inalatória",
+      "Intramuscular",
+      "Subcutânea",
+      "Tópica"
+    ],
+    "correctIndex": 1,
+    "explanation": "Os hidrocarbonetos halogenados voláteis são administrados por via inalatória, exceto o óxido nitroso. A via intravenosa é usada para outros fármacos anestésicos, e as demais vias não são apropriadas para estes agentes voláteis.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual anestésico IV é descrito como tendo janela terapêutica estreita?",
+    "options": [
+      "Propofol apenas",
+      "Quetamina apenas",
+      "Tiopental e etomidato",
+      "Apenas etomidato",
+      "Todos os anestésicos IV"
+    ],
+    "correctIndex": 2,
+    "explanation": "Tanto o tiopental quanto o etomidato são descritos como tendo janela terapêutica estreita. O propofol e a quetamina não são especificamente mencionados com esta característica no texto.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é o efeito do propofol na pressão intracraniana?",
+    "options": [
+      "Aumenta a pressão intracraniana",
+      "Reduz a pressão intracraniana",
+      "Não afeta a pressão intracraniana",
+      "Causa flutuações na pressão intracraniana",
+      "O texto não menciona este efeito"
+    ],
+    "correctIndex": 1,
+    "explanation": "O propofol reduz a pressão intracraniana, o que é uma de suas características farmacológicas importantes. Este efeito pode ser benéfico em certas situações clínicas, especialmente em neuroanestesia.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual teoria explica a potência dos anestésicos inalatórios?",
+    "options": [
+      "Teoria Aquática",
+      "Teoria Proteica",
+      "Teoria Lipídica",
+      "Teoria Iônica",
+      "Teoria Receptor-específica"
+    ],
+    "correctIndex": 2,
+    "explanation": "A Teoria Lipídica explica que a potência dos anestésicos inalatórios está relacionada à sua lipossolubilidade. As outras teorias não são mencionadas como explicação para a potência anestésica no texto.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Um paciente de 70 anos com insuficiência hepática grave precisa de anestesia para cirurgia de emergência. Considerando os anestésicos IV disponíveis, qual seria a escolha mais apropriada?",
+    "options": [
+      "Tiopental, pois tem metabolização rápida",
+      "Etomidato, pois causa menor depressão cardiovascular",
+      "Propofol, pois é metabolizado rapidamente",
+      "Quetamina, pois não depende do fígado para metabolização",
+      "Qualquer um, pois todos são seguros em hepatopatas"
+    ],
+    "correctIndex": 1,
+    "explanation": "O etomidato seria mais apropriado pois causa menor depressão cardiovascular, importante em pacientes idosos e com comorbidades. O tiopental tem metabolização lenta, o propofol pode causar depressão cardiovascular significativa, e a quetamina pode aumentar PA e FC. A última opção está incorreta pois há diferenças importantes entre os anestésicos.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Um anestesiologista observa que um paciente apresenta rigidez muscular, hipertermia e taquicardia durante cirurgia com halotano. Qual é a conduta mais apropriada?",
+    "options": [
+      "Continuar a cirurgia e monitorar apenas os sinais vitais",
+      "Reduzir a dose do halotano pela metade",
+      "Suspender imediatamente o halotano e tratar hipertermia maligna",
+      "Administrar relaxante muscular para reverter a rigidez",
+      "Trocar para isoflurano que tem menor risco"
+    ],
+    "correctIndex": 2,
+    "explanation": "Os sintomas descritos (rigidez muscular, hipertermia, taquicardia) são característicos de hipertermia maligna, uma emergência que requer suspensão imediata do agente causador e tratamento específico. Continuar com o halotano ou apenas reduzi-lo seria perigoso, relaxantes musculares não resolvem o problema, e trocar para isoflurano manteria o risco.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Para um procedimento ambulatorial de curta duração em criança, qual combinação de características seria mais desejável no anestésico inalatório?",
+    "options": [
+      "Alta potência e recuperação lenta para maior controle",
+      "Baixo poder irritante e recuperação rápida",
+      "Alto coeficiente sangue/gás para indução controlada",
+      "Propriedades broncoconstritoras para reduzir secreções",
+      "Efeito residual prolongado para analgesia pós-operatória"
+    ],
+    "correctIndex": 1,
+    "explanation": "Para procedimentos ambulatoriais em crianças, é desejável baixo poder irritante (menos tosse/laringoespasmo) e recuperação rápida (alta rotatividade e menor tempo de observação). Alta potência com recuperação lenta atrasaria a alta, alto coeficiente sangue/gás retardaria a indução, broncoconstrição seria prejudicial, e efeito residual prolongado atrasaria a recuperação.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Um paciente em uso crônico de álcool precisa de anestesia. Com base nas informações sobre tolerância, qual ajuste seria necessário?",
+    "options": [
+      "Reduzir doses de todos os anestésicos pela metade",
+      "Usar apenas anestésicos inalatórios",
+      "Considerar tolerância hepática e possível necessidade de doses maiores",
+      "Evitar completamente anestésicos metabolizados pelo fígado",
+      "Usar apenas anestesia local"
+    ],
+    "correctIndex": 2,
+    "explanation": "O texto menciona que usuários de álcool desenvolvem tolerância hepática, o que pode exigir doses maiores de anestésicos. Reduzir doses seria inadequado, usar apenas inalatórios ou evitar metabolismo hepático limitaria as opções desnecessariamente, e anestesia local pode não ser suficiente para todos os procedimentos.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Analisando os COEPs dos anestésicos inalatórios, qual relação pode ser estabelecida entre COEP e necessidade de adjuvantes?",
+    "options": [
+      "Maior COEP sempre requer mais adjuvantes",
+      "Menor COEP permite redução de adjuvantes por maior potência",
+      "COEP não influencia a necessidade de adjuvantes",
+      "Apenas anestésicos com COEP > 2,0 precisam de adjuvantes",
+      "COEP determina apenas a velocidade de indução"
+    ],
+    "correctIndex": 1,
+    "explanation": "Menor COEP indica maior potência anestésica, permitindo que adjuvantes reduzam a dose necessária do anestésico principal. Anestésicos mais potentes (menor COEP) podem ter suas doses reduzidas mais efetivamente com adjuvantes. As outras opções não refletem corretamente a relação entre potência e uso de adjuvantes.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Considerando que não existe um anestésico ideal que atenda aos 5 objetivos, como deveria ser planejada uma anestesia balanceada?",
+    "options": [
+      "Usar sempre o anestésico mais potente disponível",
+      "Combinar diferentes classes farmacológicas para atingir todos os objetivos",
+      "Usar apenas anestésicos inalatórios em altas doses",
+      "Administrar todos os 5 tipos de fármacos simultaneamente",
+      "Escolher um anestésico e aumentar a dose até atingir todos os efeitos"
+    ],
+    "correctIndex": 1,
+    "explanation": "Como nenhum anestésico único atende aos 5 objetivos (sedação, inconsciência/amnésia, relaxamento muscular, supressão de reflexos, analgesia), deve-se combinar diferentes classes farmacológicas. Usar apenas um tipo em alta dose aumentaria efeitos adversos, e administrar todos os tipos seria excessivo e perigoso.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Um paciente apresenta contraindicação absoluta para halotano devido a hepatotoxicidade prévia. Qual anestésico inalatório seria mais apropriado e por quê?",
+    "options": [
+      "Enflurano, pois tem menor metabolismo hepático",
+      "Isoflurano, pois oferece proteção contra isquemia e hipoxemia",
+      "Sevoflurano, pois tem recuperação mais rápida",
+      "Óxido nitroso, pois é o mais seguro para o fígado",
+      "Qualquer um, exceto halotano"
+    ],
+    "correctIndex": 1,
+    "explanation": "O isoflurano seria mais apropriado pois, além de não ter a hepatotoxicidade característica do halotano, oferece proteção contra isquemia e hipoxemia cerebral. O enflurano tem risco de convulsões, o sevoflurano seria adequado mas sem vantagem específica sobre isoflurano, e o óxido nitroso sozinho é insuficiente como anestésico.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Para um paciente com histórico de convulsões, qual anestésico inalatório deveria ser evitado e qual seria uma alternativa mais segura?",
+    "options": [
+      "Evitar isoflurano; usar halotano",
+      "Evitar enflurano; usar isoflurano ou sevoflurano",
+      "Evitar sevoflurano; usar enflurano",
+      "Evitar óxido nitroso; usar qualquer halogenado",
+      "Evitar halotano; usar óxido nitroso"
+    ],
+    "correctIndex": 1,
+    "explanation": "O enflurano deve ser evitado em pacientes com histórico de convulsões pois pode desencadeá-las. Isoflurano ou sevoflurano seriam alternativas mais seguras por não terem esse risco específico. As outras combinações não consideram adequadamente o risco convulsivo.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Analisando as características dos anestésicos IV, qual seria mais apropriado para indução em paciente com instabilidade cardiovascular?",
+    "options": [
+      "Tiopental, por sua rapidez de ação",
+      "Propofol, por sua metabolização rápida",
+      "Etomidato, por causar menor depressão cardiovascular",
+      "Quetamina, por seus efeitos analgésicos",
+      "Qualquer um em dose reduzida"
+    ],
+    "correctIndex": 2,
+    "explanation": "O etomidato seria mais apropriado por causar menor depressão cardiovascular, crucial em pacientes instáveis. O tiopental tem janela terapêutica estreita, o propofol causa depressão miocárdica e vasodilatação, a quetamina aumenta PA e FC (potencialmente problemático), e doses reduzidas podem ser inadequadas para indução.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Considerando os mecanismos de ação dos anestésicos inalatórios (inibição NMDA e potencialização GABA-A), qual seria o efeito esperado na transmissão sináptica?",
+    "options": [
+      "Aumento da excitação neuronal",
+      "Redução da transmissão excitatória e aumento da inibitória",
+      "Apenas bloqueio da dor sem afetar consciência",
+      "Aumento da liberação de neurotransmissores",
+      "Efeito apenas em receptores periféricos"
+    ],
+    "correctIndex": 1,
+    "explanation": "A inibição de receptores NMDA (excitatórios) e potencialização de GABA-A (inibitórios) resulta em redução da transmissão excitatória e aumento da inibitória, levando à depressão do SNC característica da anestesia. As outras opções contradizem esses mecanismos de ação.",
+    "type": "raciocínio"
+  }
+]

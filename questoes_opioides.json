@@ -1,0 +1,394 @@
+[
+  {
+    "question": "Qual o mecanismo de ação de alguns fármacos antiepiléticos em relação aos canais de sódio?",
+    "options": [
+      "Bloqueiam completamente os canais de sódio",
+      "Ampliam a inativação dos canais de sódio voltagem dependentes",
+      "Aumentam a ativação dos canais de sódio",
+      "Não afetam os canais de sódio, apenas os de potássio",
+      "Aumentam a condutância dos canais de sódio"
+    ],
+    "correctIndex": 1,
+    "explanation": "Alguns fármacos antiepiléticos ampliam a inativação dos canais de sódio voltagem dependentes, o que reduz a possibilidade de disparos neuronais. A alternativa 'Bloqueiam completamente os canais de sódio' está incorreta porque esses fármacos não bloqueiam completamente os canais, apenas prolongam o estado de inativação. 'Aumentam a ativação dos canais de sódio' está incorreta porque isso aumentaria os disparos neuronais, piorando as crises. 'Não afetam os canais de sódio, apenas os de potássio' está incorreta porque o mecanismo primário é sobre os canais de sódio. 'Aumentam a condutância dos canais de sódio' está incorreta porque isso também aumentaria a excitabilidade neuronal.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Como é definida a dor segundo o material apresentado?",
+    "options": [
+      "Apenas uma sensação física associada à lesão tecidual",
+      "Uma resposta fisiológica a estímulos nocivos",
+      "Experiência sensitiva e emocional desagradável associada ou descrita em termos de lesão tecidual",
+      "Um mecanismo exclusivamente neurológico de proteção",
+      "Uma reação inflamatória causada por agentes externos"
+    ],
+    "correctIndex": 2,
+    "explanation": "A dor é definida como uma 'Experiência sensitiva e emocional desagradável associada ou descrita em termos de lesão tecidual', enfatizando tanto o componente sensorial quanto o emocional da experiência dolorosa. A alternativa 'Apenas uma sensação física associada à lesão tecidual' está incorreta por ignorar o componente emocional da dor. 'Uma resposta fisiológica a estímulos nocivos' reduz a dor a um processo apenas fisiológico. 'Um mecanismo exclusivamente neurológico de proteção' não considera os componentes emocionais e subjetivos da dor. 'Uma reação inflamatória causada por agentes externos' confunde dor com inflamação, que são processos relacionados mas distintos.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Quais das seguintes opções NÃO está listada como causa de dor no material?",
+    "options": [
+      "Lesão tecidual",
+      "Agentes infecciosos",
+      "Lesão térmica",
+      "Desequilíbrios psicológicos",
+      "Substâncias químicas"
+    ],
+    "correctIndex": 3,
+    "explanation": "Entre as causas de dor estão: lesão tecidual, agentes infecciosos, reações imunológicas, corpos estranhos, radiação, substâncias químicas, traumas e lesão térmica. 'Desequilíbrios psicológicos' não está listado como causa direta de dor, embora fatores psicológicos possam influenciar a percepção da dor. As outras alternativas (lesão tecidual, agentes infecciosos, lesão térmica e substâncias químicas) são todas causas físicas ou biológicas reconhecidas de estímulos nociceptivos e processos dolorosos.",
+    "type": "conteudista"
+  },
+  {
+    "question": "O que Besson e Pearl descreveram em relação aos receptores cutâneos da dor?",
+    "options": [
+      "Receptores monomodais que respondem apenas à pressão",
+      "Receptores polimodais que respondem à forte pressão, forte calor e substâncias químicas",
+      "Receptores com fibras aferentes mielinizadas",
+      "Receptores que não respondem a estímulos químicos",
+      "Receptores localizados apenas em tecidos profundos"
+    ],
+    "correctIndex": 1,
+    "explanation": "Besson e Pearl descreveram receptores polimodais em pequenas zonas da pele que apresentam fibras aferentes amielínicas e respondem a múltiplos estímulos: forte pressão, forte calor e substâncias químicas. A alternativa 'Receptores monomodais que respondem apenas à pressão' está incorreta porque os receptores descritos são polimodais, não monomodais. 'Receptores com fibras aferentes mielinizadas' está incorreta porque as fibras descritas são amielínicas. 'Receptores que não respondem a estímulos químicos' contradiz diretamente a descrição, pois estes receptores respondem a substâncias químicas. 'Receptores localizados apenas em tecidos profundos' está incorreta porque os receptores foram descritos na pele.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Quais são os mediadores endógenos da dor mencionados no material?",
+    "options": [
+      "Apenas enzimas lisossomais",
+      "Somente peptídeos como substância P",
+      "Cininas, histamina, prostaglandinas, 5-HT, peptídeos (angiotensina, substância P e BK), íons K⁺ e H⁺",
+      "Exclusivamente neurotransmissores como GABA e glutamato",
+      "Apenas mediadores exógenos de origem bacteriana"
+    ],
+    "correctIndex": 2,
+    "explanation": "Os mediadores endógenos da dor incluem cininas (histamina, prostaglandinas, 5-HT), peptídeos (angiotensina, substância P e BK), além da produção de íons K⁺ e H⁺ durante a acidose tecidual. A alternativa 'Apenas enzimas lisossomais' está incorreta porque enzimas lisossomais não são os principais mediadores endógenos da dor. 'Somente peptídeos como substância P' é incompleta, pois ignora outros mediadores importantes. 'Exclusivamente neurotransmissores como GABA e glutamato' está incorreta porque estes são neurotransmissores centrais, não mediadores endógenos periféricos da dor. 'Apenas mediadores exógenos de origem bacteriana' está incorreta porque a questão se refere a mediadores endógenos, não exógenos.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Quais são as características da dor rápida (epicrítica ou primária)?",
+    "options": [
+      "Mal localizada e transmitida por fibras C",
+      "Bem localizada, transmitida por fibras Aδ mielinizadas",
+      "Sensação difusa que persiste por longos períodos",
+      "Associada principalmente a estímulos viscerais profundos",
+      "Começa gradualmente e é de difícil qualificação"
+    ],
+    "correctIndex": 1,
+    "explanation": "A dor rápida (epicrítica ou primária) é bem localizada, qualificada e quantificada, relacionada com estímulos específicos (como alfinetada ou beliscão), começa e termina abruptamente, e é transmitida por fibras do tipo Aδ (mielinizadas). A alternativa 'Mal localizada e transmitida por fibras C' está incorreta porque descreve características da dor lenta. 'Sensação difusa que persiste por longos períodos' também descreve a dor lenta, não a rápida. 'Associada principalmente a estímulos viscerais profundos' está incorreta porque a dor rápida está mais associada a estímulos superficiais. 'Começa gradualmente e é de difícil qualificação' contradiz as características da dor rápida, que começa e termina abruptamente e é bem qualificada.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual característica está corretamente associada à dor lenta (protopática ou secundária)?",
+    "options": [
+      "É bem localizada e facilmente quantificada",
+      "É transmitida por fibras Aδ mielinizadas",
+      "Comumente associada a estímulos superficiais como alfinetadas",
+      "Mal localizada, transmitida por fibras do tipo C (amielínicas)",
+      "Sensações que começam e terminam abruptamente"
+    ],
+    "correctIndex": 3,
+    "explanation": "A dor lenta (protopática ou secundária) é caracterizada como mal localizada, qualificada e quantificada, relacionada a estímulos químicos ou mecânicos, associada à sensibilidade visceral e estímulos profundos, e é transmitida por fibras do tipo C (amielínicas). A alternativa 'É bem localizada e facilmente quantificada' está incorreta porque descreve a dor rápida. 'É transmitida por fibras Aδ mielinizadas' também descreve incorretamente a dor rápida, não a lenta. 'Comumente associada a estímulos superficiais como alfinetadas' é característica da dor rápida. 'Sensações que começam e terminam abruptamente' descreve a dor rápida, enquanto a dor lenta tem início e término mais graduais.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Sobre o corno dorsal da medula espinhal (CDME), qual afirmação está correta?",
+    "options": [
+      "A lâmina II é formada exclusivamente por neurônios excitatórios",
+      "A maioria dos neurônios da lâmina I responde exclusivamente a estímulos não nocivos",
+      "A lâmina II é formada quase que exclusivamente por interneurônios excitatórios e inibitórios",
+      "O CDME não apresenta organização em lâminas distintas",
+      "Nenhum neurônio da lâmina II responde a aferências nociceptivas"
+    ],
+    "correctIndex": 2,
+    "explanation": "O corno dorsal da medula espinhal (CDME) é subdividido em camadas (lâminas) distintas. A lâmina II é formada quase que exclusivamente por interneurônios excitatórios e inibitórios, alguns dos quais respondem somente a aferências nociceptivas. A alternativa 'A lâmina II é formada exclusivamente por neurônios excitatórios' está incorreta porque a lâmina II contém tanto interneurônios excitatórios quanto inibitórios. 'A maioria dos neurônios da lâmina I responde exclusivamente a estímulos não nocivos' está incorreta porque esses neurônios respondem principalmente a estímulos nocivos. 'O CDME não apresenta organização em lâminas distintas' contradiz a estrutura anatômica do CDME. 'Nenhum neurônio da lâmina II responde a aferências nociceptivas' é falso, pois alguns neurônios desta lâmina respondem especificamente a aferências nociceptivas.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual das seguintes opções NÃO é classificada como analgésico não opioide no material?",
+    "options": [
+      "Dipirona (Novalgina)",
+      "Paracetamol (Tylenol)",
+      "Ibuprofeno",
+      "Morfina",
+      "Voltaren"
+    ],
+    "correctIndex": 3,
+    "explanation": "Entre os analgésicos não opioides estão: Dipirona (Novalgina, Lisador), Paracetamol (Tylenol), Ibuprofeno, AINES (Voltaren, Feldene, etc.) e AIES (corticoides). A morfina é um analgésico opioide, não um não-opioide. As outras alternativas (Dipirona, Paracetamol, Ibuprofeno e Voltaren) são todas corretamente classificadas como analgésicos não opioides. A morfina é um derivado do ópio que atua como agonista de receptores opioides, colocando-a em uma classe farmacológica diferente dos demais medicamentos listados.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual o mecanismo de ação do Toragesic® segundo o material?",
+    "options": [
+      "Bloqueia os canais de sódio voltagem-dependentes",
+      "Liga-se a receptores opioides μ (mu)",
+      "Inibe a atividade da cicloxigenase e, consequentemente, a síntese de prostaglandinas",
+      "Potencializa a ação dos peptídeos opioides endógenos",
+      "Aumenta a recaptação de serotonina nas sinapses"
+    ],
+    "correctIndex": 2,
+    "explanation": "O Toragesic® atua através da inibição da atividade da cicloxigenase (enzima) e, consequentemente, da síntese de prostaglandinas, substâncias que aumentam a passagem de células para o local inflamado, causando dor e inchaço. A alternativa 'Bloqueia os canais de sódio voltagem-dependentes' está incorreta porque esse é o mecanismo de alguns antiepiléticos, não do Toragesic. 'Liga-se a receptores opioides μ (mu)' está incorreta porque esse é o mecanismo dos analgésicos opioides. 'Potencializa a ação dos peptídeos opioides endógenos' não descreve o mecanismo dos AINEs. 'Aumenta a recaptação de serotonina nas sinapses' está incorreta porque esse é o mecanismo de alguns antidepressivos, não do Toragesic.",
+    "type": "conteudista"
+  },
+  {
+    "question": "De acordo com o material, qual é a principal fonte do ópio, do qual se extrai a morfina?",
+    "options": [
+      "Folhas da cannabis",
+      "Papoula",
+      "Planta de coca",
+      "Khat",
+      "Raiz de valeriana"
+    ],
+    "correctIndex": 1,
+    "explanation": "A papoula é a principal fonte do ópio, do qual se extrai a morfina, que é um alcaloide puro. As outras alternativas estão incorretas: a cannabis não é fonte de ópio ou morfina, mas de canabinoides; a planta de coca é fonte de cocaína, não de ópio; o khat contém catinona, não opioides; e a raiz de valeriana contém valepotriatos com propriedades sedativas, mas não opioides. A papoula (Papaver somniferum) produz uma seiva leitosa que, ao secar, forma o ópio bruto, do qual são extraídos vários alcaloides, sendo a morfina o principal deles.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Como são classificados os analgésicos opioides quanto à origem?",
+    "options": [
+      "Apenas em naturais e artificiais",
+      "Em vegetais e sintéticos apenas",
+      "Em naturais, semissintéticos e substitutos sintéticos",
+      "Apenas em sintéticos e derivados",
+      "Em legais e ilegais"
+    ],
+    "correctIndex": 2,
+    "explanation": "Os analgésicos opioides são classificados quanto à origem em naturais (extraídos diretamente da papoula), semissintéticos (derivados modificados de opioides naturais) e substitutos sintéticos (criados em laboratório com estrutura que mimetiza os opioides naturais). A alternativa 'Apenas em naturais e artificiais' é simplista e imprecisa. 'Em vegetais e sintéticos apenas' ignora a categoria dos semissintéticos. 'Em legais e ilegais' é uma classificação legal/jurídica, não farmacológica. 'Apenas em sintéticos e derivados' está incompleta ao omitir os opioides naturais.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual a principal função dos agentes opioides antagonistas?",
+    "options": [
+      "Potencializar o efeito analgésico dos opioides",
+      "Tratar dores crônicas",
+      "Reverter intoxicações por analgésicos opioides",
+      "Prevenir a dependência de opioides",
+      "Substituir opioides em pacientes alérgicos"
+    ],
+    "correctIndex": 2,
+    "explanation": "Os agentes opioides antagonistas, como a naloxona, são utilizados principalmente para reverter intoxicações por analgésicos opioides, bloqueando os receptores opioides sem ativá-los. A alternativa 'Potencializar o efeito analgésico dos opioides' está incorreta porque antagonistas fazem o oposto, bloqueando o efeito dos opioides. 'Tratar dores crônicas' é incorreta porque antagonistas puros não têm efeito analgésico. 'Prevenir a dependência de opioides' não é a principal função dos antagonistas, embora possam ser usados em algumas abordagens de tratamento de dependência. 'Substituir opioides em pacientes alérgicos' está incorreta porque antagonistas não têm efeito analgésico, não sendo substitutos terapêuticos.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual a diferença entre os termos 'opiáceo' e 'opioide' segundo o material?",
+    "options": [
+      "São sinônimos sem diferença clínica",
+      "Opiáceos são sintéticos e opioides são naturais",
+      "Opiáceos são alcaloides naturais, enquanto opioides são todos os compostos que atuam em receptores opioides",
+      "Opioides são exclusivamente drogas ilícitas",
+      "Opiáceos são apenas antagonistas e opioides são agonistas"
+    ],
+    "correctIndex": 2,
+    "explanation": "Opiáceo refere-se aos alcaloides naturais extraídos da papoula (morfina, codeína, tebaina, papaverina), enquanto opioide é um termo mais amplo que engloba todos os compostos que atuam em receptores opioides, incluindo agonistas integrais, agonistas parciais e antagonistas. A alternativa 'São sinônimos sem diferença clínica' está incorreta porque há uma distinção técnica importante. 'Opiáceos são sintéticos e opioides são naturais' inverte a definição correta. 'Opioides são exclusivamente drogas ilícitas' é incorreta porque existem muitos opioides legais e prescritos. 'Opiáceos são apenas antagonistas e opioides são agonistas' está incorreta porque a diferença não está na ação farmacológica, mas na origem.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Em relação à absorção dos opioides, qual afirmação está correta?",
+    "options": [
+      "Todos os opioides apresentam biodisponibilidade igual quando administrados oralmente",
+      "A morfina não sofre efeito de primeira passagem quando administrada oralmente",
+      "A via oral pode requerer doses maiores devido ao efeito de primeira passagem",
+      "Apenas a via intravenosa oferece biodisponibilidade aceitável",
+      "Não existe variação interindividual na primeira passagem hepática dos opioides"
+    ],
+    "correctIndex": 2,
+    "explanation": "Na via oral pode ocorrer o efeito de primeira passagem hepática, o que pode fazer com que a dose oral precise ser maior para atingir o mesmo efeito terapêutico de outras vias. A alternativa 'Todos os opioides apresentam biodisponibilidade igual quando administrados oralmente' está incorreta porque há variação considerável na biodisponibilidade oral entre diferentes opioides. 'A morfina não sofre efeito de primeira passagem' está incorreta, pois a morfina sofre extenso metabolismo de primeira passagem. 'Apenas a via intravenosa oferece biodisponibilidade aceitável' está incorreta porque muitos opioides têm boa biodisponibilidade por outras vias. 'Não existe variação interindividual na primeira passagem hepática' é falsa, pois existe significativa variação genética e fisiológica no metabolismo hepático entre indivíduos.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Como ocorre a distribuição dos opioides no organismo?",
+    "options": [
+      "Distribuição exclusiva no sistema nervoso central",
+      "Distribuição uniforme por todos os tecidos",
+      "Rápida migração para tecidos de rica perfusão como cérebro e pulmões",
+      "Concentração apenas em receptores específicos",
+      "Distribuição exclusiva no trato gastrointestinal"
+    ],
+    "correctIndex": 2,
+    "explanation": "Os opioides são distribuídos pelas proteínas plasmáticas e apresentam rápida migração para tecidos de rica perfusão sanguínea (pulmões, cérebro, fígado, rins, baço), enquanto o músculo esquelético e tecido adiposo podem armazenar o fármaco para liberação sustentada. A alternativa 'Distribuição exclusiva no sistema nervoso central' está incorreta porque os opioides se distribuem por vários tecidos. 'Distribuição uniforme por todos os tecidos' é falsa, pois a distribuição é heterogênea, com preferência por tecidos bem perfundidos. 'Concentração apenas em receptores específicos' está incorreta porque a distribuição depende da perfusão tecidual, não apenas da presença de receptores. 'Distribuição exclusiva no trato gastrointestinal' é incorreta, pois os opioides se distribuem amplamente pelo organismo.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é o principal processo de biotransformação da morfina?",
+    "options": [
+      "Acetilação no fígado",
+      "Desaminação oxidativa",
+      "Conjugação ao ácido glicurônico",
+      "Hidrólise por colinesterases",
+      "Demetilação pelo citocromo P450"
+    ],
+    "correctIndex": 2,
+    "explanation": "A morfina passa por conjugação ao ácido glicurônico, principalmente nas posições 3 (formando um metabólito neuroexcitatório) e 6 (gerando um metabólito com maior potência analgésica). Esta conjugação produz metabólitos mais polares que são mais facilmente excretados. A alternativa 'Acetilação no fígado' está incorreta porque a morfina não sofre acetilação significativa. 'Desaminação oxidativa' está incorreta porque a morfina não possui grupo amino para ser desaminado. 'Hidrólise por colinesterases' está incorreta, pois esse é o mecanismo de biotransformação de ésteres como a heroína, não da morfina diretamente. 'Demetilação pelo citocromo P450' não é a principal via de biotransformação da morfina, embora o P450 possa estar envolvido em vias metabólicas menores.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual o mecanismo de ação dos agonistas do receptor μ na medula espinhal?",
+    "options": [
+      "Aumento do influxo de Ca²⁺ e aumento da liberação de neurotransmissor",
+      "Diminuição da condutância de K⁺ e despolarização neuronal",
+      "Bloqueio dos canais de sódio e potencialização GABAérgica",
+      "Diminuição do influxo de Ca²⁺ pré-sináptico e aumento da condutância de K⁺ pós-sináptico",
+      "Ativação de canais de cloro e bloqueio de receptores NMDA"
+    ],
+    "correctIndex": 3,
+    "explanation": "Os agonistas do receptor μ têm mecanismo de ação duplo na medula espinhal: pré-sinapticamente, diminuem o influxo de Ca²⁺ levando à diminuição da liberação de neurotransmissores; e pós-sinapticamente, aumentam a condutância de K⁺ causando hiperpolarização. Ambos os efeitos diminuem a transmissão do estímulo doloroso. A alternativa 'Aumento do influxo de Ca²⁺ e aumento da liberação de neurotransmissor' está incorreta porque os agonistas μ diminuem (não aumentam) o influxo de Ca²⁺ e a liberação de neurotransmissores. 'Diminuição da condutância de K⁺ e despolarização neuronal' está incorreta porque ocorre o aumento (não diminuição) da condutância de K⁺, resultando em hiperpolarização (não despolarização). 'Bloqueio dos canais de sódio e potencialização GABAérgica' não descreve o mecanismo primário dos opioides. 'Ativação de canais de cloro e bloqueio de receptores NMDA' também não é o mecanismo principal dos agonistas μ.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Quais são as características farmacológicas da codeína conforme apresentado no material?",
+    "options": [
+      "Dose máxima de 200 mg/dia, vida média de 12h",
+      "Dose máxima de 400 mg/dia, vida média plasmática de 6h, analgesia por 4-6h",
+      "Potência equivalente à morfina, sem excreção renal",
+      "Uso exclusivo pela via intravenosa",
+      "Não apresenta efeito sinérgico com outros analgésicos"
+    ],
+    "correctIndex": 1,
+    "explanation": "A codeína tem dose máxima de 400 mg/dia, vida média plasmática de 6 horas e duração de analgesia de 4-6 horas. É excretada por via renal e apresenta efeito sinérgico com paracetamol e dipirona. A alternativa 'Dose máxima de 200 mg/dia, vida média de 12h' está incorreta quanto aos valores. 'Potência equivalente à morfina, sem excreção renal' está incorreta porque a codeína é menos potente que a morfina e é excretada via renal. 'Uso exclusivo pela via intravenosa' está incorreta porque a codeína pode ser administrada por diversas vias, incluindo oral. 'Não apresenta efeito sinérgico com outros analgésicos' contradiz a característica sinérgica da codeína com outros analgésicos como paracetamol e dipirona.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Quais dos seguintes efeitos adversos dos opioides são mencionados no material?",
+    "options": [
+      "Hipertensão e taquicardia",
+      "Diarreia e poliúria",
+      "Náuseas, vômitos e obstipação",
+      "Hipertermia e convulsões",
+      "Hiperventilação e insônia"
+    ],
+    "correctIndex": 2,
+    "explanation": "Entre os efeitos adversos dos opioides estão náuseas, vômitos e obstipação, além de outros como broncoespasmo, sudorese, hipotensão, alucinações, disforia, prurido, sonolência, bradipneia e parada respiratória. A alternativa 'Hipertensão e taquicardia' está incorreta porque os opioides tendem a causar hipotensão e bradicardia, não hipertensão e taquicardia. 'Diarreia e poliúria' está incorreta porque os opioides causam obstipação (constipação) e podem causar retenção urinária, efeitos opostos aos listados. 'Hipertermia e convulsões' está incorreta porque os opioides normalmente não causam hipertermia (podem causar hipotermia) e convulsões são raras (mais comuns em superdosagem). 'Hiperventilação e insônia' está incorreta porque os opioides causam depressão respiratória (bradipneia) e sonolência, não hiperventilação e insônia.",
+    "type": "conteudista"
+  },
+  
+  // QUESTÕES DE RACIOCÍNIO (10)
+  {
+    "question": "Um paciente com epilepsia não controlada está iniciando tratamento com um fármaco que amplifica a inativação dos canais de sódio voltagem-dependentes. Qual seria o efeito esperado deste mecanismo sobre a atividade neural epileptiforme?",
+    "options": [
+      "Aumento da excitabilidade neuronal e piora das crises",
+      "Nenhum efeito, pois canais de sódio não participam da epileptogênese",
+      "Diminuição da frequência dos disparos neuronais e redução de crises",
+      "Efeito exclusivamente sobre a duração, sem afetar a frequência das crises",
+      "Apenas efeito sedativo sem impacto direto na atividade epileptiforme"
+    ],
+    "correctIndex": 2,
+    "explanation": "A ampliação da inativação dos canais de sódio voltagem-dependentes reduz a possibilidade de disparos neuronais repetitivos. Como as crises epilépticas são caracterizadas por disparos neuronais anormais e excessivos, essa inativação prolongada dos canais de sódio diminui a excitabilidade neuronal e, consequentemente, reduz a frequência das crises. A alternativa 'Aumento da excitabilidade neuronal e piora das crises' está incorreta porque o mecanismo causa redução, não aumento da excitabilidade. 'Nenhum efeito, pois canais de sódio não participam da epileptogênese' está incorreta porque os canais de sódio são fundamentais na gênese dos potenciais de ação e atividade epileptiforme. 'Efeito exclusivamente sobre a duração, sem afetar a frequência das crises' está incorreta porque o mecanismo afeta principalmente a frequência de disparos neuronais. 'Apenas efeito sedativo sem impacto direto na atividade epileptiforme' está incorreta porque o efeito é diretamente relacionado à atividade epileptiforme, não apenas sedativo.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Considerando que alguns fármacos antiepiléticos aumentam a transmissão sináptica de GABA, qual seria a consequência fisiológica deste mecanismo que explica sua eficácia no tratamento da epilepsia?",
+    "options": [
+      "Despolarização neuronal facilitando a inibição de circuitos adjacentes",
+      "Hiperpolarização neuronal dificultando o disparo de potenciais de ação",
+      "Aumento do influxo de cálcio e liberação de neurotransmissores excitatórios",
+      "Bloqueio direto dos canais de sódio sem efeito na polaridade da membrana",
+      "Inibição da recaptação de glutamato aumentando a excitabilidade"
+    ],
+    "correctIndex": 1,
+    "explanation": "O GABA é o principal neurotransmissor inibitório do SNC que atua aumentando a condutância ao cloro, causando hiperpolarização da membrana. Esta hiperpolarização torna mais difícil que o neurônio atinja o limiar de disparo de potencial de ação, reduzindo assim a excitabilidade neuronal e controlando a atividade epileptiforme. A alternativa 'Despolarização neuronal facilitando a inibição de circuitos adjacentes' está incorreta porque o GABA causa hiperpolarização, não despolarização. 'Aumento do influxo de cálcio e liberação de neurotransmissores excitatórios' está incorreta porque o GABA geralmente reduz o influxo de cálcio e a liberação de neurotransmissores excitatórios. 'Bloqueio direto dos canais de sódio sem efeito na polaridade da membrana' não descreve o mecanismo GABAérgico. 'Inibição da recaptação de glutamato aumentando a excitabilidade' está incorreta porque isso aumentaria a excitabilidade neuronal, tendo efeito pró-convulsivante, não antiepiléptico.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Um paciente apresenta dor inflamatória crônica e está sendo tratado com um AINE como o Toragesic. Se este tratamento não for suficiente e for necessário adicionar um opioide, qual será a diferença fundamental nos mecanismos de ação destes dois fármacos?",
+    "options": [
+      "Enquanto o AINE atua apenas centralmente, o opioide age apenas perifericamente",
+      "O AINE bloqueia receptores de dor específicos, enquanto o opioide bloqueia canais iônicos",
+      "O AINE inibe a síntese de prostaglandinas, enquanto o opioide atua em receptores acoplados à proteína G modulando a transmissão da dor",
+      "Ambos têm o mesmo mecanismo, apenas com potências diferentes",
+      "O AINE atua aumentando a hiperpolarização, enquanto o opioide diminui a síntese de mediadores"
+    ],
+    "correctIndex": 2,
+    "explanation": "O Toragesic (um AINE) atua inibindo a atividade da cicloxigenase e consequentemente a síntese de prostaglandinas, que são mediadores inflamatórios. Já os opioides atuam através de receptores específicos (μ, δ, κ) que são acoplados à proteína G no cérebro, medula espinhal e terminações nervosas, modulando a transmissão da dor através de mecanismos pré-sinápticos (diminuição do influxo de Ca²⁺ e da liberação de neurotransmissor) e pós-sinápticos (aumento da condutância de K⁺ e hiperpolarização). A alternativa 'Enquanto o AINE atua apenas centralmente, o opioide age apenas perifericamente' está incorreta porque os AINEs atuam principalmente perifericamente e os opioides têm ação tanto central quanto periférica. 'O AINE bloqueia receptores de dor específicos, enquanto o opioide bloqueia canais iônicos' inverte o mecanismo. 'Ambos têm o mesmo mecanismo, apenas com potências diferentes' está incorreta porque são mecanismos fundamentalmente diferentes. 'O AINE atua aumentando a hiperpolarização, enquanto o opioide diminui a síntese de mediadores' inverte os mecanismos.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Um paciente relata dor neuropática persistente que não responde adequadamente a analgésicos convencionais. Considerando o conteúdo do material, qual seria a explicação fisiológica mais provável para esta resistência terapêutica?",
+    "options": [
+      "Dores neuropáticas são transmitidas apenas por fibras Aδ, que não são afetadas por analgésicos",
+      "Analgésicos convencionais atuam principalmente na inibição da síntese de prostaglandinas, que não são os principais mediadores na dor neuropática",
+      "A dor neuropática não envolve receptores opioides, tornando qualquer tratamento ineficaz",
+      "A dor neuropática é apenas psicogênica e não responde a intervenções farmacológicas",
+      "Apenas AINEs de alta potência são eficazes para dor neuropática"
+    ],
+    "correctIndex": 1,
+    "explanation": "Analgésicos como os AINEs atuam principalmente inibindo a cicloxigenase e a síntese de prostaglandinas, que são mediadores importantes da dor inflamatória/nociceptiva. A dor neuropática, contudo, envolve mecanismos diferentes, como lesão ou disfunção do sistema nervoso, alterações na excitabilidade neuronal e processamento anormal dos sinais de dor. Por isso, analgésicos convencionais que atuam principalmente na inflamação têm eficácia limitada na dor neuropática. A alternativa 'Dores neuropáticas são transmitidas apenas por fibras Aδ' está incorreta porque a dor neuropática envolve tanto fibras Aδ quanto C, com predomínio das últimas em muitos casos. 'A dor neuropática não envolve receptores opioides' está incorreta porque esses receptores estão presentes, embora possam ser menos responsivos. 'A dor neuropática é apenas psicogênica' está incorreta porque tem base fisiopatológica bem definida. 'Apenas AINEs de alta potência são eficazes para dor neuropática' está incorreta porque os AINEs geralmente têm eficácia limitada na dor neuropática, independentemente da potência.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Um paciente com insuficiência renal crônica precisa usar morfina para controle de dor. Considerando a farmacocinética da morfina descrita no material, qual complicação específica pode ocorrer neste caso e por quê?",
+    "options": [
+      "Redução da eficácia analgésica devido à menor absorção intestinal",
+      "Acúmulo do metabólito morfina-6-glicurônido podendo causar excitação do SNC",
+      "Aumento da ligação às proteínas plasmáticas causando toxicidade hepática",
+      "Menor biotransformação resultando em ausência de efeito terapêutico",
+      "Aumento da distribuição para o tecido adiposo causando efeito prolongado"
+    ],
+    "correctIndex": 1,
+    "explanation": "A morfina é biotransformada em metabólitos como a morfina-6-glicurônido, que tem maior potência analgésica mas também pode excitar o SNC. Como a excreção dos opioides e seus metabólitos é principalmente renal, em pacientes com insuficiência renal crônica pode ocorrer acúmulo desses metabólitos, especialmente da morfina-6-glicurônido, levando à excitação do SNC. A alternativa 'Redução da eficácia analgésica devido à menor absorção intestinal' está incorreta porque a insuficiência renal não afeta significativamente a absorção intestinal. 'Aumento da ligação às proteínas plasmáticas causando toxicidade hepática' está incorreta porque a insuficiência renal não aumenta necessariamente a ligação proteica nem causa toxicidade hepática direta. 'Menor biotransformação resultando em ausência de efeito terapêutico' está incorreta porque o problema não é a biotransformação, mas a excreção. 'Aumento da distribuição para o tecido adiposo causando efeito prolongado' está incorreta porque o acúmulo ocorre principalmente no plasma devido à falha na excreção, não no tecido adiposo.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Um paciente deu entrada na emergência com sinais de intoxicação grave por opioide, incluindo depressão respiratória severa. Baseado no material, qual seria a melhor abordagem farmacológica imediata e seu mecanismo de ação?",
+    "options": [
+      "Administração de outro opioide mais potente para deslocar o opioide tóxico dos receptores",
+      "Administração de um AINE para reduzir a inflamação associada à intoxicação",
+      "Administração de naloxona, um antagonista opioide que se liga aos receptores sem ativá-los",
+      "Administração de um anestésico para reduzir o consumo de oxigênio",
+      "Administração de um anticonvulsivante para prevenir convulsões secundárias"
+    ],
+    "correctIndex": 2,
+    "explanation": "A naloxona é um agente opioide antagonista utilizado para reverter intoxicações por analgésicos opioides. Os antagonistas atuam ligando-se aos receptores opioides sem ativá-los, bloqueando assim o acesso dos agonistas (opioides causadores da intoxicação) aos receptores. Isso reverte rapidamente efeitos como a depressão respiratória, que é uma manifestação grave e potencialmente fatal da intoxicação por opioides. A alternativa 'Administração de outro opioide mais potente' está incorreta porque isso agravaria a intoxicação. 'Administração de um AINE' está incorreta porque anti-inflamatórios não revertem os efeitos dos opioides. 'Administração de um anestésico' está incorreta porque poderia piorar a depressão respiratória. 'Administração de um anticonvulsivante' está incorreta porque as convulsões não são o principal problema na intoxicação por opioides, e isso não reverteria a depressão respiratória.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Um paciente com dor crônica severa necessita tratamento prolongado com opioide, mas apresenta problemas de deglutição e intolerância gastrointestinal. Com base no material, qual seria a melhor alternativa terapêutica considerando as vias de administração disponíveis?",
+    "options": [
+      "Morfina oral em altas doses para compensar a má absorção",
+      "Fentanil intravenoso em infusão contínua",
+      "Buprenorfina em adesivos transdérmicos",
+      "Tramadol por via retal exclusivamente",
+      "Suspensão temporária do tratamento até resolução dos sintomas gastrointestinais"
+    ],
+    "correctIndex": 2,
+    "explanation": "A buprenorfina em adesivos transdérmicos seria a melhor opção para este paciente, pois permite liberação contínua do medicamento sem necessidade de deglutição ou absorção gastrointestinal, oferecendo analgesia estável por longos períodos. A alternativa 'Morfina oral em altas doses' está incorreta porque agravaria os problemas gastrointestinais e a dificuldade de deglutição. 'Fentanil intravenoso em infusão contínua' é uma opção muito invasiva para tratamento prolongado ambulatorial. 'Tramadol por via retal exclusivamente' não é a forma mais conveniente para uso prolongado e pode causar irritação local. 'Suspensão temporária do tratamento' está incorreta porque deixaria o paciente sem controle adequado da dor, especialmente sendo uma dor crônica severa que necessita tratamento contínuo.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Um paciente usando morfina para controle da dor apresenta constipação intestinal severa que não responde a laxantes convencionais. Baseado nos mecanismos de ação dos opioides descritos no material, qual abordagem farmacológica direcionada seria mais adequada?",
+    "options": [
+      "Substituir por outro opioide de maior potência",
+      "Administrar um antagonista opioide de ação central",
+      "Administrar um antagonista opioide de ação periférica que não atravessa a barreira hematoencefálica",
+      "Suspender completamente o tratamento com opioides",
+      "Aumentar a dose do opioide para desenvolver tolerância ao efeito constipante"
+    ],
+    "correctIndex": 2,
+    "explanation": "A constipação é um efeito adverso comum dos opioides mediado pela ativação de receptores opioides no trato gastrointestinal, que reduz a motilidade e secreções. Este efeito geralmente não desenvolve tolerância com o uso continuado. Um antagonista opioide de ação periférica que não atravessa a barreira hematoencefálica seria o mais indicado, pois bloquearia os receptores opioides intestinais (revertendo a constipação) sem afetar a analgesia central ou precipitar sintomas de abstinência. A alternativa 'Substituir por outro opioide de maior potência' está incorreta porque todos os opioides podem causar constipação. 'Administrar um antagonista opioide de ação central' está incorreta porque reverteria também o efeito analgésico. 'Suspender completamente o tratamento' pode não ser viável em pacientes com dor significativa. 'Aumentar a dose do opioide para desenvolver tolerância' está incorreta porque geralmente não se desenvolve tolerância ao efeito constipante dos opioides.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Considerando que o material menciona que 'Dor, estresse e antecipação de dor podem induzir liberação de peptídeos opioides endógenos (POE)', como esse conhecimento poderia ser aplicado em abordagens não farmacológicas para o manejo da dor?",
+    "options": [
+      "Não há aplicação possível, pois apenas opioides exógenos têm efeito relevante",
+      "Técnicas que reduzem o estresse e a ansiedade poderiam potencializar a analgesia endógena",
+      "A indução deliberada de estresse poderia aumentar a liberação de POE",
+      "A aplicação de estímulos dolorosos adicionais aumentaria a liberação de POE em outras áreas",
+      "O bloqueio dos POE seria benéfico para reduzir a sensibilização central"
+    ],
+    "correctIndex": 1,
+    "explanation": "Os peptídeos opioides endógenos (POE) têm ação moduladora da dor e sua liberação pode ser induzida por dor, mas também prejudicada pelo estresse e ansiedade associados à antecipação da dor. Técnicas não farmacológicas que reduzem o estresse e a ansiedade (como meditação, relaxamento, terapia cognitivo-comportamental) podem otimizar os sistemas de analgesia endógena, facilitando a liberação de POE e potencializando o alívio da dor através de mecanismos fisiológicos naturais. A alternativa 'Não há aplicação possível' está incorreta porque os POE têm efeito analgésico significativo. 'A indução deliberada de estresse' está incorreta porque o estresse excessivo pode inibir, não facilitar, os mecanismos analgésicos endógenos. 'A aplicação de estímulos dolorosos adicionais' está incorreta porque isso não melhoraria a analgesia global. 'O bloqueio dos POE' está incorreta porque isso prejudicaria a analgesia endógena, não a melhoraria.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Um paciente idoso com função renal comprometida e múltiplas comorbidades necessita de um opioide potente para dor oncológica. Com base nas propriedades farmacocinéticas descritas no material, qual seria a escolha mais segura?",
+    "options": [
+      "Morfina, pois é o padrão-ouro dos analgésicos opioides",
+      "Fentanil, devido à sua rápida ação e curta duração",
+      "Buprenorfina, pois não acumula em insuficiência renal",
+      "Metadona, por sua potência 1,8 vezes maior que a morfina",
+      "Tramadol, pois tem ação mista opioide e não-opioide"
+    ],
+    "correctIndex": 2,
+    "explanation": "A buprenorfina é a escolha mais segura para um paciente idoso com função renal comprometida porque não acumula em insuficiência renal, reduzindo o risco de efeitos adversos graves como sedação excessiva e depressão respiratória. A alternativa 'Morfina' está incorreta porque é excretada principalmente pelos rins, podendo acumular-se e causar toxicidade em pacientes com função renal comprometida. 'Fentanil' está incorreta porque, apesar de sua rápida ação, também depende de metabolismo e excreção que podem ser afetados em pacientes com múltiplas comorbidades. 'Metadona' está incorreta porque tem meia-vida muito longa e variável, potencial de acúmulo e interações medicamentosas significativas, especialmente problemáticas em idosos com múltiplas comorbidades. 'Tramadol' está incorreta porque depende de metabolização hepática para seu efeito analgésico completo e também tem excreção renal, podendo apresentar risco aumentado em pacientes idosos com função renal comprometida.",
+    "type": "raciocínio"
+  }
+]

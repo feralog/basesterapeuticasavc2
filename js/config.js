@@ -25,7 +25,7 @@ const quizConfig = {
             id: "anestesicosgerais",
             name: "Anestésicos Gerais",
             file: "questoes_anestesicosgerais"
-        }
+        },
         {
         id: "anestesicoslocais",
         name: "Anestésicos Locais",

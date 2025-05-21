@@ -1,17 +1,17 @@
 [
   {
-    "question": "Qual é a incidência atual de agranulocitose induzida por clozapina segundo estudos de 1998?",
-    "options": [
-      "1 a 2%",
-      "0,38%",
-      "0,012%",
-      "3,5%",
-      "1,5%"
-    ],
-    "correctIndex": 1,
-    "explanation": "Segundo o estudo de 1998 com 99.502 pacientes, a incidência de agranulocitose induzida por clozapina foi de 0,38%. As outras opções estão incorretas: 1 a 2% era a estimativa inicial, 0,012% se refere às mortes secundárias, e 3,5% e 1,5% não correspondem aos dados apresentados.",
-    "type": "conteudista"
-  },
+  "question": "Qual é a definição de anestésicos gerais?",
+  "options": [
+    "Fármacos que bloqueiam apenas a dor sem afetar a consciência",
+    "Medicamentos que promovem depressão reversível do SNC, fazendo o paciente perder percepção e resposta a estímulos",
+    "Substâncias que causam relaxamento muscular permanente",
+    "Drogas que atuam exclusivamente no sistema nervoso periférico",
+    "Compostos que induzem sono profundo sem perda de reflexos"
+  ],
+  "correctIndex": 1,
+  "explanation": "Anestésicos gerais são fármacos que promovem depressão reversível do SNC, fazendo o paciente perder percepção e resposta a estímulos. A opção 1 está incorreta pois descreve analgésicos, a opção 3 está errada pois o relaxamento não é permanente, a opção 4 está incorreta pois atuam no SNC, e a opção 5 está errada pois há perda de reflexos na anestesia.",
+  "type": "conteudista"
+},
   {
     "question": "Qual dos seguintes NÃO é uma indicação para morfina?",
     "options": [

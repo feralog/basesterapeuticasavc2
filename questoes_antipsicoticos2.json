@@ -1,0 +1,379 @@
+[
+  {
+    "question": "Na teoria dopaminérgica da esquizofrenia, qual é a característica específica da via mesocortical em relação aos sintomas?",
+    "options": [
+      "Hiperatividade dopaminérgica gerando sintomas positivos como alucinações",
+      "Hipoatividade dopaminérgica associada à diminuição do glutamato e sintomas negativos",
+      "Bloqueio dos receptores D2 causando síndrome extrapiramidal",
+      "Aumento da prolactina por inibição tuberoinfundibular",
+      "Ativação excessiva de receptores 5HT2A no córtex pré-frontal"
+    ],
+    "correctIndex": 1,
+    "explanation": "A via mesocortical apresenta hipoatividade dopaminérgica com diminuição do glutamato, relacionada aos sintomas negativos da esquizofrenia. A hiperatividade dopaminérgica ocorre na via mesolímbica (sintomas positivos), a síndrome extrapiramidal está relacionada à via nigroestriatal, o aumento da prolactina à via tuberoinfundibular, e os receptores 5HT2A não são o mecanismo primário desta via.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Um paciente com psicose apresenta sinais vitais alterados, alucinações visuais e grave comprometimento cognitivo com desorientação. Qual é a provável etiologia dessa apresentação clínica?",
+    "options": [
+      "Transtorno esquizoafetivo primário com sintomas negativos predominantes",
+      "Esquizofrenia de início tardio com componente genético",
+      "Psicose secundária ao uso de drogas ou causas clínicas",
+      "Transtorno delirante persistente com preservação cognitiva",
+      "Transtorno psicótico breve idiopático"
+    ],
+    "correctIndex": 2,
+    "explanation": "A presença de sinais vitais alterados, alucinações visuais e comprometimento cognitivo grave são características típicas da psicose secundária (uso de drogas ou causas clínicas). Os transtornos psiquiátricos primários geralmente cursam com sinais vitais normais, alucinações principalmente auditivas e déficits cognitivos mínimos. O transtorno delirante preserva as funções cognitivas, e o transtorno psicótico breve não justificaria essa gravidade.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Considerando a farmacodinâmica dos antipsicóticos típicos, qual percentual de bloqueio dos receptores D2 pós-sinápticos é necessário para eficácia terapêutica?",
+    "options": [
+      "40 a 50%",
+      "55 a 65%",
+      "70 a 80%",
+      "85 a 95%",
+      "Próximo a 100%"
+    ],
+    "correctIndex": 2,
+    "explanation": "Os antipsicóticos típicos bloqueiam os receptores D2 pós-sinápticos em cerca de 70 a 80% para eficácia terapêutica. Percentuais menores (40-65%) são insuficientes para controle dos sintomas psicóticos, enquanto bloqueios muito altos (85-100%) aumentam significativamente o risco de efeitos extrapiramidais sem benefício terapêutico adicional.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Na esquizofrenia, a deficiência de atenção e memória de curto prazo está teoricamente relacionada a qual mecanismo fisiopatológico?",
+    "options": [
+      "Excesso de dopamina na via nigroestriatal",
+      "Bloqueio de receptores 5HT2A no sistema límbico",
+      "Falha na migração de neurônios no córtex pré-frontal",
+      "Hiperativação de receptores NMDA no hipocampo",
+      "Deficiência de GABA na substância negra"
+    ],
+    "correctIndex": 2,
+    "explanation": "O comprometimento cognitivo na esquizofrenia, incluindo déficits de atenção e memória de curto prazo, está teoricamente relacionado à falha na migração de neurônios no córtex pré-frontal ou transtorno no neurodesenvolvimento. O excesso de dopamina nigroestriatal causa sintomas motores, o bloqueio 5HT2A é mecanismo terapêutico, a hiperativação NMDA não é característica da esquizofrenia, e a deficiência de GABA na substância negra não explica os déficits cognitivos.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Um paciente em uso de haloperidol desenvolve inquietude, ansiedade e incapacidade de permanecer sentado. Qual é o mecanismo fisiopatológico mais provável dessa reação adversa?",
+    "options": [
+      "Bloqueio excessivo de receptores D1 no córtex pré-frontal",
+      "Antagonismo de receptores 5HT2A no sistema límbico",
+      "Bloqueio de receptores D2 na via nigroestriatal",
+      "Inibição de receptores muscarínicos no tronco cerebral",
+      "Ativação paradoxal de receptores dopaminérgicos mesolímbicos"
+    ],
+    "correctIndex": 2,
+    "explanation": "O quadro descrito caracteriza acatisia, que resulta do bloqueio de receptores D2 na via nigroestriatal, causando síndrome extrapiramidal. O bloqueio de D1 no córtex não causa acatisia, o antagonismo 5HT2A é protetor contra efeitos extrapiramidais, a inibição muscarínica causa efeitos anticolinérgicos diferentes, e não há ativação paradoxal de receptores dopaminérgicos com haloperidol.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Qual característica farmacodinâmica diferencia principalmente os antipsicóticos atípicos dos típicos?",
+    "options": [
+      "Bloqueio seletivo de receptores D1 sem afetar D2",
+      "Agonismo completo de receptores dopaminérgicos mesolímbicos",
+      "Menor bloqueio de D2 e antagonismo de receptores 5HT2A",
+      "Bloqueio exclusivo de receptores NMDA glutamatérgicos",
+      "Ativação específica de receptores GABA-A no tálamo"
+    ],
+    "correctIndex": 2,
+    "explanation": "Os antipsicóticos atípicos caracterizam-se por menor bloqueio de receptores D2 e antagonismo de receptores 5HT2A, resultando em menor incidência de efeitos extrapiramidais e melhor eficácia nos sintomas negativos. Eles não bloqueiam seletivamente D1, não são agonistas dopaminérgicos completos, não atuam exclusivamente em NMDA, e não ativam especificamente GABA-A.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Na via mesolímbica, o excesso de dopamina na esquizofrenia resulta em que alteração na regulação talâmica?",
+    "options": [
+      "Aumento da liberação de GABA com hipercontrole dos sintomas positivos",
+      "Diminuição da liberação de GABA com descontrole dos sintomas positivos",
+      "Bloqueio de receptores glutamatérgicos com supressão de delírios",
+      "Ativação excessiva de interneurônios GABAérgicos inibitórios",
+      "Normalização da atividade talâmica por compensação serotoninérgica"
+    ],
+    "correctIndex": 1,
+    "explanation": "Na via mesolímbica, o excesso de dopamina aumenta a inibição, resultando em menor liberação de GABA e consequente descontrole dos sintomas positivos, já que o tálamo perde sua função de filtro. O aumento de GABA controlaria os sintomas, o bloqueio glutamatérgico não é o mecanismo primário, não há ativação compensatória de interneurônios GABAérgicos, e não ocorre normalização por compensação serotoninérgica.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Qual é a principal indicação específica da clozapina entre os antipsicóticos atípicos?",
+    "options": [
+      "Primeira escolha para episódios psicóticos agudos",
+      "Tratamento de sintomas extrapiramidais iatrogênicos",
+      "Esquizofrenia refratária ao tratamento convencional",
+      "Prevenção primária de recaídas em transtorno bipolar",
+      "Manejo de alucinações visuais em demência"
+    ],
+    "correctIndex": 2,
+    "explanation": "A clozapina é especificamente indicada para esquizofrenia refratária ao tratamento convencional, devido ao seu perfil único de eficácia. Não é primeira escolha devido ao risco de agranulocitose, não trata sintomas extrapiramidais (os previne), não é indicação primária para transtorno bipolar, e não é primeira linha para alucinações em demência.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Um paciente desenvolve ginecomastia durante tratamento com antipsicótico típico. Qual via dopaminérgica está envolvida neste efeito adverso?",
+    "options": [
+      "Via mesocortical com deficiência de glutamato",
+      "Via mesolímbica com excesso de ativação D2",
+      "Via nigroestriatal com bloqueio motor",
+      "Via tuberoinfundibular com regulação da prolactina",
+      "Via olfatória com alteração sensorial"
+    ],
+    "correctIndex": 3,
+    "explanation": "A ginecomastia resulta do bloqueio da via tuberoinfundibular, que regula a produção de prolactina. O bloqueio dessa via causa hiperprolactinemia, levando à ginecomastia. A via mesocortical está relacionada aos sintomas negativos, a mesolímbica aos positivos, a nigroestriatal aos efeitos motores extrapiramidais, e a via olfatória não é relevante para este efeito.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Segundo a teoria dopaminérgica, a atividade da dopamina na via mesocortical envolve qual sequência de eventos?",
+    "options": [
+      "DOPAMINA > D2 > proteína Gi > inibição de GABA > sintomas positivos",
+      "DOPAMINA > D1/D5 > AMPc > glutamato > efeitos não negativos",
+      "DOPAMINA > 5HT2A > serotonina > bloqueio de alucinações",
+      "DOPAMINA > NMDA > excitação glutamatérgica > convulsões",
+      "DOPAMINA > receptores muscarínicos > acetilcolina > sedação"
+    ],
+    "correctIndex": 1,
+    "explanation": "Na via mesocortical, a sequência é: DOPAMINA > D1 e D5 > AMPc > glutamato > efeitos não negativos (fisiológicos). A primeira opção descreve a via mesolímbica, a terceira confunde mecanismos serotoninérgicos, a quarta não representa a via dopaminérgica correta, e a quinta descreve efeitos anticolinérgicos não relacionados à via mesocortical.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é a característica clínica que distingue pacientes com psicose primária daqueles com psicose secundária?",
+    "options": [
+      "Presença de alucinações auditivas versus visuais exclusivamente",
+      "Orientação preservada com déficits cognitivos mínimos versus confusão grave",
+      "Sinais vitais alterados versus normais consistentemente",
+      "Delírios sistematizados versus fragmentados obrigatoriamente",
+      "Idade de início na adolescência versus idade adulta sempre"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pacientes com psicose primária geralmente mantêm orientação e apresentam déficits cognitivos mínimos, enquanto aqueles com psicose secundária frequentemente apresentam confusão grave e desorientação. Ambos podem ter alucinações auditivas, os sinais vitais são normais na primária e alterados na secundária, os delírios podem variar em ambas, e a idade de início não é critério diferencial absoluto.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Considerando a fisiopatologia da esquizofrenia, por que os sintomas negativos são mais difíceis de tratar com antipsicóticos típicos?",
+    "options": [
+      "Porque resultam de hiperatividade dopaminérgica que os típicos não bloqueiam",
+      "Porque decorrem de hipoatividade mesocortical que o bloqueio D2 pode piorar",
+      "Porque são causados por excesso de serotonina que os típicos não antagonizam",
+      "Porque derivam de deficiência de GABA que os típicos não corrigem",
+      "Porque são mediados por receptores NMDA que os típicos não modulam"
+    ],
+    "correctIndex": 1,
+    "explanation": "Os sintomas negativos decorrem de hipoatividade dopaminérgica na via mesocortical, e o bloqueio de D2 pelos antipsicóticos típicos pode piorar essa hipoatividade. Os sintomas negativos não resultam de hiperatividade dopaminérgica, não são primariamente serotoninérgicos, não são causados por deficiência de GABA especificamente, e embora haja envolvimento glutamatérgico, o mecanismo principal é a hipoatividade dopaminérgica mesocortical.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Qual antipsicótico atípico apresenta elevada afinidade por receptores 5HT2A como característica farmacodinâmica principal?",
+    "options": [
+      "Clozapina",
+      "Olanzapina",
+      "Risperidona",
+      "Quetiapina",
+      "Aripiprazol"
+    ],
+    "correctIndex": 2,
+    "explanation": "A risperidona apresenta elevada afinidade por receptores 5HT2A como característica distintiva. Embora a clozapina bloqueie múltiplos receptores, sua característica principal é o risco de agranulocitose; a olanzapina é análoga à clozapina sem agranulocitose; a quetiapina é conhecida pela sedação; e o aripiprazol tem mecanismo de agonismo parcial como característica principal.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Na síndrome extrapiramidal, a amimia é caracterizada por:",
+    "options": [
+      "Movimentos involuntários da face com caretas exageradas",
+      "Ausência de expressão facial devido à rigidez muscular",
+      "Tremores oscilatórios rítmicos dos músculos faciais",
+      "Contrações súbitas dos músculos da língua e pescoço",
+      "Dificuldade de deglutição com protrusão lingual"
+    ],
+    "correctIndex": 1,
+    "explanation": "Amimia é a ausência de expressão no rosto devido à rigidez dos músculos da face, característica da síndrome extrapiramidal. Movimentos involuntários exagerados descrevem discinesias, tremores são outro sintoma distinto, contrações súbitas caracterizam distonias agudas, e dificuldade de deglutição não define especificamente a amimia.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Um paciente em uso de antipsicótico desenvolve movimentos parkinsonianos, com cabeça e tronco inclinados para frente e extremidades flexionadas. Qual é a explicação fisiopatológica mais adequada?",
+    "options": [
+      "Ativação excessiva de receptores D1 no córtex motor",
+      "Bloqueio de receptores D2 na substância negra-estriado",
+      "Antagonismo de receptores 5HT2A no cerebelo",
+      "Inibição de receptores GABA no núcleo subtalâmico",
+      "Estimulação de receptores muscarínicos no tronco cerebral"
+    ],
+    "correctIndex": 1,
+    "explanation": "Os movimentos parkinsonianos resultam do bloqueio de receptores D2 na via nigroestriatal (substância negra-estriado), parte da síndrome extrapiramidal. A ativação de D1 no córtex não causa parkinsonismo, o antagonismo 5HT2A é protetor, a inibição de GABA no subtalâmico não é o mecanismo principal, e a estimulação muscarínica não explica esses movimentos específicos.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Qual é o metabólito ativo clinicamente relevante entre os antipsicóticos atípicos mencionados?",
+    "options": [
+      "9-hidroxi-aripiprazol da biotransformação do aripiprazol",
+      "Paliperidona como metabólito ativo da risperidona",
+      "N-desmetil-clozapina derivada da clozapina",
+      "7-hidroxi-quetiapina proveniente da quetiapina",
+      "Dehidro-olanzapina originada da olanzapina"
+    ],
+    "correctIndex": 1,
+    "explanation": "A paliperidona é o metabólito ativo da risperidona e possui relevância clínica, sendo inclusive comercializada como medicamento independente. Os outros metabólitos mencionados não são destacados como clinicamente ativos no texto ou podem não existir com esses nomes específicos.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Por que os fenotiazídicos podem causar depressão cardíaca e alongamento da onda Q-T?",
+    "options": [
+      "Devido ao antagonismo específico de receptores beta-adrenérgicos",
+      "Por serem quimicamente catiônicos causando efeito estabilizador de membrana",
+      "Devido à inibição seletiva de canais de cálcio tipo L",
+      "Por antagonizarem receptores muscarínicos cardíacos",
+      "Devido ao bloqueio de canais de potássio dependentes de voltagem"
+    ],
+    "correctIndex": 1,
+    "explanation": "Os fenotiazídicos são quimicamente catiônicos e podem desencadear efeito estabilizador de membrana indesejado no coração, causando depressão cardíaca e alongamento da onda Q-T. Não é por antagonismo beta-adrenérgico específico, inibição de canais de cálcio tipo L, antagonismo muscarínico cardíaco direto, ou bloqueio de canais de potássio como mecanismo primário.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Um paciente com esquizofrenia apresenta melhora dos sintomas positivos mas persiste com isolamento social e afeto deprimido. Qual estratégia terapêutica seria mais apropriada?",
+    "options": [
+      "Aumentar a dose do antipsicótico típico atual",
+      "Adicionar um segundo antipsicótico típico",
+      "Substituir por antipsicótico atípico",
+      "Associar benzodiazepínico para ansiedade",
+      "Reduzir a medicação antipsicótica atual"
+    ],
+    "correctIndex": 2,
+    "explanation": "Os sintomas negativos (isolamento social, afeto deprimido) respondem melhor aos antipsicóticos atípicos. Aumentar ou adicionar típicos pode piorar os sintomas negativos, benzodiazepínicos não tratam sintomas negativos fundamentais, e reduzir a medicação pode levar ao retorno dos sintomas positivos.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Qual é a prevalência da esquizofrenia na população mundial segundo o texto?",
+    "options": [
+      "0,5%",
+      "1%",
+      "1,5%",
+      "2%",
+      "3%"
+    ],
+    "correctIndex": 1,
+    "explanation": "A esquizofrenia tem prevalência de 1% da população mundial. As outras porcentagens (0,5%, 1,5%, 2%, 3%) não correspondem ao dado apresentado no texto.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Na avaliação de um paciente com suspeita de psicose, por que é recomendada a história colateral de parentes?",
+    "options": [
+      "Para confirmar o diagnóstico diferencial com demência",
+      "Para traçar o início e curso da psicose",
+      "Para avaliar a capacidade de insight do paciente",
+      "Para determinar a necessidade de internação",
+      "Para estabelecer o prognóstico de recuperação"
+    ],
+    "correctIndex": 1,
+    "explanation": "A história colateral de parentes é recomendada para traçar o início e o curso da psicose, fornecendo informações objetivas sobre a evolução dos sintomas. Não é especificamente para diagnóstico diferencial com demência, avaliação de insight, determinação de internação, ou estabelecimento de prognóstico como objetivos primários.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Considerando a hipótese dopaminérgica, qual receptor quando ativado produz efeito inibitório ligado à proteína Gi?",
+    "options": [
+      "Receptor D1 no córtex pré-frontal",
+      "Receptor D2 na via mesolímbica",
+      "Receptor D5 no sistema mesocortical",
+      "Receptor 5HT2A no sistema límbico",
+      "Receptor NMDA no hipocampo"
+    ],
+    "correctIndex": 1,
+    "explanation": "O receptor D2, quando ativado pela dopamina, produz efeito inibitório ligado à proteína Gi, especialmente relevante na via mesolímbica para controle dos sintomas positivos. Os receptores D1 e D5 estão ligados ao AMPc, o 5HT2A não é dopaminérgico, e o NMDA é glutamatérgico.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Por que a clozapina requer monitoramento hematológico específico?",
+    "options": [
+      "Devido ao risco de trombocitopenia severa",
+      "Por causar anemia hemolítica autoimune",
+      "Devido ao risco de agranulocitose",
+      "Por induzir leucemia mieloide aguda",
+      "Devido à pancitopenia reversível"
+    ],
+    "correctIndex": 2,
+    "explanation": "A clozapina requer monitoramento hematológico específico devido ao risco de agranulocitose, uma condição potencialmente fatal. Não causa trombocitopenia severa como efeito principal, anemia hemolítica autoimune, leucemia mieloide aguda, ou pancitopenia reversível como característica distintiva.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Um paciente apresenta distonias agudas nos músculos do rosto, pescoço e língua após início de tratamento antipsicótico. Qual é o mecanismo e a conduta mais apropriada?",
+    "options": [
+      "Bloqueio D2 nigroestriatal; aumentar a dose para superação do receptor",
+      "Bloqueio D2 nigroestriatal; usar anticolinérgicos como biperideno",
+      "Ativação 5HT2A; adicionar antagonista serotoninérgico",
+      "Deficiência de GABA; suplementar com benzodiazepínicos",
+      "Excesso glutamatérgico; usar bloqueadores de NMDA"
+    ],
+    "correctIndex": 1,
+    "explanation": "As distonias agudas resultam do bloqueio D2 na via nigroestriatal, e o tratamento é com anticolinérgicos como biperideno para restaurar o equilíbrio dopamina-acetilcolina. Aumentar a dose pioraria o quadro, não é mediado por 5HT2A primariamente, benzodiazepínicos não são específicos para distonias, e não é mecanismo glutamatérgico direto.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Qual característica diferencia a olanzapina da clozapina em termos de segurança?",
+    "options": [
+      "Menor risco de síndrome extrapiramidal",
+      "Ausência de efeitos anticolinérgicos",
+      "Não produz agranulocitose",
+      "Menor potencial de ganho de peso",
+      "Ausência de efeitos cardiovasculares"
+    ],
+    "correctIndex": 2,
+    "explanation": "A olanzapina é análoga à clozapina mas não produz agranulocitose, sendo sua principal vantagem em termos de segurança. Ambas têm baixo risco extrapiramidal, ambas podem ter efeitos anticolinérgicos, ambas causam ganho de peso, e ambas podem ter efeitos cardiovasculares.",
+    "type": "conteudista"
+  },
+  {
+    "question": "No contexto da hibernação artificial durante cirurgias, qual propriedade dos antipsicóticos é explorada terapeuticamente?",
+    "options": [
+      "Bloqueio de receptores alfa-1 adrenérgicos",
+      "Antagonismo de receptores dopaminérgicos D2",
+      "Efeito inibidor no centro termorregulador",
+      "Bloqueio de canais de sódio dependentes de voltagem",
+      "Antagonismo de receptores muscarínicos centrais"
+    ],
+    "correctIndex": 2,
+    "explanation": "O efeito inibidor no centro termorregulador é explorado para produzir resfriamento controlado do corpo durante cirurgias (hibernação artificial). O bloqueio alfa-1 causa hipotensão, o antagonismo D2 é antipsicótico, o bloqueio de canais de sódio é estabilizador de membrana, e o antagonismo muscarínico causa efeitos anticolinérgicos, mas não especificamente termorregulação controlada.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Qual é a sequência correta dos transtornos psicóticos primários em ordem crescente de duração típica dos sintomas?",
+    "options": [
+      "Transtorno psicótico breve, transtorno esquizofreniforme, esquizofrenia",
+      "Transtorno delirante, transtorno esquizoafetivo, esquizofrenia",
+      "Esquizofrenia, transtorno esquizofreniforme, transtorno psicótico breve",
+      "Transtorno esquizoafetivo, transtorno delirante, transtorno esquizofreniforme",
+      "Transtorno esquizofreniforme, transtorno psicótico breve, esquizofrenia"
+    ],
+    "correctIndex": 0,
+    "explanation": "A sequência correta por duração é: transtorno psicótico breve (menos de 1 mês), transtorno esquizofreniforme (1-6 meses), esquizofrenia (mais de 6 meses). O transtorno delirante e esquizoafetivo têm critérios de duração específicos diferentes dessa progressão temporal básica.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Segundo o texto, qual neurotransmissor é considerado excitatório e é mediado por receptores 5HT2A?",
+    "options": [
+      "Dopamina",
+      "Serotonina",
+      "Glutamato",
+      "GABA",
+      "Acetilcolina"
+    ],
+    "correctIndex": 2,
+    "explanation": "O glutamato é descrito como neurotransmissor excitatório mediado por receptores 5HT2A no contexto da via mesocortical. A dopamina não é mediada por 5HT2A, a serotonina ativa (não é mediada por) 5HT2A, o GABA é inibitório, e a acetilcolina atua em receptores colinérgicos.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é o principal risco diferencial da ziprasidona em relação aos outros antipsicóticos atípicos?",
+    "options": [
+      "Agranulocitose severa",
+      "Síndrome extrapiramidal em baixas doses",
+      "Alterações eletrocardiográficas",
+      "Ganho de peso excessivo",
+      "Convulsões refratárias"
+    ],
+    "correctIndex": 2,
+    "explanation": "A ziprasidona apresenta como risco específico as alterações eletrocardiográficas, sendo considerada terapia alternativa por este motivo. A agranulocitose é característica da clozapina, síndrome extrapiramidal em baixas doses não é típica dos atípicos, ganho de peso é mais associado à olanzapina e clozapina, e convulsões são mais relacionadas à clozapina.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Baseando-se na teoria dopaminérgica apresentada, por que pacientes com esquizofrenia podem apresentar tanto sintomas positivos quanto negativos simultaneamente?",
+    "options": [
+      "Porque há hiperatividade dopaminérgica global em todas as vias",
+      "Porque existe hiperatividade mesolímbica e hipoatividade mesocortical",
+      "Porque há bloqueio simultâneo de D1 e D2 em todas as regiões",
+      "Porque ocorre deficiência global de dopamina com compensação inadequada",
+      "Porque há excesso de serotonina competindo com dopamina"
+    ],
+    "correctIndex": 1,
+    "explanation": "A coexistência de sintomas positivos e negativos explica-se pela hiperatividade dopaminérgica na via mesolímbica (causando sintomas positivos) e hipoatividade dopaminérgica na via mesocortical (causando sintomas negativos). Não há hiperatividade global, não é por bloqueio de receptores (isso seria tratamento), não é deficiência global, e não é primariamente por excesso serotoninérgico.",
+    "type": "raciocínio"
+  }
+]

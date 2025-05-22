@@ -46,6 +46,11 @@ const quizConfig = {
             name:"AINES e AIES 2",
             file: "questoes_AINES2"
         },
+        {
+            id: "opioides2",
+            name: "Opioides 2",
+            file: "questoes_opioides2"
+        },
         // Adicione mais módulos conforme necessário
     ]
 };

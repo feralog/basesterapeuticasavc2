@@ -51,6 +51,21 @@ const quizConfig = {
             name: "Opioides 2",
             file: "questoes_opioides2"
         },
+        {
+            id: "antipsicoticos2",
+            name: "Antipsicóticos 2",
+            file: "questoes_antipsicoticos2"
+        },
+        {
+            id: "anestesicoslocais2",
+            name: "Anestésicos Locais 2",
+            file: "questoes_anestesicoslocais2"
+        },
+        {
+            id: "anestesicosgerais2",
+            name: "Anestésicos Gerais 2",
+            file: "questoes_anestesicosgerais2"
+        },
         // Adicione mais módulos conforme necessário
     ]
 };

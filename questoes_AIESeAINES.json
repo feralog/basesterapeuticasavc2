@@ -91,7 +91,7 @@
     "type": "conteudista"
   },
   {
-    "question": "Qual é uma característica distintiva dos fenamatos?",
+    "question": "Qual é uma característica distintiva da família do Nimesulida?",
     "options": [
       "São inibidores potentes das prostaglandinas",
       "Atuam exclusivamente por via tópica",
@@ -100,7 +100,7 @@
       "Não causam efeitos gastrointestinais"
     ],
     "correctIndex": 2,
-    "explanation": "Os fenamatos são inibidores fracos das prostaglandinas, mas possuem mecanismo central analgésico noradrenérgico. Eles ainda causam efeitos gastrointestinais e não são específicos para COX-2.",
+    "explanation": "são inibidores fracos das prostaglandinas, mas possuem mecanismo central analgésico noradrenérgico. Eles ainda causam efeitos gastrointestinais e não são específicos para COX-2.",
     "type": "conteudista"
   },
   {
@@ -325,7 +325,7 @@
     "type": "raciocínio"
   },
   {
-    "question": "Por que os fenamatos, apesar de serem inibidores fracos das prostaglandinas, ainda têm eficácia analgésica?",
+    "question": "Por que a família da Nimesulida, apesar de serem inibidores fracos das prostaglandinas, ainda têm eficácia analgésica?",
     "options": [
       "Porque inibem completamente a COX-2",
       "Devido ao seu mecanismo central analgésico noradrenérgico",
@@ -334,7 +334,7 @@
       "Devido à sua ação anti-histamínica"
     ],
     "correctIndex": 1,
-    "explanation": "Os fenamatos compensam sua fraca inibição das prostaglandinas através de um mecanismo central analgésico noradrenérgico, proporcionando alívio da dor por via diferente da inibição da COX.",
+    "explanation": "Compensam sua fraca inibição das prostaglandinas através de um mecanismo central analgésico noradrenérgico, proporcionando alívio da dor por via diferente da inibição da COX.",
     "type": "raciocínio"
   },
   {

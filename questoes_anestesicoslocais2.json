@@ -1,393 +1,392 @@
 [
-{
-    "question": "Qual é o mecanismo primário de ação dos anestésicos locais na transmissão nervosa?",
+  {
+    "question": "Considerando o esquema de canais iônicos dependentes de voltagem apresentado no material, qual é a sequência correta de eventos durante o potencial de ação relacionado ao bloqueio anestésico?",
     "options": [
-      "Bloqueio dos canais de cálcio voltagem-dependente",
-      "Inibição da bomba sódio-potássio ATPase",
-      "Bloqueio dos canais de sódio voltagem-dependente",
-      "Ativação dos receptores GABA-érgicos",
-      "Inibição da recaptação de noradrenalina"
+      "Despolarização → abertura de canais de K+ → entrada de Na+ → repolarização",
+      "Hiperpolarização → abertura de canais de Na+ → saída de K+ → despolarização",
+      "Repouso → abertura de canais de Na+ → entrada de Na+ → inativação do canal",
+      "Ativação → fechamento de canais de K+ → entrada de Cl- → repolarização",
+      "Inativação → abertura de canais de Ca++ → saída de Na+ → hiperpolarização"
     ],
     "correctIndex": 2,
-    "explanation": "Os anestésicos locais exercem seu efeito através do bloqueio dos canais de sódio voltagem-dependente, impedindo a despolarização e interrompendo o impulso nervoso. As demais alternativas não correspondem ao mecanismo de ação principal dos anestésicos locais.",
+    "explanation": "A sequência correta é: repouso → abertura de canais de Na+ → entrada de Na+ → inativação do canal. Os anestésicos locais bloqueiam especificamente os canais de sódio voltagem-dependentes, impedindo a despolarização. As outras alternativas apresentam sequências incorretas de eventos ou mencionam íons que não são primariamente responsáveis pela despolarização inicial (K+, Cl-, Ca++).",
     "type": "conteudista"
   },
   {
-    "question": "Em relação à estrutura química dos anestésicos locais, qual componente é responsável pela penetração na fibra nervosa?",
+    "question": "Com base no esquema da sinapse e transmissão nervosa mostrado no material, qual estrutura celular é diretamente afetada pelo bloqueio dos canais de sódio pelos anestésicos locais?",
     "options": [
-      "Grupo amino (porção hidrofílica)",
-      "Cadeia intermediária éster",
-      "Cadeia intermediária amida",
-      "Grupo lipofílico (aromático)",
-      "Radical hidroxila terminal"
+      "Corpo celular (soma) do neurônio",
+      "Dendritos e suas ramificações",
+      "Vesículas sinápticas contendo neurotransmissores",
+      "Membrana do axônio e nodo de Ranvier",
+      "Mitocôndrias da terminação nervosa"
     ],
     "correctIndex": 3,
-    "explanation": "O grupo lipofílico (aromático) é responsável pela penetração na fibra nervosa devido à sua afinidade lipídica. O grupo amino é responsável pela difusão, enquanto as cadeias intermediárias (éster ou amida) determinam o metabolismo do fármaco.",
+    "explanation": "A membrana do axônio e os nodos de Ranvier são as estruturas diretamente afetadas, pois é onde estão localizados os canais de sódio voltagem-dependentes que são bloqueados pelos anestésicos locais. O corpo celular e dendritos não são os alvos primários. As vesículas sinápticas e mitocôndrias não são afetadas diretamente pelo bloqueio dos canais de sódio.",
     "type": "conteudista"
   },
   {
-    "question": "Qual das seguintes afirmações sobre o metabolismo dos anestésicos locais está INCORRETA?",
+    "question": "Segundo a estrutura química dos anestésicos locais apresentada, qual componente molecular determina a diferença fundamental entre anestésicos do tipo éster e amida?",
     "options": [
-      "Anestésicos tipo éster são biotransformados pelas esterases plasmáticas",
-      "Anestésicos tipo amida são biotransformados no fígado",
-      "A cocaína é um exemplo de anestésico local tipo éster",
-      "A lidocaína é biotransformada pelas esterases plasmáticas",
-      "A procaína é metabolizada pelas esterases plasmáticas"
+      "A presença de um grupo amino terciário na porção hidrofílica",
+      "O tipo de cadeia intermediária que conecta as porções lipofílica e hidrofílica",
+      "A quantidade de anéis benzênicos na porção aromática",
+      "O grau de ionização do grupo funcional terminal",
+      "A presença de substituintes halogenados na molécula"
     ],
-    "correctIndex": 3,
-    "explanation": "A lidocaína é um anestésico local tipo amida e, portanto, é biotransformada no fígado, não pelas esterases plasmáticas. As demais afirmações estão corretas: ésteres são metabolizados pelas esterases plasmáticas e amidas no fígado.",
+    "correctIndex": 1,
+    "explanation": "A cadeia intermediária é o que diferencia os anestésicos tipo éster (ligação -COO-) dos tipo amida (ligação -NHCO-). Esta diferença estrutural afeta diretamente o metabolismo: ésteres são biotransformados por esterases plasmáticas, enquanto amidas são metabolizadas no fígado. As outras opções não representam a diferença fundamental entre essas duas classes.",
     "type": "conteudista"
   },
   {
-    "question": "Qual é a dose máxima recomendada de lidocaína por quilograma de peso corporal?",
-    "options": [
-      "2,2 mg/Kg",
-      "3,3 mg/Kg",
-      "4,4 mg/Kg",
-      "5,5 mg/Kg",
-      "6,6 mg/Kg"
-    ],
-    "correctIndex": 2,
-    "explanation": "A dose máxima de lidocaína é 4,4 mg/Kg de peso corporal. Doses superiores podem causar toxicidade sistêmica, enquanto doses inferiores podem não proporcionar anestesia adequada em alguns casos.",
-    "type": "conteudista"
-  },
-  {
-    "question": "Quantos miligramas de lidocaína contém cada tubete de solução a 2%?",
-    "options": [
-      "18 mg",
-      "20 mg",
-      "32 mg",
-      "36 mg",
-      "40 mg"
-    ],
-    "correctIndex": 3,
-    "explanation": "Cada tubete de lidocaína a 2% contém 36 mg. Isso é calculado considerando que uma solução a 2% tem 20 mg/mL e cada tubete contém 1,8 mL (20 mg × 1,8 mL = 36 mg). As demais alternativas representam cálculos incorretos.",
-    "type": "conteudista"
-  },
-  {
-    "question": "Qual anestésico local possui o menor tempo de latência devido ao seu pKa?",
+    "question": "Analisando a tabela de pKa dos anestésicos locais, qual anestésico apresentaria o início de ação mais rápido em condições fisiológicas normais (pH 7,4)?",
     "options": [
       "Cocaína (pKa 8,7)",
-      "Procaína (pKa 8,5)",
       "Bupivacaína (pKa 8,1)",
       "Mepivacaína (pKa 7,6)",
+      "Procaína (pKa 8,5)",
       "Ropivacaína (pKa 8,2)"
     ],
-    "correctIndex": 3,
-    "explanation": "A mepivacaína possui o menor pKa (7,6), resultando no menor tempo de latência. Quanto menor o pKa, mais próximo do pH fisiológico, maior a fração não ionizada e mais rápido o início de ação. As demais alternativas têm pKa mais alto.",
+    "correctIndex": 2,
+    "explanation": "A mepivacaína com pKa 7,6 apresentaria o início mais rápido. Quanto mais próximo o pKa do pH fisiológico (7,4), maior a fração não ionizada disponível para atravessar a membrana nervosa, resultando em início mais rápido. A cocaína (8,7) e procaína (8,5) têm pKa mais elevados, resultando em início mais lento. Bupivacaína e ropivacaína têm valores intermediários.",
     "type": "conteudista"
   },
   {
-    "question": "Em processos inflamatórios, o que acontece com o tempo de latência dos anestésicos locais?",
+    "question": "De acordo com o diagrama dos receptores representativos mostrado no material, qual neurotransmissor/mediador está associado aos receptores TRPV1 e TRPV2 na transmissão da dor?",
     "options": [
-      "Diminui significativamente devido ao aumento do fluxo sanguíneo",
-      "Permanece inalterado independente do pH tecidual",
-      "Aumenta devido à acidificação do pH tecidual",
-      "Diminui devido à vasodilatação local",
-      "Varia conforme o tipo de inflamação aguda ou crônica"
+      "Substância P exclusivamente",
+      "Serotonina (5-HT) e bradicinina",
+      "NGF (Fator de Crescimento Neural) e prostaglandinas",
+      "NO (Óxido Nítrico) e calor/temperatura",
+      "ATP e prótons (H+)"
+    ],
+    "correctIndex": 3,
+    "explanation": "Os receptores TRPV1 e TRPV2 são receptores vaniloides sensíveis à temperatura e são ativados por NO (óxido nítrico) e estímulos térmicos (calor). A substância P atua em outros receptores. NGF, prostaglandinas, ATP e prótons ativam diferentes tipos de receptores nociceptivos, mas não são os principais ativadores dos canais TRPV.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Considerando o cálculo de dose máxima apresentado, quantos tubetes de lidocaína 2% com epinefrina podem ser administrados em um paciente de 70 kg, considerando a dose máxima de 4,4 mg/kg?",
+    "options": [
+      "6,5 tubetes",
+      "7,8 tubetes",
+      "8,5 tubetes",
+      "9,2 tubetes",
+      "10,1 tubetes"
     ],
     "correctIndex": 2,
-    "explanation": "No processo inflamatório, o pH tecidual diminui (acidificação), aumentando a forma ionizada do anestésico, o que reduz sua solubilidade e passagem pela membrana nervosa, resultando em maior tempo de latência. As demais alternativas não explicam corretamente este fenômeno.",
+    "explanation": "Cálculo: 70 kg × 4,4 mg/kg = 308 mg (dose máxima). Cada tubete de lidocaína 2% contém 36 mg (20 mg/mL × 1,8 mL). Portanto: 308 mg ÷ 36 mg = 8,5 tubetes. Os valores 6,5 e 7,8 estão abaixo do calculado, enquanto 9,2 e 10,1 excedem a dose máxima segura.",
     "type": "conteudista"
   },
   {
-    "question": "Qual das seguintes NÃO é uma indicação típica dos anestésicos locais?",
+    "question": "Segundo as propriedades apresentadas dos anestésicos locais, qual característica NÃO é desejável em um anestésico local ideal?",
     "options": [
-      "Cirurgias menores",
-      "Lacerações de pele",
-      "Dor associada ao câncer",
-      "Hipertensão arterial sistêmica",
-      "Irritação de pele"
+      "Baixa toxicidade sistêmica",
+      "Alta lipossolubilidade para rápida penetração",
+      "Biotransformação exclusivamente renal",
+      "Boa difusão para atingir o nervo",
+      "Bloqueio reversível sem lesão nervosa"
+    ],
+    "correctIndex": 2,
+    "explanation": "A biotransformação exclusivamente renal não é desejável, pois pode levar ao acúmulo em pacientes com insuficiência renal. Os anestésicos ideais devem ter múltiplas vias de eliminação. Baixa toxicidade, boa lipossolubilidade, boa difusão e bloqueio reversível são todas características desejáveis para um anestésico local seguro e eficaz.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Com base no esquema de administração de anestésicos locais, qual via de administração está corretamente associada à anestesia de bloqueio nervoso?",
+    "options": [
+      "Injeção no espaço subaracnóideo",
+      "Aplicação tópica em mucosas",
+      "Injeção próxima a troncos nervosos específicos",
+      "Infiltração difusa no tecido subcutâneo",
+      "Administração no espaço epidural"
+    ],
+    "correctIndex": 2,
+    "explanation": "A anestesia de bloqueio nervoso envolve a injeção do anestésico próxima a troncos nervosos específicos (como plexo braquial ou nervos intercostais). A injeção subaracnóidea corresponde à raquianestesia, aplicação tópica é para anestesia de superfície, infiltração subcutânea é para anestesia infiltrativa, e administração epidural é para anestesia peridural.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Analisando os efeitos dos receptores adrenérgicos apresentados, qual receptor é primariamente responsável pela vasoconstrição quando ativado pela epinefrina nos anestésicos locais?",
+    "options": [
+      "Beta-1 adrenérgico",
+      "Beta-2 adrenérgico",
+      "Alfa-1 adrenérgico",
+      "Beta-3 adrenérgico",
+      "Alfa-2 adrenérgico"
+    ],
+    "correctIndex": 2,
+    "explanation": "O receptor alfa-1 adrenérgico é responsável pela vasoconstrição, aumentando a resistência periférica. Beta-1 aumenta frequência e força cardíaca, beta-2 causa vasodilatação e broncodilatação, beta-3 está relacionado à termogênese, e alfa-2 inibe a liberação de neurotransmissores. A ativação alfa-1 é essencial para o efeito vasoconstritor desejado.",
+    "type": "conteudista"
+  },
+  {
+    "question": "De acordo com a estrutura anfipática dos anestésicos locais, qual porção da molécula é responsável pela penetração através da bainha de mielina?",
+    "options": [
+      "Grupo amino terciário ionizado",
+      "Cadeia intermediária éster ou amida",
+      "Grupo lipofílico aromático",
+      "Porção hidrofílica catiônica",
+      "Radical metil terminal"
+    ],
+    "correctIndex": 2,
+    "explanation": "O grupo lipofílico aromático é responsável pela penetração na fibra nervosa através das membranas lipídicas, incluindo a bainha de mielina. O grupo amino é hidrofílico e facilita a difusão aquosa, a cadeia intermediária conecta as porções mas não penetra membranas, a porção catiônica é polar e não atravessa lipídios facilmente.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Segundo o mecanismo de ação apresentado, em qual estado conformacional do canal de sódio o anestésico local tem maior afinidade de ligação?",
+    "options": [
+      "Estado de repouso com canal fechado",
+      "Estado ativado transitório",
+      "Estado inativado após despolarização",
+      "Estado hiperpolarizado",
+      "Estado de condutância máxima"
+    ],
+    "correctIndex": 2,
+    "explanation": "Os anestésicos locais têm maior afinidade pelo canal de sódio no estado inativado, que ocorre após a despolarização. Isso explica o bloqueio dependente de uso - nervos que disparam mais frequentemente são bloqueados mais efetivamente. No estado de repouso a afinidade é menor, e os outros estados mencionados não são os de maior afinidade.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Baseado na composição dos tubetes anestésicos mostrada, qual é a concentração padrão de epinefrina (adrenalina) na proporção 1:50.000?",
+    "options": [
+      "0,01 mg/mL",
+      "0,02 mg/mL",
+      "0,05 mg/mL",
+      "0,1 mg/mL",
+      "0,2 mg/mL"
+    ],
+    "correctIndex": 1,
+    "explanation": "A proporção 1:50.000 significa 1g em 50.000 mL, ou 1000 mg em 50.000 mL, resultando em 0,02 mg/mL. A concentração 1:100.000 seria 0,01 mg/mL, 1:20.000 seria 0,05 mg/mL, 1:10.000 seria 0,1 mg/mL, e 1:5.000 seria 0,2 mg/mL.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Conforme a classificação apresentada, qual anestésico local do tipo éster tem uso predominante em anestesia tópica devido à ausência de grupo hidrofílico?",
+    "options": [
+      "Procaína",
+      "Tetracaína",
+      "Clorprocaína",
+      "Benzocaína",
+      "Articaína"
     ],
     "correctIndex": 3,
-    "explanation": "Hipertensão arterial sistêmica não é uma indicação para anestésicos locais. As indicações incluem cirurgias, lacerações de pele, irritação de pele e alívio da dor (incluindo dor associada ao câncer). Anestésicos locais podem até mesmo causar hipotensão em caso de toxicidade sistêmica.",
+    "explanation": "A benzocaína é o anestésico éster usado para anestesia tópica por não possuir grupo hidrofílico, o que permite sua ação por alteração da forma do canal através da expansão da membrana. Procaína, tetracaína e clorprocaína possuem grupos hidrofílicos. Articaína é uma amida, não um éster.",
     "type": "conteudista"
   },
   {
-    "question": "Qual vasoconstritor é derivado do hormônio ADH?",
+    "question": "Segundo a tabela de propriedades físico-químicas, qual anestésico apresenta o maior coeficiente de solubilidade lipídica?",
     "options": [
-      "Adrenalina",
-      "Noradrenalina",
-      "Fenilefrina",
-      "Efedrina",
-      "Felipressina"
+      "Lidocaína (366)",
+      "Mepivacaína (130)",
+      "Bupivacaína (3420)",
+      "Procaína (100)",
+      "Tetracaína (5822)"
     ],
     "correctIndex": 4,
-    "explanation": "A felipressina é o vasoconstritor derivado do hormônio ADH (hormônio antidiurético). As demais alternativas (adrenalina, noradrenalina, fenilefrina e efedrina) são fármacos simpatomiméticos, não derivados do ADH.",
+    "explanation": "A tetracaína apresenta o maior coeficiente de solubilidade lipídica (5822), seguida pela bupivacaína (3420). Maior lipossolubilidade geralmente correlaciona com maior potência e duração de ação. Lidocaína (366), mepivacaína (130) e procaína (100) têm valores significativamente menores.",
     "type": "conteudista"
   },
   {
-    "question": "Qual característica permite que a benzocaína seja utilizada para anestesia tópica?",
+    "question": "De acordo com o diagrama da medula espinal apresentado, em qual espaço anatômico é realizada a anestesia epidural?",
     "options": [
-      "Possui grupo hidrofílico que facilita a absorção transcutânea",
-      "Tem cadeia intermediária do tipo amida de rápida absorção",
-      "É um anestésico sem grupo hidrofílico que altera a forma do canal",
-      "Possui alta liposolubilidade devido ao grupo amino",
-      "Tem pKa próximo ao pH fisiológico facilitando a ionização"
+      "Espaço subaracnóideo contendo líquor",
+      "Interior do canal medular",
+      "Espaço peridural entre o ligamento amarelo e a dura-máter",
+      "Entre a aracnoide e a pia-máter",
+      "Dentro do tecido nervoso medular"
     ],
     "correctIndex": 2,
-    "explanation": "A benzocaína é um anestésico sem grupo hidrofílico, sendo utilizada para anestesia tópica porque atua alterando a forma do canal devido à expansão causada pela penetração na membrana celular. As demais alternativas descrevem características incorretas da benzocaína.",
+    "explanation": "A anestesia epidural é realizada no espaço peridural (ou epidural), localizado entre o ligamento amarelo e a dura-máter. O espaço subaracnóideo é usado para raquianestesia, contém líquor e está abaixo da dura-máter. Os outros espaços mencionados não são utilizados para administração de anestésicos.",
     "type": "conteudista"
   },
   {
-    "question": "Qual é a principal vantagem da coadministração de vasoconstritores com anestésicos locais?",
+    "question": "Considerando os principais anestésicos locais disponíveis no Brasil mostrados no material, qual anestésico NÃO está disponível comercialmente no país?",
     "options": [
-      "Reduzir a toxicidade hepática dos anestésicos tipo amida",
-      "Aumentar a velocidade de metabolização pelos esterases",
-      "Permitir maior tempo de duração e menor toxicidade ao SNC",
-      "Facilitar a penetração transcutânea em aplicações tópicas",
-      "Reduzir a formação de metahemoglobinemia"
+      "Lidocaína",
+      "Prilocaína",
+      "Etidocaína",
+      "Bupivacaína",
+      "Mepivacaína"
     ],
     "correctIndex": 2,
-    "explanation": "A coadministração de vasoconstritores permite maior tempo de duração do efeito anestésico e menor toxicidade ao SNC, pois se contrapõe à vasodilatação induzida pelos anestésicos locais, impedindo a rápida distribuição sistêmica. As demais alternativas não representam vantagens reais desta associação.",
+    "explanation": "A etidocaína não está listada entre os principais anestésicos locais disponíveis no Brasil. O material mostra que estão disponíveis: articaína, benzocaína, bupivacaína, clorprocaína, lidocaína, mepivacaína, prilocaína, procaína e tetracaína. A etidocaína, embora mencionada na tabela de propriedades, não consta na lista de disponibilidade comercial.",
     "type": "conteudista"
   },
   {
-    "question": "Em relação às duas teorias da farmacodinâmica dos anestésicos locais, qual afirmação está correta?",
+    "question": "Segundo os efeitos adversos dos anestésicos locais sobre o SNC, qual é a progressão correta dos sintomas com o aumento da dose?",
     "options": [
-      "Ambas explicam apenas o mecanismo de ação em nervos mielinizados",
-      "A primeira teoria envolve deformidade da matriz lipoproteica reduzindo o diâmetro dos canais",
-      "A segunda teoria baseia-se na inibição da bomba sódio-potássio",
-      "Apenas a teoria do receptor específico é aceita atualmente",
-      "As teorias são mutuamente excludentes e contraditórias"
+      "Convulsões → sedação → coma → depressão respiratória",
+      "Sedação → convulsões → depressão respiratória → coma",
+      "Inquietação → delírios → convulsões → coma com depressão cardiorrespiratória",
+      "Coma → nistagmo → convulsões → parada respiratória",
+      "Depressão respiratória → confusão → convulsões → coma"
     ],
-    "correctIndex": 1,
-    "explanation": "A primeira teoria explica que as moléculas de anestésico local determinam uma deformidade da matriz lipoproteica, diminuindo o diâmetro dos canais de sódio. A segunda teoria envolve o bloqueio específico dos receptores dos canais de sódio. Ambas teorias são complementares, não excludentes.",
+    "correctIndex": 2,
+    "explanation": "A progressão correta é: inquietação → delírios → convulsões → coma com depressão cardiorrespiratória. Os sintomas iniciais são excitatórios (inquietação, delírios) progredindo para convulsões e finalmente depressão do SNC com coma. As outras sequências não representam a progressão típica da toxicidade dos anestésicos locais.",
     "type": "conteudista"
   },
   {
-    "question": "Qual das seguintes propriedades NÃO é desejável em um anestésico local ideal?",
+    "question": "Com base no mecanismo de metahemoglobinemia apresentado, quais anestésicos locais estão especificamente associados a este distúrbio hematológico?",
     "options": [
-      "Bloqueio reversível do nervo sem lesões",
-      "Irritação mínima aos tecidos",
-      "Início rápido de ação",
-      "Alta toxicidade sistêmica",
-      "Boa difusão para atingir o nervo"
+      "Lidocaína e bupivacaína",
+      "Procaína e tetracaína",
+      "Articaína e prilocaína",
+      "Mepivacaína e ropivacaína",
+      "Benzocaína e clorprocaína"
+    ],
+    "correctIndex": 2,
+    "explanation": "Articaína e prilocaína são os anestésicos especificamente associados à metahemoglobinemia. Seus metabólitos convertem hemoglobina em metemoglobina, que não se liga ao oxigênio. Os outros pares de anestésicos não têm essa associação específica documentada no material.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Analisando a imagem do neurônio e suas estruturas, qual componente celular contém a bainha de mielina interrompida que permite a propagação saltatória do impulso nervoso?",
+    "options": [
+      "Dendritos proximais",
+      "Corpo celular (soma)",
+      "Cone de implantação",
+      "Axônio com nodos de Ranvier",
+      "Terminações sinápticas"
     ],
     "correctIndex": 3,
-    "explanation": "Alta toxicidade sistêmica NÃO é uma propriedade desejável; pelo contrário, busca-se baixa toxicidade sistêmica. As demais propriedades (bloqueio reversível, irritação mínima, início rápido e boa difusão) são características ideais para um anestésico local.",
+    "explanation": "O axônio com nodos de Ranvier contém a bainha de mielina interrompida em intervalos regulares. Estes nodos são essenciais para a condução saltatória, onde o impulso 'salta' entre os nodos. Dendritos, corpo celular, cone de implantação e terminações sinápticas não apresentam esta característica estrutural.",
     "type": "conteudista"
   },
   {
-    "question": "Qual efeito adverso dos anestésicos locais sobre o SNC ocorre em doses mais elevadas?",
+    "question": "De acordo com o material sobre vasoconstritores, qual é a principal enzima responsável pela metabolização dos anestésicos locais do tipo éster?",
     "options": [
-      "Apenas sedação e confusão mental",
-      "Convulsões acompanhadas de coma e depressão cardiorrespiratória",
-      "Nistagmo isolado sem outros sintomas",
-      "Inquietação sem alterações neurológicas graves",
-      "Delírios transitórios de curta duração"
-    ],
-    "correctIndex": 1,
-    "explanation": "Em doses elevadas, os anestésicos locais causam convulsões acompanhadas de coma e depressão cardiorrespiratória, representando toxicidade grave. Os demais sintomas (sedação, nistagmo, inquietação, delírios) ocorrem em doses menores e são menos graves.",
-    "type": "conteudista"
-  },
-  {
-    "question": "Para uma criança de 20 kg, quantos tubetes de lidocaína a 2% podem ser administrados sem exceder a dose máxima?",
-    "options": [
-      "1,4 tubetes",
-      "2,4 tubetes",
-      "3,4 tubetes",
-      "4,4 tubetes",
-      "5,4 tubetes"
-    ],
-    "correctIndex": 1,
-    "explanation": "Para uma criança de 20 kg: dose máxima = 20 kg × 4,4 mg/kg = 88 mg. Como cada tubete contém 36 mg, pode-se administrar 88 ÷ 36 = 2,4 tubetes. As demais alternativas representam cálculos incorretos.",
-    "type": "conteudista"
-  },
-  {
-    "question": "Qual das seguintes afirmações sobre o pH dos anestésicos locais está correta?",
-    "options": [
-      "São ácidos fracos que se tornam mais estáveis em pH básico",
-      "São bases fracas que requerem adição de ácido clorídrico para estabilidade",
-      "Mantêm-se neutros independentemente do pH do meio",
-      "São anfóteros com comportamento variável conforme o tecido",
-      "São ácidos fortes que se dissociam completamente em solução"
-    ],
-    "correctIndex": 1,
-    "explanation": "Os anestésicos locais são bases fracas que, na produção, recebem adição de ácido clorídrico para maior solubilidade e estabilidade. Na injeção, o ácido é neutralizado pelo tecido. As demais alternativas descrevem incorretamente a natureza química dos anestésicos locais.",
-    "type": "conteudista"
-  },
-  {
-    "question": "Qual tipo de anestesia interrompe a transmissão para o sistema nervoso em nível regional?",
-    "options": [
-      "Anestesia periférica tópica",
-      "Anestesia periférica infiltrativa",
-      "Anestesia de bloqueio",
-      "Anestesia por expansão da membrana",
-      "Anestesia por alteração do canal iônico"
+      "Citocromo P450 hepático",
+      "Monoaminoxidase (MAO)",
+      "Colinesterases plasmáticas",
+      "N-acetiltransferase",
+      "Catecol-O-metiltransferase (COMT)"
     ],
     "correctIndex": 2,
-    "explanation": "A anestesia de bloqueio interrompe a transmissão para o sistema nervoso em nível regional, atuando em troncos nervosos. A anestesia periférica (tópica ou infiltrativa) atua nas terminações nervosas sensoriais localmente.",
+    "explanation": "As colinesterases (esterases) plasmáticas são responsáveis pela biotransformação dos anestésicos tipo éster. O citocromo P450 metaboliza as amidas no fígado. MAO e COMT metabolizam catecolaminas, não anestésicos. N-acetiltransferase não está envolvida no metabolismo dos anestésicos locais.",
     "type": "conteudista"
   },
   {
-    "question": "Qual função dos vasoconstritores NÃO está relacionada ao seu uso com anestésicos locais?",
+    "question": "Em um tecido inflamado com pH 6,5, como seria afetada a eficácia de um anestésico local com pKa 7,8 comparado ao tecido normal (pH 7,4)?",
     "options": [
-      "Agentes hemostáticos reduzindo sangramento",
-      "Preservação da ação do anestésico local",
-      "Redução da quantidade necessária de anestésico",
-      "Aumento da pressão arterial sistêmica",
-      "Facilitação do procedimento cirúrgico"
+      "Maior fração ionizada, menor penetração, início mais lento",
+      "Menor fração ionizada, maior penetração, início mais rápido",
+      "pH não afeta a ionização do anestésico",
+      "Maior fração não-ionizada, penetração aumentada",
+      "Ionização completa com bloqueio imediato"
     ],
-    "correctIndex": 3,
-    "explanation": "O aumento da pressão arterial sistêmica não é uma função desejada dos vasoconstritores quando usados com anestésicos locais. Suas funções incluem hemostasia, preservação da ação anestésica, redução da dose necessária e facilitação do procedimento.",
-    "type": "conteudista"
-  },
-  {
-    "question": "Em qual situação clínica específica os vasoconstritores são contraindicados?",
-    "options": [
-      "Procedimentos em pacientes diabéticos",
-      "Cirurgias em extremidades com comprometimento vascular",
-      "Anestesia em crianças menores de 12 anos",
-      "Uso em pacientes com história de alergia a anestésicos",
-      "Procedimentos odontológicos de rotina"
-    ],
-    "correctIndex": 1,
-    "explanation": "Vasoconstritores são contraindicados em cirurgias em extremidades com comprometimento vascular devido ao risco de isquemia. As demais situações não representam contraindicações absolutas ao uso de vasoconstritores.",
-    "type": "conteudista"
-  },
-  {
-    "question": "Qual condição pode resultar do uso inadequado de anestésicos locais?",
-    "options": [
-      "Hiperglicemia secundária",
-      "Metahemoglobinemia",
-      "Insuficiência renal aguda",
-      "Hipertensão portal",
-      "Acidose láctica"
-    ],
-    "correctIndex": 1,
-    "explanation": "A metahemoglobinemia é uma condição que pode resultar do uso inadequado de anestésicos locais, especialmente com prilocaína em doses elevadas. As demais condições não estão diretamente relacionadas ao uso de anestésicos locais.",
-    "type": "conteudista"
-  },
-
-  {
-    "question": "Um paciente apresenta inflamação no local de aplicação do anestésico. Considerando os princípios farmacocinéticos, qual seria a melhor estratégia para otimizar a anestesia?",
-    "options": [
-      "Reduzir a dose e aguardar o efeito anti-inflamatório natural",
-      "Aumentar a concentração do anestésico para compensar o pH ácido",
-      "Administrar anti-inflamatório sistêmico e postergar o procedimento",
-      "Usar anestésico com menor pKa e adicionar bicarbonato de sódio",
-      "Aplicar gelo local para reduzir a acidez tecidual"
-    ],
-    "correctIndex": 3,
-    "explanation": "Usar anestésico com menor pKa e adicionar bicarbonato de sódio é a melhor estratégia. O menor pKa garante mais moléculas não ionizadas mesmo em pH ácido, e o bicarbonato neutraliza a acidez, otimizando a eficácia. As demais alternativas não abordam adequadamente o problema do pH ácido na inflamação.",
+    "correctIndex": 0,
+    "explanation": "Em pH ácido (6,5), um anestésico com pKa 7,8 terá maior fração ionizada (forma BH+), resultando em menor capacidade de penetração através da membrana nervosa lipofílica e início mais lento. A forma não-ionizada (B) é necessária para atravessar membranas. pH mais baixo que o pKa sempre resulta em maior ionização.",
     "type": "raciocínio"
   },
   {
-    "question": "Um cirurgião precisa realizar um procedimento de 3 horas em um paciente de 80 kg. Analisando os princípios farmacológicos, qual seria a abordagem mais segura?",
+    "question": "Um paciente de 30 kg necessita de anestesia para múltiplas extrações dentárias. Considerando a dose máxima de lidocaína 2% com vasoconstritor (4,4 mg/kg) e que cada tubete contém 36 mg, qual seria a conduta mais apropriada se fossem necessários 5 tubetes para o procedimento?",
     "options": [
-      "Administrar toda a dose máxima de lidocaína no início do procedimento",
-      "Usar bupivacaína com vasoconstritor e técnica de bloqueio regional",
-      "Aplicar lidocaína tópica a cada 30 minutos durante o procedimento",
-      "Combinar doses submáximas de diferentes anestésicos locais",
-      "Usar apenas vasoconstritores para prolongar qualquer anestésico"
+      "Utilizar os 5 tubetes pois está dentro da margem de segurança",
+      "Limitar a 3 tubetes e remarcar parte do procedimento",
+      "Substituir por bupivacaína que tem dose máxima maior",
+      "Usar 5 tubetes de lidocaína 1% que contém metade da dose",
+      "Aplicar os 5 tubetes em intervalos de 30 minutos"
     ],
     "correctIndex": 1,
-    "explanation": "Usar bupivacaína com vasoconstritor e técnica de bloqueio regional é a abordagem mais segura para um procedimento longo, pois a bupivacaína tem maior duração de ação, o vasoconstritor prolonga o efeito, e o bloqueio regional reduz a dose total necessária. As demais alternativas apresentam riscos de toxicidade ou eficácia inadequada.",
+    "explanation": "Cálculo: 30 kg × 4,4 mg/kg = 132 mg dose máxima. Cada tubete = 36 mg. Máximo seguro = 132/36 = 3,6 tubetes. Usar 5 tubetes (180 mg) excederia a dose máxima em 36%. A conduta apropriada é limitar a 3 tubetes e remarcar. Bupivacaína tem dose máxima menor (2-3 mg/kg). Lidocaína 1% ainda teria 18 mg/tubete, totalizando 90 mg em 5 tubetes, ainda próximo ao limite.",
     "type": "raciocínio"
   },
   {
-    "question": "Um paciente com insuficiência hepática necessita anestesia local. Aplicando os conhecimentos de metabolismo farmacológico, qual seria a escolha mais apropriada?",
+    "question": "Analisando o gráfico de potencial de membrana durante o bloqueio anestésico, se um nervo está disparando a 100 Hz (100 impulsos/segundo), por que seria bloqueado mais efetivamente que um nervo disparando a 10 Hz?",
     "options": [
-      "Lidocaína em dose reduzida devido ao metabolismo hepático comprometido",
-      "Procaína, pois é metabolizada pelas esterases plasmáticas",
-      "Bupivacaína com vasoconstritor para reduzir absorção sistêmica",
-      "Mepivacaína em dose padrão pois tem baixa toxicidade",
-      "Qualquer anestésico, pois a metabolização local não é afetada"
-    ],
-    "correctIndex": 1,
-    "explanation": "A procaína seria a escolha mais apropriada pois é um éster metabolizado pelas esterases plasmáticas, não dependendo da função hepática. Anestésicos tipo amida (lidocaína, bupivacaína, mepivacaína) são metabolizados no fígado e podem acumular em pacientes com insuficiência hepática.",
-    "type": "raciocínio"
-  },
-  {
-    "question": "Durante um procedimento, observa-se que o anestésico está tendo efeito reduzido após aplicações repetidas. Qual fenômeno farmacológico melhor explica essa situação?",
-    "options": [
-      "Desenvolvimento de tolerância farmacológica por dessensibilização",
-      "Taquifilaxia devido à depleção de receptores disponíveis",
-      "Indução enzimática aumentando o metabolismo local",
-      "Saturação dos canais de sódio por competição molecular",
-      "Alteração conformacional permanente dos canais iônicos"
-    ],
-    "correctIndex": 1,
-    "explanation": "A taquifilaxia é o fenômeno que melhor explica a redução do efeito anestésico após aplicações repetidas, caracterizada pela diminuição progressiva da resposta a doses repetidas de um fármaco. As demais alternativas não descrevem adequadamente este fenômeno específico dos anestésicos locais.",
-    "type": "raciocínio"
-  },
-  {
-    "question": "Um dentista observa que pacientes com abscesso dentário requerem mais anestésico para o mesmo procedimento. Qual princípio farmacológico explica essa observação clínica?",
-    "options": [
-      "Aumento da vascularização local reduz a concentração efetiva",
-      "pH ácido da inflamação aumenta a ionização do anestésico",
-      "Liberação de mediadores inflamatórios bloqueia os canais de sódio",
-      "Edema tecidual dilui mecanicamente o anestésico aplicado",
-      "Hiperalgesia inflamatória requer maior bloqueio neural"
-    ],
-    "correctIndex": 1,
-    "explanation": "O pH ácido da inflamação aumenta a ionização do anestésico, reduzindo a fração não ionizada capaz de atravessar a membrana nervosa, necessitando maior dose para o mesmo efeito. Embora a vascularização também contribua, o pH é o fator principal que explica essa observação clínica.",
-    "type": "raciocínio"
-  },
-  {
-    "question": "Um anestésico com pKa de 8,5 é aplicado em tecido com pH 6,5. Utilizando a equação de Henderson-Hasselbalch, qual seria a consequência clínica esperada?",
-    "options": [
-      "Início de ação muito rápido devido à alta ionização",
-      "Efeito prolongado pela estabilização da molécula",
-      "Início de ação lento devido ao predomínio da forma ionizada",
-      "Perda completa da atividade anestésica",
-      "Aumento da potência por maior afinidade ao receptor"
+      "Maior frequência gera mais calor que potencializa o anestésico",
+      "Nervos rápidos têm menos mielina facilitando o bloqueio",
+      "Bloqueio dependente de uso - mais canais no estado inativado",
+      "Alta frequência dilata os canais permitindo maior entrada do anestésico",
+      "Nervos de disparo rápido são anatomicamente mais superficiais"
     ],
     "correctIndex": 2,
-    "explanation": "Com pKa 8,5 e pH tecidual 6,5, há uma diferença de 2 unidades de pH abaixo do pKa, resultando em predomínio da forma ionizada (aproximadamente 99%), que não atravessa facilmente a membrana, causando início de ação lento. As demais alternativas não refletem corretamente essa relação farmacocinética.",
+    "explanation": "O fenômeno é conhecido como bloqueio dependente de uso. Anestésicos locais têm maior afinidade por canais de sódio no estado inativado. Com disparos frequentes (100 Hz), mais canais passam mais tempo no estado inativado, permitindo maior ligação do anestésico. Calor, mielina, dilatação de canais e anatomia não explicam este fenômeno.",
     "type": "raciocínio"
   },
   {
-    "question": "Um paciente apresenta convulsões após administração de anestésico local. Correlacionando com a farmacocinética, qual seria a sequência de eventos mais provável?",
+    "question": "Um anestésico X tem pKa 8,1 e coeficiente de partição lipídica 3420, enquanto o anestésico Y tem pKa 7,7 e coeficiente 366. Para um bloqueio de nervo profundo em tecido normal, qual seria a escolha mais apropriada e por quê?",
     "options": [
-      "Absorção sistêmica → bloqueio de canais de sódio centrais → excitotoxicidade",
-      "Metabolização rápida → acúmulo de metabólitos tóxicos → convulsões",
-      "Vasoconstrição excessiva → hipóxia cerebral → atividade convulsiva",
-      "Bloqueio seletivo de interneurônios inibitórios → desinibição cortical",
-      "Ligação a receptores NMDA → despolarização excessiva → convulsões"
-    ],
-    "correctIndex": 3,
-    "explanation": "A sequência mais provável é o bloqueio seletivo de interneurônios inibitórios causando desinibição cortical. Os anestésicos locais bloqueiam preferencialmente fibras inibitórias mais sensíveis, resultando em desequilíbrio entre excitação e inibição, levando às convulsões. As demais alternativas não explicam corretamente o mecanismo neurofisiológico.",
-    "type": "raciocínio"
-  },
-  {
-    "question": "Analisando a estrutura molecular dos anestésicos locais, qual modificação estrutural resultaria em maior duração de ação?",
-    "options": [
-      "Aumento da cadeia alquílica no grupo amino para maior hidrofilicidade",
-      "Substituição da ligação éster por amida para resistir à hidrólise",
-      "Adição de grupos polares para facilitar a difusão tecidual",
-      "Redução do anel aromático para diminuir a lipofilicidade",
-      "Incorporação de halogênios para aumentar a eletronegatividade"
+      "Y - início mais rápido compensa a menor potência",
+      "X - maior lipossolubilidade garante melhor penetração profunda",
+      "Y - menor toxicidade por menor lipossolubilidade",
+      "X - pKa mais alto significa maior duração",
+      "Ambos são equivalentes para tecidos profundos"
     ],
     "correctIndex": 1,
-    "explanation": "A substituição da ligação éster por amida resultaria em maior duração de ação, pois as amidas são mais resistentes à hidrólise enzimática que os ésteres, prolongando a meia-vida do fármaco. As demais modificações não necessariamente aumentariam a duração ou poderiam prejudicar outras propriedades farmacológicas.",
+    "explanation": "O anestésico X (características da bupivacaína) seria mais apropriado. Sua alta lipossolubilidade (3420) proporciona melhor penetração em tecidos profundos e maior potência, compensando o início mais lento devido ao pKa mais alto. Para bloqueios profundos, a penetração tecidual é mais crítica que o início rápido. Y (lidocaína) teria início mais rápido mas penetração limitada.",
     "type": "raciocínio"
   },
   {
-    "question": "Um pesquisador desenvolve um novo anestésico local com pKa 7,4. Comparado aos anestésicos convencionais, qual vantagem clínica seria esperada?",
+    "question": "Considerando o diagrama de vias nociceptivas, se um paciente não responde adequadamente à lidocaína tópica para alívio de dor neuropática, qual seria o mecanismo mais provável?",
     "options": [
-      "Maior potência anestésica devido à melhor afinidade ao receptor",
-      "Menor toxicidade sistêmica por rápida eliminação renal",
-      "Início de ação mais rápido por equilíbrio ideal no pH fisiológico",
-      "Maior duração de ação por estabilidade molecular aumentada",
-      "Menor risco de reações alérgicas por menor antigenicidade"
+      "Resistência genética aos anestésicos locais",
+      "Canais de sódio normais mas sensibilização de receptores TRPV1",
+      "Metabolização acelerada pela colinesterase",
+      "pH tecidual alcalino impedindo ionização",
+      "Excesso de mielina bloqueando a penetração"
+    ],
+    "correctIndex": 1,
+    "explanation": "Na dor neuropática, outros mecanismos além dos canais de sódio podem estar envolvidos, como sensibilização de receptores TRPV1 (vaniloides), que respondem a capsaicina, calor e outros estímulos. A lidocaína bloqueia canais de sódio mas não afeta diretamente TRPV1. Resistência genética é rara, lidocaína é metabolizada no fígado (não por colinesterase), pH alcalino favoreceria a ação, e aplicação tópica não envolve mielina.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Analisando a interação entre vasoconstritores e anestésicos locais, por que a felipressina seria preferível à epinefrina em um paciente com hipertireoidismo descompensado?",
+    "options": [
+      "Felipressina tem ação exclusivamente local sem efeitos sistêmicos",
+      "Felipressina é um análogo do ADH sem ação em receptores adrenérgicos",
+      "Felipressina é metabolizada mais rapidamente que epinefrina",
+      "Felipressina causa vasodilatação compensatória",
+      "Felipressina tem meia-vida ultracurta"
+    ],
+    "correctIndex": 1,
+    "explanation": "A felipressina é um análogo sintético do hormônio antidiurético (ADH/vasopressina) que causa vasoconstrição sem ativar receptores adrenérgicos. Em hipertireoidismo, há hipersensibilidade às catecolaminas, tornando a epinefrina (agonista alfa e beta adrenérgico) potencialmente perigosa. Felipressina não tem ação totalmente local, não causa vasodilatação, e sua meia-vida não é ultracurta.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Com base nas propriedades farmacocinéticas, por que a prilocaína seria contraindicada em um paciente com deficiência de glicose-6-fosfato desidrogenase (G6PD)?",
+    "options": [
+      "Causa hemólise direta das hemácias deficientes",
+      "Aumenta o risco de metahemoglobinemia em pacientes susceptíveis",
+      "Interfere com o metabolismo da glicose",
+      "Precipita crise de porfiria aguda",
+      "Inibe a produção de G6PD"
+    ],
+    "correctIndex": 1,
+    "explanation": "A prilocaína pode causar metahemoglobinemia, e pacientes com deficiência de G6PD têm capacidade reduzida de converter metemoglobina em hemoglobina normal devido à diminuição de NADPH. Isso aumenta significativamente o risco de metahemoglobinemia sintomática. A prilocaína não causa hemólise direta, não interfere com metabolismo de glicose, não está associada a porfiria, e não inibe G6PD.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Interpretando o esquema de bloqueio nervoso diferencial, por que as fibras de dor (Aδ e C) são bloqueadas antes das fibras motoras (Aα) quando se usa concentrações progressivas de anestésico local?",
+    "options": [
+      "Fibras de dor são não-mielinizadas, facilitando o acesso do anestésico",
+      "Fibras motoras têm maior densidade de canais de sódio",
+      "Fibras finas têm maior relação superfície/volume e menor distância de difusão",
+      "Receptores de dor são mais sensíveis aos anestésicos",
+      "Fibras de dor disparam em frequências mais altas"
     ],
     "correctIndex": 2,
-    "explanation": "Com pKa 7,4 (igual ao pH fisiológico), haveria equilíbrio ideal entre formas ionizada e não ionizada no pH fisiológico, resultando em início de ação mais rápido. Isso otimiza tanto a penetração tecidual quanto a disponibilidade para ligação ao receptor. As demais vantagens não decorrem diretamente do pKa.",
+    "explanation": "As fibras finas (Aδ e C) têm maior relação superfície/volume e menor distância para o anestésico difundir até o axoplasma, sendo bloqueadas com concentrações menores. Embora fibras C sejam não-mielinizadas, as Aδ são mielinizadas. A densidade de canais e sensibilidade de receptores não diferem significativamente. A frequência de disparo varia com o estímulo, não é intrínseca à fibra.",
     "type": "raciocínio"
   },
   {
-    "question": "Em uma emergência, um médico precisa escolher entre lidocaína com ou sem vasoconstritor para anestesia em extremidade com circulação comprometida. Qual decisão seria mais apropriada e por quê?",
+    "question": "Considerando a farmacodinâmica dos anestésicos locais, se fosse necessário realizar anestesia em um paciente usando medicação antiarrítmica classe Ib (mexiletina), qual seria a principal preocupação?",
     "options": [
-      "Usar com vasoconstritor para prolongar o efeito e reduzir doses repetidas",
-      "Usar sem vasoconstritor para evitar isquemia adicional no tecido comprometido",
-      "Usar dose dupla sem vasoconstritor para compensar a rápida absorção",
-      "Alternar entre preparações com e sem vasoconstritor conforme a resposta",
-      "Usar vasoconstritor em dose reduzida para minimizar riscos vasculares"
+      "Antagonismo competitivo reduzindo eficácia do anestésico",
+      "Potencialização do bloqueio de canais de sódio com risco de toxicidade",
+      "Interação metabólica aumentando níveis de metemoglobina",
+      "Inibição da biotransformação hepática do anestésico",
+      "Precipitação de arritmias por interação farmacológica"
     ],
     "correctIndex": 1,
-    "explanation": "Usar sem vasoconstritor seria mais apropriado para evitar isquemia adicional em tecido já comprometido. Em extremidades com circulação prejudicada, vasoconstritores podem agravar a isquemia, aumentando o risco de necrose tecidual. A segurança vascular supera as vantagens farmacológicas do vasoconstritor nesta situação.",
+    "explanation": "Antiarrítmicos classe Ib como mexiletina também bloqueiam canais de sódio cardíacos e neuronais. O uso concomitante com anestésicos locais pode resultar em bloqueio aditivo ou sinérgico dos canais de sódio, aumentando o risco de toxicidade sistêmica, especialmente cardíaca e do SNC. Não há antagonismo, não afetam metahemoglobina, a interação não é metabólica, e o risco é de bradicardia/bloqueios, não arritmias.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Analisando o esquema de pH e ionização, em qual situação clínica o bicarbonato de sódio poderia ser adicionado à solução anestésica para melhorar o bloqueio?",
+    "options": [
+      "Anestesia em tecido infectado com pH ácido",
+      "Bloqueio de nervos profundos com tecido fibrosado",
+      "Anestesia tópica em mucosas",
+      "Raquianestesia com líquor alcalino",
+      "Bloqueio em pacientes com alcalose metabólica"
+    ],
+    "correctIndex": 0,
+    "explanation": "Em tecido infectado/inflamado com pH ácido, adicionar bicarbonato (alcalinizante) à solução anestésica aumenta o pH local, aumentando a fração não-ionizada do anestésico e melhorando sua penetração neural. Em tecido fibrosado, o problema é mecânico, não de pH. Anestesia tópica não se beneficia de alcalinização. Líquor já tem pH controlado, e em alcalose não há necessidade de mais alcalinização.",
     "type": "raciocínio"
   }
 ]

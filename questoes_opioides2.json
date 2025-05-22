@@ -195,4 +195,198 @@
     "type": "conteudista"
   },
   {
-    "question": "Na modulação da dor no corno dorsal da medula espinal, os receptores opioides μ exercem ação ini
+    "question": "Na modulação da dor no corno dorsal da medula espinal, os receptores opioides μ exercem ação iniibitória através de:",
+    "options": [
+      "Aumento do influxo de Ca²⁺ pré-sináptico e hiperpolarização pós-sináptica",
+      "Diminuição do influxo de Ca²⁺ pré-sináptico e aumento da condutância de K⁺ pós-sináptica",
+      "Bloqueio dos canais de Na⁺ e ativação dos receptores GABA",
+      "Inibição da síntese de prostaglandinas e liberação de encefalinas",
+      "Ativação da adenilil ciclase e aumento de AMPc intracelular"
+    ],
+    "correctIndex": 1,
+    "explanation": "Os receptores opioides μ diminuem o influxo de Ca²⁺ pré-sináptico (reduzindo liberação de neurotransmissores) e aumentam a condutância de K⁺ pós-sináptica (causando hiperpolarização). A alternativa A inverte o efeito no Ca²⁺. As alternativas C, D e E descrevem outros mecanismos não específicos dos receptores opioides μ.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Qual efeito adverso dos opioides NÃO desenvolve tolerância com o uso crônico?",
+    "options": [
+      "Náuseas e vômitos",
+      "Sedação e sonolência",
+      "Obstipação intestinal",
+      "Depressão respiratória",
+      "Disforia"
+    ],
+    "correctIndex": 2,
+    "explanation": "A obstipação intestinal não desenvolve tolerância, sendo um efeito adverso persistente dos opioides. Náuseas, sedação e disforia tendem a diminuir com o tempo. A depressão respiratória desenvolve tolerância parcial mas requer monitorização contínua.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Considerando a farmacologia comparada, qual opioide seria MAIS apropriado para um paciente que necessita analgesia de longa duração com menor frequência de administração?",
+    "options": [
+      "Fentanil devido à sua alta potência",
+      "Morfina de liberação imediata pela eficácia comprovada",
+      "Metadona devido à sua longa meia-vida (8-75h)",
+      "Tramadol pela ausência de efeitos adversos",
+      "Remifentanila pela ação ultra-rápida"
+    ],
+    "correctIndex": 2,
+    "explanation": "A metadona, com meia-vida de 8-75 horas, é mais apropriada para analgesia de longa duração com menor frequência. Fentanil tem curta duração. Morfina de liberação imediata requer administração frequente. Tramadol tem duração intermediária. Remifentanila tem duração ultra-curta.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Qual das seguintes afirmações sobre os peptídeos opioides endógenos (POE) está CORRETA?",
+    "options": [
+      "São liberados apenas durante lesões teciduais graves",
+      "Exercem ação analgésica similar aos opioides farmacológicos via modulação da dor",
+      "Atuam exclusivamente em receptores periféricos",
+      "São sintetizados apenas no corno dorsal da medula espinal",
+      "Não são influenciados por exercícios ou estresse"
+    ],
+    "correctIndex": 1,
+    "explanation": "Os POE exercem ação analgésica similar aos opioides farmacológicos através da via moduladora da dor. São liberados por diversos estímulos incluindo exercícios e estresse (não apenas lesões graves), atuam central e perifericamente, são sintetizados em múltiplos locais, e são influenciados por exercícios e estresse.",
+    "type": "conteudista"
+  },
+  {
+    "question": "No mecanismo de hiperalgesia primária, qual sequência de eventos está CORRETAMENTE ordenada?",
+    "options": [
+      "Estímulo lesivo → liberação de mediadores → sensibilização → lesão celular",
+      "Lesão celular → liberação de enzimas → ativação de mediadores → sensibilização seletiva",
+      "Sensibilização → estímulo lesivo → liberação de mediadores → lesão celular",
+      "Liberação de mediadores → estímulo lesivo → lesão celular → sensibilização",
+      "Ativação de mediadores → sensibilização → estímulo lesivo → liberação de enzimas"
+    ],
+    "correctIndex": 1,
+    "explanation": "A sequência correta é: lesão celular → liberação de enzimas intracelulares → liberação e ativação de mediadores endógenos → sensibilização seletiva por substâncias algésicas. As outras alternativas apresentam a ordem incorreta dos eventos na cascata inflamatória e de sensibilização.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Qual característica diferencia farmacologicamente os AINEs (anti-inflamatórios não esteroidais) dos AIES (anti-inflamatórios esteroidais)?",
+    "options": [
+      "AINEs bloqueiam síntese de leucotrienos, AIES bloqueiam histamina",
+      "AINEs inibem ciclooxigenases, AIES têm mecanismo via receptores de glicocorticoides",
+      "AINEs atuam perifericamente, AIES atuam apenas centralmente",
+      "AINEs são irreversíveis, AIES são competitivos reversíveis",
+      "AINEs bloqueiam síntese proteica, AIES inibem fosfolipase A2"
+    ],
+    "correctIndex": 1,
+    "explanation": "AINEs inibem ciclooxigenases (COX) bloqueando síntese de prostaglandinas, enquanto AIES (corticoides) atuam via receptores de glicocorticoides com múltiplos efeitos anti-inflamatórios. As outras alternativas descrevem incorretamente os mecanismos desses grupos farmacológicos.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Qual das seguintes situações clínicas representaria CONTRAINDICAÇÃO relativa para uso de morfina?",
+    "options": [
+      "Paciente com dor oncológica em cuidados paliativos",
+      "Paciente com insuficiência renal crônica grave",
+      "Pós-operatório de cirurgia ortopédica maior",
+      "Paciente com dor neuropática refratária",
+      "Emergência traumática com dor intensa"
+    ],
+    "correctIndex": 1,
+    "explanation": "Insuficiência renal crônica grave é contraindicação relativa devido ao acúmulo de metabólitos (morfina-3-glicuronídeo) que podem causar excitação do SNC e depressão respiratória. As outras situações são indicações apropriadas para morfina, com monitorização adequada.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Considerando as lâminas do corno dorsal da medula espinal, qual afirmação está CORRETA?",
+    "options": [
+      "Lâmina I responde apenas a estímulos táteis não nocivos",
+      "Lâmina II é formada por neurônios motores exclusivamente",
+      "Maioria dos neurônios da lâmina I responde exclusivamente a estímulos nocivos",
+      "Lâmina II não possui interneurônios inibitórios",
+      "Todas as lâminas respondem igualmente a todos os tipos de estímulos"
+    ],
+    "correctIndex": 2,
+    "explanation": "A maioria dos neurônios da lâmina I responde exclusivamente a estímulos nocivos. A lâmina II é formada por interneurônios excitatórios e inibitórios (não motores), alguns respondendo somente a aferências nociceptivas. As outras alternativas contradizem a organização funcional descrita.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual mecanismo explica a eficácia da via de administração de adesivos transdérmicos para opioides?",
+    "options": [
+      "Absorção mais rápida que a via intravenosa",
+      "Maior concentração plasmática instantânea",
+      "Liberação contínua evitando flutuações e metabolismo de primeira passagem",
+      "Ação local sem efeitos sistêmicos",
+      "Maior seletividade pelos receptores periféricos"
+    ],
+    "correctIndex": 2,
+    "explanation": "Adesivos transdérmicos proporcionam liberação contínua por vários dias, evitando flutuações de concentração plasmática e contornando o metabolismo de primeira passagem. Não são mais rápidos que IV, não geram concentração instantânea alta, têm efeitos sistêmicos, e não são seletivos para receptores periféricos.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Qual das seguintes associações farmacológicas está INCORRETA?",
+    "options": [
+      "Tylex® - codeína com paracetamol",
+      "Tramal® - tramadol",
+      "Mytedom® - metadona",
+      "Oxycontin® - oxicodona de liberação lenta",
+      "Novalgina® - morfina"
+    ],
+    "correctIndex": 4,
+    "explanation": "Novalgina® contém dipirona, não morfina. As demais associações estão corretas: Tylex® (codeína + paracetamol), Tramal® (tramadol), Mytedom® (metadona), e Oxycontin® (oxicodona de liberação controlada).",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual substância algésica está INCORRETAMENTE associada ao seu papel na hiperalgesia primária?",
+    "options": [
+      "Bradicinina - vasodilatação e sensibilização nociceptiva",
+      "Prostaglandinas E2 e I2 - sensibilização seletiva de nociceptores",
+      "Serotonina (5-HT) - modulação inibitória da transmissão dolorosa",
+      "Substância P - neurotransmissão nociceptiva e inflamação neurógena",
+      "Histamina - mediador inflamatório com ação vasoativa"
+    ],
+    "correctIndex": 2,
+    "explanation": "A serotonina (5-HT) na hiperalgesia primária atua como mediador pró-algésico (facilitatório), não inibitório. Bradicinina, prostaglandinas E2/I2, substância P e histamina são corretamente descritas como mediadores que contribuem para sensibilização e hiperalgesia.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Qual propriedade farmacocinética da oxicodona justifica sua formulação em cápsulas de liberação lenta com efeito de 12 horas?",
+    "options": [
+      "Baixa potência requerendo doses frequentes",
+      "Rápida eliminação renal necessitando reposição constante",
+      "Potência 1,8 vezes maior que morfina permitindo dosagem espaçada",
+      "Metabolismo hepático acelerado com meia-vida curta",
+      "Baixa biodisponibilidade oral exigindo doses elevadas"
+    ],
+    "correctIndex": 2,
+    "explanation": "A oxicodona tem potência 1,8 vezes maior que a morfina e boa biodisponibilidade oral, permitindo formulações de liberação lenta com dosagem a cada 12 horas. As outras alternativas contradizem suas propriedades farmacocinéticas favoráveis para liberação controlada.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Na diferenciação entre tipos de dor, qual característica é específica da dor protopática?",
+    "options": [
+      "Transmissão por fibras A-delta mielinizadas",
+      "Bem localizada e quantificada",
+      "Corresponde à sensibilidade visceral e estímulos profundos",
+      "Início e término abruptos",
+      "Relacionada exclusivamente a estímulos térmicos"
+    ],
+    "correctIndex": 2,
+    "explanation": "A dor protopática (lenta/secundária) corresponde à sensibilidade visceral e estímulos profundos, sendo transmitida por fibras C amielínicas. É mal localizada, tem características temporais graduais, e pode ser causada por vários tipos de estímulos, não apenas térmicos.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual estratégia terapêutica seria MAIS apropriada para um paciente com dor crônica que desenvolveu tolerância aos efeitos analgésicos mas mantém obstipação severa?",
+    "options": [
+      "Aumentar progressivamente a dose do mesmo opioide",
+      "Adicionar estimulantes intestinais mantendo a dose",
+      "Rotação de opioides associada ao manejo intestinal específico",
+      "Suspender opioides e usar apenas AINEs",
+      "Manter dose e adicionar antiespasmódicos"
+    ],
+    "correctIndex": 2,
+    "explanation": "A rotação de opioides pode restaurar eficácia analgésica aproveitando tolerância cruzada incompleta, enquanto manejo intestinal específico aborda a obstipação persistente. Apenas aumentar dose intensifica efeitos adversos. Só adicionar estimulantes não resolve tolerância. AINEs podem ser insuficientes para dor severa. Antiespasmódicos não resolvem obstipação opioide.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Qual característica farmacodinâmica dos receptores opioides explica sua eficácia no controle da dor?",
+    "options": [
+      "São receptores ionotrópicos que despolarizam neurônios rapidamente",
+      "Estão acoplados à proteína G e modulam a transmissão nociceptiva",
+      "Ativam diretamente canais de cálcio aumentando liberação de neurotransmissores",
+      "São exclusivamente pós-sinápticos no corno dorsal da medula",
+      "Regulam apenas a síntese de encefalinas endógenas"
+    ],
+    "correctIndex": 1,
+    "explanation": "Os receptores opioides são acoplados à proteína G e estão localizados no cérebro e medula espinal, modulando a transmissão da dor através de mecanismos pré e pós-sinápticos. Não são ionotrópicos, não ativam canais de cálcio diretamente, existem em localizações pré e pós-sinápticas, e têm múltiplos efeitos além da regulação de encefalinas.",
+    "type": "conteudista"
+  }
+]

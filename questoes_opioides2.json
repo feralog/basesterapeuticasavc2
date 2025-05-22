@@ -1,0 +1,198 @@
+[
+  {
+    "question": "Segundo a definição apresentada, a dor é caracterizada como:",
+    "options": [
+      "Experiência sensitiva desagradável associada exclusivamente à lesão tecidual",
+      "Resposta neural automática a estímulos nocivos do ambiente",
+      "Experiência sensitiva e emocional desagradável associada ou descrita em termos de lesão tecidual",
+      "Processo inflamatório resultante de dano celular e liberação de mediadores",
+      "Ativação de nociceptores por estímulos físicos, químicos ou biológicos"
+    ],
+    "correctIndex": 2,
+    "explanation": "A definição correta enfatiza tanto o componente sensitivo quanto emocional da dor, associada ou descrita em termos de lesão tecidual. As alternativas A e E são reducionistas ao focarem apenas aspectos físicos. A alternativa B descreve reflexos nociceptivos, não a experiência da dor. A alternativa D descreve inflamação, não dor propriamente dita.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual das seguintes características diferencia a dor rápida (epicrítica) da dor lenta (protopática)?",
+    "options": [
+      "A dor rápida é transmitida por fibras C amielínicas, enquanto a lenta por fibras A-delta",
+      "A dor rápida é mal localizada, enquanto a lenta é bem localizada e quantificada",
+      "A dor rápida corresponde à sensibilidade visceral, enquanto a lenta a estímulos superficiais",
+      "A dor rápida é bem localizada e transmitida por fibras A-delta mielinizadas",
+      "A dor rápida tem início gradual, enquanto a lenta começa abruptamente"
+    ],
+    "correctIndex": 3,
+    "explanation": "A dor rápida (epicrítica) é bem localizada, qualificada e quantificada, transmitida por fibras A-delta mielinizadas. A alternativa A inverte os tipos de fibras. A alternativa B inverte as características de localização. A alternativa C confunde as origens dos estímulos. A alternativa E inverte as características temporais.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual mediador NÃO está diretamente envolvido na sensibilização seletiva durante a hiperalgesia primária?",
+    "options": [
+      "Bradicinina (BK)",
+      "Serotonina (5-HT)",
+      "Prostaglandinas (PGE2, PGI2)",
+      "GABA",
+      "Substância P"
+    ],
+    "correctIndex": 3,
+    "explanation": "O GABA é um neurotransmissor inibitório que não participa da sensibilização durante hiperalgesia primária. Bradicinina, serotonina e prostaglandinas são mediadores pró-algésicos que causam sensibilização. A substância P também está envolvida na transmissão nociceptiva e inflamação neurógena.",
+    "type": "conteudista"
+  },
+  {
+    "question": "O paracetamol (Tylenol) exerce sua ação analgésica primariamente através de:",
+    "options": [
+      "Inibição não seletiva das ciclooxigenases COX-1 e COX-2",
+      "Bloqueio dos canais de sódio voltagem-dependentes",
+      "Ação sobre a COX-3, uma isoforma da COX-1",
+      "Inibição da síntese de leucotrienos via 5-lipoxigenase",
+      "Modulação dos receptores GABA-A no sistema nervoso central"
+    ],
+    "correctIndex": 2,
+    "explanation": "O paracetamol atua principalmente através da COX-3, uma isoforma da COX-1, explicando seu efeito analgésico com menor ação anti-inflamatória. A alternativa A descreve AINEs tradicionais. A alternativa B descreve anticonvulsivantes. A alternativa D descreve inibidores de leucotrienos. A alternativa E descreve benzodiazepínicos.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual das seguintes afirmações sobre a nomenclatura dos compostos relacionados ao ópio está INCORRETA?",
+    "options": [
+      "Opiáceo descreve alcaloides naturais como morfina, codeína e tebaina",
+      "Opioide refere-se a todos os compostos que atuam em receptores opioides",
+      "O termo narcótico atualmente é mais jurídico para drogas de abuso",
+      "Heroína é classificada como opiáceo natural extraído diretamente da papoula",
+      "Papaverina é considerada um alcaloide natural do ópio"
+    ],
+    "correctIndex": 3,
+    "explanation": "A heroína é um opioide semissintético derivado da morfina, não um alcaloide natural extraído diretamente da papoula. As demais alternativas estão corretas: opiáceo se refere aos naturais, opioide a todos os compostos que atuam nos receptores, narcótico tem uso jurídico, e papaverina é um alcaloide natural.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual receptor opioide é considerado o principal receptor analgésico e tem maior afinidade pela morfina comparado à codeína?",
+    "options": [
+      "Receptor delta (δ)",
+      "Receptor kappa (κ)",
+      "Receptor mu (μ)",
+      "Receptor sigma (σ)",
+      "Receptor ORL-1"
+    ],
+    "correctIndex": 2,
+    "explanation": "O receptor mu (μ) é o principal receptor analgésico e apresenta maior afinidade pela morfina do que pela codeína. Os receptores delta e kappa também mediam analgesia, mas o mu é o principal alvo da morfina. Os receptores sigma e ORL-1 não são receptores opioides clássicos.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Por que a codeína e oxicodona são mais efetivos por via oral comparados à morfina?",
+    "options": [
+      "Apresentam maior solubilidade lipídica facilitando absorção intestinal",
+      "Não são substratos das glicoproteínas de efluxo intestinal",
+      "Sofrem biotransformação de primeira passagem reduzida",
+      "Possuem meia-vida plasmática mais longa",
+      "Apresentam maior afinidade pelos receptores mu no trato digestivo"
+    ],
+    "correctIndex": 2,
+    "explanation": "A codeína e oxicodona sofrem menor biotransformação de primeira passagem, mantendo maior biodisponibilidade oral. A morfina sofre extenso metabolismo hepático de primeira passagem, reduzindo sua eficácia oral. As outras alternativas não explicam adequadamente a diferença na eficácia oral entre esses opioides.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Qual das seguintes estratégias pode ser utilizada para contornar o efeito de primeira passagem dos opioides?",
+    "options": [
+      "Administração sublingual exclusivamente",
+      "Uso de inibidores da CYP2D6",
+      "Insuflação nasal e adesivos transdérmicos",
+      "Coadministração com ácido acetilsalicílico",
+      "Formulações de liberação entérica"
+    ],
+    "correctIndex": 2,
+    "explanation": "A insuflação nasal e adesivos transdérmicos evitam o metabolismo hepático de primeira passagem. A via sublingual ajuda parcialmente, mas não é a única opção. Inibidores enzimáticos podem alterar o metabolismo mas não são estratégias seguras. AAS não interfere na primeira passagem. Formulações entéricas não evitam o metabolismo hepático.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Na biotransformação da morfina, qual metabólito apresenta maior potência analgésica?",
+    "options": [
+      "Morfina-3-glicuronídeo",
+      "Morfina-6-glicuronídeo",
+      "Normorfina",
+      "Codeína-6-glicuronídeo",
+      "Morfina sulfatada"
+    ],
+    "correctIndex": 1,
+    "explanation": "A morfina-6-glicuronídeo possui maior potência analgésica que a morfina original. A morfina-3-glicuronídeo é neuroexcitatória. Normorfina é um metabólito menor. Codeína-6-glicuronídeo não é metabólito da morfina. Morfina sulfatada não é uma via principal de conjugação.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Por que pacientes com doença renal crônica têm maior risco de efeitos adversos com morfina?",
+    "options": [
+      "Aumento da ligação às proteínas plasmáticas",
+      "Redução da biotransformação hepática",
+      "Acúmulo de metabólitos conjugados excitadores do SNC",
+      "Maior permeabilidade da barreira hematoencefálica",
+      "Diminuição da síntese de receptores opioides"
+    ],
+    "correctIndex": 2,
+    "explanation": "A excreção renal prejudicada leva ao acúmulo de metabólitos conjugados como morfina-3-glicuronídeo, que é neuroexcitatório e pode causar sedação e depressão respiratória. As outras alternativas não explicam adequadamente o mecanismo específico em pacientes renais crônicos.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Qual fármaco é descrito como opioide de ação mista (agonista-antagonista)?",
+    "options": [
+      "Tramadol",
+      "Nalbufina",
+      "Metadona",
+      "Oxicodona",
+      "Remifentanila"
+    ],
+    "correctIndex": 1,
+    "explanation": "A nalbufina é especificamente descrita no texto como opioide agonista-antagonista (misto). Tramadol tem mecanismo misto mas não é agonista-antagonista opioide. Metadona, oxicodona e remifentanila são agonistas opioides puros.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual das seguintes características é específica do tramadol?",
+    "options": [
+      "Opioide forte com potência 100 vezes maior que morfina",
+      "Vida média de 8-75 horas com necessidade de impregnação",
+      "Ação sinérgica com paracetamol e dipirona, usado no segundo degrau",
+      "Absorção rápida com biodisponibilidade exclusivamente oral",
+      "Formulação apenas em adesivos transdérmicos"
+    ],
+    "correctIndex": 2,
+    "explanation": "O tramadol tem ação sinérgica com paracetamol e dipirona, sendo usado no segundo degrau da escada analgésica. A alternativa A descreve fentanil. A alternativa B descreve metadona. As alternativas D e E são incorretas sobre as vias de administração do tramadol.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Por que a metadona pode ser usada em pacientes com insuficiência renal?",
+    "options": [
+      "Não é metabolizada no fígado",
+      "Possui excreção biliar predominante",
+      "Não produz metabólitos ativos",
+      "Apresenta metabolização hepática sem acumulação renal significativa",
+      "É eliminada exclusivamente por via pulmonar"
+    ],
+    "correctIndex": 3,
+    "explanation": "A metadona tem metabolização hepática e pode ser usada em insuficiência renal, sugerindo que não há acumulação renal significativa de metabólitos problemáticos. As outras alternativas são incorretas sobre a farmacocinética da metadona.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Qual característica farmacocinética do fentanil justifica sua indicação em procedimentos cirúrgicos de curta duração?",
+    "options": [
+      "Baixa potência analgésica com efeitos colaterais mínimos",
+      "Rápida ação, curta duração e elevada potência",
+      "Longa duração de ação com liberação controlada",
+      "Excreção renal lenta mantendo analgesia prolongada",
+      "Metabolismo hepático reduzido evitando interações"
+    ],
+    "correctIndex": 1,
+    "explanation": "O fentanil tem rápida ação, curta duração (30 minutos) e elevada potência (100x morfina), ideal para procedimentos cirúrgicos. A alternativa A contradiz sua alta potência. As alternativas C e D contradizem sua curta duração. A alternativa E não é a característica principal para uso cirúrgico.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Qual das seguintes características é específica da buprenorfina?",
+    "options": [
+      "Faixa terapêutica ampla com baixo risco de intoxicação",
+      "Rápida dissociação do receptor opioide mu",
+      "Ligação intensa e duradoura com o receptor",
+      "Metabolização exclusiva por esterases plasmáticas",
+      "Indicação apenas para dor neuropática crônica"
+    ],
+    "correctIndex": 2,
+    "explanation": "A buprenorfina apresenta ligação intensa e duradoura com o receptor, além de ser molécula agonista e antagonista. Tem faixa terapêutica estreita (não ampla), ligação duradoura (não rápida dissociação), não tem metabolização apenas por esterases, e não é exclusiva para dor neuropática.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Na modulação da dor no corno dorsal da medula espinal, os receptores opioides μ exercem ação ini

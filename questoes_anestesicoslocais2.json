@@ -1,0 +1,392 @@
+{
+    "question": "Qual é o mecanismo primário de ação dos anestésicos locais na transmissão nervosa?",
+    "options": [
+      "Bloqueio dos canais de cálcio voltagem-dependente",
+      "Inibição da bomba sódio-potássio ATPase",
+      "Bloqueio dos canais de sódio voltagem-dependente",
+      "Ativação dos receptores GABA-érgicos",
+      "Inibição da recaptação de noradrenalina"
+    ],
+    "correctIndex": 2,
+    "explanation": "Os anestésicos locais exercem seu efeito através do bloqueio dos canais de sódio voltagem-dependente, impedindo a despolarização e interrompendo o impulso nervoso. As demais alternativas não correspondem ao mecanismo de ação principal dos anestésicos locais.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Em relação à estrutura química dos anestésicos locais, qual componente é responsável pela penetração na fibra nervosa?",
+    "options": [
+      "Grupo amino (porção hidrofílica)",
+      "Cadeia intermediária éster",
+      "Cadeia intermediária amida",
+      "Grupo lipofílico (aromático)",
+      "Radical hidroxila terminal"
+    ],
+    "correctIndex": 3,
+    "explanation": "O grupo lipofílico (aromático) é responsável pela penetração na fibra nervosa devido à sua afinidade lipídica. O grupo amino é responsável pela difusão, enquanto as cadeias intermediárias (éster ou amida) determinam o metabolismo do fármaco.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual das seguintes afirmações sobre o metabolismo dos anestésicos locais está INCORRETA?",
+    "options": [
+      "Anestésicos tipo éster são biotransformados pelas esterases plasmáticas",
+      "Anestésicos tipo amida são biotransformados no fígado",
+      "A cocaína é um exemplo de anestésico local tipo éster",
+      "A lidocaína é biotransformada pelas esterases plasmáticas",
+      "A procaína é metabolizada pelas esterases plasmáticas"
+    ],
+    "correctIndex": 3,
+    "explanation": "A lidocaína é um anestésico local tipo amida e, portanto, é biotransformada no fígado, não pelas esterases plasmáticas. As demais afirmações estão corretas: ésteres são metabolizados pelas esterases plasmáticas e amidas no fígado.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é a dose máxima recomendada de lidocaína por quilograma de peso corporal?",
+    "options": [
+      "2,2 mg/Kg",
+      "3,3 mg/Kg",
+      "4,4 mg/Kg",
+      "5,5 mg/Kg",
+      "6,6 mg/Kg"
+    ],
+    "correctIndex": 2,
+    "explanation": "A dose máxima de lidocaína é 4,4 mg/Kg de peso corporal. Doses superiores podem causar toxicidade sistêmica, enquanto doses inferiores podem não proporcionar anestesia adequada em alguns casos.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Quantos miligramas de lidocaína contém cada tubete de solução a 2%?",
+    "options": [
+      "18 mg",
+      "20 mg",
+      "32 mg",
+      "36 mg",
+      "40 mg"
+    ],
+    "correctIndex": 3,
+    "explanation": "Cada tubete de lidocaína a 2% contém 36 mg. Isso é calculado considerando que uma solução a 2% tem 20 mg/mL e cada tubete contém 1,8 mL (20 mg × 1,8 mL = 36 mg). As demais alternativas representam cálculos incorretos.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual anestésico local possui o menor tempo de latência devido ao seu pKa?",
+    "options": [
+      "Cocaína (pKa 8,7)",
+      "Procaína (pKa 8,5)",
+      "Bupivacaína (pKa 8,1)",
+      "Mepivacaína (pKa 7,6)",
+      "Ropivacaína (pKa 8,2)"
+    ],
+    "correctIndex": 3,
+    "explanation": "A mepivacaína possui o menor pKa (7,6), resultando no menor tempo de latência. Quanto menor o pKa, mais próximo do pH fisiológico, maior a fração não ionizada e mais rápido o início de ação. As demais alternativas têm pKa mais alto.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Em processos inflamatórios, o que acontece com o tempo de latência dos anestésicos locais?",
+    "options": [
+      "Diminui significativamente devido ao aumento do fluxo sanguíneo",
+      "Permanece inalterado independente do pH tecidual",
+      "Aumenta devido à acidificação do pH tecidual",
+      "Diminui devido à vasodilatação local",
+      "Varia conforme o tipo de inflamação aguda ou crônica"
+    ],
+    "correctIndex": 2,
+    "explanation": "No processo inflamatório, o pH tecidual diminui (acidificação), aumentando a forma ionizada do anestésico, o que reduz sua solubilidade e passagem pela membrana nervosa, resultando em maior tempo de latência. As demais alternativas não explicam corretamente este fenômeno.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual das seguintes NÃO é uma indicação típica dos anestésicos locais?",
+    "options": [
+      "Cirurgias menores",
+      "Lacerações de pele",
+      "Dor associada ao câncer",
+      "Hipertensão arterial sistêmica",
+      "Irritação de pele"
+    ],
+    "correctIndex": 3,
+    "explanation": "Hipertensão arterial sistêmica não é uma indicação para anestésicos locais. As indicações incluem cirurgias, lacerações de pele, irritação de pele e alívio da dor (incluindo dor associada ao câncer). Anestésicos locais podem até mesmo causar hipotensão em caso de toxicidade sistêmica.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual vasoconstritor é derivado do hormônio ADH?",
+    "options": [
+      "Adrenalina",
+      "Noradrenalina",
+      "Fenilefrina",
+      "Efedrina",
+      "Felipressina"
+    ],
+    "correctIndex": 4,
+    "explanation": "A felipressina é o vasoconstritor derivado do hormônio ADH (hormônio antidiurético). As demais alternativas (adrenalina, noradrenalina, fenilefrina e efedrina) são fármacos simpatomiméticos, não derivados do ADH.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual característica permite que a benzocaína seja utilizada para anestesia tópica?",
+    "options": [
+      "Possui grupo hidrofílico que facilita a absorção transcutânea",
+      "Tem cadeia intermediária do tipo amida de rápida absorção",
+      "É um anestésico sem grupo hidrofílico que altera a forma do canal",
+      "Possui alta liposolubilidade devido ao grupo amino",
+      "Tem pKa próximo ao pH fisiológico facilitando a ionização"
+    ],
+    "correctIndex": 2,
+    "explanation": "A benzocaína é um anestésico sem grupo hidrofílico, sendo utilizada para anestesia tópica porque atua alterando a forma do canal devido à expansão causada pela penetração na membrana celular. As demais alternativas descrevem características incorretas da benzocaína.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é a principal vantagem da coadministração de vasoconstritores com anestésicos locais?",
+    "options": [
+      "Reduzir a toxicidade hepática dos anestésicos tipo amida",
+      "Aumentar a velocidade de metabolização pelos esterases",
+      "Permitir maior tempo de duração e menor toxicidade ao SNC",
+      "Facilitar a penetração transcutânea em aplicações tópicas",
+      "Reduzir a formação de metahemoglobinemia"
+    ],
+    "correctIndex": 2,
+    "explanation": "A coadministração de vasoconstritores permite maior tempo de duração do efeito anestésico e menor toxicidade ao SNC, pois se contrapõe à vasodilatação induzida pelos anestésicos locais, impedindo a rápida distribuição sistêmica. As demais alternativas não representam vantagens reais desta associação.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Em relação às duas teorias da farmacodinâmica dos anestésicos locais, qual afirmação está correta?",
+    "options": [
+      "Ambas explicam apenas o mecanismo de ação em nervos mielinizados",
+      "A primeira teoria envolve deformidade da matriz lipoproteica reduzindo o diâmetro dos canais",
+      "A segunda teoria baseia-se na inibição da bomba sódio-potássio",
+      "Apenas a teoria do receptor específico é aceita atualmente",
+      "As teorias são mutuamente excludentes e contraditórias"
+    ],
+    "correctIndex": 1,
+    "explanation": "A primeira teoria explica que as moléculas de anestésico local determinam uma deformidade da matriz lipoproteica, diminuindo o diâmetro dos canais de sódio. A segunda teoria envolve o bloqueio específico dos receptores dos canais de sódio. Ambas teorias são complementares, não excludentes.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual das seguintes propriedades NÃO é desejável em um anestésico local ideal?",
+    "options": [
+      "Bloqueio reversível do nervo sem lesões",
+      "Irritação mínima aos tecidos",
+      "Início rápido de ação",
+      "Alta toxicidade sistêmica",
+      "Boa difusão para atingir o nervo"
+    ],
+    "correctIndex": 3,
+    "explanation": "Alta toxicidade sistêmica NÃO é uma propriedade desejável; pelo contrário, busca-se baixa toxicidade sistêmica. As demais propriedades (bloqueio reversível, irritação mínima, início rápido e boa difusão) são características ideais para um anestésico local.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual efeito adverso dos anestésicos locais sobre o SNC ocorre em doses mais elevadas?",
+    "options": [
+      "Apenas sedação e confusão mental",
+      "Convulsões acompanhadas de coma e depressão cardiorrespiratória",
+      "Nistagmo isolado sem outros sintomas",
+      "Inquietação sem alterações neurológicas graves",
+      "Delírios transitórios de curta duração"
+    ],
+    "correctIndex": 1,
+    "explanation": "Em doses elevadas, os anestésicos locais causam convulsões acompanhadas de coma e depressão cardiorrespiratória, representando toxicidade grave. Os demais sintomas (sedação, nistagmo, inquietação, delírios) ocorrem em doses menores e são menos graves.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Para uma criança de 20 kg, quantos tubetes de lidocaína a 2% podem ser administrados sem exceder a dose máxima?",
+    "options": [
+      "1,4 tubetes",
+      "2,4 tubetes",
+      "3,4 tubetes",
+      "4,4 tubetes",
+      "5,4 tubetes"
+    ],
+    "correctIndex": 1,
+    "explanation": "Para uma criança de 20 kg: dose máxima = 20 kg × 4,4 mg/kg = 88 mg. Como cada tubete contém 36 mg, pode-se administrar 88 ÷ 36 = 2,4 tubetes. As demais alternativas representam cálculos incorretos.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual das seguintes afirmações sobre o pH dos anestésicos locais está correta?",
+    "options": [
+      "São ácidos fracos que se tornam mais estáveis em pH básico",
+      "São bases fracas que requerem adição de ácido clorídrico para estabilidade",
+      "Mantêm-se neutros independentemente do pH do meio",
+      "São anfóteros com comportamento variável conforme o tecido",
+      "São ácidos fortes que se dissociam completamente em solução"
+    ],
+    "correctIndex": 1,
+    "explanation": "Os anestésicos locais são bases fracas que, na produção, recebem adição de ácido clorídrico para maior solubilidade e estabilidade. Na injeção, o ácido é neutralizado pelo tecido. As demais alternativas descrevem incorretamente a natureza química dos anestésicos locais.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual tipo de anestesia interrompe a transmissão para o sistema nervoso em nível regional?",
+    "options": [
+      "Anestesia periférica tópica",
+      "Anestesia periférica infiltrativa",
+      "Anestesia de bloqueio",
+      "Anestesia por expansão da membrana",
+      "Anestesia por alteração do canal iônico"
+    ],
+    "correctIndex": 2,
+    "explanation": "A anestesia de bloqueio interrompe a transmissão para o sistema nervoso em nível regional, atuando em troncos nervosos. A anestesia periférica (tópica ou infiltrativa) atua nas terminações nervosas sensoriais localmente.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual função dos vasoconstritores NÃO está relacionada ao seu uso com anestésicos locais?",
+    "options": [
+      "Agentes hemostáticos reduzindo sangramento",
+      "Preservação da ação do anestésico local",
+      "Redução da quantidade necessária de anestésico",
+      "Aumento da pressão arterial sistêmica",
+      "Facilitação do procedimento cirúrgico"
+    ],
+    "correctIndex": 3,
+    "explanation": "O aumento da pressão arterial sistêmica não é uma função desejada dos vasoconstritores quando usados com anestésicos locais. Suas funções incluem hemostasia, preservação da ação anestésica, redução da dose necessária e facilitação do procedimento.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Em qual situação clínica específica os vasoconstritores são contraindicados?",
+    "options": [
+      "Procedimentos em pacientes diabéticos",
+      "Cirurgias em extremidades com comprometimento vascular",
+      "Anestesia em crianças menores de 12 anos",
+      "Uso em pacientes com história de alergia a anestésicos",
+      "Procedimentos odontológicos de rotina"
+    ],
+    "correctIndex": 1,
+    "explanation": "Vasoconstritores são contraindicados em cirurgias em extremidades com comprometimento vascular devido ao risco de isquemia. As demais situações não representam contraindicações absolutas ao uso de vasoconstritores.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual condição pode resultar do uso inadequado de anestésicos locais?",
+    "options": [
+      "Hiperglicemia secundária",
+      "Metahemoglobinemia",
+      "Insuficiência renal aguda",
+      "Hipertensão portal",
+      "Acidose láctica"
+    ],
+    "correctIndex": 1,
+    "explanation": "A metahemoglobinemia é uma condição que pode resultar do uso inadequado de anestésicos locais, especialmente com prilocaína em doses elevadas. As demais condições não estão diretamente relacionadas ao uso de anestésicos locais.",
+    "type": "conteudista"
+  },
+
+  {
+    "question": "Um paciente apresenta inflamação no local de aplicação do anestésico. Considerando os princípios farmacocinéticos, qual seria a melhor estratégia para otimizar a anestesia?",
+    "options": [
+      "Reduzir a dose e aguardar o efeito anti-inflamatório natural",
+      "Aumentar a concentração do anestésico para compensar o pH ácido",
+      "Administrar anti-inflamatório sistêmico e postergar o procedimento",
+      "Usar anestésico com menor pKa e adicionar bicarbonato de sódio",
+      "Aplicar gelo local para reduzir a acidez tecidual"
+    ],
+    "correctIndex": 3,
+    "explanation": "Usar anestésico com menor pKa e adicionar bicarbonato de sódio é a melhor estratégia. O menor pKa garante mais moléculas não ionizadas mesmo em pH ácido, e o bicarbonato neutraliza a acidez, otimizando a eficácia. As demais alternativas não abordam adequadamente o problema do pH ácido na inflamação.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Um cirurgião precisa realizar um procedimento de 3 horas em um paciente de 80 kg. Analisando os princípios farmacológicos, qual seria a abordagem mais segura?",
+    "options": [
+      "Administrar toda a dose máxima de lidocaína no início do procedimento",
+      "Usar bupivacaína com vasoconstritor e técnica de bloqueio regional",
+      "Aplicar lidocaína tópica a cada 30 minutos durante o procedimento",
+      "Combinar doses submáximas de diferentes anestésicos locais",
+      "Usar apenas vasoconstritores para prolongar qualquer anestésico"
+    ],
+    "correctIndex": 1,
+    "explanation": "Usar bupivacaína com vasoconstritor e técnica de bloqueio regional é a abordagem mais segura para um procedimento longo, pois a bupivacaína tem maior duração de ação, o vasoconstritor prolonga o efeito, e o bloqueio regional reduz a dose total necessária. As demais alternativas apresentam riscos de toxicidade ou eficácia inadequada.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Um paciente com insuficiência hepática necessita anestesia local. Aplicando os conhecimentos de metabolismo farmacológico, qual seria a escolha mais apropriada?",
+    "options": [
+      "Lidocaína em dose reduzida devido ao metabolismo hepático comprometido",
+      "Procaína, pois é metabolizada pelas esterases plasmáticas",
+      "Bupivacaína com vasoconstritor para reduzir absorção sistêmica",
+      "Mepivacaína em dose padrão pois tem baixa toxicidade",
+      "Qualquer anestésico, pois a metabolização local não é afetada"
+    ],
+    "correctIndex": 1,
+    "explanation": "A procaína seria a escolha mais apropriada pois é um éster metabolizado pelas esterases plasmáticas, não dependendo da função hepática. Anestésicos tipo amida (lidocaína, bupivacaína, mepivacaína) são metabolizados no fígado e podem acumular em pacientes com insuficiência hepática.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Durante um procedimento, observa-se que o anestésico está tendo efeito reduzido após aplicações repetidas. Qual fenômeno farmacológico melhor explica essa situação?",
+    "options": [
+      "Desenvolvimento de tolerância farmacológica por dessensibilização",
+      "Taquifilaxia devido à depleção de receptores disponíveis",
+      "Indução enzimática aumentando o metabolismo local",
+      "Saturação dos canais de sódio por competição molecular",
+      "Alteração conformacional permanente dos canais iônicos"
+    ],
+    "correctIndex": 1,
+    "explanation": "A taquifilaxia é o fenômeno que melhor explica a redução do efeito anestésico após aplicações repetidas, caracterizada pela diminuição progressiva da resposta a doses repetidas de um fármaco. As demais alternativas não descrevem adequadamente este fenômeno específico dos anestésicos locais.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Um dentista observa que pacientes com abscesso dentário requerem mais anestésico para o mesmo procedimento. Qual princípio farmacológico explica essa observação clínica?",
+    "options": [
+      "Aumento da vascularização local reduz a concentração efetiva",
+      "pH ácido da inflamação aumenta a ionização do anestésico",
+      "Liberação de mediadores inflamatórios bloqueia os canais de sódio",
+      "Edema tecidual dilui mecanicamente o anestésico aplicado",
+      "Hiperalgesia inflamatória requer maior bloqueio neural"
+    ],
+    "correctIndex": 1,
+    "explanation": "O pH ácido da inflamação aumenta a ionização do anestésico, reduzindo a fração não ionizada capaz de atravessar a membrana nervosa, necessitando maior dose para o mesmo efeito. Embora a vascularização também contribua, o pH é o fator principal que explica essa observação clínica.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Um anestésico com pKa de 8,5 é aplicado em tecido com pH 6,5. Utilizando a equação de Henderson-Hasselbalch, qual seria a consequência clínica esperada?",
+    "options": [
+      "Início de ação muito rápido devido à alta ionização",
+      "Efeito prolongado pela estabilização da molécula",
+      "Início de ação lento devido ao predomínio da forma ionizada",
+      "Perda completa da atividade anestésica",
+      "Aumento da potência por maior afinidade ao receptor"
+    ],
+    "correctIndex": 2,
+    "explanation": "Com pKa 8,5 e pH tecidual 6,5, há uma diferença de 2 unidades de pH abaixo do pKa, resultando em predomínio da forma ionizada (aproximadamente 99%), que não atravessa facilmente a membrana, causando início de ação lento. As demais alternativas não refletem corretamente essa relação farmacocinética.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Um paciente apresenta convulsões após administração de anestésico local. Correlacionando com a farmacocinética, qual seria a sequência de eventos mais provável?",
+    "options": [
+      "Absorção sistêmica → bloqueio de canais de sódio centrais → excitotoxicidade",
+      "Metabolização rápida → acúmulo de metabólitos tóxicos → convulsões",
+      "Vasoconstrição excessiva → hipóxia cerebral → atividade convulsiva",
+      "Bloqueio seletivo de interneurônios inibitórios → desinibição cortical",
+      "Ligação a receptores NMDA → despolarização excessiva → convulsões"
+    ],
+    "correctIndex": 3,
+    "explanation": "A sequência mais provável é o bloqueio seletivo de interneurônios inibitórios causando desinibição cortical. Os anestésicos locais bloqueiam preferencialmente fibras inibitórias mais sensíveis, resultando em desequilíbrio entre excitação e inibição, levando às convulsões. As demais alternativas não explicam corretamente o mecanismo neurofisiológico.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Analisando a estrutura molecular dos anestésicos locais, qual modificação estrutural resultaria em maior duração de ação?",
+    "options": [
+      "Aumento da cadeia alquílica no grupo amino para maior hidrofilicidade",
+      "Substituição da ligação éster por amida para resistir à hidrólise",
+      "Adição de grupos polares para facilitar a difusão tecidual",
+      "Redução do anel aromático para diminuir a lipofilicidade",
+      "Incorporação de halogênios para aumentar a eletronegatividade"
+    ],
+    "correctIndex": 1,
+    "explanation": "A substituição da ligação éster por amida resultaria em maior duração de ação, pois as amidas são mais resistentes à hidrólise enzimática que os ésteres, prolongando a meia-vida do fármaco. As demais modificações não necessariamente aumentariam a duração ou poderiam prejudicar outras propriedades farmacológicas.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Um pesquisador desenvolve um novo anestésico local com pKa 7,4. Comparado aos anestésicos convencionais, qual vantagem clínica seria esperada?",
+    "options": [
+      "Maior potência anestésica devido à melhor afinidade ao receptor",
+      "Menor toxicidade sistêmica por rápida eliminação renal",
+      "Início de ação mais rápido por equilíbrio ideal no pH fisiológico",
+      "Maior duração de ação por estabilidade molecular aumentada",
+      "Menor risco de reações alérgicas por menor antigenicidade"
+    ],
+    "correctIndex": 2,
+    "explanation": "Com pKa 7,4 (igual ao pH fisiológico), haveria equilíbrio ideal entre formas ionizada e não ionizada no pH fisiológico, resultando em início de ação mais rápido. Isso otimiza tanto a penetração tecidual quanto a disponibilidade para ligação ao receptor. As demais vantagens não decorrem diretamente do pKa.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Em uma emergência, um médico precisa escolher entre lidocaína com ou sem vasoconstritor para anestesia em extremidade com circulação comprometida. Qual decisão seria mais apropriada e por quê?",
+    "options": [
+      "Usar com vasoconstritor para prolongar o efeito e reduzir doses repetidas",
+      "Usar sem vasoconstritor para evitar isquemia adicional no tecido comprometido",
+      "Usar dose dupla sem vasoconstritor para compensar a rápida absorção",
+      "Alternar entre preparações com e sem vasoconstritor conforme a resposta",
+      "Usar vasoconstritor em dose reduzida para minimizar riscos vasculares"
+    ],
+    "correctIndex": 1,
+    "explanation": "Usar sem vasoconstritor seria mais apropriado para evitar isquemia adicional em tecido já comprometido. Em extremidades com circulação prejudicada, vasoconstritores podem agravar a isquemia, aumentando o risco de necrose tecidual. A segurança vascular supera as vantagens farmacológicas do vasoconstritor nesta situação.",
+    "type": "raciocínio"
+  }
+]

@@ -1,0 +1,379 @@
+[
+  {
+    "question": "Qual é a principal diferença entre COX-1 e COX-2 em relação à sua presença no organismo?",
+    "options": [
+      "COX-1 é induzida e COX-2 é constitutiva",
+      "Ambas são constitutivas",
+      "Ambas são induzidas",
+      "COX-1 é sazonal e COX-2 é permanente",
+      "COX-1 é constitutiva e COX-2 é induzida"
+    ],
+    "correctIndex": 4,
+    "explanation": "A COX-1 é constitutiva, mantendo sua concentração estável no organismo e gerando prostaglandinas para manutenção dos processos básicos. A COX-2 é induzida, normalmente não está presente nas células e é gerada somente em situações especiais como inflamação. As outras alternativas estão incorretas pois invertem ou distorcem essas características fundamentais.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Quais são as principais funções das prostaglandinas produzidas pela COX-1?",
+    "options": [
+      "Produção de citocinas inflamatórias",
+      "Sensibilização dos nociceptores",
+      "Produção de muco gástrico e regulação do ácido gástrico",
+      "Estimulação da resposta imune",
+      "Vasoconstrição arterial"
+    ],
+    "correctIndex": 2,
+    "explanation": "As prostaglandinas da COX-1 são responsáveis pela manutenção de processos básicos como produção de muco na parede do estômago, regulação do ácido gástrico e excreção de água pelos rins. As outras alternativas descrevem funções relacionadas à COX-2 ou processos não relacionados às prostaglandinas da COX-1.",
+    "type": "conteudista"
+  },
+  {
+    "question": "De acordo com a classificação apresentada, qual medicamento é considerado um inibidor altamente seletivo da COX-2?",
+    "options": [
+      "Aspirina",
+      "Ibuprofeno",
+      "Diclofenaco",
+      "Celecoxib",
+      "Piroxicam"
+    ],
+    "correctIndex": 3,
+    "explanation": "O Celecoxib é classificado como inibidor altamente seletivo da COX-2. A Aspirina é seletiva para COX-1, o Ibuprofeno e Diclofenaco são não seletivos, e o Piroxicam também é não seletivo. Esta seletividade do Celecoxib visa reduzir efeitos gastrointestinais.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é o mecanismo de absorção e distribuição do ácido acetilsalicílico (AAS)?",
+    "options": [
+      "Absorção intestinal lenta e distribuição limitada",
+      "Absorção gástrica boa e distribuição ampla nos tecidos",
+      "Absorção exclusivamente hepática",
+      "Absorção pulmonar e distribuição seletiva",
+      "Absorção cutânea e distribuição localizada"
+    ],
+    "correctIndex": 1,
+    "explanation": "O AAS tem boa absorção gástrica por via oral e distribuição ampla nos tecidos, incluindo leite materno e placenta. As outras alternativas descrevem vias ou padrões de absorção e distribuição incorretos para o AAS.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Quais são os principais efeitos colaterais gastrointestinais dos derivados do ácido propiônico?",
+    "options": [
+      "Apenas náuseas leves",
+      "Sangramentos, ulcerações e perfuração da parede",
+      "Efeitos GI em 16% dos casos, incluindo dispepsia",
+      "Constipação severa",
+      "Hipersecreção ácida"
+    ],
+    "correctIndex": 2,
+    "explanation": "Os derivados do ácido propiônico apresentam efeitos GI em 16% dos casos, além de cefaleia, zumbidos, edema e alterações hematológicas. Os sangramentos e ulcerações graves são mais característicos dos salicilatos, e as outras alternativas não correspondem ao perfil descrito.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é a principal característica farmacológica da nimesulida?",
+    "options": [
+      "Inibidor potente de prostaglandinas",
+      "Inibidor de prostaglandinas fraco com mecanismo central noradrenérgico",
+      "Bloqueador seletivo de COX-1",
+      "Estimulador de síntese proteica",
+      "Inibidor específico de histamina"
+    ],
+    "correctIndex": 1,
+    "explanation": "A nimesulida é um inibidor fraco de prostaglandinas que possui mecanismo central analgésico noradrenérgico, conferindo propriedades analgésicas. As outras alternativas não descrevem corretamente o perfil farmacológico específico da nimesulida.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Quais são os principais efeitos adversos dos anti-inflamatórios não esteroidais?",
+    "options": [
+      "Apenas efeitos neurológicos",
+      "Somente alterações hematológicas",
+      "Dispepsia, úlcera péptica, disfunção renal e inibição plaquetária",
+      "Exclusivamente efeitos cardiovasculares",
+      "Apenas reações alérgicas cutâneas"
+    ],
+    "correctIndex": 2,
+    "explanation": "Os AINEs apresentam múltiplos efeitos adversos incluindo dispepsia e úlcera péptica, disfunção e falência renal, inibição da agregação plaquetária, além de alterações hepáticas e interações medicamentosas. As outras alternativas são muito restritivas e não abrangem o espectro completo de efeitos adversos.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Para quais condições o celecoxibe é indicado?",
+    "options": [
+      "Apenas para osteoartrite",
+      "Osteoartrite, artrite reumatoide, espondilite anquilosante e dor aguda",
+      "Somente para dor pós-operatória",
+      "Exclusivamente para dismenorreia",
+      "Apenas para lombalgia"
+    ],
+    "correctIndex": 1,
+    "explanation": "O celecoxibe tem indicações amplas incluindo osteoartrite, artrite reumatoide, espondilite anquilosante, alívio da dor aguda (pós-operatória), dismenorreia primária e lombalgia. As outras alternativas são muito restritivas e não contemplam todas as indicações aprovadas.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é a principal diferença do acetaminofeno em relação aos AINEs tradicionais?",
+    "options": [
+      "Não afeta a função plaquetária",
+      "Tem maior potência anti-inflamatória",
+      "Causa mais efeitos gastrointestinais",
+      "Tem metabolização renal",
+      "Possui maior toxicidade hepática em doses terapêuticas"
+    ],
+    "correctIndex": 0,
+    "explanation": "O acetaminofeno não afeta a função plaquetária, diferentemente dos AINEs tradicionais, e causa menor irritação gástrica. Embora possa causar toxicidade hepática em superdosagem, em doses terapêuticas é mais seguro gastrintestinalmente que os AINEs. As outras alternativas descrevem características incorretas.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é o tamanho e peso aproximados da glândula suprarrenal?",
+    "options": [
+      "1 a 2 cm e 0,5 a 1g",
+      "3 a 5 cm e 1,5 a 2,5g",
+      "6 a 8 cm e 3 a 4g",
+      "2 a 3 cm e 1 a 1,5g",
+      "5 a 7 cm e 2,5 a 3,5g"
+    ],
+    "correctIndex": 1,
+    "explanation": "A glândula suprarrenal tem tamanho de 3 a 5 cm e peso de 1,5 a 2,5g, com o córtex representando 90% do peso. As outras alternativas apresentam medidas incorretas que não correspondem às características anatômicas da suprarrenal.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual zona da glândula suprarrenal é responsável pela produção de aldosterona?",
+    "options": [
+      "Zona fasciculada",
+      "Zona reticular",
+      "Zona medular",
+      "Zona glomerular",
+      "Zona cortical externa"
+    ],
+    "correctIndex": 3,
+    "explanation": "A zona glomerular é responsável pela produção de aldosterona, um mineralocorticoide. A zona fasciculada produz glicocorticoides (cortisol), a zona reticular produz androgênios (DHEA), e a zona medular produz catecolaminas. As outras alternativas associam incorretamente a zona à produção hormonal.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Quais são os principais estímulos para a secreção de cortisol?",
+    "options": [
+      "Apenas hipoglicemia",
+      "Estresse físico e emocional, hipoglicemia, exposição ao frio e dor",
+      "Somente estresse emocional",
+      "Exclusivamente exposição ao calor",
+      "Apenas exercícios físicos intensos"
+    ],
+    "correctIndex": 1,
+    "explanation": "O cortisol é estimulado por múltiplos fatores incluindo estresse físico e emocional, hipoglicemia, exposição ao frio e dor, através do eixo CRH-ACTH. As outras alternativas são muito restritivas e não contemplam todos os estímulos fisiológicos para liberação de cortisol.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é o mecanismo de ação dos glicocorticoides a nível celular?",
+    "options": [
+      "Ação sobre receptores de membrana",
+      "Ação sobre receptores intracelulares aumentando síntese de lipocortina",
+      "Bloqueio direto de enzimas inflamatórias",
+      "Estimulação de síntese de prostaglandinas",
+      "Inibição direta de COX-2"
+    ],
+    "correctIndex": 1,
+    "explanation": "Os glicocorticoides agem sobre receptores intracelulares, aumentando a síntese de lipocortina que inibe a fosfolipase A2, resultando em efeitos anti-inflamatórios, anti-reumáticos e antialérgicos. As outras alternativas descrevem mecanismos incorretos ou de outras classes de medicamentos.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Quais são os corticosteroides de ação média mencionados?",
+    "options": [
+      "Hidrocortisona e cortisona",
+      "Betametasona e dexametasona",
+      "Prednisona, prednisolona e metilprednisolona",
+      "Aldosterona e cortisol",
+      "Furoato de mometasona"
+    ],
+    "correctIndex": 2,
+    "explanation": "Os corticosteroides de ação média incluem prednisona, prednisolona e metilprednisolona, que são sintéticos com menor retenção de sódio e água que a hidrocortisona. Betametasona e dexametasona são de ação mais potente, enquanto hidrocortisona é natural e aldosterona é mineralocorticoide.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Quais são as principais causas da Síndrome de Cushing?",
+    "options": [
+      "Apenas deficiência de ACTH",
+      "Administração prolongada de glicocorticoides, tumor hipofisário, tumor adrenal e tumor ectópico",
+      "Somente tumores de adrenal",
+      "Exclusivamente uso de medicamentos",
+      "Apenas fatores genéticos"
+    ],
+    "correctIndex": 1,
+    "explanation": "A Síndrome de Cushing resulta de hiperfunção adrenal com excesso de corticoides, causada por: administração prolongada de glicocorticoides, tumor de hipófise, tumor de adrenal ou tumor ectópico. As outras alternativas são incompletas e não abrangem todas as causas possíveis.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Quais são os principais efeitos adversos dos corticosteroides?",
+    "options": [
+      "Apenas efeitos gastrointestinais",
+      "Imunossupressão, diabetes esteroidal, osteoporose e hipertensão",
+      "Somente alterações metabólicas",
+      "Exclusivamente efeitos neurológicos",
+      "Apenas efeitos cardiovasculares"
+    ],
+    "correctIndex": 1,
+    "explanation": "Os corticosteroides causam imunossupressão, diabetes esteroidal, osteoporose, retenção de sal com aumento da pressão arterial e hipocalemia por perda de potássio. As outras alternativas são muito restritivas e não contemplam o amplo espectro de efeitos adversos dos corticoides.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é o tempo de início da ação do furoato de mometasona (Nasonex®)?",
+    "options": [
+      "Imediato após aplicação",
+      "1 a 2 horas",
+      "3 a 5 horas",
+      "7 a 12 horas",
+      "24 a 48 horas"
+    ],
+    "correctIndex": 3,
+    "explanation": "O furoato de mometasona tem início da ação clinicamente significativo de 7 a 12 horas após a primeira aplicação, com benefício máximo atingido em 1 a 2 semanas. As outras alternativas representam tempos incorretos que não correspondem ao perfil farmacocinético descrito.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é a principal função da aldosterona no organismo?",
+    "options": [
+      "Regulação da glicemia",
+      "Aumentar reabsorção renal de sódio e água, excreção de potássio",
+      "Estimular síntese proteica",
+      "Reduzir pressão arterial",
+      "Controlar temperatura corporal"
+    ],
+    "correctIndex": 1,
+    "explanation": "A aldosterona aumenta a reabsorção renal de sódio, H+ e água no tubo coletor, além de promover excreção de potássio, regulando volemia e estimulando aumento da pressão arterial. As outras alternativas descrevem funções incorretas ou de outros hormônios.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é a origem embrionária do córtex e da medula da glândula suprarrenal?",
+    "options": [
+      "Ambos ectodérmicos",
+      "Córtex ectodérmico e medula mesodérmica",
+      "Ambos mesodérmicos",
+      "Córtex mesodérmico e medula ectodérmica",
+      "Córtex endodérmico e medula mesodérmica"
+    ],
+    "correctIndex": 3,
+    "explanation": "O córtex da suprarrenal é mesodérmico (90% do peso da glândula) e a medula é derivada de células ectodérmicas. Essa diferença de origem embrionária reflete diretamente na síntese e função dos hormônios produzidos por cada parte. As outras alternativas invertem ou distorcem essas origens.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual medicamento é mencionado como escolha para febre em crianças e doentes com afecções sanguíneas?",
+    "options": [
+      "Aspirina",
+      "Ibuprofeno",
+      "Diclofenaco",
+      "Acetaminofeno",
+      "Nimesulida"
+    ],
+    "correctIndex": 3,
+    "explanation": "O acetaminofeno é a escolha para febre em crianças e doentes com afecções sanguíneas porque não afeta a função plaquetária e causa menor irritação gástrica. Os AINEs tradicionais podem afetar a coagulação e agravar problemas sanguíneos, tornando o acetaminofeno mais seguro nessas situações.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Analisando o mecanismo de ação da COX-2 na dor, qual seria o impacto esperado de um inibidor seletivo desta enzima em um paciente com artrite?",
+    "options": [
+      "Apenas redução da dor periférica",
+      "Redução tanto da hiperalgesia primária quanto da sensibilização central",
+      "Aumento da sensibilidade à dor",
+      "Apenas efeito anti-inflamatório local",
+      "Nenhum efeito significativo na dor"
+    ],
+    "correctIndex": 1,
+    "explanation": "Um inibidor seletivo de COX-2 reduziria tanto a hiperalgesia primária (por diminuir prostaglandinas periféricas) quanto a sensibilização central (por reduzir prostaglandinas na medula espinal), proporcionando alívio abrangente da dor artrítica. As outras alternativas subestimam ou distorcem o mecanismo dual de ação da COX-2.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Um paciente com história de úlcera péptica necessita de tratamento anti-inflamatório prolongado. Considerando o perfil de segurança, qual seria a abordagem mais apropriada?",
+    "options": [
+      "Usar aspirina em altas doses",
+      "Prescrever celecoxib ou outro inibidor seletivo de COX-2",
+      "Utilizar ibuprofeno com protetor gástrico",
+      "Administrar indometacina",
+      "Evitar qualquer tipo de anti-inflamatório"
+    ],
+    "correctIndex": 1,
+    "explanation": "Para pacientes com história de úlcera péptica, inibidores seletivos de COX-2 como celecoxib são mais apropriados pois preservam a COX-1 responsável pela produção de muco gástrico protetor. AINEs não seletivos aumentariam o risco de complicações gastrointestinais, enquanto evitar completamente pode não ser necessário com a seleção adequada.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Considerando o eixo hipotálamo-hipófise-adrenal, qual seria o efeito esperado da administração prolongada de corticosteroides exógenos?",
+    "options": [
+      "Estimulação contínua da produção de ACTH",
+      "Supressão do eixo com redução de CRH e ACTH endógenos",
+      "Aumento da função adrenal",
+      "Nenhuma alteração no eixo",
+      "Apenas estimulação da produção de CRH"
+    ],
+    "correctIndex": 1,
+    "explanation": "A administração prolongada de corticosteroides exógenos causa supressão do eixo hipotálamo-hipófise-adrenal por feedback negativo, reduzindo a produção de CRH e ACTH endógenos, podendo levar à atrofia adrenal. As outras alternativas não consideram o mecanismo de feedback negativo fundamental deste sistema.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Um paciente apresenta sintomas de inflamação articular e possui risco cardiovascular elevado. Analisando os dados sobre AINEs, qual seria a principal preocupação clínica?",
+    "options": [
+      "Apenas efeitos gastrointestinais",
+      "Risco aumentado de eventos cardiovasculares, especialmente com inibidores de COX-2",
+      "Somente efeitos renais",
+      "Apenas interações medicamentosas",
+      "Nenhuma preocupação específica"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pacientes com risco cardiovascular elevado requerem atenção especial pois inibidores seletivos de COX-2 aumentam o risco de infarto do miocárdio, AVC e insuficiência cardíaca devido ao desequilíbrio entre prostaciclina e tromboxano. O uso deve ser limitado e em doses baixas pelo menor tempo necessário.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Analisando a farmacocinética dos corticosteroides e sua distribuição, por que o fluxo sanguíneo centrípeto da suprarrenal é clinicamente relevante?",
+    "options": [
+      "Permite maior produção hormonal",
+      "Controla o acesso dos esteroides à circulação e modula produção de catecolaminas",
+      "Reduz a metabolização hepática",
+      "Aumenta a excreção renal",
+      "Não tem relevância clínica"
+    ],
+    "correctIndex": 1,
+    "explanation": "O fluxo centrípeto controla o acesso dos hormônios esteroides à circulação sistêmica e permite que a concentração de esteroides na medula module a produção de catecolaminas, criando uma integração funcional entre córtex e medula. As outras alternativas não explicam essa interação funcional específica.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Considerando o mecanismo de ação dos glicocorticoides via lipocortina, qual seria o impacto esperado na cascata do ácido araquidônico?",
+    "options": [
+      "Aumento da produção de prostaglandinas",
+      "Inibição precoce na cascata via bloqueio da fosfolipase A2",
+      "Bloqueio apenas da COX-2",
+      "Estimulação da síntese de leucotrienos",
+      "Nenhum efeito na cascata"
+    ],
+    "correctIndex": 1,
+    "explanation": "Os glicocorticoides induzem lipocortina que inibe a fosfolipase A2, bloqueando precocemente a cascata do ácido araquidônico antes da formação de prostaglandinas e leucotrienos. Isso explica seu amplo efeito anti-inflamatório comparado aos AINEs que agem apenas na COX. As outras alternativas não refletem esse mecanismo upstream.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Um paciente desenvolve Síndrome de Cushing iatrogênica. Qual seria a abordagem mais apropriada para a retirada do corticosteroide?",
+    "options": [
+      "Suspensão imediata do medicamento",
+      "Redução gradual para permitir recuperação do eixo hipotálamo-hipófise-adrenal",
+      "Manutenção da dose atual",
+      "Aumento temporário seguido de suspensão",
+      "Substituição por mineralocorticoide"
+    ],
+    "correctIndex": 1,
+    "explanation": "A redução gradual é essencial pois a administração prolongada suprime o eixo hipotálamo-hipófise-adrenal. A suspensão abrupta pode causar insuficiência adrenal aguda (crise de Addison) devido à atrofia das suprarrenais. O desmame gradual permite recuperação progressiva da função endógena.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Analisando os efeitos da aldosterona no néfron, qual seria o resultado clínico esperado de um bloqueador de receptor de aldosterona?",
+    "options": [
+      "Aumento da pressão arterial",
+      "Redução da pressão arterial com possível hipercalemia",
+      "Retenção de sódio",
+      "Aumento da volemia",
+      "Perda excessiva de potássio"
+    ],
+    "correctIndex": 1,
+    "explanation": "Bloqueadores de receptor de aldosterona (como mencionado com valsartana) reduzem a reabsorção de sódio e água, diminuindo volemia e pressão arterial, mas podem causar retenção de potássio (hipercalemia) já que a aldosterona normalmente promove sua excreção. As outras alternativas descrevem efeitos opostos ao bloqueio.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Considerando o perfil do acetaminofeno versus AINEs tradicionais, em qual situação clínica o acetaminofeno seria contraindicado enquanto um AINE seria preferível?",
+    "options": [
+      "Paciente com úlcera péptica ativa",
+      "Quando se necessita de efeito anti-inflamatório significativo",
+      "Criança com febre",
+      "Paciente com distúrbio de coagulação",
+      "Idoso com múltiplas comorbidades"
+    ],
+    "correctIndex": 1,
+    "explanation": "O acetaminofeno tem efeito anti-inflamatório limitado comparado aos AINEs. Quando se necessita de ação anti-inflamatória significativa (como em artrites), AINEs seriam preferíveis apesar de seus efeitos adversos. Nas outras situações, o acetaminofeno seria geralmente mais seguro devido ao menor perfil de efeitos adversos.",
+    "type": "raciocínio"
+  }
+]

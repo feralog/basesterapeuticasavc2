@@ -1,392 +1,392 @@
 [
   {
-    "question": "A agranulocitose induzida por clozapina apresenta qual protocolo de monitoramento laboratorial durante o tratamento?",
+    "question": "Com base no esquema de receptores metabotrópicos apresentado, qual sequência correta de eventos ocorre após a ligação do neurotransmissor?",
     "options": [
-      "Controle hematológico mensal durante todo o tratamento",
-      "Controle hematológico quinzenal até a 12ª semana e depois mensal",
-      "Controle hematológico semanal até a 18ª semana e depois mensal até o final do tratamento",
-      "Controle hematológico diário durante as primeiras 4 semanas",
-      "Controle hematológico apenas quando há sintomas clínicos"
+      "Ativação da proteína G → Inibição da enzima → Diminuição do segundo mensageiro → Fechamento de canais iônicos",
+      "Ativação da proteína G → Ativação/inibição da enzima → Produção do segundo mensageiro → Abertura/fechamento de canais iônicos",
+      "Ligação ao receptor → Produção direta do segundo mensageiro → Ativação da proteína G → Resposta celular",
+      "Inibição da proteína G → Ativação da enzima → Aumento do primeiro mensageiro → Hiperpolarização",
+      "Ativação direta de canais iônicos → Produção de proteína G → Formação do segundo mensageiro → Resposta lenta"
     ],
-    "correctIndex": 2,
-    "explanation": "O protocolo recomenda controle hematológico semanal até a 18ª semana e, posteriormente, uma vez por mês até o final do tratamento. As outras opções apresentam frequências incorretas que não seguem as diretrizes de segurança estabelecidas para monitoramento da clozapina.",
+    "correctIndex": 1,
+    "explanation": "A sequência correta é: ativação da proteína G → ativação/inibição da enzima → produção do segundo mensageiro → abertura/fechamento de canais iônicos. As outras alternativas estão incorretas porque: invertem a ordem dos eventos (opção 2), sugerem inibição da proteína G (opção 3), propõem ativação direta de canais sem intermediários (opção 4), ou indicam diminuição do segundo mensageiro quando deveria haver produção (opção 0).",
     "type": "conteudista"
   },
   {
-    "question": "Qual mecanismo explica a ação dos opioides no sistema de recompensa do SNC?",
+    "question": "Segundo o gráfico de coeficiente de partição sangue/gás dos anestésicos inalatórios, qual anestésico apresenta indução e recuperação mais rápidas?",
     "options": [
-      "Bloqueiam receptores de dopamina no núcleo accumbens aumentando GABA",
-      "Estimulam liberação de serotonina na área tegmentar ventral",
-      "Liberam dopamina no núcleo accumbens inibindo secreção de GABA pelos neurônios da área tegmentar ventral",
-      "Inibem acetilcolina no hipotálamo aumentando noradrenalina",
-      "Bloqueiam canais de cálcio diminuindo liberação de glutamato"
-    ],
-    "correctIndex": 2,
-    "explanation": "Os opioides liberam dopamina no núcleo accumbens, inibindo a secreção de GABA pelos neurônios da área tegmentar ventral, causando euforia. As outras alternativas apresentam mecanismos incorretos que não correspondem à ação dos opioides no sistema de recompensa.",
-    "type": "conteudista"
-  },
-  {
-    "question": "Considerando um paciente com função hepática comprometida que necessita de anestesia geral, qual seria a principal preocupação com anestésicos halogenados contendo flúor e bromo?",
-    "options": [
-      "Aumento do risco de broncoespasmo por irritação das vias aéreas",
-      "Potencialização excessiva da anestesia por acúmulo no tecido adiposo",
-      "Desenvolvimento de tolerância cruzada com outros halogenados",
-      "Risco elevado de toxicidade hepática especialmente em anestesias repetidas",
-      "Interferência na coagulação sanguínea por alteração das plaquetas"
+      "Halotano, devido ao seu alto coeficiente de 2,4",
+      "Isoflurano, por ter coeficiente intermediário de 1,4",
+      "Enflurano, com coeficiente de 1,9",
+      "Desflurano, com o menor coeficiente de 0,42",
+      "Sevoflurano, com coeficiente de 0,65"
     ],
     "correctIndex": 3,
-    "explanation": "Os halogenados com flúor e bromo podem causar necrose hepática, sendo especialmente perigosos em anestesias repetidas e em pacientes com função hepática já comprometida. As outras alternativas não representam os principais riscos destes agentes em pacientes hepatopatas.",
-    "type": "raciocínio"
-  },
-  {
-    "question": "Qual foi o primeiro agente anestésico utilizado na primeira demonstração científica de anestesia durante cirurgia em 1846?",
-    "options": [
-      "Éter dietílico por William Morton",
-      "Óxido nitroso por Horace Wells",
-      "Clorofórmio por James Simpson",
-      "Tiopental por John Lundy",
-      "Halotano por Charles Suckling"
-    ],
-    "correctIndex": 0,
-    "explanation": "William Morton utilizou éter dietílico na primeira demonstração científica de anestesia durante cirurgia em 1846. O clorofórmio foi introduzido posteriormente por James Simpson, o óxido nitroso foi usado 20 anos depois, e o tiopental só veio em 1930, marcando o início da anestesia moderna.",
+    "explanation": "O desflurano apresenta indução e recuperação mais rápidas por ter o menor coeficiente de partição sangue/gás (0,42). Quanto menor o coeficiente, mais rápida a indução e recuperação. As outras opções estão incorretas: halotano tem o maior coeficiente (2,4), tornando-o mais lento; isoflurano e enflurano têm coeficientes intermediários; sevoflurano, apesar de ter baixo coeficiente, ainda é maior que o desflurano.",
     "type": "conteudista"
   },
   {
-    "question": "Um paciente em estágio de excitação (2º estágio) durante indução anestésica apresenta qual conjunto de manifestações clínicas?",
+    "question": "De acordo com a tabela de categorias farmacológicas do FDA para gravidez, qual categoria representa o maior risco ao feto?",
     "options": [
-      "Sonolência, analgesia e bloqueio do trato espinotalâmico",
-      "Relutância, delírios, alterações na PA e FC, risco de laringoespasmo",
-      "Perda do tônus muscular, respiração regular e relaxamento",
-      "Paralisia bulbar e depressão dos centros vasomotores",
-      "Amnésia completa, imobilidade e supressão reflexa"
-    ],
-    "correctIndex": 1,
-    "explanation": "O 2º estágio (excitação) caracteriza-se por relutância, delírios, alterações na pressão arterial e frequência cardíaca, com risco de laringoespasmo. As outras opções descrevem características dos demais estágios: 1º estágio (analgesia), 3º estágio (anestesia cirúrgica) e 4º estágio (overdose).",
-    "type": "conteudista"
-  },
-  {
-    "question": "Qual anestésico inalatório possui o menor coeficiente de partição sangue/gás e quais são suas implicações clínicas?",
-    "options": [
-      "Halotano (2,7) - indução e recuperação lentas com maior controle",
-      "Isoflurano (1,4) - equilíbrio intermediário entre rapidez e controle",
-      "Óxido nitroso (0,47) - indução e recuperação rápidas com menor controle",
-      "Enflurano (1,9) - indução moderada com boa manutenção",
-      "Sevoflurano (0,59) - perfil balanceado para procedimentos ambulatoriais"
-    ],
-    "correctIndex": 2,
-    "explanation": "O óxido nitroso possui o menor coeficiente (0,47), resultando em indução e recuperação muito rápidas, mas com menor controle da profundidade anestésica. Coeficientes menores significam menor solubilidade no sangue, permitindo mudanças mais rápidas na concentração cerebral.",
-    "type": "raciocínio"
-  },
-  {
-    "question": "A Concentração Alveolar Mínima (CAM) é um parâmetro que indica:",
-    "options": [
-      "A concentração máxima tolerável sem efeitos adversos cardiovasculares",
-      "A dose eficaz média para eliminar movimento em 50% dos pacientes estimulados por incisão",
-      "O limiar mínimo para início da anestesia sem perda de consciência",
-      "A concentração necessária para manutenção de anestesia por 4 horas",
-      "O valor mínimo para prevenir despertar intraoperatório"
-    ],
-    "correctIndex": 1,
-    "explanation": "CAM é definida como a concentração alveolar que elimina movimento em resposta a incisão cirúrgica em 50% dos pacientes. CAM baixa indica alta potência anestésica. As outras alternativas não definem corretamente este conceito farmacológico fundamental.",
-    "type": "conteudista"
-  },
-  {
-    "question": "Considerando as propriedades do propofol, qual mecanismo de ação NÃO está relacionado aos seus efeitos anestésicos?",
-    "options": [
-      "Potencialização da ação inibitória do GABA sobre receptores GABA-A",
-      "Bloqueio de canais iônicos no tecido cortical cerebral",
-      "Antagonismo competitivo de receptores NMDA com bloqueio glutamatérgico",
-      "Inibição sobre receptores nicotínicos centrais",
-      "Efeito inibitório sobre sinalização de lisofosfatidato em receptores lipídicos"
-    ],
-    "correctIndex": 2,
-    "explanation": "O propofol NÃO atua como antagonista de receptores NMDA - este é o mecanismo da quetamina. O propofol atua potencializando GABA-A, bloqueando canais iônicos corticais, inibindo receptores nicotínicos centrais e afetando sinalização lipídica.",
-    "type": "raciocínio"
-  },
-  {
-    "question": "Qual anestésico intravenoso apresenta como principal desvantagem a inibição da esteroidogênese?",
-    "options": [
-      "Tiopental devido ao acúmulo em tecido adiposo",
-      "Propofol pela depressão miocárdica acentuada",
-      "Quetamina por causar alucinações e delírios",
-      "Etomidato por interferir na produção de esteroides",
-      "Midazolam pela amnésia anterógrada prolongada"
-    ],
-    "correctIndex": 3,
-    "explanation": "O etomidato tem como principal desvantagem a inibição da esteroidogênese, além de movimentos involuntários durante indução e janela terapêutica estreita. As outras alternativas citam desvantagens corretas, mas de outros anestésicos.",
-    "type": "conteudista"
-  },
-  {
-    "question": "Um paciente gestante no período de organogênese necessita de procedimento cirúrgico. Qual combinação de agentes deve ser EVITADA?",
-    "options": [
-      "Propofol e fentanil para indução e manutenção",
-      "Óxido nitroso e benzodiazepínicos durante a organogênese",
-      "Isoflurano e sevoflurano para manutenção anestésica",
-      "Etomidato e atracúrio para indução e relaxamento",
-      "Tiopental e halotano em doses baixas"
-    ],
-    "correctIndex": 1,
-    "explanation": "O óxido nitroso pode causar anemia aplásica fetal e os benzodiazepínicos podem provocar fissuras palatinas quando usados durante organogênese. Esta combinação apresenta riscos teratogênicos significativos que devem ser evitados neste período crítico.",
-    "type": "raciocínio"
-  },
-  {
-    "question": "Qual condição patológica pode DIMINUIR a CAM dos anestésicos inalatórios?",
-    "options": [
-      "Hipotermia, idade avançada e sepse",
-      "Hipertermia e abuso crônico de álcool",
-      "Aumento medicamentoso de catecolaminas",
-      "Estado hipermetabólico e febre alta",
-      "Uso concomitante de estimulantes do SNC"
-    ],
-    "correctIndex": 0,
-    "explanation": "Hipotermia, idade avançada, gestação e sepse diminuem a CAM, significando que menos anestésico é necessário. Hipertermia, abuso de álcool e aumento de catecolaminas aumentam a CAM, exigindo maiores concentrações anestésicas.",
-    "type": "conteudista"
-  },
-  {
-    "question": "A hipertermia maligna é uma reação farmacogenética grave. Quais agentes anestésicos estão MAIS associados ao seu desencadeamento?",
-    "options": [
-      "Anestésicos intravenosos como propofol e etomidato",
-      "Benzodiazepínicos e opioides em altas doses",
-      "Anestésicos voláteis e suxametônio ",
-      "Anestésicos locais tipo amida em doses excessivas",
-      "Óxido nitroso combinado com outros gases inertes"
-    ],
-    "correctIndex": 2,
-    "explanation": "A hipertermia maligna está particularmente associada aos anestésicos voláteis (halogenados) e ao suxametônio. Esta reação pode levar à falência multissistêmica e morte se não tratada rapidamente. Os outros agentes mencionados têm menor associação com esta condição.",
-    "type": "conteudista"
-  },
-  {
-    "question": "Analisando um paciente alcoolista crônico que necessita anestesia, qual seria a principal alteração farmacocinética esperada?",
-    "options": [
-      "Diminuição das enzimas hepáticas causando acúmulo de anestésicos",
-      "Aumento da sensibilidade aos opioides por alterações nos receptores",
-      "Elevação dos níveis enzimáticos hepáticos acelerando biotransformação dos anestésicos",
-      "Redução do volume de distribuição por desidratação crônica",
-      "Alteração na ligação proteica por hipoalbuminemia"
-    ],
-    "correctIndex": 2,
-    "explanation": "Usuários crônicos de álcool apresentam elevados níveis de enzimas hepáticas (indução enzimática), acelerando a biotransformação dos anestésicos e potentially exigindo doses maiores. As outras alternativas não refletem as adaptações metabólicas características do alcoolismo crônico.",
-    "type": "raciocínio"
-  },
-  {
-    "question": "Qual é a principal vantagem do sevoflurano em relação aos outros anestésicos inalatórios?",
-    "options": [
-      "Maior potência anestésica com CAM mais baixa",
-      "Menor risco de depressão cardiovascular",
-      "Perfil de recuperação rápida e não irritante para vias respiratórias",
-      "Ausência completa de efeitos sobre o sistema nervoso central",
-      "Eliminação mais rápida sem acúmulo tecidual"
-    ],
-    "correctIndex": 2,
-    "explanation": "O sevoflurano é amplamente utilizado especialmente em anestesia ambulatorial devido ao seu perfil de recuperação rápida e por não ser irritante para as vias respiratórias, permitindo indução anestésica suave. As outras características mencionadas não são suas principais vantagens distintivas.",
-    "type": "conteudista"
-  },
-  {
-    "question": "Um paciente em 4º estágio de anestesia (overdose) apresenta qual quadro clínico que exige intervenção IMEDIATA?",
-    "options": [
-      "Excitação, delírios e alterações hemodinâmicas moderadas",
-      "Analgesia com sonolência e reflexos preservados",
-      "Paralisia bulbar, depressão respiratória grave e colapso vasomotor",
-      "Relaxamento muscular adequado com respiração regular",
-      "Perda de consciência com movimentos espontâneos ocasionais"
-    ],
-    "correctIndex": 2,
-    "explanation": "O 4º estágio é caracterizado por paralisia bulbar, grave depressão respiratória e dos centros vasomotores, exigindo atenção imediata à ventilação e circulação para evitar morte. Este estágio deve ser evitado através do monitoramento cuidadoso do 3º estágio.",
-    "type": "raciocínio"
-  },
-  {
-    "question": "Segundo a teoria lipídica dos anestésicos, qual relação determina a potência anestésica?",
-    "options": [
-      "Potência é inversamente proporcional à lipossolubilidade",
-      "Potência é diretamente relacionada com a lipossolubilidade",
-      "Potência depende apenas da concentração plasmática máxima",
-      "Potência é determinada pela velocidade de eliminação renal",
-      "Potência é proporcional ao peso molecular do fármaco"
-    ],
-    "correctIndex": 1,
-    "explanation": "A teoria lipídica estabelece que a potência anestésica é diretamente relacionada com a lipossolubilidade - quanto mais lipossolúvel, menor concentração necessária e maior potência. Esta correlação é fundamental para compreender a farmacodinâmica dos anestésicos.",
-    "type": "conteudista"
-  },
-  {
-    "question": "Na anestesia com quetamina, por que este agente é classificado como produtor de 'anestesia dissociativa'?",
-    "options": [
-      "Causa separação física entre médico e paciente durante procedimento",
-      "Produz dissociação da consciência sem analgesia adequada",
-      "Promove sedação, imobilidade, amnésia e analgesia acentuada simultaneamente",
-      "Dissocia os sistemas respiratório e cardiovascular completamente",
-      "Separa os efeitos anestésicos dos efeitos analgésicos"
-    ],
-    "correctIndex": 2,
-    "explanation": "A quetamina produz 'anestesia dissociativa' porque gera sedação, imobilidade, amnésia e analgesia acentuada simultaneamente, criando um estado único onde o paciente fica desconectado do ambiente mas mantém funções vitais. Este termo não se refere a separação física ou dissociação de sistemas.",
-    "type": "raciocínio"
-  },
-  {
-    "question": "Qual fármaco adjuvante é especificamente utilizado para evitar bradicardia e secreções excessivas do trato respiratório?",
-    "options": [
-      "Omeprazol como protetor gástrico",
-      "Ondansetrona como antiemético",
-      "Benzodiazepínicos para ansiolise",
-      "Fármacos anticolinérgicos",
-      "Anti-histamínicos para prevenir alergias"
-    ],
-    "correctIndex": 3,
-    "explanation": "Os fármacos anticolinérgicos são utilizados especificamente para evitar bradicardia e secreções excessivas do trato respiratório durante procedimentos anestésicos. Os outros adjuvantes mencionados têm funções diferentes: proteção gástrica, controle de náuseas, ansiolise e prevenção alérgica.",
-    "type": "conteudista"
-  },
-  {
-    "question": "Por que o tiopental tem limitações para administrações sequenciais em um mesmo procedimento?",
-    "options": [
-      "Desenvolve tolerância farmacológica rapidamente",
-      "Causa reações alérgicas cumulativas",
-      "As injeções subsequentes não produzem sucesso devido ao acúmulo em tecido adiposo",
-      "Aumenta progressivamente a depressão respiratória",
-      "Interfere com outros anestésicos por competição enzimática"
-    ],
-    "correctIndex": 2,
-    "explanation": "O tiopental acumula-se no tecido adiposo devido à sua alta lipossolubilidade e lento metabolismo, fazendo com que injeções subsequentes não produzam o efeito desejado. Este acúmulo também prolonga a recuperação anestésica.",
-    "type": "raciocínio"
-  },
-  {
-    "question": "Em que situação específica os benzodiazepínicos devem ser EVITADOS durante procedimentos obstétricos?",
-    "options": [
-      "Durante trabalho de parto prolongado por risco materno",
-      "Na cesariana eletiva por interferência anestésica",
-      "Durante o parto para evitar hipotonia temporária e alterações na termorregulação neonatal",
-      "No pós-parto por risco de depressão materna",
-      "Durante episiotomia por potencializar sangramento"
-    ],
-    "correctIndex": 2,
-    "explanation": "Os benzodiazepínicos devem ser evitados durante o parto pois podem provocar hipotonia temporária e alterações na termorregulação do recém-nascido. Durante a organogênese também devem ser evitados pelo risco de fissuras palatinas.",
-    "type": "conteudista"
-  },
-  {
-    "question": "Qual anestésico inalatório apresenta o paradoxo de ser 'anestésico fraco' mas ter 'boas propriedades analgésicas'?",
-    "options": [
-      "Halotano por sua alta potência mas baixa analgesia",
-      "Isoflurano devido ao seu perfil vasodilatador cerebral",
-      "Sevoflurano pela sua rápida indução mas manutenção limitada",
-      "Enflurano por seu alto coeficiente sangue/gás",
-      "Óxido nitroso por ativar neurônios opioides endógenos"
+      "Categoria A - Não há evidência de risco em mulheres",
+      "Categoria B - Sem riscos em animais, mas sem estudos adequados em mulheres",
+      "Categoria C - Efeitos em animais, mas benefício pode justificar o risco",
+      "Categoria D - Evidências de risco, usar apenas se benefício justificar",
+      "Categoria X - Riscos superam benefícios, não usar durante gravidez"
     ],
     "correctIndex": 4,
-    "explanation": "O óxido nitroso é considerado um 'anestésico fraco' (requer alta concentração para anestesia) mas possui 'boas propriedades analgésicas' por ativar neurônios opioides endógenos. Esta característica única permite seu uso como adjuvante analgésico.",
-    "type": "raciocínio"
-  },
-  {
-    "question": "Qual é o mecanismo específico da quetamina que a diferencia dos outros anestésicos intravenosos?",
-    "options": [
-      "Agonista potente de receptores GABA-A com efeito sedativo",
-      "Antagonista não-competitivo do receptor NMDA no sítio da fenciclidina",
-      "Bloqueador seletivo de canais de sódio dependentes de voltagem",
-      "Inibidor da recaptação de monoaminas no SNC",
-      "Modulador alostérico positivo de receptores colinérgicos"
-    ],
-    "correctIndex": 1,
-    "explanation": "A quetamina atua como antagonista não-competitivo do receptor NMDA, ligando-se ao sítio da fenciclidina, diferentemente dos outros anestésicos que atuam principalmente sobre GABA. Este mecanismo único explica seus efeitos dissociativos e analgésicos distintos.",
+    "explanation": "A categoria X representa o maior risco ao feto, onde os riscos superam os potenciais benefícios e o uso é contraindicado na gravidez. As outras categorias representam riscos progressivamente menores: D tem evidências de risco mas pode ser usado em situações específicas; C tem efeitos em animais; B não mostrou riscos em animais; A é a mais segura sem evidências de risco.",
     "type": "conteudista"
   },
   {
-    "question": "Considerando um paciente com miastenia grave, qual sistema corporal requer avaliação específica na escolha do anestésico?",
+    "question": "Observando o gráfico dos estágios da anestesia segundo Guedel, em qual estágio ocorre a perda do reflexo da córnea?",
     "options": [
-      "Sistema cardiovascular devido ao risco de arritmias",
-      "Sistema respiratório pela possível depressão ventilatória",
-      "Sistema nervoso devido à alteração na transmissão neuromuscular",
-      "Sistema renal por alterações na eliminação de fármacos",
-      "Sistema endócrino pela interferência hormonal"
-    ],
-    "correctIndex": 2,
-    "explanation": "Na miastenia grave, o sistema nervoso requer avaliação específica devido à doença neuromuscular que altera a transmissão na junção neuromuscular. Isso influencia a escolha de anestésicos e bloqueadores neuromusculares, exigindo cuidados especiais com relaxantes musculares.",
-    "type": "raciocínio"
-  },
-  {
-    "question": "Qual característica farmacocinética do isoflurano representa sua principal vantagem clínica?",
-    "options": [
-      "Coeficiente de partição sangue/gás de 1,4 com baixo risco de toxicidade",
-      "Alta solubilidade tecidual prolongando a anestesia",
-      "Rápida indução devido à baixa lipossolubilidade",
-      "Eliminação exclusivamente renal sem metabolismo hepático",
-      "Ligação proteica elevada aumentando a duração do efeito"
-    ],
-    "correctIndex": 0,
-    "explanation": "O isoflurano tem coeficiente de partição sangue/gás de 1,4, permitindo bom controle anestésico, combinado com baixo risco de toxicidade, tornando-o o anestésico volátil mais utilizado mundialmente. As outras características mencionadas não representam suas principais vantagens.",
-    "type": "conteudista"
-  },
-  {
-    "question": "Durante a fase de recuperação anestésica, qual monitoramento é considerado MAIS crítico para detectar complicações tardias?",
-    "options": [
-      "Apenas frequência cardíaca e pressão arterial",
-      "Somente nível de consciência e reflexos pupilares",
-      "Ventilação, pressão arterial, frequência cardíaca, débito cardíaco e reflexos",
-      "Exclusivamente temperatura corporal e diurese",
-      "Apenas saturação de oxigênio e capnografia"
-    ],
-    "correctIndex": 2,
-    "explanation": "O monitoramento completo durante recuperação deve incluir ventilação, pressão arterial, frequência e débito cardíaco, e reflexos, pois alguns anestésicos podem causar reações tardias como depressão respiratória. Monitoramento parcial pode perder complicações importantes.",
-    "type": "raciocínio"
-  },
-  {
-    "question": "Qual anestésico inalatório está associado ao risco específico de convulsões como efeito adverso?",
-    "options": [
-      "Halotano por seus efeitos sobre canais de cálcio",
-      "Isoflurano devido à vasodilatação cerebral excessiva",
-      "Enflurano por alterações na atividade elétrica cerebral",
-      "Sevoflurano pela rápida variação de concentração",
-      "Óxido nitroso por interferência na síntese de DNA"
-    ],
-    "correctIndex": 2,
-    "explanation": "O enflurano está especificamente associado ao risco de convulsões, além do risco de hipertermia maligna. Este efeito adverso neurológico específico limita seu uso em pacientes predispostos a atividade convulsiva.",
-    "type": "conteudista"
-  },
-  {
-    "question": "Analisando a fórmula Palv >> Pa >> Pc mencionada no texto, o que ela representa no contexto da anestesia inalatória?",
-    "options": [
-      "Fase inicial de indução com pressão alveolar maior que arterial e cerebral",
-      "Equilíbrio final atingido entre compartimentos durante manutenção",
-      "Estado de overdose anestésica com pressões invertidas",
-      "Situação de recuperação com eliminação gradual do anestésico",
-      "Condição patológica de má distribuição do anestésico"
-    ],
-    "correctIndex": 0,
-    "explanation": "A fórmula Palv >> Pa >> Pc representa a fase inicial de indução anestésica, onde a pressão alveolar é maior que a arterial, que por sua vez é maior que a cerebral. Este gradiente permite a transferência do anestésico dos alvéolos para o cérebro até atingir equilíbrio.",
-    "type": "raciocínio"
-  },
-  {
-    "question": "Por que o desflurano necessita de vaporizador térmico específico?",
-    "options": [
-      "Para prevenir contaminação bacteriana do sistema",
-      "Devido às suas propriedades físico-químicas especiais que exigem aquecimento",
-      "Para aumentar sua potência anestésica",
-      "Para reduzir seus efeitos cardiovasculares adversos",
-      "Para permitir sua mistura com outros anestésicos"
-    ],
-    "correctIndex": 1,
-    "explanation": "O desflurano necessita de vaporizador térmico devido às suas propriedades físico-químicas específicas, incluindo baixo ponto de ebulição e alta pressão de vapor, exigindo aquecimento controlado para vaporização adequada e segura.",
-    "type": "conteudista"
-  },
-  {
-    "question": "Considerando um paciente adicto a opioides que necessita de cirurgia, qual fenômeno farmacológico deve ser antecipado?",
-    "options": [
-      "Sensibilidade aumentada a todos os anestésicos por neuroadaptação",
-      "Depressão respiratória exacerbada mesmo com doses baixas",
-      "Tolerância elevada aos opioides exigindo doses maiores para analgesia",
-      "Síndrome serotoninérgica por interação medicamentosa",
-      "Hipersensibilidade alérgica cruzada com anestésicos locais"
-    ],
-    "correctIndex": 2,
-    "explanation": "Adictos a opioides desenvolvem tolerância, exigindo doses maiores para obter analgesia adequada. Este fenômeno farmacológico deve ser antecipado no planejamento anestésico para garantir controle adequado da dor perioperatória.",
-    "type": "raciocínio"
-  },
-  {
-    "question": "Qual é a principal limitação do óxido nitroso que impede seu uso como anestésico único?",
-    "options": [
-      "Alta toxicidade hepática em concentrações elevadas",
-      "Risco de hipertermia maligna em pacientes suscetíveis",
-      "Depressão cardiovascular severa mesmo em baixas doses",
-      "Concentração limitada para evitar hipóxia, insuficiente para anestesia completa",
-      "Acúmulo tecidual prolongado causando recuperação lenta"
+      "Estágio 1 - Analgesia",
+      "Estágio 2 - Excitação",
+      "Estágio 3, plano I - Início da anestesia cirúrgica",
+      "Estágio 3, plano III - Anestesia cirúrgica profunda",
+      "Estágio 4 - Paralisia bulbar"
     ],
     "correctIndex": 3,
-    "explanation": "O óxido nitroso tem concentração limitada para evitar hipóxia (não pode ultrapassar 70-80%), sendo insuficiente para produzir anestesia completa sozinho. Por isso deve ser usado em conjunto com outros anestésicos ou adjuvantes para atingir anestesia adequada.",
+    "explanation": "O reflexo da córnea é perdido no estágio 3, plano III (anestesia cirúrgica profunda), conforme mostrado no gráfico. No estágio 1 há apenas analgesia; no estágio 2 o paciente está excitado com reflexos preservados; no plano I do estágio 3 alguns reflexos ainda estão presentes; no estágio 4 já há paralisia bulbar com risco de morte.",
+    "type": "conteudista"
+  },
+  {
+    "question": "A agranulocitose induzida pela clozapina é caracterizada por:",
+    "options": [
+      "Aumento de neutrófilos acima de 5000/mm³",
+      "Neutrófilos + eosinófilos + basófilos < 500/mm³",
+      "Diminuição isolada de plaquetas < 100.000/mm³",
+      "Leucócitos totais > 10.000/mm³",
+      "Redução apenas de linfócitos < 1000/mm³"
+    ],
+    "correctIndex": 1,
+    "explanation": "A agranulocitose é definida como neutrófilos + eosinófilos + basófilos < 500/mm³, representando uma redução grave dos granulócitos. As outras opções estão incorretas: aumento de neutrófilos seria neutrofilia, não agranulocitose; diminuição isolada de plaquetas seria trombocitopenia; leucócitos elevados indicariam leucocitose; redução de linfócitos seria linfopenia.",
+    "type": "conteudista"
+  },
+  {
+    "question": "A hipertermia maligna é uma complicação grave associada principalmente a quais anestésicos?",
+    "options": [
+      "Propofol e etomidato",
+      "Anestésicos voláteis e suxametônio",
+      "Tiopental e midazolam",
+      "Fentanil e morfina",
+      "Cetamina e óxido nitroso"
+    ],
+    "correctIndex": 1,
+    "explanation": "A hipertermia maligna ocorre principalmente com anestésicos voláteis (halogenados) e o bloqueador neuromuscular suxametônio. É uma reação farmacogenética grave. As outras combinações não estão associadas a hipertermia maligna: propofol/etomidato são intravenosos; tiopental/midazolam são sedativos; fentanil/morfina são opioides; cetamina é dissociativo e óxido nitroso, apesar de inalatório, não causa hipertermia maligna.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Segundo a tabela de efeitos fisiológicos dos anestésicos inalatórios, qual anestésico causa menor depressão cardiovascular?",
+    "options": [
+      "Halotano - por ser o mais antigo e estudado",
+      "Enflurano - devido sua estrutura química específica",
+      "Óxido nitroso - por ter menor impacto cardiovascular",
+      "Isoflurano - por seu perfil equilibrado",
+      "Sevoflurano - por ser mais moderno"
+    ],
+    "correctIndex": 2,
+    "explanation": "O óxido nitroso causa menor depressão cardiovascular comparado aos outros anestésicos halogenados, conforme mostrado na tabela. Halotano, enflurano, isoflurano e sevoflurano todos causam redução significativa da pressão arterial, frequência cardíaca e débito cardíaco, enquanto o óxido nitroso tem efeitos cardiovasculares mínimos.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual o valor da CAM (Concentração Alveolar Mínima) do óxido nitroso?",
+    "options": [
+      "0,75%",
+      "1,15%",
+      "1,68%",
+      "2,0%",
+      ">100%"
+    ],
+    "correctIndex": 4,
+    "explanation": "O óxido nitroso tem CAM >100%, significando que mesmo em concentração de 100% não consegue produzir anestesia cirúrgica adequada em 50% dos pacientes, sendo considerado um anestésico fraco. Os outros valores pertencem a anestésicos mais potentes: halotano (0,75%), isoflurano (1,15%), enflurano (1,68%) e éter (2,0%).",
+    "type": "conteudista"
+  },
+  {
+    "question": "No mecanismo de ação dos anestésicos inalatórios sobre receptores NMDA, qual é o sítio de ligação da cetamina?",
+    "options": [
+      "Sítio de reconhecimento do glutamato",
+      "Sítio da glicina",
+      "Sítio PCP (fenciclidina) dentro do canal",
+      "Sítio Zn2+ extracelular",
+      "Sítio das poliaminas"
+    ],
+    "correctIndex": 2,
+    "explanation": "A cetamina liga-se ao sítio PCP (fenciclidina) localizado dentro do canal iônico do receptor NMDA, atuando como antagonista não-competitivo. Os outros sítios têm funções diferentes: o sítio do glutamato é onde o agonista natural se liga; o sítio da glicina é um co-agonista necessário; os sítios Zn2+ e poliaminas são moduladores alostéricos.",
+    "type": "conteudista"
+  },
+  {
+    "question": "A primeira demonstração científica de anestesia induzida por drogas ocorreu em:",
+    "options": [
+      "1846 com William Morton utilizando éter dietílico",
+      "1847 com James Simpson usando clorofórmio",
+      "1866 com a introdução do óxido nitroso",
+      "1930 com a síntese do tiopental",
+      "1956 com o desenvolvimento do halotano"
+    ],
+    "correctIndex": 0,
+    "explanation": "William Morton realizou a primeira demonstração científica de anestesia em 1846 usando éter dietílico. As outras datas são marcos posteriores: Simpson introduziu o clorofórmio depois (na Escócia); o óxido nitroso começou a ser usado 20 anos após o éter; o tiopental marcou o início da anestesia moderna em 1930; o halotano foi desenvolvido em 1956.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual a principal indicação da morfina no contexto cardiovascular?",
+    "options": [
+      "Tratamento de hipertensão arterial crônica",
+      "Prevenção de arritmias ventriculares",
+      "Alívio da dispneia na insuficiência ventricular esquerda aguda e edema pulmonar",
+      "Aumento da contratilidade miocárdica",
+      "Tratamento de bradiarritmias"
+    ],
+    "correctIndex": 2,
+    "explanation": "A morfina é indicada para alívio da dispneia associada à insuficiência ventricular esquerda aguda e edema pulmonar, pois reduz a ansiedade e diminui o trabalho do ventrículo esquerdo. Não é usada para hipertensão crônica, não previne arritmias, não aumenta contratilidade (na verdade pode deprimir) e não trata bradiarritmias.",
+    "type": "conteudista"
+  },
+  {
+    "question": "A associação paracetamol 500mg + fosfato de codeína 30mg é indicada para:",
+    "options": [
+      "Dores leves como cefaleia tensional",
+      "Dores de grau moderado a intenso como fraturas e pós-operatório",
+      "Apenas para dor neuropática crônica",
+      "Exclusivamente para dor oncológica",
+      "Somente para fibromialgia"
+    ],
+    "correctIndex": 1,
+    "explanation": "A associação é indicada para dores moderadas a intensas como traumatismos (fraturas, luxações), pós-operatório e pós-extração dentária. Para dores leves, apenas paracetamol seria suficiente. Não é exclusiva para dor neuropática, oncológica ou fibromialgia, tendo indicação ampla em dores moderadas a severas de várias etiologias.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual anestésico inalatório possui o maior coeficiente de partição sangue/gás entre os listados?",
+    "options": [
+      "Desflurano (0,42)",
+      "Óxido nitroso (0,47)",
+      "Sevoflurano (0,65)",
+      "Isoflurano (1,4)",
+      "Halotano (2,4)"
+    ],
+    "correctIndex": 4,
+    "explanation": "O halotano possui o maior coeficiente de partição sangue/gás (2,4), o que significa maior solubilidade no sangue e, consequentemente, indução e recuperação mais lentas. Os valores diminuem progressivamente: isoflurano (1,4), sevoflurano (0,65), óxido nitroso (0,47) e desflurano (0,42), sendo este último o de ação mais rápida.",
+    "type": "conteudista"
+  },
+  {
+    "question": "O fentanil é indicado para administração epidural em qual situação?",
+    "options": [
+      "Indução anestésica ambulatorial",
+      "Sedação para endoscopia",
+      "Controle da dor pós-operatória e cesariana",
+      "Anestesia tópica em mucosas",
+      "Bloqueio de nervos periféricos"
+    ],
+    "correctIndex": 2,
+    "explanation": "O fentanil epidural é especificamente indicado para controle da dor pós-operatória, operação cesariana e outras cirurgias abdominais. Não é usado para indução ambulatorial simples, sedação para endoscopia (usa-se outras vias), anestesia tópica (não tem essa propriedade) ou bloqueios periféricos (usa-se anestésicos locais).",
+    "type": "conteudista"
+  },
+  {
+    "question": "Os opioides atuam no sistema de recompensa do SNC através de qual mecanismo?",
+    "options": [
+      "Aumento direto de serotonina no córtex pré-frontal",
+      "Liberação de dopamina no núcleo accumbens pela inibição de GABA",
+      "Estimulação de receptores nicotínicos no hipocampo",
+      "Bloqueio de receptores NMDA no tálamo",
+      "Ativação de receptores adrenérgicos no locus ceruleus"
+    ],
+    "correctIndex": 1,
+    "explanation": "Os opioides liberam dopamina no núcleo accumbens inibindo a secreção de GABA pelos neurônios da área tegmentar ventral, causando euforia. Não atuam aumentando serotonina diretamente, não estimulam receptores nicotínicos para recompensa, não bloqueiam NMDA neste contexto, nem ativam receptores adrenérgicos para o efeito de recompensa.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Segundo a tabela de propriedades dos anestésicos intravenosos, qual agente produz anestesia dissociativa?",
+    "options": [
+      "Tiopental",
+      "Etomidato",
+      "Propofol",
+      "Cetamina",
+      "Midazolam"
+    ],
+    "correctIndex": 3,
+    "explanation": "A cetamina é o único agente que produz anestesia dissociativa, caracterizada por sedação, imobilidade, amnésia e analgesia acentuada com aparente dissociação do ambiente. Os outros produzem anestesia convencional: tiopental é barbiturato, etomidato é imidazol, propofol é alquilfenol e midazolam é benzodiazepínico.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual característica diferencia o óxido nitroso dos outros anestésicos inalatórios halogenados?",
+    "options": [
+      "É um líquido volátil à temperatura ambiente",
+      "É um gás, não um líquido como os outros",
+      "Tem maior potência anestésica",
+      "Causa mais depressão cardiovascular",
+      "Tem o maior coeficiente de partição sangue/gás"
+    ],
+    "correctIndex": 1,
+    "explanation": "O óxido nitroso é um gás à temperatura ambiente, enquanto os outros anestésicos inalatórios (halotano, isoflurano, sevoflurano, etc.) são líquidos voláteis. Tem menor potência (CAM >100%), causa menos depressão cardiovascular e tem baixo coeficiente de partição (0,47), não o maior.",
+    "type": "conteudista"
+  },
+  {
+    "question": "O etomidato é contraindicado em uso prolongado devido a:",
+    "options": [
+      "Hepatotoxicidade grave",
+      "Nefrotoxicidade irreversível",
+      "Inibição da esteroidogênese",
+      "Neurotoxicidade cumulativa",
+      "Cardiotoxicidade dose-dependente"
+    ],
+    "correctIndex": 2,
+    "explanation": "O etomidato inibe a esteroidogênese (síntese de hormônios esteroides), principalmente cortisol, o que limita seu uso prolongado. Não causa hepatotoxicidade significativa, nefrotoxicidade, neurotoxicidade cumulativa ou cardiotoxicidade; pelo contrário, tem menor depressão cardiovascular que outros agentes.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual o mecanismo principal do propofol?",
+    "options": [
+      "Antagonismo exclusivo de receptores NMDA",
+      "Agonismo de receptores opioides mu",
+      "Potencialização do GABA no receptor GABA-A e múltiplos outros mecanismos",
+      "Bloqueio de canais de sódio voltagem-dependentes",
+      "Inibição da recaptação de serotonina"
+    ],
+    "correctIndex": 2,
+    "explanation": "O propofol tem múltiplos mecanismos: potencializa GABA no receptor GABA-A, bloqueia canais iônicos no córtex, age em receptores nicotínicos centrais e inibe sinalização de lisofosfatidato. Não é antagonista NMDA exclusivo, não é opioide, não bloqueia primariamente canais de sódio nem inibe recaptação de serotonina.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Na tabela de efeitos respiratórios dos anestésicos venosos, qual agente NÃO causa depressão respiratória significativa?",
+    "options": [
+      "Tiopental",
+      "Cetamina",
+      "Etomidato",
+      "Propofol",
+      "Opioides"
+    ],
+    "correctIndex": 1,
+    "explanation": "A cetamina não causa depressão respiratória significativa (marcada como 0 na tabela), podendo até melhorar o broncoespasmo. Todos os outros causam depressão respiratória: tiopental e propofol causam depressão acentuada; etomidato causa depressão moderada; opioides causam depressão respiratória dose-dependente muito significativa.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Um paciente com hipertensão intracraniana necessita de anestesia. Com base no conhecimento sobre receptores e vias de sinalização, qual combinação de mecanismos seria mais apropriada?",
+    "options": [
+      "Ativação de receptores NMDA + vasodilatação cerebral intensa",
+      "Bloqueio GABA-A + aumento do metabolismo cerebral",
+      "Potencialização GABA-A + redução do metabolismo cerebral + diminuição da PIC",
+      "Antagonismo muscarínico + aumento do fluxo sanguíneo cerebral",
+      "Ativação de receptores glutamatérgicos + vasoconstrição sistêmica"
+    ],
+    "correctIndex": 2,
+    "explanation": "Em hipertensão intracraniana, o ideal é potencializar GABA-A (efeito inibitório), reduzir metabolismo cerebral e diminuir PIC. Ativar NMDA ou glutamato aumentaria excitação; bloquear GABA-A removeria inibição; antagonismo muscarínico não é mecanismo principal; aumento de fluxo cerebral pioraria a PIC.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Considerando a farmacocinética dos anestésicos inalatórios, por que o desflurano permite ajuste mais rápido da profundidade anestésica?",
+    "options": [
+      "Maior potência permite usar concentrações menores",
+      "Metabolização hepática extensa acelera eliminação",
+      "Baixo coeficiente de partição sangue/gás permite equilíbrio rápido",
+      "Alta lipossolubilidade aumenta penetração cerebral",
+      "Ligação irreversível aos receptores prolonga efeito"
+    ],
+    "correctIndex": 2,
+    "explanation": "O baixo coeficiente de partição sangue/gás (0,42) do desflurano significa baixa solubilidade sanguínea, permitindo equilíbrio rápido entre alvéolo, sangue e cérebro. Mudanças na concentração inspirada refletem rapidamente no SNC. Não tem maior potência, metabolização mínima, lipossolubilidade não é o fator determinante aqui, e a ligação é reversível.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Um paciente em uso crônico de clozapina apresenta febre, mal-estar e leucócitos de 2.500/mm³. Qual conduta é mandatória?",
+    "options": [
+      "Aumentar a dose de clozapina para melhor controle",
+      "Adicionar antibiótico profilático e manter clozapina",
+      "Reduzir a dose pela metade e monitorar semanalmente",
+      "Interromper definitivamente a clozapina e monitorar o paciente",
+      "Substituir por outro antipsicótico e reiniciar clozapina em 2 semanas"
+    ],
+    "correctIndex": 3,
+    "explanation": "Com leucócitos <3.000/mm³, o protocolo exige interrupção definitiva da clozapina devido ao risco de agranulocitose. O reaparecimento tende a ser mais precoce e grave. Aumentar dose seria perigoso; antibiótico profilático não previne agranulocitose; reduzir dose não elimina o risco; reiniciar está contraindicado pelo alto risco de recorrência grave.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Durante cirurgia cardíaca, qual propriedade do isoflurano seria mais benéfica comparada ao halotano?",
+    "options": [
+      "Maior depressão miocárdica para reduzir trabalho cardíaco",
+      "Proteção contra isquemia e vasodilatação coronariana",
+      "Aumento da pressão intracraniana para melhor perfusão",
+      "Maior coeficiente de partição para efeito prolongado",
+      "Instabilidade molecular que facilita eliminação"
+    ],
+    "correctIndex": 1,
+    "explanation": "O isoflurano oferece proteção contra isquemia e causa vasodilatação coronariana, benéfico em cirurgia cardíaca. Maior depressão miocárdica seria prejudicial; aumento de PIC é irrelevante e indesejável; maior coeficiente tornaria controle mais difícil; isoflurano é quimicamente estável, não instável.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Uma gestante no terceiro trimestre necessita analgesia para trabalho de parto. Considerando os mecanismos dos opioides e as categorias FDA, qual seria a melhor escolha?",
+    "options": [
+      "Evitar todos os opioides por serem categoria X",
+      "Usar dose máxima de morfina para garantir analgesia",
+      "Considerar fentanil intratecal com monitorização adequada",
+      "Preferir benzodiazepínicos por menor risco fetal",
+      "Usar apenas anestésicos locais sem adjuvantes"
+    ],
+    "correctIndex": 2,
+    "explanation": "Fentanil intratecal é indicado para analgesia de parto quando bem monitorizado. Opioides não são categoria X; dose máxima de morfina aumentaria riscos; benzodiazepínicos causam hipotonia neonatal e alterações de termorregulação; anestésicos locais sozinhos podem ser insuficientes para dor intensa do parto.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Analisando o gráfico de indução e recuperação dos anestésicos inalatórios, por que o halotano apresenta recuperação mais lenta?",
+    "options": [
+      "Metabolização hepática extensa cria metabólitos ativos",
+      "Alta solubilidade lipídica com acúmulo em tecido adiposo e alto coeficiente sangue/gás",
+      "Ligação covalente aos receptores GABA",
+      "Formação de complexos insolúveis no plasma",
+      "Excreção renal lenta do fármaco inalterado"
+    ],
+    "correctIndex": 1,
+    "explanation": "O halotano tem alta lipossolubilidade causando acúmulo em tecido adiposo e alto coeficiente sangue/gás (2,4), resultando em eliminação lenta. A metabolização é mínima (<20%); não há ligação covalente a receptores; não forma complexos insolúveis; anestésicos inalatórios são eliminados principalmente pelos pulmões, não rins.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Um paciente com miastenia gravis necessita anestesia. Considerando a fisiopatologia e os mecanismos anestésicos, qual abordagem seria mais segura?",
+    "options": [
+      "Usar altas doses de bloqueadores neuromusculares para garantir relaxamento",
+      "Preferir anestésicos que potencializam receptores nicotínicos",
+      "Evitar bloqueadores neuromusculares e considerar anestesia inalatória/TIVA",
+      "Usar exclusivamente cetamina pela ação em receptores NMDA",
+      "Aplicar doses padrão de suxametônio para intubação rápida"
+    ],
+    "correctIndex": 2,
+    "explanation": "Em miastenia gravis, deve-se evitar ou usar com extrema cautela bloqueadores neuromusculares devido à sensibilidade aumentada. Anestesia inalatória ou intravenosa total (TIVA) são mais seguras. Altas doses de bloqueadores seriam perigosas; potencializar nicotínicos pioraria; cetamina sozinha é insuficiente; suxametônio está contraindicado.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Comparando os mecanismos moleculares, por que a cetamina produz analgesia mais intensa que o propofol?",
+    "options": [
+      "Maior afinidade por receptores GABA-A",
+      "Antagonismo de receptores NMDA envolvidos na transmissão da dor",
+      "Ativação direta de receptores opioides endógenos",
+      "Bloqueio mais eficiente de canais de sódio",
+      "Inibição preferencial de vias serotoninérgicas"
+    ],
+    "correctIndex": 1,
+    "explanation": "A cetamina antagoniza receptores NMDA, cruciais na transmissão e sensibilização da dor, produzindo analgesia intensa. Propofol age principalmente em GABA-A (sedação); cetamina não ativa diretamente receptores opioides; não bloqueia preferencialmente canais de sódio; não age primariamente em vias serotoninérgicas.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Analisando os estágios da anestesia, por que anestésicos intravenosos de ação rápida são preferidos na indução?",
+    "options": [
+      "Produzem maior profundidade anestésica que inalatórios",
+      "Evitam o estágio de excitação (estágio 2) passando rapidamente ao estágio 3",
+      "Têm menor risco de hipertermia maligna",
+      "Causam menos depressão respiratória",
+      "São mais facilmente reversíveis com antagonistas"
+    ],
+    "correctIndex": 1,
+    "explanation": "Anestésicos IV de ação rápida evitam ou minimizam o estágio 2 (excitação), que apresenta riscos como delírios, alterações hemodinâmicas e laringoespasmo. Não produzem necessariamente maior profundidade; hipertermia maligna não é consideração principal na escolha; podem causar depressão respiratória significativa; maioria não tem antagonistas específicos.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Considerando o coeficiente de partição tecido/sangue e a lipossolubilidade, por que anestésicos muito lipossolúveis podem ter despertar prolongado após infusão contínua?",
+    "options": [
+      "Metabolização hepática fica saturada",
+      "Formam metabólitos ativos de longa duração",
+      "Acumulam em tecidos pouco perfundidos sendo liberados lentamente",
+      "Induzem tolerância necessitando doses maiores",
+      "Ligam-se irreversivelmente às proteínas plasmáticas"
+    ],
+    "correctIndex": 2,
+    "explanation": "Anestésicos lipossolúveis acumulam em tecidos pouco perfundidos (adiposo, muscular) durante infusão prolongada. Após cessação, são liberados lentamente destes compartimentos, prolongando o efeito. Saturação metabólica é menos relevante; poucos formam metabólitos ativos significativos; tolerância aguda é mínima; ligação proteica é reversível.",
     "type": "raciocínio"
   }
 ]

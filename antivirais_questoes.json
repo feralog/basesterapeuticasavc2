@@ -283,7 +283,7 @@
     ],
     "correctIndex": 1,
     "explanation": "A resposta correta é a 1. O texto descreve uma 'mudança de paradigma no tratamento antiviral SARS-CoV-2 com o objetivo de tratamento muito precoce para pacientes ambulatoriais (primeiros 5 a 7 dias do início dos sintomas) com COVID-19 leve a moderado, mas com fatores de risco para progressão, para evitar internação hospitalar e óbito'. Isso reflete o entendimento de que a intervenção antiviral é mais eficaz quando feita no início da infecção, durante a fase de replicação viral intensa.",
-    "conteudista"
+    "type":"conteudista"
   },
   {
     "question": "O diagrama sobre a estrutura do HIV mostra as glicoproteínas gp120 e gp41 em seu envelope. Qual é a função dessas proteínas no ciclo de vida viral?",

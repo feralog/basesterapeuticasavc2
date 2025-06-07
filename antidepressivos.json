@@ -1,0 +1,392 @@
+[
+  {
+    "question": "Qual é a principal característica que diferencia o mecanismo de ação dos Antidepressivos Tricíclicos (ADTs) dos Inibidores Seletivos da Recaptação de Serotonina (ISRS)?",
+    "options": [
+      "Os ADTs inibem a MAO, enquanto os ISRS inibem a recaptação de serotonina.",
+      "Os ISRS bloqueiam a recaptação de noradrenalina e serotonina, enquanto os ADTs afetam apenas a serotonina.",
+      "Os ADTs inibem a recaptação de noradrenalina e serotonina e também bloqueiam receptores muscarínicos e histamínicos, ao contrário dos ISRS que são mais seletivos para o transportador de serotonina.",
+      "Os ADTs aumentam a liberação de dopamina, enquanto os ISRS bloqueiam a sua recaptação.",
+      "Os ISRS possuem ação mais rápida (1-2 semanas) em comparação com os ADTs (2-4 semanas)."
+    ],
+    "correctIndex": 2,
+    "explanation": "A resposta correta é a 2. Os Antidepressivos Tricíclicos (ADTs) possuem um mecanismo de ação amplo, inibindo a recaptação de serotonina (5-HT) e noradrenalina (NA), mas também agindo como antagonistas em outros receptores, como os muscarínicos (causando efeitos anticolinérgicos como boca seca e constipação) e os histamínicos H1 (causando sedação). Os ISRS, por sua vez, são mais seletivos e sua ação principal é o bloqueio do transportador de recaptação de serotonina (SERT), com muito menos afinidade por outros receptores, resultando em um perfil de efeitos colaterais diferente e geralmente mais tolerável. As outras opções apresentam mecanismos, alvos ou características temporais incorretas para essas classes.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Analisando o gráfico que compara o humor Eutímico, a Depressão e o Transtorno Bipolar, qual elemento visual distingue fundamentalmente o Transtorno Bipolar da Depressão Maior?",
+    "options": [
+      "A linha do transtorno bipolar é menos errática que a da depressão.",
+      "Ambos os transtornos apresentam apenas quedas profundas no humor em comparação com a eutimia.",
+      "A presença de picos acentuados de 'Euforia' que ultrapassam o estado de alegria normal, além dos vales profundos de 'Depressão'.",
+      "A linha da depressão mostra uma frequência de oscilação maior que a do transtorno bipolar.",
+      "Apenas o transtorno bipolar afeta a capacidade de funcionamento do indivíduo."
+    ],
+    "correctIndex": 2,
+    "explanation": "A resposta correta é a 2. O diagrama visualiza a depressão maior como um estado de humor predominantemente abaixo do normal (eutímico). A característica distintiva do transtorno bipolar, como ilustrado, é a presença de ambas as fases: os vales de depressão e os picos de humor elevado (mania ou euforia) que excedem o estado de humor normal. Esta dualidade de polos de humor é o que define visualmente e clinicamente o transtorno bipolar em contraste com o transtorno depressivo unipolar. As outras opções interpretam o gráfico de maneira incorreta.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "A 'reação do queijo' é uma crise hipertensiva grave que pode ocorrer com o uso de uma classe específica de antidepressivos. Qual é a classe e a interação que causam essa reação?",
+    "options": [
+      "ISRS em combinação com alimentos ricos em triptofano.",
+      "Antidepressivos Tricíclicos (ADTs) em combinação com laticínios.",
+      "Inibidores da MAO (IMAO) em combinação com alimentos contendo tiramina.",
+      "Antidepressivos Atípicos em combinação com álcool.",
+      "Antidepressivos Tetracíclicos em combinação com anti-hipertensivos."
+    ],
+    "correctIndex": 2,
+    "explanation": "A resposta correta é a 2. A 'reação do queijo' é uma interação clássica e perigosa associada aos Inibidores da Monoamina Oxidase (IMAO). Esses fármacos inibem a enzima MAO, que é responsável por degradar a tiramina, uma substância presente em alimentos como queijos envelhecidos, vinhos e carnes curadas. Quando um paciente em uso de IMAO consome esses alimentos, a tiramina não é degradada, acumulando-se e causando uma liberação maciça de noradrenalina, o que leva a uma crise hipertensiva grave. As outras opções descrevem interações incorretas ou menos específicas.",
+    "type": "conteudista"
+  },
+  {
+    "question": "O diagrama da sinapse serotoninérgica ilustra múltiplos locais de ação para fármacos. Um antidepressivo que atua primariamente bloqueando a enzima MAO terá qual efeito direto dentro do neurônio pré-sináptico?",
+    "options": [
+      "Aumentará a recaptação de 5-HT da fenda sináptica.",
+      "Diminuirá a conversão de triptofano em 5-HT.",
+      "Impedirá a degradação da 5-HT, aumentando as reservas de neurotransmissor disponíveis para liberação.",
+      "Bloqueará os receptores 5-HT1a pós-sinápticos.",
+      "Facilitará o empacotamento da 5-HT nas vesículas sinápticas pelo transportador TVMA."
+    ],
+    "correctIndex": 2,
+    "explanation": "A resposta correta é a 2. A enzima Monoamina Oxidase (MAO) está localizada dentro do neurônio pré-sináptico e sua função é catabolizar (degradar) a serotonina (5-HT) que não está protegida dentro das vesículas. Ao inibir a MAO, o fármaco impede essa degradação. Como resultado, a concentração de 5-HT dentro do neurônio aumenta, o que eleva a quantidade de neurotransmissor disponível para ser armazenado em vesículas e, subsequentemente, liberado na fenda sináptica. As outras opções descrevem ações de outras classes de drogas ou processos não relacionados à inibição da MAO.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Um paciente em tratamento para depressão com um Antidepressivo Tricíclico (ADT) relata boca seca, visão turva e constipação. A qual ação farmacológica esses efeitos colaterais são primariamente atribuídos?",
+    "options": [
+      "Bloqueio de receptores α-adrenérgicos",
+      "Inibição da recaptação de serotonina",
+      "Bloqueio de receptores de histamina H1",
+      "Inibição da monoamina oxidase (MAO)",
+      "Bloqueio de receptores muscarínicos (anticolinérgico)"
+    ],
+    "correctIndex": 4,
+    "explanation": "A resposta correta é a 4. A tríade de sintomas — boca seca, visão turva e constipação — é a manifestação clássica dos efeitos anticolinérgicos, que resultam do bloqueio de receptores muscarínicos. Essa é uma característica farmacológica conhecida dos Antidepressivos Tricíclicos, diferenciando-os de classes mais seletivas como os ISRS. O bloqueio α-adrenérgico está mais associado à hipotensão postural, e o bloqueio H1 à sedação. A inibição da recaptação de serotonina e da MAO são os mecanismos terapêuticos, não a causa principal desses efeitos específicos.",
+    "type": "conteudista"
+  },
+  {
+    "question": "A ilustração sobre a ação dos ISRS mostra um grande 'X' sobre o neurônio noradrenérgico e uma ação específica no neurônio serotoninérgico. Qual conceito fundamental da farmacologia dos ISRS essa imagem está destacando?",
+    "options": [
+      "Sua total ineficácia em qualquer tipo de neurônio.",
+      "Sua capacidade de destruir neurônios noradrenérgicos.",
+      "Sua seletividade de ação, atuando predominantemente no sistema serotoninérgico com pouco ou nenhum efeito no sistema noradrenérgico.",
+      "Sua potência superior em comparação com os ADTs.",
+      "A necessidade de altas doses para afetar o sistema da serotonina."
+    ],
+    "correctIndex": 2,
+    "explanation": "A resposta correta é a 2. A imagem visualmente representa a seletividade dos Inibidores SELETIVOS da Recaptação de Serotonina. Ao mostrar que eles 'impedem a re-captação de serotonina' no neurônio serotoninérgico, mas colocar um 'X' sobre o neurônio noradrenérgico, a ilustração enfatiza que o mecanismo primário e distintivo dessa classe é atuar especificamente no transportador de serotonina (SERT), sem afetar significativamente o transportador de noradrenalina (NET). Isso contrasta com classes não seletivas como os ADTs. As outras opções são interpretações errôneas do simbolismo.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "A Síndrome Serotoninérgica é uma reação adversa potencialmente fatal. Qual das seguintes situações apresenta o MAIOR risco para seu desenvolvimento?",
+    "options": [
+      "Uso isolado de um ISRS em dose terapêutica.",
+      "Combinação de um ISRS com um Inibidor da MAO (IMAO).",
+      "Interrupção abrupta de um Antidepressivo Tricíclico.",
+      "Uso de Bupropiona para cessação do tabagismo.",
+      "Associação de um ISRS com um anti-hipertensivo como o propranolol."
+    ],
+    "correctIndex": 1,
+    "explanation": "A resposta correta é a 1. A Síndrome Serotoninérgica é causada por um excesso de atividade serotoninérgica no sistema nervoso central. O risco é drasticamente aumentado quando se combinam fármacos que aumentam a serotonina por mecanismos diferentes. A combinação de um ISRS (que inibe a recaptação de serotonina) com um IMAO (que inibe a degradação da serotonina) é particularmente perigosa, pois leva a um aumento maciço e descontrolado dos níveis de serotonina. Por essa razão, a administração concomitante ou próxima dessas duas classes é contraindicada. As outras opções apresentam um risco muito menor ou nulo para esta síndrome específica.",
+    "type": "conteudista"
+  },
+  {
+    "question": "O infográfico sobre o diagnóstico da depressão (critérios DSM-V) indica que um diagnóstico requer um de dois sintomas principais mais quatro de outros sintomas. Se um paciente relata anedonia (perda de interesse ou prazer) e ideação suicida, quantos sintomas adicionais da lista (por exemplo, alterações do sono, fadiga, etc.) ele precisaria ter para preencher os critérios?",
+    "options": [
+      "Quatro sintomas adicionais.",
+      "Dois sintomas adicionais.",
+      "Três sintomas adicionais.",
+      "Nenhum sintoma adicional.",
+      "Cinco sintomas adicionais."
+    ],
+    "correctIndex": 2,
+    "explanation": "A resposta correta é a 2. O critério diagnóstico, conforme ilustrado, exige: 1 (sintoma principal) + 4 (outros sintomas) = 5 sintomas no total. O paciente já apresenta 'Apatia/perda do interesse', que é um dos dois sintomas principais. A 'Ideação suicida' é um dos 'outros sintomas'. Portanto, ele já tem 1 sintoma principal e 1 outro sintoma. Para atingir o total de 5 (1+4), ele precisaria de mais 3 sintomas da lista de 'outros sintomas'.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Qual das seguintes classes de antidepressivos é considerada 'atípica' e inclui fármacos com mecanismos de ação variados, como a Bupropiona (aumento da liberação de NA) e a Trazodona (bloqueio de receptores 5-HT2)?",
+    "options": [
+      "Inibidores da MAO (IMAO)",
+      "Inibidores Seletivos da Recaptação de Serotonina (ISRS)",
+      "Antidepressivos Tricíclicos (ADTs)",
+      "Antidepressivos Atípicos",
+      "Moduladores do humor"
+    ],
+    "correctIndex": 3,
+    "explanation": "A resposta correta é a 3. Os Antidepressivos Atípicos são um grupo heterogêneo de fármacos que não se encaixam nas classificações clássicas de ADTs, ISRS ou IMAOs. Conforme descrito, eles 'Não têm nenhum mecanismo de ação comum' e incluem exemplos como a Bupropiona, Trazodona, Mirtazapina e Venlafaxina, cada um com um perfil farmacológico distinto. As outras opções representam classes de fármacos com mecanismos de ação mais homogêneos e bem definidos.",
+    "type": "conteudista"
+  },
+  {
+    "question": "A caricatura sobre o subdiagnóstico da depressão mostra uma paciente sendo avaliada por múltiplos especialistas que atribuem seus sintomas a outras causas (tireoide, menopausa, falta de vitaminas). Qual é a mensagem central que essa imagem critica?",
+    "options": [
+      "A superioridade da medicina ortomolecular no tratamento da depressão.",
+      "A importância de tratar primeiro as condições cardíacas antes das psicológicas.",
+      "A tendência de não reconhecer a depressão como uma condição médica legítima, atribuindo seus sintomas a outras doenças ou a fatores existenciais, o que leva à falta de diagnóstico e tratamento adequados.",
+      "A depressão é sempre causada por problemas hormonais em mulheres.",
+      "Os psicólogos são os únicos profissionais qualificados para diagnosticar a depressão."
+    ],
+    "correctIndex": 2,
+    "explanation": "A resposta correta é a 2. A imagem critica a fragmentação do cuidado e a falha em ver o quadro geral. Ao fazer com que cada especialista foque apenas em sua área (endocrinologia, ginecologia, etc.), a caricatura ilustra como os sintomas legítimos da depressão podem ser erroneamente atribuídos a uma variedade de outras condições. A crítica é direcionada ao subdiagnóstico e ao diagnóstico incorreto da depressão, que impedem que o paciente receba o tratamento correto para o transtorno de humor.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "De acordo com a Teoria Monoaminérgica da Depressão, proposta em 1965, qual é a base neuroquímica do transtorno?",
+    "options": [
+      "Um excesso de transmissão de dopamina e acetilcolina.",
+      "Uma diminuição na transmissão de noradrenalina (NA) e serotonina (5-HT) no SNC.",
+      "Uma perda de suporte neurotrófico pelo fator BDNF.",
+      "Uma resposta anormalmente forte do cortisol ao teste de supressão da dexametasona.",
+      "Uma desregulação primária dos receptores de glutamato."
+    ],
+    "correctIndex": 1,
+    "explanation": "A resposta correta é a 1. A Teoria Monoaminérgica clássica, conforme mencionada, foi proposta por Schildkraut e postula que a depressão resulta de uma deficiência funcional ou diminuição na transmissão dos neurotransmissores monoaminérgicos, especificamente a noradrenalina (NA) e a serotonina (5-HT), no sistema nervoso central. A observação de que fármacos que depletavam essas aminas (como a reserpina) podiam induzir depressão foi uma das bases para essa hipótese. A opção 2 se refere à hipótese neurotrófica, que é uma teoria mais recente. As outras opções descrevem achados associados ou teorias diferentes.",
+    "type": "conteudista"
+  },
+  {
+    "question": "As imagens de PET scan mostram uma comparação da atividade cerebral. O que a predominância de cores frias (azul, verde) no cérebro de um indivíduo com depressão, em contraste com as cores quentes (vermelho, amarelo) do cérebro sem depressão, sugere?",
+    "options": [
+      "A depressão está associada a um aumento significativo na atividade metabólica cerebral.",
+      "A atividade cerebral é idêntica em ambos os estados, e as cores são aleatórias.",
+      "A depressão está associada a uma redução geral da atividade metabólica em diversas áreas do cérebro.",
+      "As cores quentes indicam inflamação, que é a causa principal da depressão.",
+      "As cores frias representam o bloqueio dos receptores de serotonina."
+    ],
+    "correctIndex": 2,
+    "explanation": "A resposta correta é a 2. Em exames de Tomografia por Emissão de Pósitrons (PET scan), cores quentes como vermelho e amarelo geralmente indicam altos níveis de atividade metabólica (por exemplo, consumo de glicose), enquanto cores frias como azul e verde indicam baixa atividade. A comparação visual demonstra que o cérebro com depressão apresenta uma atividade metabólica globalmente diminuída, o que é um correlato neurobiológico conhecido do transtorno. As outras opções são interpretações incorretas da tecnologia de neuroimagem ou da fisiopatologia da depressão.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "A tabela sobre agentes farmacológicos que podem desencadear estados depressivos cita a 'interrupção do uso de anfetamina, cocaína e álcool'. Qual é o mecanismo provável para a depressão nesse contexto?",
+    "options": [
+      "A interrupção causa uma crise hipertensiva que leva à depressão.",
+      "Essas substâncias causam dano neurológico irreversível, independentemente do uso.",
+      "Depressão de rebote ou síndrome de abstinência, devido à adaptação do cérebro à presença constante da substância estimulante ou depressora.",
+      "A interrupção leva a um aumento da produção de cortisol.",
+      "Essas substâncias bloqueiam permanentemente os receptores de serotonina."
+    ],
+    "correctIndex": 2,
+    "explanation": "A resposta correta é a 2. Anfetamina e cocaína são estimulantes que aumentam agudamente a disponibilidade de monoaminas como a dopamina e a noradrenalina. O álcool é um depressor do SNC. O uso crônico dessas substâncias leva a uma neuroadaptação (por exemplo, 'down-regulation' de receptores). A interrupção abrupta resulta em um estado de deficiência relativa desses neurotransmissores ou em uma hiperexcitabilidade de rebote, manifestando-se como uma síndrome de abstinência, cujos sintomas frequentemente incluem depressão severa. As outras opções não descrevem o mecanismo principal da depressão de retirada.",
+    "type": "conteudista"
+  },
+  {
+    "question": "A tabela em espanhol sobre fármacos que atuam no sistema serotoninérgico indica que o 'Ondansetrona' é um antagonista do receptor 5-HT3. Qual é a principal indicação clínica listada para fármacos com essa ação?",
+    "options": [
+      "Tratamento da depressão maior.",
+      "Tratamento da enxaqueca (migraña).",
+      "Controle de náuseas e vômitos (antiemético).",
+      "Redução da ansiedade (ansiolítico).",
+      "Melhora da função cognitiva."
+    ],
+    "correctIndex": 2,
+    "explanation": "A resposta correta é a 2. A tabela e o conhecimento farmacológico geral associam o antagonismo dos receptores 5-HT3, localizados em áreas como a zona de gatilho quimiorreceptora (área postrema), ao controle de náuseas e vômitos, especialmente os induzidos por quimioterapia ou pós-operatórios. O Ondansetrona é um exemplo clássico de um antiemético que atua por esse mecanismo. A enxaqueca é tratada com agonistas 5-HT1B/1D (Sumatriptano), a ansiedade com agonistas 5-HT1A (Buspirona), e a depressão com inibidores de recaptação (Fluoxetina), conforme indicado em outras partes da tabela.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Qual dos seguintes fármacos é um Antidepressivo Tricíclico (ADT) com ação prolongada (duração 1-3 dias) e início de efeito terapêutico demorado (2-4 semanas)?",
+    "options": [
+      "Fluoxetina",
+      "Moclobemida",
+      "Imipramina",
+      "Venlafaxina",
+      "Bupropiona"
+    ],
+    "correctIndex": 2,
+    "explanation": "A resposta correta é a 2. A Imipramina é listada como um exemplo primordial dos Antidepressivos Tricíclicos (ADTs). As informações associadas a essa classe indicam explicitamente uma 'Duração de ação: 1-3 dias' e um 'Aparecimento do Efeito: 2-4 semanas'. A Fluoxetina é um ISRS, a Moclobemida é um IMAO, e a Venlafaxina e a Bupropiona são antidepressivos atípicos, cada um com suas próprias características farmacocinéticas e farmacodinâmicas.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Um paciente em uso de um antidepressivo desenvolve hipertermia, rigidez muscular, colapso cardiovascular e mioclonia. Segundo o infográfico e o texto, qual é o diagnóstico mais provável e a causa subjacente?",
+    "options": [
+      "Reação do Queijo, causada pela ingestão de tiramina.",
+      "Crise anticolinérgica, causada pelo bloqueio excessivo de receptores muscarínicos.",
+      "Síndrome Serotoninérgica, causada pela superestimulação de receptores de 5-HT.",
+      "Intoxicação por Lítio, associada ao tratamento de transtorno bipolar.",
+      "Síndrome de abstinência, devido à interrupção abrupta do medicamento."
+    ],
+    "correctIndex": 2,
+    "explanation": "A resposta correta é a 2. O conjunto de sintomas descrito (hipertermia, rigidez, instabilidade autonômica) e os sinais no infográfico (agitação, tremor, hiperreflexia, clônus) são as manifestações clássicas da Síndrome Serotoninérgica. Esta é uma emergência médica causada por uma atividade excessiva da serotonina no SNC, geralmente decorrente de uma superdosagem ou da combinação de fármacos que aumentam a serotonina. As outras opções descrevem síndromes tóxicas diferentes, com outras causas e apresentações clínicas.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "A Hipótese Neurotrófica da depressão sugere que a perda de suporte neurotrófico contribui para o transtorno. Qual fator de crescimento é central para essa hipótese?",
+    "options": [
+      "Fator de Crescimento Epidérmico (EGF)",
+      "Fator de Necrose Tumoral (TNF)",
+      "Fator de Crescimento Derivado do Encéfalo (BDNF)",
+      "Fator de Crescimento de Fibroblastos (FGF)",
+      "Insulina"
+    ],
+    "correctIndex": 2,
+    "explanation": "A resposta correta é a 2. O texto identifica especificamente o 'Fator de crescimento derivado do encéfalo (BDNF)' como o elemento chave da Hipótese Neurotrófica. O BDNF é crucial para a regulação da plasticidade neuronal, resiliência e neurogênese. A teoria postula que o estresse e a depressão podem diminuir os níveis de BDNF, levando à atrofia de neurônios em áreas como o hipocampo, e que os tratamentos antidepressivos podem exercer seus efeitos, em parte, restaurando esse suporte neurotrófico.",
+    "type": "conteudista"
+  },
+  {
+    "question": "O diagrama que detalha a ação de vários antidepressivos mostra que a Fenelzina e a Tranilcipromina inibem a MAO, enquanto a Desipramina e a Maprotilina bloqueiam o transportador de recaptação de NE (NET). Qual seria a diferença fundamental no local de ação desses dois grupos de fármacos?",
+    "options": [
+      "As duas classes atuam no mesmo local, o transportador de recaptação.",
+      "Os IMAOs atuam na fenda sináptica, enquanto os bloqueadores de NET atuam dentro do neurônio.",
+      "Os IMAOs atuam dentro do neurônio pré-sináptico para prevenir a degradação do neurotransmissor, enquanto os bloqueadores de NET atuam na membrana pré-sináptica para impedir a remoção do neurotransmissor da fenda.",
+      "Os IMAOs bloqueiam receptores pós-sinápticos, e os bloqueadores de NET aumentam a síntese de NE.",
+      "Não há diferença, pois ambos resultam em um aumento de NE na sinapse."
+    ],
+    "correctIndex": 2,
+    "explanation": "A resposta correta é a 2. O diagrama e o conhecimento farmacológico mostram que o local de ação é distinto. Os Inibidores da MAO (Fenelzina, Tranilcipromida) atuam na enzima MAO, que está localizada intracelularmente (na mitocôndria) do neurônio pré-sináptico. Sua função é interna. Já os bloqueadores do transportador de noradrenalina (NET), como a Desipramina, atuam em uma proteína (o transportador) que está inserida na membrana celular do neurônio pré-sináptico, com sua função sendo a de remover o neurotransmissor da fenda sináptica. Embora ambos levem a um aumento da neurotransmissão, seus alvos moleculares e locais de ação são fundamentalmente diferentes.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Qual é um efeito adverso comum e característico dos ISRS, que frequentemente leva à descontinuação do tratamento, mas que é menos proeminente com os ADTs?",
+    "options": [
+      "Hipotensão postural",
+      "Boca seca e constipação",
+      "Cardiotoxicidade em superdosagem",
+      "Disfunção sexual",
+      "Aumento significativo do peso corporal"
+    ],
+    "correctIndex": 3,
+    "explanation": "A resposta correta é a 3. A disfunção sexual (como diminuição da libido, anorgasmia) é um efeito adverso muito comum e conhecido dos Inibidores Seletivos da Recaptação de Serotonina (ISRS), sendo uma causa frequente de não adesão ao tratamento. Embora os ADTs possam causar esse efeito, ele é notavelmente mais prevalente com os ISRS. As outras opções, como boca seca/constipação (efeitos anticolinérgicos), hipotensão postural e cardiotoxicidade, são mais características e preocupantes com os ADTs.",
+    "type": "conteudista"
+  },
+  {
+    "question": "A Moclobemida é citada como um Inibidor da MAO. Qual característica a diferencia de outros IMAOs como a Fenelzina, tornando-a potencialmente mais segura em certas interações?",
+    "options": [
+      "Sua inibição da MAO é irreversível e mais potente.",
+      "Ela inibe seletivamente a MAO-B, sendo útil para o Parkinson.",
+      "Sua inibição da MAO é reversível.",
+      "Ela não causa hipotensão postural.",
+      "Ela não requer prescrição médica."
+    ],
+    "correctIndex": 2,
+    "explanation": "A resposta correta é a 2. O texto especifica que, enquanto muitos IMAOs clássicos como a Fenelzina causam uma 'inibição irreversível da MAO', 'A inibição da moclobemida é reversível'. Essa característica farmacológica é crucial. Uma inibição reversível (especificamente da MAO-A, o que a classifica como um RIMA) significa que a atividade da enzima pode ser restaurada mais rapidamente. Isso diminui significativamente o risco e a duração da perigosa 'reação do queijo' com a tiramina, pois a MAO pode deslocar a moclobemida e metabolizar a tiramina, tornando-a uma opção mais segura nesse aspecto.",
+    "type": "conteudista"
+  },
+  {
+    "question": "O tratamento de um paciente com transtorno bipolar que apresenta um episódio depressivo requer cuidado especial. Por que a monoterapia com um antidepressivo é geralmente desaconselhada nesse caso?",
+    "options": [
+      "Os antidepressivos são totalmente ineficazes em pacientes bipolares.",
+      "O antidepressivo pode induzir uma virada para um episódio de mania ou hipomania e acelerar os ciclos do transtorno.",
+      "Os antidepressivos causam cardiotoxicidade apenas em pacientes bipolares.",
+      "Pacientes bipolares metabolizam os antidepressivos rápido demais.",
+      "É impossível combinar um antidepressivo com um modulador de humor."
+    ],
+    "correctIndex": 1,
+    "explanation": "A resposta correta é a 1. O texto alerta que 'O AD em pacientes bipolares deprimidos pode ocasionar a mania e a aceleração dos ciclos'. Este é o principal risco e a razão pela qual o uso de antidepressivos em monoterapia é evitado no transtorno bipolar. A introdução de um AD pode 'virar' o paciente do polo depressivo para o polo maníaco. Por isso, a recomendação é utilizar moduladores do humor (como lítio ou anticonvulsivantes), que estabilizam o humor em ambos os polos, podendo-se associar um AD com cautela se necessário.",
+    "type": "conteudista"
+  },
+  {
+    "question": "A tabela sobre agentes farmacológicos que induzem depressão lista vários anti-hipertensivos, incluindo a reserpina, o propranolol e a clonidina. Qual é a via comum pela qual esses fármacos podem exercer um efeito depressogênico?",
+    "options": [
+      "Eles aumentam os níveis de serotonina no cérebro.",
+      "Eles interferem com os sistemas de neurotransmissores monoaminérgicos (noradrenalina, serotonina, dopamina), geralmente diminuindo sua função.",
+      "Eles bloqueiam a produção de BDNF, o fator neurotrófico.",
+      "Eles causam uma crise hipertensiva que leva à depressão.",
+      "Todos eles são inibidores do citocromo P-450."
+    ],
+    "correctIndex": 1,
+    "explanation": "A resposta correta é a 1. A reserpina, historicamente, foi um dos fármacos cujo efeito (induzir depressão) ajudou a formular a Teoria Monoaminérgica, pois ela depletava as reservas de monoaminas nas vesículas sinápticas. Outros agentes, como o propranolol (beta-bloqueador) e a clonidina (agonista alfa-2), também modulam o sistema noradrenérgico. A via comum para o efeito depressogênico desses agentes é a sua capacidade de interferir e reduzir a neurotransmissão monoaminérgica, o que está alinhado com a principal teoria biológica da depressão apresentada.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual dos seguintes antidepressivos atípicos é também proeminente utilizado para auxiliar na cessação do tabagismo?",
+    "options": [
+      "Mirtazapina",
+      "Trazodona",
+      "Amoxapina",
+      "Bupropiona",
+      "Venlafaxina"
+    ],
+    "correctIndex": 3,
+    "explanation": "A resposta correta é a 3. A tabela resumo sobre Antidepressivos Tetracíclicos e Unicíclicos lista a Bupropiona e, em suas aplicações, menciona 'depressão maior, abandono do tabagismo'. Seu mecanismo, que envolve a neurotransmissão de norepinefrina e dopamina, é eficaz em reduzir os sintomas de fissura e abstinência da nicotina.",
+    "type": "conteudista"
+  },
+  {
+    "question": "A maioria dos antidepressivos, incluindo ADTs, ISRS e IMAOs, compartilha uma característica farmacocinética em comum em relação ao tempo para o início do efeito terapêutico. Qual é essa característica?",
+    "options": [
+      "Efeito terapêutico imediato, observado em poucas horas.",
+      "Efeito terapêutico que aparece apenas após 6 meses de uso contínuo.",
+      "Um período de latência, onde o efeito antidepressivo clinicamente significativo leva de 2 a 4 semanas para aparecer.",
+      "O efeito terapêutico máximo é atingido na primeira semana de tratamento.",
+      "Eles não possuem um período de latência definido."
+    ],
+    "correctIndex": 2,
+    "explanation": "A resposta correta é a 2. Uma característica marcante e clinicamente importante da maioria dos antidepressivos é o seu início de ação demorado. O texto menciona para os ADTs um 'Aparecimento do Efeito: 2-4 semanas' e para os Atípicos uma 'Resposta terapêutica demorada como ADT e IMAO'. Este período de latência é atribuído às adaptações neuroplásticas que ocorrem em resposta ao aumento agudo de neurotransmissores, como a dessensibilização de receptores, que são processos que levam tempo.",
+    "type": "conteudista"
+  },
+  {
+    "question": "A tabela sobre os moduladores dos receptores 5-HT mostra que a Trazodona bloqueia os receptores 5-HT2 e α2. O bloqueio do receptor 5-HT2 está associado a que efeito clínico?",
+    "options": [
+      "Estimulação e insônia",
+      "Efeito ansiolítico e melhora do sono (sedação/hipnose)",
+      "Aumento da pressão arterial",
+      "Crise hipertensiva",
+      "Disfunção sexual"
+    ],
+    "correctIndex": 1,
+    "explanation": "A resposta correta é a 1. A tabela de Moduladores dos Receptores 5-HT lista 'sedação, hipnose' como efeitos da Trazodona. O bloqueio dos receptores 5-HT2A, em particular, está associado à melhora da arquitetura do sono (aumento do sono de ondas lentas) e a efeitos ansiolíticos e antidepressivos. A sedação também é potencializada pelo seu bloqueio de receptores H1. A disfunção sexual, por outro lado, está mais associada à estimulação excessiva de outros receptores de 5-HT, algo que a Trazodona mitiga ao bloquear os receptores 5-HT2A.",
+    "type": "conteudista"
+  },
+  {
+    "question": "As diretrizes de seguimento farmacoterapêutico enfatizam a importância de explicar ao paciente sobre o 'período de latência medicamentosa'. Por que essa orientação é crucial para a adesão ao tratamento?",
+    "options": [
+      "Para encorajar o paciente a interromper o uso se não houver melhora imediata.",
+      "Para que o paciente saiba que os efeitos colaterais só aparecerão após várias semanas.",
+      "Para gerenciar as expectativas do paciente, informando que a melhora não será imediata e que é necessário continuar o tratamento por algumas semanas para que o efeito terapêutico apareça, evitando a interrupção precoce por aparente falta de eficácia.",
+      "Para instruir o paciente a dobrar a dose se não sentir efeito na primeira semana.",
+      "Para justificar o alto custo do medicamento."
+    ],
+    "correctIndex": 2,
+    "explanation": "A resposta correta é a 2. O período de latência (geralmente de 2 a 4 semanas) é o tempo que os antidepressivos levam para produzir um efeito clínico significativo. Se o paciente não for orientado sobre isso, é muito provável que ele pense que o medicamento 'não está funcionando' após alguns dias ou uma semana de uso e o abandone. Explicar essa característica é fundamental para garantir a adesão ao tratamento durante o período inicial, que é crítico para o sucesso terapêutico. As outras opções representam orientações incorretas e perigosas.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Seis enzimas CYP são responsáveis por 90% do metabolismo de fármacos. Qual das seguintes enzimas CYP é destacada no texto como 'uma das mais importantes'?",
+    "options": [
+      "CYP1A2",
+      "CYP2C9",
+      "CYP2D6",
+      "CYP3A4",
+      "CYP2E1"
+    ],
+    "correctIndex": 3,
+    "explanation": "A resposta correta é a 3. O texto afirma explicitamente que 'A CYP3A4 é uma das mais importantes enzimas do citocromo P-450'. Esta enzima está envolvida no metabolismo de uma vasta quantidade de medicamentos, e as interações farmacológicas que a envolvem (seja como substrato, indutor ou inibidor) são de grande relevância clínica na prescrição de antidepressivos e outras classes de fármacos.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é a principal razão pela qual os Antidepressivos Tricíclicos (ADTs) são considerados de alto risco em superdosagem?",
+    "options": [
+      "Seu potencial de causar dependência severa.",
+      "O risco de induzir uma 'reação do queijo'.",
+      "Seu potencial de causar confusão, mania e, principalmente, disritmias cardíacas fatais.",
+      "A alta incidência de disfunção sexual.",
+      "Sua capacidade de causar danos hepáticos irreversíveis em doses baixas."
+    ],
+    "correctIndex": 2,
+    "explanation": "A resposta correta é a 2. O texto destaca que em 'Superdosagem' os ADTs podem causar 'confusão, mania; disritmias cardíacas'. A tabela resumo também menciona o 'risco em superdosagem'. A cardiotoxicidade, que se manifesta como arritmias (disritmias) graves, é o aspecto mais perigoso de uma superdosagem de ADTs e a principal causa de mortalidade nesses casos. O risco de 'reação do queijo' é dos IMAOs, e a disfunção sexual é mais proeminente com ISRS. A dependência não é a principal preocupação com ADTs.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Considerando as intervenções não-farmacológicas listadas no diagrama, qual das opções abaixo inclui exclusivamente abordagens terapêuticas formais que requerem a condução por um profissional treinado?",
+    "options": [
+      "Atividade Física, Socialização e Orientação Nutricional.",
+      "Psicoterapia, Terapia Ocupacional e Estimulação Magnética Transcraniana (EMT).",
+      "Terapias Complementares, Intervenção Comportamental e Socialização.",
+      "Atividade Física, ECT e Psicoterapia.",
+      "Orientação Nutricional, Terapia Ocupacional e Socialização."
+    ],
+    "correctIndex": 1,
+    "explanation": "A resposta correta é a 1. O diagrama lista várias intervenções. Dentre as opções, Psicoterapia, Terapia Ocupacional e EMT são procedimentos que exigem, por sua natureza, a avaliação, prescrição e condução por profissionais de saúde qualificados (psicólogos, terapeutas ocupacionais, médicos). Embora outras intervenções como atividade física e orientação nutricional sejam benéficas e possam ser orientadas por profissionais, elas também podem ser praticadas de forma autônoma. A opção 1 agrupa as intervenções que são estritamente procedimentos terapêuticos formais.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Segundo a tabela de agentes farmacológicos, qual anti-hipertensivo é citado como capaz de desencadear estados depressivos?",
+    "options": [
+      "Losartana",
+      "Anlodipino",
+      "Hidroclorotiazida",
+      "Propranolol",
+      "Captopril"
+    ],
+    "correctIndex": 3,
+    "explanation": "A resposta correta é a 3. A tabela que lista 'Principais doenças e agentes farmacológicos associados ao desencadeamento de estados depressivos' inclui, na categoria de Anti-hipertensivos, os fármacos 'reserpina, alfa-meti-dopa, propranolol e clonidina'. O propranolol é o único entre as opções que está explicitamente listado no material como um agente farmacológico associado à depressão.",
+    "type": "conteudista"
+  }
+]

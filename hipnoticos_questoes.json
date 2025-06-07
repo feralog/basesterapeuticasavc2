@@ -309,7 +309,7 @@
     ],
     "correctIndex": 1,
     "explanation": "A resposta correta é a 1. A apneia obstrutiva do sono é causada pelo colapso da via aérea superior durante o sono. Os benzodiazepínicos são relaxantes musculares e depressores do sistema nervoso central. Seu uso pode relaxar ainda mais a musculatura da garganta, piorando a obstrução. Além disso, ao deprimir a resposta do cérebro à hipóxia (baixa de oxigênio), eles podem prolongar a duração dos eventos apneicos e tornar a dessaturação de oxigênio mais severa, o que é perigoso.",
-    "raciocínio"
+    "type": "raciocínio"
   },
   {
     "question": "A Doxepina, um antidepressivo tricíclico, é mencionada como indicada para 'melhorar a manutenção do sono'. Qual das seguintes características dos ADTs pode contribuir para este efeito, mas também para efeitos residuais diurnos?",
@@ -322,7 +322,7 @@
     ],
     "correctIndex": 1,
     "explanation": "A resposta correta é a 1. A manutenção do sono (ou seja, evitar despertares) é favorecida por um fármaco que permanece em concentrações terapêuticas durante toda a noite. Os ADTs, como a Doxepina, possuem tipicamente meias-vidas longas e frequentemente geram metabólitos que também são farmacologicamente ativos. Essa farmacocinética de longa duração ajuda a manter o sono, mas é também a razão pela qual podem ocorrer efeitos residuais no dia seguinte, como sonolência e comprometimento cognitivo, pois o fármaco ainda está presente no organismo ao despertar.",
-    "raciocínio"
+    "type": "raciocínio"
   },
   {
     "question": "De acordo com o texto, o que é o sono paradoxal?",

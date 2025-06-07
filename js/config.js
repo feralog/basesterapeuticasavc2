@@ -84,12 +84,12 @@ const quizConfig = {
              {
             id: "hipnoticos",
             name: "Hipnoticos",
-            file: "hipnoticos"
+            file: "hipnoticos_questoes"
         },
              {
             id: "anticon",
             name: "Anticonvulsivantes",
-            file: "anticonvulsivantes"
+            file: "anticonvulsivantes_questoes"
         },
          {
             id: "antimicro",
@@ -99,7 +99,7 @@ const quizConfig = {
         {
             id: "antimicoticos",
             name: "Antimicoticos",
-            file: "antimicoticos"
+            file: "antimicoticos_questoes"
         },
         {
             id: "antimiparasi",
@@ -109,7 +109,7 @@ const quizConfig = {
         {
             id: "antivirais",
             name: "Antivirais",
-            file: "antivirais"
+            file: "antivirais_questoes"
         },
         {
             id: "quimioterapicos",

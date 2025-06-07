@@ -387,6 +387,6 @@
     ],
     "correctIndex": 3,
     "explanation": "A resposta correta é a 3. O texto descreve a 'Epilepsia do lobo temporal mesial', que é comumente associada à 'Esclerose hipocampal (IRM)', como sendo 'Refratária a antiepilépticos' mas que 'Responde bem a intervenção cirúrgica'. A remoção dessas estruturas (hipocampo e amígdala) tem como alvo a origem da crise nesse tipo específico de epilepsia.",
-    "raciocínio"
+    "type": "raciocínio"
   }
 ]

@@ -11,7 +11,7 @@ const quizConfig = {
     title: "Quiz Farmaco",
     
     // Nome do localStorage para salvar os dados do usuário
-    storageKey: "quizFarmaco",
+    storageKey: "quizFarmaco2",
     
     // Lista de módulos disponíveis
     // O nome do arquivo deve corresponder ao valor em 'file' (sem a extensão .json)

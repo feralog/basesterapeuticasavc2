@@ -66,6 +66,56 @@ const quizConfig = {
             name: "Anestésicos Gerais 2",
             file: "questoes_anestesicosgerais2"
         },
+{
+            id: "ansioliticos",
+            name: "Ansioliticos",
+            file: "ansioliticos"
+        },
+        {
+            id: "antidepressivos",
+            name: "Antidepressivos",
+            file: "antidepressivos"
+        },
+                {
+            id: "antidepressivos2",
+            name: "Antidepressivos 2",
+            file: "antidepressivos2"
+        },
+             {
+            id: "hipnoticos",
+            name: "Hipnoticos",
+            file: "hipnoticos"
+        },
+             {
+            id: "anticon",
+            name: "Anticonvulsivantes",
+            file: "anticonvulsivantes"
+        },
+         {
+            id: "antimicro",
+            name: "Antimicrobianos",
+            file: "antimicrobianos"
+        },
+        {
+            id: "antimicoticos",
+            name: "Antimicoticos",
+            file: "antimicoticos"
+        },
+        {
+            id: "antimiparasi",
+            name: "Antiparasitarios",
+            file: "antiparasitarios"
+        },
+        {
+            id: "antivirais",
+            name: "Antivirais",
+            file: "antivirais"
+        },
+        {
+            id: "quimioterapicos",
+            name: "Quimioterapicos",
+            file: "quimioterapicos"
+        },
         // Adicione mais módulos conforme necessário
     ]
 };

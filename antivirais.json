@@ -1,0 +1,392 @@
+[
+  {
+    "question": "Qual é o mecanismo de ação dos Inibidores da Transcriptase Reversa Análogos de Nucleosídeos (ITRNs), como a Zidovudina (AZT)?",
+    "options": [
+      "Inibem a protease viral, impedindo a maturação de novas partículas virais.",
+      "Bloqueiam a fusão do envelope viral com a membrana da célula hospedeira.",
+      "São incorporados na cadeia de DNA viral pela transcriptase reversa, atuando como terminadores de cadeia e interrompendo a síntese.",
+      "Inibem a enzima neuraminidase, prevenindo a liberação de novos vírions.",
+      "Ligam-se a um sítio alostérico da transcriptase reversa, inativando a enzima."
+    ],
+    "correctIndex": 2,
+    "explanation": "A resposta correta é a 2. O diagrama do mecanismo de ação dos ITRNs e o texto sobre o Aciclovir (que tem um mecanismo análogo na DNA polimerase) mostram que esses fármacos são análogos de nucleosídeos. Após serem fosforilados na célula, eles competem com os nucleotídeos naturais e são incorporados na cadeia de ácido nucleico em formação. Como eles não possuem a estrutura química necessária para a adição do próximo nucleotídeo, a cadeia é terminada prematuramente, bloqueando a replicação viral. A opção 0 descreve os Inibidores de Protease; a 1, os Inibidores de Fusão; a 3, os inibidores de neuraminidase (anti-influenza); e a 4, os Inibidores da Transcriptase Reversa Não-Nucleosídeos (ITRNNs).",
+    "type": "conteudista"
+  },
+  {
+    "question": "O diagrama de bioativação do Aciclovir mostra que a primeira etapa de fosforilação é catalisada pela 'timidina quinase viral'. Qual é a principal implicação dessa etapa para a seletividade do fármaco?",
+    "options": [
+      "O fármaco só pode ser administrado por via intravenosa.",
+      "A ativação do fármaco é mais lenta que a dos antivirais de ação direta.",
+      "O fármaco é ativado preferencialmente em células infectadas pelo vírus do herpes (que possuem a enzima viral), minimizando a toxicidade para as células sadias do hospedeiro.",
+      "Isso torna o Aciclovir eficaz contra todos os tipos de vírus, incluindo o HIV.",
+      "A ativação depende de enzimas humanas, tornando-o tóxico para o fígado."
+    ],
+    "correctIndex": 2,
+    "explanation": "A resposta correta é a 2. A seletividade de muitos antivirais análogos de nucleosídeos, como o Aciclovir, baseia-se na sua ativação por uma enzima específica do vírus. O Aciclovir em sua forma original é inativo. Ele só se torna um potente inibidor após ser fosforilado. Como a primeira e crucial etapa de fosforilação é realizada pela timidina quinase do vírus do herpes, o fármaco só será ativado em grande quantidade dentro das células que estão infectadas, onde a enzima viral está presente. Isso confere uma alta seletividade e diminui o risco de toxicidade para as células não infectadas.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Qual é o mecanismo de ação dos fármacos anti-influenza Oseltamivir e Zanamivir?",
+    "options": [
+      "Inibem o desnudamento viral na célula hospedeira.",
+      "Atuam como inibidores da transcriptase reversa.",
+      "São inibidores da enzima neuraminidase, que é essencial para a liberação de novas partículas virais da célula infectada.",
+      "Bloqueiam a síntese de RNA viral.",
+      "São análogos da guanosina que causam terminação da cadeia."
+    ],
+    "correctIndex": 2,
+    "explanation": "A resposta correta é a 2. O texto classifica o Zanamivir e o Oseltamivir como 'Inibidor de neuraminidase'. A neuraminidase é uma enzima na superfície do vírus da influenza que cliva o ácido siálico, permitindo que os novos vírions se desprendam da célula hospedeira e infectem outras células. Ao inibir essa enzima, os fármacos aprisionam os vírus na superfície celular, impedindo a propagação da infecção.",
+    "type": "conteudista"
+  },
+  {
+    "question": "O gráfico sobre as mortes por AIDS em Nova York mostra uma queda drástica a partir de meados da década de 1990, que coincide com a introdução da terapia antirretroviral combinada. Com base nos diagramas do ciclo de vida do HIV, por que a terapia combinada (ex: um ITRN + um Inibidor de Protease) é muito mais eficaz do que a monoterapia?",
+    "options": [
+      "Porque a combinação de fármacos diminui os efeitos colaterais.",
+      "Porque a terapia combinada ataca múltiplos estágios do ciclo de replicação viral simultaneamente, diminuindo drasticamente a probabilidade de o vírus desenvolver resistência.",
+      "Porque um fármaco ativa o outro dentro da célula hospedeira.",
+      "Porque a terapia combinada é mais barata que a monoterapia.",
+      "Porque a monoterapia só funciona nas fases iniciais da infecção."
+    ],
+    "correctIndex": 1,
+    "explanation": "A resposta correta é a 1. O HIV, como muitos vírus, tem uma alta taxa de mutação. Se apenas um fármaco é usado (monoterapia), é relativamente fácil para o vírus sofrer uma mutação que o torne resistente àquele fármaco. A terapia combinada, ou HAART, ataca diferentes alvos (como a transcriptase reversa e a protease) ao mesmo tempo. A probabilidade de o vírus desenvolver, simultaneamente, múltiplas mutações que conferem resistência a todos os fármacos do coquetel é extremamente baixa. Isso leva a uma supressão viral muito mais duradoura e eficaz, como demonstrado pela queda na mortalidade no gráfico.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "O que é uma Peguinterferona, como a Peguinterferona 2a?",
+    "options": [
+      "Uma forma de interferon produzida por bactérias.",
+      "Uma combinação de interferon alfa e ribavirina em uma única molécula.",
+      "Uma molécula de interferon alfa associada a uma molécula de polietilenoglicol (PEG) para prolongar seu tempo de efeito e diminuir sua depuração.",
+      "Um tipo de interferon que só pode ser administrado por via intratecal.",
+      "Um análogo sintético do interferon com maior potência antiviral."
+    ],
+    "correctIndex": 2,
+    "explanation": "A resposta correta é a 2. O texto explica que 'A associação da α interferona com polietilenoglicol, aumenta o tamanho da molécula, que será chamada de peguilada'. Essa modificação 'Retarda a absorção local o que prolonga seu tempo de efeito e diminui a sua depuração', permitindo um esquema de dosagem menos frequente (uma vez por semana em vez de três).",
+    "type": "conteudista"
+  },
+  {
+    "question": "O diagrama do ciclo de vida do herpes mostra o vírus infectando a pele, viajando por um neurônio até um gânglio e depois reativando. O que esse ciclo de latência e reativação explica sobre as infecções por herpes?",
+    "options": [
+      "Que a infecção por herpes é sempre fatal.",
+      "Que o tratamento com Aciclovir elimina o vírus do corpo permanentemente.",
+      "A natureza recorrente das lesões de herpes (como o herpes labial), que podem reaparecer no mesmo local periodicamente, pois o vírus permanece latente nos gânglios nervosos e pode ser reativado por gatilhos como estresse ou imunossupressão.",
+      "Que a infecção só pode ser transmitida através do contato com neurônios.",
+      "Que o vírus só se replica na pele e não afeta o sistema nervoso."
+    ],
+    "correctIndex": 2,
+    "explanation": "A resposta correta é a 2. O diagrama ilustra o mecanismo de latência do vírus do herpes. Após a infecção inicial na pele ou mucosa, o vírus migra pelos nervos sensoriais e se aloja nos gânglios nervosos, onde permanece em estado dormente (latente) sem se replicar. Fatores como estresse, exposição ao sol ou queda da imunidade podem reativar o vírus, que então viaja de volta pelo mesmo nervo para causar uma nova lesão no local original. Isso explica por que as crises de herpes são recorrentes ao longo da vida.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Qual é a principal razão pela qual o desenvolvimento de fármacos antivirais com alta toxicidade seletiva é um desafio?",
+    "options": [
+      "Os vírus são muito grandes e possuem uma parede celular resistente.",
+      "Os vírus se replicam fora da célula do hospedeiro.",
+      "Os vírus utilizam a maquinaria da célula hospedeira para se replicar, o que significa que muitos alvos potenciais são também componentes essenciais da célula humana.",
+      "Os vírus não possuem material genético.",
+      "Os fármacos antivirais são quimicamente instáveis e se degradam rapidamente."
+    ],
+    "correctIndex": 2,
+    "explanation": "A resposta correta é a 2. O texto afirma que os vírus 'Utilizam a célula do hospedeiro para produzir novas partículas virais' e que, por isso, 'A destruição farmacológica torna-se difícil sem que ocorra prejuízos a célula humana', comprometendo a 'Toxicidade seletiva'. Como os vírus são parasitas intracelulares obrigatórios, eles cooptam as enzimas, ribossomos e outras estruturas da célula hospedeira. Atacar esses processos para inibir o vírus frequentemente significa atacar também a célula humana, levando a efeitos colaterais.",
+    "type": "conteudista"
+  },
+  {
+    "question": "O diagrama do mecanismo dos ITRNs mostra a enzima Transcriptase Reversa sintetizando uma fita de DNA a partir de um molde de RNA. A presença dessa enzima é característica de qual grupo de vírus?",
+    "options": [
+      "Vírus de DNA, como o Herpes.",
+      "Bacteriófagos.",
+      "Retrovírus, como o HIV.",
+      "Vírus da Influenza.",
+      "Todos os vírus de RNA."
+    ],
+    "correctIndex": 2,
+    "explanation": "A resposta correta é a 2. A Transcriptase Reversa é a enzima que define os retrovírus. Ela realiza a 'transcrição reversa', um processo que vai contra o dogma central da biologia molecular (DNA -> RNA -> Proteína) ao sintetizar DNA a partir de um molde de RNA. O HIV é o exemplo mais conhecido de um retrovírus, e essa enzima única é um alvo primário para a terapia antirretroviral.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "O Foscarnet é um antiviral com um mecanismo de ação distinto. Qual é ele?",
+    "options": [
+      "Atua como um análogo de nucleosídeo, causando terminação de cadeia.",
+      "Inibe diretamente a DNA polimerase, a RNA polimerase e a transcriptase reversa, sem precisar de fosforilação para ser ativado.",
+      "Inibe a enzima neuraminidase.",
+      "Bloqueia a fusão do vírus com a célula hospedeira.",
+      "É uma citocina que estimula a resposta imune inata."
+    ],
+    "correctIndex": 1,
+    "explanation": "A resposta correta é a 1. O texto afirma que o Foscarnet 'inibe a DNA polimerase, RNA polimerase e também, a transcriptase reversa'. Diferente dos análogos de nucleosídeos como o Aciclovir, que precisam ser bioativados por fosforilação, o Foscarnet é um análogo do pirofosfato e se liga diretamente ao sítio de ligação do pirofosfato nessas enzimas polimerases, inibindo-as sem a necessidade de ativação intracelular.",
+    "type": "conteudista"
+  },
+  {
+    "question": "O diagrama do ciclo de vida do HIV mostra os alvos de quatro classes principais de fármacos. Se um paciente está usando Ritonavir (um inibidor de protease) e Zidovudina (um ITRN), em quais duas etapas distintas da replicação viral essa combinação está atuando?",
+    "options": [
+      "Na entrada do vírus na célula e na montagem de novas partículas.",
+      "Na transcrição reversa (síntese de DNA viral) e na maturação das novas partículas virais (clivagem de poliproteínas).",
+      "Na integração do DNA viral ao genoma do hospedeiro e na liberação por brotamento.",
+      "Apenas na transcrição reversa, mas por mecanismos diferentes.",
+      "Na síntese de RNA viral e na montagem do capsídeo."
+    ],
+    "correctIndex": 1,
+    "explanation": "A resposta correta é a 1. O diagrama do ciclo de vida do HIV mostra claramente os locais de ação. A Zidovudina, como ITRN, atua na etapa de 'transcrição reversa', impedindo a síntese de DNA a partir do RNA viral. O Ritonavir, como Inibidor de Protease (IP), atua em uma etapa muito posterior, a 'maturação', onde a protease viral normalmente cliva grandes poliproteínas para formar os componentes funcionais do novo vírion. Ao atacar essas duas fases distintas, a terapia combinada suprime a replicação de forma muito eficaz.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Qual dos seguintes fármacos é usado contra o vírus da influenza e atua inibindo o desnudamento viral, uma das primeiras etapas da replicação?",
+    "options": [
+      "Oseltamivir",
+      "Ribavirina",
+      "Amantadina",
+      "Aciclovir",
+      "Lamivudina"
+    ],
+    "correctIndex": 2,
+    "explanation": "A resposta correta é a 2. O texto, na seção 'Contra Influenza', especifica que a 'Amantadina ( inibe o desnudamento viral)'. O desnudamento é o processo pelo qual o capsídeo viral se desfaz para liberar o material genético na célula hospedeira. A Amantadina interfere em um canal iônico viral (M2) necessário para esse processo.",
+    "type": "conteudista"
+  },
+  {
+    "question": "O que é um vírion?",
+    "options": [
+      "A célula hospedeira infectada por um vírus.",
+      "O material genético de um vírus, seja RNA ou DNA.",
+      "Uma proteína do capsídeo viral.",
+      "A partícula viral completa e infecciosa, como existe fora da célula hospedeira.",
+      "Uma enzima viral, como a transcriptase reversa."
+    ],
+    "correctIndex": 3,
+    "explanation": "A resposta correta é a 3. O texto, nas informações gerais sobre vírus, afirma que 'A partícula viral é chamada de vírion'. O vírion é a forma como o vírus existe no ambiente extracelular, consistindo em seu material genético, capsídeo e, em alguns casos, um envelope.",
+    "type": "conteudista"
+  },
+  {
+    "question": "A Lamivudina é um fármaco antirretroviral que também é indicado para o tratamento de outra infecção viral. Qual?",
+    "options": [
+      "Herpes simplex",
+      "Influenza A",
+      "Hepatite B (HBV)",
+      "Papilomavírus humano (HPV)",
+      "Ebola"
+    ],
+    "correctIndex": 2,
+    "explanation": "A resposta correta é a 2. O texto lista a Lamivudina em duas seções diferentes: como um 'inibidor da TR' para HIV e também na seção 'Contra HBV e HCV' (Hepatite B e C). Sua capacidade de inibir a transcriptase reversa é eficaz contra a DNA polimerase/transcriptase reversa do vírus da hepatite B.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é a principal dificuldade em tratar uma infecção viral de forma farmacológica e precoce?",
+    "options": [
+      "Os antivirais só funcionam após a resposta imune ter sido ativada.",
+      "O pico da replicação viral geralmente ocorre antes que os sinais e sintomas da doença se manifestem de forma clara.",
+      "As vacinas impedem a ação dos fármacos antivirais.",
+      "Os vírus são muito pequenos para serem alvo de fármacos.",
+      "Todos os antivirais precisam ser administrados por via intratecal."
+    ],
+    "correctIndex": 1,
+    "explanation": "A resposta correta é a 1. O texto afirma que tratar a virose precocemente seria fundamental, mas é 'Quase impossível, pois quando os sinais e sintomas da doença estão se manifestando, o pico da carga viral já é grande'. Isso significa que, no momento em que a pessoa se sente doente e procura tratamento, o vírus já se replicou extensivamente, tornando a intervenção farmacológica menos eficaz do que seria se iniciada no começo da infecção.",
+    "type": "conteudista"
+  },
+  {
+    "question": "O que é o capsídeo de um vírus?",
+    "options": [
+      "O material genético do vírus.",
+      "O envelope lipídico que envolve alguns vírus.",
+      "O revestimento proteico que protege o ácido nucleico viral.",
+      "As enzimas contidas dentro do vírus, como a protease.",
+      "Os receptores na superfície do vírus que se ligam à célula hospedeira."
+    ],
+    "correctIndex": 2,
+    "explanation": "A resposta correta é a 2. O texto, ao descrever a estrutura viral, lista seus componentes como 'Ácido nucleico' e 'Revestimento proteico (capsídeo)'. O capsídeo é a 'casca' de proteína que envolve e protege o genoma viral.",
+    "type": "conteudista"
+  },
+  {
+    "question": "O diagrama de ativação do interferon mostra que ele induz as células infectadas a sofrerem apoptose. O que é apoptose e por que isso é benéfico no combate a uma infecção viral?",
+    "options": [
+      "Apoptose é a replicação descontrolada da célula, o que mata o vírus.",
+      "Apoptose é a morte celular programada, um 'suicídio celular' que elimina a célula infectada antes que ela possa produzir e liberar novos vírus, limitando a propagação da infecção.",
+      "Apoptose é a transformação da célula infectada em uma célula de memória imune.",
+      "Apoptose é a expulsão do material genético viral da célula, curando-a.",
+      "Apoptose é o processo de liberação de mais interferon para alertar outras células."
+    ],
+    "correctIndex": 1,
+    "explanation": "A resposta correta é a 1. A apoptose é um processo de morte celular ordenada e controlada. No contexto de uma infecção viral, a indução da apoptose na célula infectada é uma estratégia de defesa eficaz. Ao 'matar' a célula que serve de fábrica para o vírus, o organismo impede que a replicação viral se complete e que novas partículas infecciosas sejam liberadas para infectar outras células, contendo assim a infecção.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "A Ribavirina é descrita como um 'análogo sintético da guanosina'. Para qual tipo de vírus, de acordo com as indicações listadas, ela é frequentemente usada em combinação?",
+    "options": [
+      "Vírus da Herpes Simplex (HSV)",
+      "Vírus da Imunodeficiência Humana (HIV)",
+      "Vírus da Influenza",
+      "Vírus da Hepatite C (HCV)",
+      "Citomegalovírus (CMV)"
+    ],
+    "correctIndex": 3,
+    "explanation": "A resposta correta é a 3. O texto afirma que a Ribavirina é 'frequentemente usado em combinação com interferon o peginterferon alfa-2a ou 2b'. A seção sobre o interferon, por sua vez, indica seu uso para 'HBV, HCV' (Hepatite B e C). A terapia combinada de peginterferon com ribavirina foi por muito tempo o tratamento padrão para a Hepatite C crônica.",
+    "type": "conteudista"
+  },
+  {
+    "question": "O diagrama de ativação e diferenciação de linfócitos B mostra a produção de anticorpos e células de memória. Qual é o papel das 'células de memória' na defesa contra futuras infecções virais?",
+    "options": [
+      "Elas atacam e destroem diretamente as células infectadas.",
+      "Elas produzem grandes quantidades de interferon para prevenir a replicação.",
+      "Elas 'lembram' o antígeno viral e, em uma segunda exposição ao mesmo vírus, montam uma resposta de anticorpos muito mais rápida e forte, prevenindo ou atenuando a doença.",
+      "Elas armazenam partículas virais inativas para estudo pelo sistema imune.",
+      "Elas são responsáveis pela febre e outros sintomas da doença."
+    ],
+    "correctIndex": 2,
+    "explanation": "A resposta correta é a 2. O diagrama mostra que os linfócitos B ativados se diferenciam em células plasmáticas (que produzem anticorpos para a infecção atual) e em células de memória. Essas células de memória persistem no corpo por um longo tempo. Se o mesmo vírus tentar infectar o corpo novamente, as células de memória o reconhecerão imediatamente e se diferenciarão rapidamente em células plasmáticas, produzindo uma quantidade massiva de anticorpos de forma muito mais rápida que na primeira infecção. Este é o princípio da imunidade adquirida e da eficácia das vacinas.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Qual dos seguintes é um efeito adverso grave associado ao uso do Inibidor da Protease Indinavir?",
+    "options": [
+      "Mielossupressão",
+      "Pancreatite",
+      "Acidose láctica",
+      "Lesão Renal",
+      "Exantema com risco de morte"
+    ],
+    "correctIndex": 3,
+    "explanation": "A resposta correta é a 3. Na seção sobre os efeitos adversos dos Inibidores de Protease (IP), o texto lista 'Lesão Renal (indinavir)'. A mielossupressão é do AZT/Ganciclovir, a pancreatite é da Didanosina, a acidose láctica é dos ITRNs em geral, e o exantema grave é da Nevirapina (um ITRNN).",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual dos seguintes fármacos é um análogo do nucleotídeo adenosina, usado para tratar HBV e que tem a nefrotoxicidade como um de seus principais efeitos adversos?",
+    "options": [
+      "Lamivudina",
+      "Adefovir",
+      "Ribavirina",
+      "Aciclovir",
+      "Amantadina"
+    ],
+    "correctIndex": 1,
+    "explanation": "A resposta correta é a 1. O texto descreve o Adefovir como um 'Análogo nucleotídeo.(ADENOSINA)' indicado para inibir a DNA polimerase do 'BHV' (Vírus da Hepatite B). Também lista como efeitos adversos 'Nefrotóxico, acidose e hepatomegalia'.",
+    "type": "conteudista"
+  },
+  {
+    "question": "O antiviral Remdesivir foi aprovado para o tratamento da COVID-19. Qual é o seu mecanismo de ação?",
+    "options": [
+      "Inibidor da protease do SARS-CoV-2.",
+      "Inibidor da neuraminidase.",
+      "Análogo de nucleotídeo que inibe a RNA polimerase viral.",
+      "Inibidor da fusão do vírus com a célula hospedeira.",
+      "É uma citocina que ativa a resposta imune inata."
+    ],
+    "correctIndex": 2,
+    "explanation": "A resposta correta é a 2. O texto afirma que o 'Remdesivir, um prodrug nucleotídeo que inibe a polimerase rna viral, foi o único antiviral recebendo aprovações da FDA e da EMA' inicialmente para COVID-19. Ele atua de forma semelhante a outros análogos de nucleotídeos, sendo incorporado na cadeia de RNA viral e causando a sua terminação.",
+    "type": "conteudista"
+  },
+  {
+    "question": "O fluxograma de tratamento da COVID-19 mostra uma mudança de paradigma recente. Qual é o objetivo dessa nova abordagem?",
+    "options": [
+      "Tratar todos os pacientes em UTI com antivirais.",
+      "Focar no tratamento de pacientes ambulatoriais com doença leve a moderada, mas com fatores de risco, nos primeiros dias de sintomas para evitar a hospitalização e o óbito.",
+      "Usar antivirais apenas como profilaxia, antes da infecção.",
+      "Substituir todos os tratamentos por Dexametasona.",
+      "Tratar a infecção apenas após o 10º dia, quando a resposta imune é mais forte."
+    ],
+    "correctIndex": 1,
+    "explanation": "A resposta correta é a 1. O texto descreve uma 'mudança de paradigma no tratamento antiviral SARS-CoV-2 com o objetivo de tratamento muito precoce para pacientes ambulatoriais (primeiros 5 a 7 dias do início dos sintomas) com COVID-19 leve a moderado, mas com fatores de risco para progressão, para evitar internação hospitalar e óbito'. Isso reflete o entendimento de que a intervenção antiviral é mais eficaz quando feita no início da infecção, durante a fase de replicação viral intensa.",
+    "conteudista"
+  },
+  {
+    "question": "O diagrama sobre a estrutura do HIV mostra as glicoproteínas gp120 e gp41 em seu envelope. Qual é a função dessas proteínas no ciclo de vida viral?",
+    "options": [
+      "Realizar a transcrição reversa do RNA viral.",
+      "Proteger o material genético dentro do capsídeo.",
+      "Mediar a ligação do vírus aos receptores da célula hospedeira (como o CD4) e a subsequente fusão das membranas, permitindo a entrada do vírus.",
+      "Clivar as poliproteínas virais para a maturação do vírion.",
+      "Integrar o DNA viral ao genoma do hospedeiro."
+    ],
+    "correctIndex": 2,
+    "explanation": "A resposta correta é a 2. As glicoproteínas do envelope viral são essenciais para a primeira etapa da infecção. A gp120 é a proteína de superfície que se liga ao receptor primário da célula hospedeira (o CD4 nos linfócitos T). Essa ligação causa uma mudança conformacional que expõe a gp41, a qual medeia o processo de fusão entre o envelope viral e a membrana da célula hospedeira, permitindo que o conteúdo do vírus entre na célula. É por isso que fármacos como o Enfuvirtida, que inibem a fusão, são uma classe de antirretrovirais.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Um paciente com HIV está sendo tratado com um Inibidor da Protease (IP) e outro fármaco para uma condição diferente. O médico precisa ter muito cuidado com interações medicamentosas. Por quê?",
+    "options": [
+      "Porque os IPs são excretados de forma inalterada pelos rins.",
+      "Porque os IPs induzem a atividade do citocromo P-450, diminuindo o efeito de outros fármacos.",
+      "Porque os IPs são metabolizados pelo sistema do citocromo P-450 e também podem inibir esse sistema, alterando os níveis de outros fármacos que usam a mesma via metabólica.",
+      "Porque os IPs se ligam fortemente às proteínas plasmáticas, deslocando outros fármacos.",
+      "Porque os IPs só funcionam em combinação com antiácidos."
+    ],
+    "correctIndex": 2,
+    "explanation": "A resposta correta é a 2. O texto afirma que 'INNTR e IP são metabolizados pelo citocromo P-450, aumentando a interação com outro fármaco'. Os Inibidores de Protease são notórios por serem substratos e, frequentemente, potentes inibidores das enzimas do citocromo P-450 (especialmente a CYP3A4). Ao inibir essas enzimas, eles podem diminuir o metabolismo de muitos outros medicamentos, levando a um aumento de suas concentrações plasmáticas e a um risco elevado de toxicidade. O Ritonavir, por exemplo, é usado em doses baixas justamente por essa propriedade, para 'turbinar' os níveis de outros IPs.",
+    "type": "conteudista"
+  },
+  {
+    "question": "O diagrama sobre os alvos dos antibióticos é mostrado no início da apresentação sobre antivirais. Qual é o propósito de mostrar este diagrama?",
+    "options": [
+      "Sugerir que os antibióticos também são eficazes contra os vírus.",
+      "Mostrar que vírus e bactérias compartilham os mesmos alvos, como a parede celular e os ribossomos.",
+      "Ressaltar por contraste a dificuldade de se encontrar alvos para os antivirais. Enquanto as bactérias possuem muitos alvos únicos (parede celular, ribossomos 70S, vias metabólicas próprias), os vírus utilizam a maquinaria da célula hospedeira, oferecendo poucos alvos seletivos.",
+      "Indicar que as infecções virais devem ser tratadas primeiro com antibióticos para prevenir coinfecções.",
+      "Demonstrar que a síntese de proteínas é o único alvo viável para todos os tipos de patógenos."
+    ],
+    "correctIndex": 2,
+    "explanation": "A resposta correta é a 2. O diagrama mostra uma variedade de alvos específicos das bactérias que permitem uma alta toxicidade seletiva para os antibióticos. A apresentação sobre antivirais, em contrapartida, enfatiza a dificuldade em encontrar tais alvos, pois os vírus 'Utilizam a célula do hospedeiro para produzir novas partículas virais'. A justaposição desses dois conceitos serve para destacar o desafio fundamental da terapia antiviral em comparação com a antibioticoterapia: a falta de alvos que sejam exclusivamente virais e não do hospedeiro.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Qual dos seguintes fármacos atua inibindo a DNA polimerase tanto do Citomegalovírus (CMV) quanto do Vírus da Herpes Simplex (HSV)?",
+    "options": [
+      "Amantadina",
+      "Ganciclovir",
+      "Oseltamivir",
+      "Ribavirina",
+      "Enfuvirtida"
+    ],
+    "correctIndex": 1,
+    "explanation": "A resposta correta é a 1. O texto, na seção 'Tratamento da herpes', afirma que o 'Ganciclovir = inibe a DNA polimerase (CMV) e (HSV)'. Ele é um análogo da guanosina, similar ao aciclovir, mas com maior atividade contra o CMV.",
+    "type": "conteudista"
+  },
+  {
+    "question": "A acidose láctica e a esteatose hepática são efeitos adversos potenciais de qual classe de fármacos antirretrovirais?",
+    "options": [
+      "Inibidores da Protease (IP)",
+      "Inibidores de fusão",
+      "Inibidores da Transcriptase Reversa Análogos de Nucleosídeos (ITRN)",
+      "Inibidores da Transcriptase Reversa Não-Nucleosídeos (ITRNN)",
+      "Inibidores da integrase"
+    ],
+    "correctIndex": 2,
+    "explanation": "A resposta correta é a 2. Na seção de efeitos adversos, o texto especifica que os 'INTR' (Inibidores da Transcriptase Reversa Análogos de Nucleosídeos) 'Podem provocar acidose láctica e esteatose hepática'. Acredita-se que isso ocorra devido à toxicidade mitocondrial causada por esses fármacos.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é a principal vantagem de uma peguinterferona em relação à formulação padrão de interferon alfa?",
+    "options": [
+      "Pode ser administrada por via oral.",
+      "Tem menos efeitos colaterais semelhantes à febre.",
+      "Não requer biotransformação hepática.",
+      "Tem um tempo de efeito prolongado, permitindo injeções menos frequentes (uma vez por semana em vez de três).",
+      "É mais eficaz contra o HIV."
+    ],
+    "correctIndex": 3,
+    "explanation": "A resposta correta é a 3. O texto explica que a peguilação (associação com polietilenoglicol) 'Retarda a absorção local o que prolonga seu tempo de efeito e diminui a sua depuração'. A consequência clínica disso é que a 'fórmula Peguida permite uma injeção 1 vez por semana', em contraste com as 3 vezes por semana da fórmula padrão, o que melhora a conveniência para o paciente.",
+    "type": "conteudista"
+  },
+  {
+    "question": "O diagrama do ciclo de vida do HIV mostra uma etapa chamada 'Integração', onde o DNA viral é inserido no DNA da célula hospedeira pela enzima 'integrase'. Qual seria o resultado da inibição farmacológica bem-sucedida desta enzima?",
+    "options": [
+      "O vírus não conseguiria entrar na célula hospedeira.",
+      "O RNA viral não seria convertido em DNA viral.",
+      "O DNA viral permaneceria no citoplasma, mas não conseguiria se replicar de forma persistente e produzir novos vírus, interrompendo o ciclo de vida.",
+      "As proteínas virais não seriam clivadas em suas formas ativas.",
+      "O vírus seria incapaz de brotar da célula hospedeira."
+    ],
+    "correctIndex": 2,
+    "explanation": "A resposta correta é a 2. A integração do DNA viral (provírus) no genoma da célula hospedeira é um passo crucial para a infecção persistente e crônica pelo HIV. É a partir desse DNA integrado que a célula produzirá novos RNAs e proteínas virais. Se a enzima integrase for inibida, o DNA viral não consegue se 'esconder' no genoma do hospedeiro. Ele pode permanecer no citoplasma, mas não será replicado junto com o DNA da célula e não servirá como molde eficiente para a produção de novos vírions, bloqueando efetivamente a replicação.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "O fármaco antiviral Enfuvirtida pertence a qual classe?",
+    "options": [
+      "Inibidor da protease",
+      "Inibidor da transcriptase reversa nucleosídico",
+      "Inibidor da transcriptase reversa não-nucleosídico",
+      "Inibidor da neuraminidase",
+      "Inibidor de fusão"
+    ],
+    "correctIndex": 4,
+    "explanation": "A resposta correta é a 4. Os fluxogramas que classificam os agentes antirretrovirais listam o Enfuvirtida (ou Enfuvirtide) especificamente na categoria de 'Inibidores de fusão'. Ele atua impedindo a mudança conformacional da glicoproteína gp41, que é necessária para a fusão do envelope viral com a membrana da célula hospedeira.",
+    "type": "conteudista"
+  }
+]

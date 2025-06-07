@@ -1,0 +1,392 @@
+[
+  {
+    "question": "Qual é o mecanismo de ação primário dos antifúngicos poliênicos, como a Anfotericina B?",
+    "options": [
+      "Inibem a enzima CYP450 14α-desmetilase, bloqueando a síntese de ergosterol.",
+      "Ligam-se diretamente ao ergosterol na membrana celular do fungo, formando poros que causam o vazamento de íons e a morte celular.",
+      "Interrompem a função dos microtúbulos, desfazendo o fuso mitótico durante a divisão celular.",
+      "Inibem a síntese de β-(1,3)-D-glicano, um componente essencial da parede celular fúngica.",
+      "Bloqueiam a síntese de ácidos nucleicos ao serem convertidos em inibidores de DNA e RNA."
+    ],
+    "correctIndex": 1,
+    "explanation": "A resposta correta é a 1. Os diagramas e o texto descrevem o mecanismo de ação da Anfotericina B como a sua capacidade de se ligar ao ergosterol, um esterol presente na membrana das células fúngicas. Essa ligação 'forma poros, que resultam no vazamento do conteúdo celular e morte do fungo'. A opção 0 descreve o mecanismo dos azóis; a opção 2, o da griseofulvina; a opção 3, o das equinocandinas; e a opção 4, o da flucitosina.",
+    "type": "conteudista"
+  },
+  {
+    "question": "O diagrama do mecanismo de ação dos antifúngicos azóis mostra que eles bloqueiam a enzima CYP450 14α-desmetilase. Qual é a consequência direta desse bloqueio para a célula fúngica?",
+    "options": [
+      "A formação de poros na membrana celular, causando lise imediata.",
+      "A interrupção da síntese de ergosterol, um componente vital para a integridade e função da membrana celular fúngica.",
+      "A inibição da síntese da parede celular de β-(1,3)-D-glicano.",
+      "O bloqueio da replicação do DNA fúngico.",
+      "A paralisação do fuso mitótico, impedindo a divisão celular."
+    ],
+    "correctIndex": 1,
+    "explanation": "A resposta correta é a 1. O diagrama da via de biossíntese mostra que a enzima CYP450 14α-desmetilase é crucial para converter o lanosterol em precursores do ergosterol. Ao bloquear essa enzima, os azóis 'Interferem na síntese do ergosterol'. A falta de ergosterol compromete a estrutura e a fluidez da membrana celular, o que é deletério para o fungo. As outras opções descrevem mecanismos de outras classes de antifúngicos.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Qual é o principal motivo para a Anfotericina B ser formulada em complexos lipídicos ou formulações lipossômicas?",
+    "options": [
+      "Para aumentar sua absorção oral.",
+      "Para melhorar sua distribuição para o sistema nervoso central.",
+      "Para minimizar sua nefrotoxicidade, reduzindo a ligação do fármaco às células humanas.",
+      "Para aumentar seu espectro de ação contra bactérias.",
+      "Para permitir a administração por infusão rápida."
+    ],
+    "correctIndex": 2,
+    "explanation": "A resposta correta é a 2. O texto afirma que as formulações lipídicas (complexo lipídico ou lipossômica) foram desenvolvidas para 'minimizando o nefrotoxicidade, por reduzir a ligação deste fármacos às células humanas'. A Anfotericina B pode se ligar ao colesterol das membranas celulares humanas (semelhante ao ergosterol fúngico), causando toxicidade, especialmente nos rins. As formulações lipídicas ajudam a direcionar o fármaco mais seletivamente para o fungo.",
+    "type": "conteudista"
+  },
+  {
+    "question": "O diagrama do ciclo de vida da malária mostra que a Cloroquina atua como um 'esquizonticida sanguíneo'. Com base no diagrama do seu mecanismo de ação, o que isso significa?",
+    "options": [
+      "Ela impede a picada do mosquito, prevenindo a infecção.",
+      "Ela mata os esporozoítos no fígado, antes que eles infectem o sangue.",
+      "Ela atua dentro dos eritrócitos (células sanguíneas), impedindo que o parasita detoxifique o heme liberado da hemoglobina, levando à morte do parasita na fase sanguínea.",
+      "Ela impede a formação de gametócitos, bloqueando a transmissão para o mosquito.",
+      "Ela atua diretamente na corrente sanguínea para matar os parasitas antes que eles infectem qualquer célula."
+    ],
+    "correctIndex": 2,
+    "explanation": "A resposta correta é a 2. 'Esquizonticida sanguíneo' refere-se à capacidade de matar os esquizontes na fase sanguínea (eritrocítica) do ciclo. O diagrama do mecanismo de ação mostra que a cloroquina atua dentro do eritrócito infectado. Ela impede a polimerização do heme (um produto tóxico da digestão da hemoglobina pelo parasita) em hemozoína (não tóxica). O acúmulo de heme tóxico leva à lise do parasita e da célula hospedeira, interrompendo o ciclo nesta fase.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Qual classe de antifúngicos, considerada a mais moderna, atua inibindo a síntese de β-(1,3)-D-glicano, um componente essencial da parede celular fúngica?",
+    "options": [
+      "Azóis",
+      "Poliênicos",
+      "Equinocandinas",
+      "Alilaminas (Terbinafina)",
+      "Flucitosina"
+    ],
+    "correctIndex": 2,
+    "explanation": "A resposta correta é a 2. O texto descreve as Equinocandinas (Caspofungina, Micafungina, Anidulafungina) como a 'Classe mais moderna' e especifica que seu mecanismo de ação é a 'Inibição enzimática das células fúngicas que não está presente nos mamíferos. Interrompendo a síntese de beta (1-3) glicano, essencial para a parede fúngica'.",
+    "type": "conteudista"
+  },
+  {
+    "question": "O diagrama do ciclo de vida da *Entamoeba histolytica* mostra que o parasita pode existir como trofozoíto invasivo no tecido e como cisto no lúmen intestinal. Por que o tratamento da amebíase grave geralmente requer uma combinação de fármacos, como metronidazol seguido por diloxanida?",
+    "options": [
+      "Para prevenir a resistência ao metronidazol.",
+      "Porque o metronidazol só mata os cistos e a diloxanida só mata os trofozoítos.",
+      "Para tratar tanto a infecção tecidual invasiva (com um amebicida sistêmico como o metronidazol) quanto para erradicar os cistos e trofozoítos no lúmen intestinal (com um amebicida luminal como a diloxanida), prevenindo recidivas e a transmissão.",
+      "Porque a diloxanida reduz os efeitos colaterais do metronidazol.",
+      "Porque ambos os fármacos são necessários para tratar a fase hepática da doença."
+    ],
+    "correctIndex": 2,
+    "explanation": "A resposta correta é a 2. O diagrama e as indicações clínicas ilustram a necessidade de uma abordagem dupla. O metronidazol é um amebicida misto/sistêmico, eficaz contra os trofozoítos que invadiram a parede intestinal e outros tecidos (como o fígado). No entanto, ele tem pouca eficácia contra os cistos que permanecem no lúmen do intestino. A diloxanida é um amebicida luminal que atua especificamente no intestino para eliminar esses cistos, que são responsáveis pela transmissão e por possíveis recidivas. A combinação garante a erradicação completa do parasita em todas as suas formas e locais.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Qual fármaco antifúngico se deposita nas células precursoras de queratina e age interrompendo a função dos microtúbulos, sendo útil para infecções de pele e unhas, mas requerendo tratamento a longo prazo?",
+    "options": [
+      "Terbinafina",
+      "Anfotericina B",
+      "Itraconazol",
+      "Griseofulvina",
+      "Caspofungina"
+    ],
+    "correctIndex": 3,
+    "explanation": "A resposta correta é a 3. O texto descreve a Griseofulvina como um fármaco que 'Se deposita nas células precursoras de queratina' e que seu mecanismo é a 'LIGAÇÃO COM MICROTÚBULOS FÚNGICOS DESFAZ O FUSO MITÓTICO'. Por se incorporar à queratina nova, o tratamento precisa ser mantido até que o tecido infectado (pele, unha) seja completamente substituído, o que justifica a 'TERAPIA MUITO LONGA'.",
+    "type": "conteudista"
+  },
+  {
+    "question": "O infográfico 'AS NUTRIS' mostra diferentes estados mentais associados a níveis de neurotransmissores. Se um paciente com depressão (baixos níveis de dopamina e serotonina) recebe um tratamento que aumenta apenas a serotonina, qual sintoma, segundo o diagrama, poderia persistir devido à falta de ação sobre a dopamina?",
+    "options": [
+      "Ansiedade",
+      "Aumento do amor e felicidade.",
+      "Sintomas relacionados à via de luta ou fuga.",
+      "Sintomas de esquizofrenia.",
+      "Perda de motivação, prazer e recompensa."
+    ],
+    "correctIndex": 4,
+    "explanation": "A resposta correta é a 4. O diagrama associa a dopamina a funções como 'Amor' (junto com outros) e, implicitamente, a sistemas de recompensa e motivação, que são opostos à depressão. Se o tratamento eleva apenas a serotonina (ligada ao humor e ansiedade), a deficiência na via dopaminérgica, que governa o prazer e a motivação, pode não ser corrigida. A esquizofrenia está associada ao excesso de dopamina, não à falta.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Qual é o mecanismo de ação do Praziquantel, um anti-helmíntico de amplo espectro?",
+    "options": [
+      "Inibe a síntese microtubular do parasita.",
+      "Provoca paralisia tônica ao estimular receptores nicotínicos.",
+      "Aumenta a permeabilidade da membrana celular do verme ao cálcio, resultando em paralisia e morte.",
+      "Ativa canais de cloreto mediados por glutamato, específicos dos invertebrados.",
+      "Lesa irreversivelmente o escólex (cabeça) do verme."
+    ],
+    "correctIndex": 2,
+    "explanation": "A resposta correta é a 2. O texto afirma que o Praziquantel 'Provoca aumento na permeabilidade ao cálcio das membranas celulares, resultando em paralisia e morte do verme'. Este influxo de cálcio causa uma contração tetânica e desregula a estrutura do tegumento do parasita.",
+    "type": "conteudista"
+  },
+  {
+    "question": "O diagrama do mecanismo de ação do Ivermectina mostra sua ação no 'canal de cloreto dependente de glutamato'. O texto também menciona que esse canal é 'específico dos invertebrados'. Qual a principal vantagem clínica dessa especificidade?",
+    "options": [
+      "Permite que o fármaco mate também bactérias e fungos.",
+      "Resulta em um início de ação muito mais rápido que outros anti-helmínticos.",
+      "Confere ao fármaco um alto grau de segurança e toxicidade seletiva, pois o alvo molecular não existe em mamíferos (o hospedeiro).",
+      "Causa paralisia flácida, que é mais eficaz que a paralisia tônica.",
+      "Exige que o fármaco seja administrado por via intravenosa."
+    ],
+    "correctIndex": 2,
+    "explanation": "A resposta correta é a 2. A especificidade de um fármaco por um alvo que existe no patógeno, mas não no hospedeiro, é a base da toxicidade seletiva e da segurança. Como os canais de cloreto dependentes de glutamato são específicos de invertebrados, a Ivermectina pode paralisar o verme com um risco muito baixo de causar efeitos semelhantes ou tóxicos no sistema nervoso do hospedeiro humano, que não possui esse alvo molecular.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "A Nistatina é um agente poliênico quimicamente similar à Anfotericina B, mas seu uso é restrito. Por qual motivo a Nistatina não é usada de forma sistêmica?",
+    "options": [
+      "Por sua baixa eficácia contra Candida.",
+      "Porque é rapidamente inativada no sangue.",
+      "Por sua alta toxicidade sistêmica.",
+      "Porque tem um espectro de ação muito estreito.",
+      "Porque só pode ser produzida em forma de creme."
+    ],
+    "correctIndex": 2,
+    "explanation": "A resposta correta é a 2. O texto é explícito ao afirmar que 'Sua alta toxicidade impede o uso sistêmico'. Por essa razão, ela é utilizada apenas topicamente para tratar infecções como a candidíase oral e vaginal, pois 'não é absorvida pela pele e mucosas'.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Um paciente com uma micose de unha (onicomicose) está em tratamento. Por que a terapia tópica pode ser ineficaz, justificando o uso de um fármaco sistêmico como a Griseofulvina ou a Terbinafina?",
+    "options": [
+      "Porque os fungos nas unhas são sempre resistentes aos agentes tópicos.",
+      "Porque a aplicação de cremes nas unhas é impossível.",
+      "Porque o fármaco tópico tem má absorção através da placa ungueal densa, não atingindo o local da infecção em concentração suficiente.",
+      "Porque os fármacos sistêmicos têm menos efeitos colaterais.",
+      "Porque o tratamento tópico causa descoloração permanente da unha."
+    ],
+    "correctIndex": 2,
+    "explanation": "A resposta correta é a 2. O texto aponta que 'O uso pela via tópica nem sempre é eficaz' e que 'O fármaco dependendo da área é ineficaz devido a má absorção, como por exemplo na unha'. A queratina compacta da unha forma uma barreira que impede a penetração adequada de agentes tópicos. Fármacos sistêmicos como a griseofulvina e a terbinafina contornam esse problema ao serem distribuídos pela corrente sanguínea e se incorporarem na matriz da nova unha que está crescendo.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual dos seguintes fármacos antifúngicos é um triazol sintético, considerado substituto da Anfotericina B para a aspergilose invasiva e que pode causar distúrbios visuais temporários como efeito adverso?",
+    "options": [
+      "Fluconazol",
+      "Itraconazol",
+      "Posaconazol",
+      "Voriconazol",
+      "Cetoconazol"
+    ],
+    "correctIndex": 3,
+    "explanation": "A resposta correta é a 3. O texto descreve o Voriconazol como um fármaco que 'vem sendo o substituto da anfotericina b para tratar a aspergilose invasiva' e destaca que ele 'Pode causar distúrbios temporários na visão'.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é o principal fator etiológico apontado pelo fluxograma inicial para o aumento da prevalência de micoses?",
+    "options": [
+      "A diminuição do saneamento básico global.",
+      "O uso de antibióticos de amplo espectro e o aumento do número de pacientes imunocomprometidos.",
+      "A evolução dos fungos para formas mais resistentes ao calor.",
+      "A falta de antifúngicos eficazes.",
+      "O aumento de viagens internacionais."
+    ],
+    "correctIndex": 1,
+    "explanation": "A resposta correta é a 1. O fluxograma visual no início da apresentação indica que a prevalência das micoses está aumentando e aponta duas etiologias principais: 'Uso de antibióticos de amplo espectro' (que alteram a microbiota normal, permitindo o crescimento de fungos) e 'Pacientes imunocomprometidos' (cujas defesas são incapazes de controlar infecções fúngicas).",
+    "type": "conteudista"
+  },
+  {
+    "question": "O fármaco anti-helmíntico Niclosamida é a droga de escolha para a teníase. Como ela atua?",
+    "options": [
+      "Causa paralisia flácida no verme.",
+      "Inibe a captação de glicose pelo verme.",
+      "Lesa irreversivelmente o escólex (cabeça da tênia), fazendo com que o verme se separe da parede intestinal.",
+      "Mata os ovos da tênia, impedindo a reinfecção.",
+      "Estimula o sistema imunológico do hospedeiro a atacar o verme."
+    ],
+    "correctIndex": 2,
+    "explanation": "A resposta correta é a 2. O texto descreve o mecanismo de ação da Niclosamida de forma clara: 'Lesa irreverssivelmente o escólex' e, como consequência, 'O verme separa-se da parede intestinal e é expelido'. É importante notar que ele 'não afeta os ovos'.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Observando o diagrama dos alvos dos antifúngicos, a Flucitosina, os Azóis e as Equinocandinas atuam em partes fundamentalmente diferentes da célula fúngica. Quais são seus respectivos alvos?",
+    "options": [
+      "Flucitosina: membrana; Azóis: parede celular; Equinocandinas: núcleo.",
+      "Flucitosina: núcleo (síntese de DNA/RNA); Azóis: membrana (síntese de ergosterol); Equinocandinas: parede celular (síntese de glicano).",
+      "Flucitosina: parede celular; Azóis: núcleo; Equinocandinas: membrana.",
+      "Todos os três atuam na membrana celular, mas em alvos diferentes.",
+      "Flucitosina: microtúbulos; Azóis: parede celular; Equinocandinas: núcleo."
+    ],
+    "correctIndex": 1,
+    "explanation": "A resposta correta é a 1. O diagrama geral e as descrições textuais mostram que a Flucitosina atua 'bloqueando a síntese do ácido nucleico' no núcleo; os Azóis 'alteram a permeabilidade da membrana celular' ao inibir a síntese de ergosterol; e as Equinocandinas atuam na parede celular, inibindo a 'síntese de beta (1-3) glicano'.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "A combinação da Anfotericina B com a Flucitosina é frequentemente utilizada no tratamento de infecções fúngicas graves. Qual a principal justificativa para essa associação?",
+    "options": [
+      "A Flucitosina diminui a nefrotoxicidade da Anfotericina B.",
+      "A Anfotericina B aumenta a absorção oral da Flucitosina.",
+      "A associação reduz a probabilidade de desenvolvimento de resistência à Flucitosina.",
+      "Ambos os fármacos inibem a síntese de ergosterol, criando um efeito sinérgico.",
+      "A associação é necessária apenas para infecções de pele."
+    ],
+    "correctIndex": 2,
+    "explanation": "A resposta correta é a 2. O texto afirma que a Flucitosina, quando 'Utilizada como monoterapia sofre rapidamente resistência', mas quando 'Utilizada junto com anfotericina a probabilidade de resistência é reduzida'. Acredita-se que a Anfotericina B, ao danificar a membrana celular fúngica, facilita a entrada da Flucitosina na célula, além de fornecer um segundo mecanismo de ação que torna mais difícil para o fungo sobreviver e desenvolver resistência.",
+    "type": "conteudista"
+  },
+  {
+    "question": "A que classe de antifúngicos pertence a Terbinafina e qual o seu mecanismo de ação?",
+    "options": [
+      "Poliênico; liga-se ao ergosterol.",
+      "Azól; inibe a CYP450 14α-desmetilase.",
+      "Equinocandina; inibe a síntese de β-(1,3)-D-glicano.",
+      "Alilamina; inibe a formação do ergosterol (em uma etapa diferente dos azóis).",
+      "Pirimidina; inibe a síntese de DNA."
+    ],
+    "correctIndex": 3,
+    "explanation": "A resposta correta é a 3. O fluxograma inicial de mecanismos de ação agrupa a Terbinafina com os fármacos que 'Alteram a permeabilidade da membrana celular'. O texto sobre ela especifica que 'Inibe a formação do ergosterol'. A Terbinafina pertence à classe das alilaminas, que inibem a enzima esqualeno epoxidase, um passo anterior na via de síntese do ergosterol em comparação com o alvo dos azóis.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é a principal indicação clínica para a Caspofungina?",
+    "options": [
+      "Tinhas e outras dermatofitoses.",
+      "Candidíase vaginal não complicada.",
+      "Profilaxia de meningite criptocócica.",
+      "Candidíase invasiva e aspergilose invasiva que não responde a outros tratamentos.",
+      "Tratamento da malária."
+    ],
+    "correctIndex": 3,
+    "explanation": "A resposta correta é a 3. O texto afirma que a Caspofungina é usada 'para candidíase invasiva e aspergilose invasiva que não responde à anfotericina ou ao itraconazol'. Isso a posiciona como um fármaco importante para infecções fúngicas graves e resistentes.",
+    "type": "conteudista"
+  },
+  {
+    "question": "O Metronidazol é usado no tratamento da amebíase e também para algumas infecções bacterianas. Seu mecanismo de ação depende de uma característica específica do patógeno. Que característica é essa?",
+    "options": [
+      "A presença de uma parede celular de peptideoglicano.",
+      "A capacidade de realizar fotossíntese.",
+      "Ser um organismo anaeróbio ou microaerofílico, que possui sistemas de transferência de elétrons capazes de reduzir o fármaco a radicais livres tóxicos.",
+      "A posse de ribossomos do tipo 70S.",
+      "A necessidade de ergosterol na sua membrana celular."
+    ],
+    "correctIndex": 2,
+    "explanation": "A resposta correta é a 2. O diagrama do mecanismo de ação do metronidazol mostra que ele precisa ser reduzido por proteínas como a ferredoxina para formar radicais livres que danificam o DNA. Esse processo de redução só ocorre eficientemente em 'organismos anaeróbicos'. Em ambientes com oxigênio, o fármaco não é ativado, o que explica sua seletividade para patógenos anaeróbios (como a *Entamoeba histolytica* e certas bactérias).",
+    "conteudista"
+  },
+  {
+    "question": "O diagrama de uma célula fúngica mostra a Griseofulvina atuando no fuso mitótico. Qual processo celular é diretamente interrompido por essa ação?",
+    "options": [
+      "Síntese de proteínas.",
+      "Transporte de íons através da membrana.",
+      "Produção de energia.",
+      "Divisão celular (mitose).",
+      "Síntese da parede celular."
+    ],
+    "correctIndex": 3,
+    "explanation": "A resposta correta é a 3. O fuso mitótico é a estrutura composta por microtúbulos responsável pela separação dos cromossomos durante a mitose. O texto afirma que a Griseofulvina se liga aos 'MICROTÚBULOS FÚNGICOS' e desfaz 'O FUSO MITÓTICO'. Ao interferir nesta estrutura, ela impede que a célula fúngica complete a divisão celular, agindo como um agente fungistático.",
+    "raciocínio"
+  },
+  {
+    "question": "A Cloroquina, além de seu efeito antimalárico, é descrita como tendo um efeito antirreumático. Qual mecanismo proposto poderia explicar ambas as ações?",
+    "options": [
+      "Sua capacidade de inibir a formação de prostaglandinas.",
+      "Sua capacidade de se concentrar em vesículas ácidas intracelulares e elevar o pH dessas vesículas.",
+      "Sua capacidade de se ligar ao DNA de células que se dividem rapidamente.",
+      "Sua capacidade de inibir a liberação de superoxidase pelos neutrófilos.",
+      "Sua capacidade de bloquear a quimiotaxia."
+    ],
+    "correctIndex": 1,
+    "explanation": "A resposta correta é a 1. O texto lista diversas ações farmacológicas da Cloroquina e destaca uma em particular: 'Sua capacidade de concentração nas vesículas ácidas intracelulares e a elevação do pH dessas vesículas poderiam explicar tanto o efeito antimalárico como antirreumático'. No parasita da malária, isso interfere na digestão da hemoglobina. Em células imunes, como macrófagos, a alteração do pH lisossômico pode interferir no processamento de antígenos, explicando seu efeito imunomodulador em doenças reumáticas.",
+    "conteudista"
+  },
+  {
+    "question": "Qual dos seguintes anti-helmínticos provoca paralisia tônica no verme ao atuar como estimulante dos receptores nicotínicos na junção neuromuscular?",
+    "options": [
+      "Mebendazol",
+      "Praziquantel",
+      "Levamisol",
+      "Ivermectina",
+      "Piperazina"
+    ],
+    "correctIndex": 2,
+    "explanation": "A resposta correta é a 2. O texto descreve o mecanismo do Levamisol como sendo a causa de uma 'paralisia tônica no verme' através da 'Estimulação os receptores nicotínicos na junção neuromuscular'. A Piperazina, em contraste, causa paralisia flácida.",
+    "type": "conteudista"
+  },
+  {
+    "question": "A combinação de Quinupristina e Dalfopristina (estreptograminas) atua de maneira sinérgica para inibir a síntese proteica. Como essa sinergia ocorre?",
+    "options": [
+      "A Quinupristina inibe a subunidade 30S e a Dalfopristina inibe a 50S.",
+      "A ligação da Dalfopristina à subunidade 50S aumenta a afinidade da ligação para a Quinupristina no mesmo complexo ribossomal.",
+      "A Dalfopristina inibe as enzimas que degradam a Quinupristina.",
+      "Ambas bloqueiam a mesma enzima, a peptidil transferase, com o dobro da potência.",
+      "A Quinupristina impede a formação do ribossomo e a Dalfopristina bloqueia a translação."
+    ],
+    "correctIndex": 1,
+    "explanation": "A resposta correta é a 1. O texto explica o efeito sinérgico das estreptograminas: 'Aparentemente, a ligação da dalfopristina aumenta a afinidade da ligação para a quinupristina'. Ambas se ligam à subunidade 50S, mas em locais que se sobrepõem parcialmente, e a ligação de uma facilita a ligação da outra, resultando em um bloqueio mais eficaz da síntese proteica.",
+    "conteudista"
+  },
+  {
+    "question": "O paciente do caso clínico fictício descrito no final do material é HIV positivo e apresenta tosse seca, febre e dispneia. O médico solicita um raio-x de tórax. Baseado na patologia oportunista mais comum que causa esses sintomas em pacientes com SIDA (AIDS), o que o médico esperaria encontrar no raio-x?",
+    "options": [
+      "Um derrame pleural massivo.",
+      "Um nódulo pulmonar solitário e bem definido.",
+      "Um infiltrado intersticial difuso e peri-hilar.",
+      "Sinais de embolia pulmonar.",
+      "Um pulmão completamente normal."
+    ],
+    "correctIndex": 2,
+    "explanation": "A resposta correta é a 2. O caso clínico descreve a apresentação clássica da pneumonia por Pneumocystis jirovecii (PCP). A descrição do exame do paciente inclui 'Ao RX de tórax observou-se infiltrado intersticial difuso e peri-hilar'. Este é o achado radiológico característico da PCP, uma infecção fúngica oportunista que é uma das principais causas de morbimortalidade em pacientes com HIV não tratado.",
+    "raciocínio"
+  },
+  {
+    "question": "A Griseofulvina induz a atividade do citocromo P450 (CYP450). Que tipo de interação medicamentosa é esperada devido a essa propriedade?",
+    "options": [
+      "Ela aumentará os níveis de outros fármacos metabolizados pelo CYP450, aumentando o risco de toxicidade.",
+      "Ela diminuirá os níveis de outros fármacos metabolizados pelo CYP450, podendo reduzir sua eficácia.",
+      "Ela não terá interações significativas, pois o efeito é apenas nos fungos.",
+      "Ela inibirá o metabolismo de outros fármacos, como a varfarina.",
+      "Ela causará uma reação de hipersensibilidade quando combinada com fenobarbital."
+    ],
+    "correctIndex": 1,
+    "explanation": "A resposta correta é a 1. A indução do CYP450 significa que a atividade dessas enzimas metabólicas do fígado é aumentada. Consequentemente, outros fármacos que são metabolizados por essas mesmas enzimas serão eliminados mais rapidamente, o que leva a uma diminuição de suas concentrações no sangue e, potencialmente, à perda de seu efeito terapêutico. O texto alerta para 'interações farmacológicas' e cita a interação com a varfarina e o fenobarbital. No caso da varfarina, a indução diminuiria seu efeito anticoagulante.",
+    "conteudista"
+  },
+  {
+    "question": "Qual antifúngico é o substituto da Griseofulvina para infecções de pele e unha, com melhor taxa de cura, mas que requer monitoramento das transaminases hepáticas?",
+    "options": [
+      "Nistatina",
+      "Fluconazol",
+      "Anfotericina B",
+      "Caspofungina",
+      "Terbinafina"
+    ],
+    "correctIndex": 4,
+    "explanation": "A resposta correta é a 4. O texto descreve a Terbinafina como o 'Substituto da griseofulvina' com 'Melhor taxa de cura'. No entanto, alerta para reações adversas como 'insuficiência hepática' e a necessidade de 'Observar as transaminases e hemograma'.",
+    "type": "conteudista"
+  },
+  {
+    "question": "O diagrama do mecanismo de ação dos opioides mostra que eles atuam em receptores mu (μ) para bloquear a transmissão da dor. Onde esses receptores estão localizados para mediar esse efeito analgésico?",
+    "options": [
+      "Apenas na pele, no local da lesão.",
+      "Apenas no cérebro, nos centros de emoção.",
+      "Em múltiplas áreas do sistema nervoso central e periférico, incluindo a medula espinhal, para modular a transmissão do sinal de dor.",
+      "Apenas nos nervos motores para prevenir a contração muscular.",
+      "Nos vasos sanguíneos para causar vasoconstrição."
+    ],
+    "correctIndex": 2,
+    "explanation": "A resposta correta é a 2. O diagrama ilustra que o sinal de dor viaja do sistema nervoso periférico (PNS) para a medula espinhal e depois para o cérebro. Os opioides atuam em receptores ao longo dessa via, especialmente na medula espinhal (inibindo a transmissão do sinal do primeiro para o segundo neurônio da dor) e no cérebro (alterando a percepção da dor), para produzir analgesia. Sua ação não se limita a um único local.",
+    "raciocínio"
+  },
+  {
+    "question": "A imagem da endoscopia mostra o que parece ser candidíase esofágica. Qual dos seguintes fármacos seria uma escolha apropriada para o tratamento sistêmico dessa condição, especialmente em um paciente com AIDS?",
+    "options": [
+      "Griseofulvina",
+      "Nistatina tópica",
+      "Fluconazol ou Voriconazol",
+      "Mebendazol",
+      "Praziquantel"
+    ],
+    "correctIndex": 2,
+    "explanation": "A resposta correta é a 2. A candidíase esofágica é uma infecção mucocutânea que requer tratamento sistêmico. O texto indica que o Fluconazol é usado na 'Candidíase esofágica e orofaríngea' e que o Voriconazol é usado 'nos pacientes com AIDS, para tratamento da esofagite'. A Nistatina seria usada topicamente (bochechos), mas não seria eficaz para a infecção no esôfago. Griseofulvina é para dermatófitos, e Mebendazol e Praziquantel são anti-helmínticos.",
+    "raciocínio"
+  },
+  {
+    "question": "O diagrama do ciclo de vida da *Entamoeba histolytica* mostra que o ciclo começa com a ingestão de cistos. Qual seria a principal forma de prevenção da amebíase?",
+    "options": [
+      "Vacinação anual.",
+      "Uso de repelentes de insetos.",
+      "Consumo de água e alimentos devidamente tratados e higienizados para evitar a ingestão de cistos.",
+      "Uso profilático de metronidazol.",
+      "Evitar o contato com animais domésticos."
+    ],
+    "correctIndex": 2,
+    "explanation": "A resposta correta é a 2. O diagrama mostra que a infecção humana ocorre pela ingestão de cistos, que são eliminados nas fezes de indivíduos infectados e podem contaminar água e alimentos. Portanto, a principal medida de prevenção é a interrupção dessa via de transmissão fecal-oral, o que é alcançado através de boas práticas de higiene, saneamento básico e consumo de água e alimentos seguros.",
+    "raciocínio"
+  }
+]

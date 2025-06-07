@@ -1,0 +1,392 @@
+[
+  {
+    "question": "Qual a principal diferença estrutural entre as paredes celulares de bactérias Gram-positivas e Gram-negativas que impacta a ação das penicilinas?",
+    "options": [
+      "Gram-positivas possuem uma fina camada de peptideoglicano, enquanto Gram-negativas possuem uma camada espessa.",
+      "Gram-negativas possuem uma membrana externa adicional com porinas e lipopolissacarídeos (LPS), que dificulta a penetração de certos fármacos, tornando-as menos sensíveis às penicilinas.",
+      "Gram-positivas não possuem peptideoglicano, que é o alvo principal das penicilinas.",
+      "Gram-negativas possuem ácido teicoico, que neutraliza a ação dos beta-lactâmicos.",
+      "Ambas as paredes são idênticas, e a diferença de sensibilidade se deve apenas a mecanismos de efluxo."
+    ],
+    "correctIndex": 1,
+    "explanation": "A resposta correta é a 1. Os diagramas e o texto mostram que as bactérias Gram-positivas têm uma parede espessa e simples de peptideoglicano, enquanto as Gram-negativas têm uma parede fina de peptideoglicano e uma membrana externa complexa. O texto afirma que essa parede mais complexa 'resulta em menor ação farmacológica das penicilinas em comparação com as positivas'. A membrana externa atua como uma barreira adicional que muitos antimicrobianos, incluindo algumas penicilinas, têm dificuldade em atravessar.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Analisando o diagrama sobre os mecanismos de ação dos antimicrobianos, por que os inibidores da síntese da parede celular, como as penicilinas, exibem alta toxicidade seletiva?",
+    "options": [
+      "Porque eles inibem a síntese de proteínas em ribossomos 70S, que são exclusivos das bactérias.",
+      "Porque o mecanismo de ação deles é bacteriostático, e não bactericida.",
+      "Porque eles atuam na síntese de peptideoglicano, um componente da parede celular bacteriana que não existe nas células humanas.",
+      "Porque eles só conseguem penetrar em bactérias Gram-positivas.",
+      "Porque são rapidamente metabolizados pelo fígado humano, evitando toxicidade."
+    ],
+    "correctIndex": 2,
+    "explanation": "A resposta correta é a 2. A toxicidade seletiva de um antimicrobiano baseia-se em sua capacidade de atacar uma estrutura ou via metabólica presente na bactéria, mas ausente no hospedeiro. O diagrama e o texto destacam que as penicilinas e cefalosporinas atuam na parede celular, inibindo a síntese de peptideoglicano. Como as células humanas não possuem parede celular nem peptideoglicano, esses fármacos têm um alvo exclusivo nas bactérias, resultando em alta toxicidade para o microrganismo e baixa toxicidade para o hospedeiro.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Qual classe de antimicrobianos age inibindo a enzima DNA girase, que é essencial para a replicação do DNA bacteriano?",
+    "options": [
+      "Macrolídeos",
+      "Glicopeptídeos (Vancomicina)",
+      "Beta-lactâmicos",
+      "Quinolonas",
+      "Polimixinas"
+    ],
+    "correctIndex": 3,
+    "explanation": "A resposta correta é a 3. O texto e os diagramas de mecanismo de ação especificam que as Quinolonas 'Inibem a DNA girase (subunidade A)'. A DNA girase (uma topoisomerase tipo II) é uma enzima exclusiva das bactérias, responsável por aliviar a tensão no DNA durante a replicação, tornando-se um excelente alvo para a terapia antimicrobiana.",
+    "type": "conteudista"
+  },
+  {
+    "question": "O teste de diluição em caldo ilustrado no material é usado para determinar a Concentração Inibitória Mínima (CIM). O que a CIM representa?",
+    "options": [
+      "A concentração do antibiótico que mata 99,9% das bactérias.",
+      "A maior concentração do antibiótico que ainda permite o crescimento bacteriano visível.",
+      "A menor concentração do antibiótico que previne o crescimento bacteriano visível após um período de incubação.",
+      "A concentração de antibiótico necessária para tratar infecções em humanos.",
+      "A concentração que causa resistência bacteriana."
+    ],
+    "correctIndex": 2,
+    "explanation": "A resposta correta é a 2. Conforme a definição no texto, a 'CIM é a menor concentração que previne o crescimento visível do MO, após 24 horas de incubação'. No diagrama do teste, a CIM é identificada no primeiro tubo de ensaio que não apresenta turvação (crescimento), indicando que aquela concentração foi suficiente para inibir a multiplicação bacteriana.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "As sulfonamidas são agentes bacteriostáticos que atuam como antimetabólitos. Qual via metabólica essencial e exclusiva das bactérias elas inibem?",
+    "options": [
+      "A síntese da parede celular.",
+      "A síntese de proteínas na subunidade 50S.",
+      "A via de síntese do ácido fólico, atuando como análogos do PABA.",
+      "A replicação do DNA pela inibição da RNA polimerase.",
+      "A permeabilidade da membrana celular."
+    ],
+    "correctIndex": 2,
+    "explanation": "A resposta correta é a 2. O diagrama e o texto explicam que as sulfonamidas atuam na 'Inibição da biossíntese do ácido fólico'. Elas são análogos estruturais do ácido p-aminobenzoico (PABA) e inibem competitivamente a enzima di-hidropteroato sintetase, uma etapa crucial que as bactérias usam para produzir seu próprio ácido fólico. Como os humanos obtêm ácido fólico da dieta e não possuem essa via, a ação é seletivamente tóxica para as bactérias.",
+    "type": "conteudista"
+  },
+  {
+    "question": "A tabela sobre as propriedades das penicilinas mostra diferentes radicais 'R' para cada tipo de penicilina. Como essa variação na estrutura química (radical R) influencia as propriedades do fármaco, como a estabilidade ácida e o espectro de ação?",
+    "options": [
+      "O radical R não tem influência, e as propriedades são idênticas para todas as penicilinas.",
+      "A alteração no radical R permite que as penicilinas inibam a síntese de proteínas em vez da parede celular.",
+      "A modificação do radical R pode proteger o anel beta-lactâmico da degradação ácida no estômago (permitindo uso oral) e alterar a afinidade do fármaco pelas proteínas de ligação à penicilina (PBPs) de diferentes bactérias, ampliando seu espectro.",
+      "Um radical R maior sempre resulta em um espectro de ação mais estreito.",
+      "Apenas penicilinas com um radical R contendo enxofre são eficazes contra bactérias Gram-negativas."
+    ],
+    "correctIndex": 2,
+    "explanation": "A resposta correta é a 2. A Tabela 2 ilustra como a substituição do grupo R na estrutura básica da penicilina gera diferentes fármacos com propriedades distintas. Por exemplo, a mudança de um radical simples (Penicilina G) para um mais complexo (Ampicilina) confere estabilidade em meio ácido e um espectro de ação mais amplo, que inclui algumas bactérias Gram-negativas. Essa manipulação química é a base do desenvolvimento de novas penicilinas com perfis farmacocinéticos e espectros de ação aprimorados.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Por que o uso de tetraciclinas não é recomendado para crianças e mulheres grávidas?",
+    "options": [
+      "Porque causam ototoxicidade e nefrotoxicidade severas.",
+      "Porque inibem o crescimento da microbiota intestinal normal.",
+      "Porque têm a capacidade de quelar metais, especialmente o cálcio, podendo se acumular em dentes e ossos em formação, causando manchas e deformidades.",
+      "Porque são rapidamente inativadas pelo pH do estômago infantil.",
+      "Porque causam fototoxicidade extrema apenas nesse grupo populacional."
+    ],
+    "correctIndex": 2,
+    "explanation": "A resposta correta é a 2. O texto afirma que as tetraciclinas 'apresentam a capacidade de quelar metais, especialmente cálcio'. Por essa razão, 'seu uso não é recomendado em crianças e mulheres grávidas, uma vez que estes antibióticos podem se acumular em dentes e ossos em formação'.",
+    "type": "conteudista"
+  },
+  {
+    "question": "O diagrama comparativo de ribossomos mostra que os ribossomos bacterianos são 70S (compostos por subunidades 30S e 50S) e os de mamíferos são 80S (40S e 60S). Como essa diferença é explorada pela farmacologia antimicrobiana?",
+    "options": [
+      "Essa diferença não é relevante, pois os antibióticos que atuam nos ribossomos afetam ambos os tipos igualmente.",
+      "Fármacos são desenvolvidos para se ligarem seletivamente às subunidades 30S ou 50S do ribossomo bacteriano, inibindo a síntese proteica da bactéria com mínimo impacto sobre os ribossomos do hospedeiro.",
+      "Essa diferença permite que as bactérias desenvolvam resistência mais rapidamente.",
+      "Os ribossomos 70S são responsáveis pela síntese da parede celular, tornando-os um alvo para beta-lactâmicos.",
+      "Fármacos que atuam nos ribossomos 80S são usados como antibacterianos de amplo espectro."
+    ],
+    "correctIndex": 1,
+    "explanation": "A resposta correta é a 1. A diferença na estrutura e composição dos ribossomos é um dos principais exemplos de alvo para a toxicidade seletiva. O texto e o diagrama deixam claro que classes como Tetraciclinas e Aminoglicosídeos se ligam à subunidade 30S, enquanto Macrolídeos e Cloranfenicol se ligam à 50S. Como essas subunidades são diferentes das encontradas nos ribossomos 80S dos humanos, é possível inibir a síntese de proteínas bacterianas de forma seletiva, o que é a base da ação desses antibióticos.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Qual dos seguintes é um mecanismo de resistência bacteriana em que a bactéria produz enzimas que alteram quimicamente ou destroem a molécula do antibiótico?",
+    "options": [
+      "Modificação do alvo, que leva à perda de sensibilidade.",
+      "Alterações na bomba de efluxo para remover o antibiótico da célula.",
+      "Inativação do antibiótico por enzimas bacterianas.",
+      "Diminuição da permeabilidade da membrana externa.",
+      "Desenvolvimento de uma via metabólica alternativa para contornar o bloqueio."
+    ],
+    "correctIndex": 2,
+    "explanation": "A resposta correta é a 2. O texto lista como mecanismo de resistência a 'Inativação do antibiótico diretamente na molécula bioativa por alterações químicas, geralmente promovidas por enzimas bacterianas'. Um exemplo clássico disso é a produção de enzimas β-lactamases, que destroem o anel beta-lactâmico das penicilinas.",
+    "type": "conteudista"
+  },
+  {
+    "question": "O fluxograma sobre a patogênese da endocardite mostra que a bacteremia (presença de bactérias no sangue) é um passo crucial. Em qual dos cenários de uso profilático listados o objetivo é prevenir a bacteremia e a subsequente colonização de uma estrutura artificial?",
+    "options": [
+      "Prevenção de Tuberculose/Meningite em contatos próximos.",
+      "Prevenção de endocardite em pacientes com doença reumática cardíaca.",
+      "Profilaxia cirúrgica geral.",
+      "Prevenção em pacientes com implantes prostéticos (ex: valva cardíaca) submetidos a procedimentos como extração dentária.",
+      "Tratamento de infecções por KPC."
+    ],
+    "correctIndex": 3,
+    "explanation": "A resposta correta é a 3. O fluxograma da endocardite mostra como bactérias na corrente sanguínea podem aderir a um defeito estrutural. O cenário de uso profilático que melhor se encaixa nisso é o de pacientes com 'implantes prostéticos, como valva cardíaca'. Procedimentos invasivos, como uma extração dentária, podem causar uma bacteremia transitória. O pré-tratamento com antibióticos visa eliminar essas bactérias do sangue antes que elas possam colonizar a prótese e causar uma infecção grave como a endocardite.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Qual classe de antimicrobianos é usada para tratar infecções graves por bacilos Gram-negativos multirresistentes, atuando por alterar a permeabilidade da membrana celular?",
+    "options": [
+      "Tetraciclinas",
+      "Penicilinas",
+      "Sulfonamidas",
+      "Polimixinas",
+      "Macrolídeos"
+    ],
+    "correctIndex": 3,
+    "explanation": "A resposta correta é a 3. O texto classifica as Polimixinas como 'INIBIDORES DE PERMEABILIDADE DA MEMBRANA' e afirma que elas 'são ativas contra uma grande variedade de bacilos gram-negativos', sendo usadas no 'Tratamento de infecções graves por bacilos gram-negativos multirresistentes'.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Um antibiótico com um 'espectro estreito' de ação seria mais eficaz contra qual grupo de microrganismos?",
+    "options": [
+      "Vírus e fungos.",
+      "Bactérias Gram-positivas e Gram-negativas igualmente.",
+      "Apenas bactérias Gram-negativas.",
+      "Alguns microrganismos, geralmente sendo efetivos apenas contra os Gram-positivos.",
+      "Todos os tipos de bactérias, incluindo as parasitas obrigatórias."
+    ],
+    "correctIndex": 3,
+    "explanation": "A resposta correta é a 3. O texto define o 'ESPECTRO ESTREITO' como a 'Ação contra alguns micro-organismos geralmente são efetivos contra os Gram+ apenas'.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é a principal indicação clínica para a Vancomicina, um antibiótico glicopeptídico?",
+    "options": [
+      "Infecções do trato urinário causadas por E. coli.",
+      "Infecções respiratórias por Haemophilus influenzae.",
+      "Tratamento de infecções por bactérias Gram-positivas resistentes, como Staphylococcus aureus resistente à meticilina (MRSA).",
+      "Infecções por Pseudomonas aeruginosa.",
+      "Tratamento da tuberculose."
+    ],
+    "correctIndex": 2,
+    "explanation": "A resposta correta é a 2. O texto afirma que a Vancomicina e a teicoplanina 'têm se tornado os fármacos de primeira linha no tratamento de infecções por bactérias Gram positivo com resistência a diversos antibióticos'. Ela também é descrita como 'o antibiótico de última escolha frente a patógenos Gram positivo resistentes'. O diagrama sobre inibidores da parede celular também menciona sua ação sobre Staphylococcus aureus (MRSA).",
+    "type": "conteudista"
+  },
+  {
+    "question": "O que significa dizer que um antibiótico tem uma ação 'bacteriostática'?",
+    "options": [
+      "Ele promove a morte direta e rápida da bactéria.",
+      "Ele inibe o crescimento e a multiplicação da bactéria, dependendo do sistema imune do hospedeiro para eliminar a infecção.",
+      "Ele é eficaz tanto contra bactérias quanto contra fungos.",
+      "Ele atua alterando o DNA bacteriano.",
+      "Ele só funciona em pH alcalino."
+    ],
+    "correctIndex": 1,
+    "explanation": "A resposta correta é a 1. A definição fornecida no texto é clara: a ação 'Bacteriostática' ocorre quando 'A droga irá encontrar a bactéria e promover a inibição do seu crescimento e sua multiplicação'. Em contraste, a ação bactericida promove a morte da bactéria.",
+    "type": "conteudista"
+  },
+  {
+    "question": "O texto menciona que a terapia racional com antimicrobianos, baseada em testes de sensibilidade, é a maior arma contra a resistência. Qual dos seguintes testes laboratoriais é usado para determinar a sensibilidade de uma bactéria a vários antibióticos simultaneamente?",
+    "options": [
+      "Visualização microscópica direta.",
+      "Detecção de antígenos microbianos.",
+      "Antibiograma (teste de difusão em disco).",
+      "Detecção de RNA ou DNA microbiano.",
+      "Cultivo e identificação apenas."
+    ],
+    "correctIndex": 2,
+    "explanation": "A resposta correta é a 2. O texto afirma que se deve 'Selecionar o antibiótico preferencialmente com base nos testes de sensibilidade bacteriana'. As imagens mostram o 'ANTIBIOGRAMA', especificamente o teste de difusão em disco, onde múltiplos discos impregnados com diferentes antibióticos são colocados em uma placa com cultura bacteriana para observar quais deles inibem o crescimento (formando um halo de inibição).",
+    "type": "conteudista"
+  },
+  {
+    "question": "A tabela sobre o pKa dos anestésicos locais mostra que a lidocaína (pKa 7.7) tem um tempo de latência 'Rápido', enquanto a procaína (pKa 8.5) tem um tempo 'Demorado'. Qual é a relação entre o pKa e o início de ação de um anestésico local?",
+    "options": [
+      "Quanto maior o pKa, mais rápido o início de ação.",
+      "O pKa não tem relação com o tempo de latência.",
+      "Um pKa mais próximo do pH fisiológico do tecido (≈7.4) resulta em um início de ação mais rápido, pois uma maior proporção do fármaco está na forma não ionizada, que atravessa a membrana do nervo mais facilmente.",
+      "Apenas anestésicos com pKa abaixo de 7.0 são clinicamente úteis.",
+      "Um pKa mais baixo significa que o anestésico é mais potente, mas tem um início de ação mais lento."
+    ],
+    "correctIndex": 2,
+    "explanation": "A resposta correta é a 2. O mecanismo de ação dos anestésicos locais depende de sua capacidade de atravessar a membrana neuronal na forma não ionizada (lipossolúvel) para então bloquear o canal de sódio por dentro, na forma ionizada. O pKa é o pH no qual 50% do fármaco está ionizado e 50% não está. Um pKa mais próximo do pH fisiológico (7.4) significa que, no momento da injeção, uma fração maior do anestésico estará na forma não ionizada, pronta para cruzar a membrana. Isso resulta em um início de ação (tempo de latência) mais rápido, como se observa comparando a lidocaína com a procaína na tabela.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Qual dos seguintes é um efeito adverso das quinolonas, relacionado à exposição solar?",
+    "options": [
+      "Dano no desenvolvimento das cartilagens.",
+      "Crises convulsivas.",
+      "Fototoxicidade.",
+      "Confusão e alucinação.",
+      "Náusea e vômito."
+    ],
+    "correctIndex": 2,
+    "explanation": "A resposta correta é a 2. O texto lista vários efeitos adversos das quinolonas, incluindo a 'FOTOTOXICIDADE'. Isso significa que pacientes que tomam esses medicamentos podem desenvolver reações cutâneas exageradas, como queimaduras solares graves, após a exposição à luz solar.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Usando as informações e o método de cálculo para a dose máxima de lidocaína (2% = 36 mg/tubete; dose máx. = 4,4 mg/Kg), qual seria o número máximo de tubetes para uma criança saudável de 15 Kg?",
+    "options": [
+      "Aproximadamente 4,1 tubetes.",
+      "Aproximadamente 1,8 tubetes.",
+      "Aproximadamente 3,3 tubetes.",
+      "Aproximadamente 0,9 tubetes.",
+      "Não há limite de dose para crianças."
+    ],
+    "correctIndex": 1,
+    "explanation": "A resposta correta é a 1. O cálculo é feito em duas etapas. Primeiro, calcula-se a dose máxima total em miligramas para o paciente: 15 Kg × 4,4 mg/Kg = 66 mg. Em seguida, divide-se a dose máxima total pela quantidade de anestésico por tubete (36 mg): 66 mg / 36 mg/tubete ≈ 1,83 tubetes. Portanto, o número máximo de tubetes que podem ser administrados com segurança é aproximadamente 1,8.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Qual é o principal mecanismo de ação dos aminoglicosídeos, como a estreptomicina?",
+    "options": [
+      "Inibem a síntese da parede celular ao bloquear a transpeptidase.",
+      "Ligam-se à subunidade 50S dos ribossomos bacterianos.",
+      "Ligam-se à subunidade 30S dos ribossomos bacterianos, impedindo o movimento do ribossomo ao longo do mRNA e interrompendo a síntese de proteínas.",
+      "Alteram a permeabilidade da membrana celular bacteriana.",
+      "Inibem a síntese de ácido fólico."
+    ],
+    "correctIndex": 2,
+    "explanation": "A resposta correta é a 2. O texto afirma que 'Os antibióticos aminoglicosídicos apresentam efeito bactericida por ligarem-se especificamente à subunidade 30S dos ribossomos bacterianos, impedindo o movimento do ribossomo ao longo do mRNA e, consequentemente, interrompendo a síntese de proteínas'. O diagrama sobre inibidores da síntese proteica também aponta os aminoglicosídeos como atuantes na subunidade 30S.",
+    "type": "conteudista"
+  },
+  {
+    "question": "A Linezolida, um antibiótico da classe das oxazolidinonas, possui um mecanismo único de inibição da síntese proteica. Qual é ele?",
+    "options": [
+      "Liga-se à subunidade 30S, impedindo a ligação do aminoacil-tRNA.",
+      "Liga-se à subunidade 50S, interferindo na elongação da cadeia peptídica.",
+      "Inibe a enzima peptidil transferase.",
+      "Liga-se à subunidade 50S, mas impedindo sua união com a subunidade 30S para formar o ribossomo 70S funcional, bloqueando o início da translação.",
+      "Causa uma leitura incorreta do código do mRNA."
+    ],
+    "correctIndex": 3,
+    "explanation": "A resposta correta é a 3. O texto descreve o mecanismo da Linezolida de forma precisa: ela 'liga-se à subunidade 50S ribossomal, impedindo sua união com a subunidade 30S para formação do ribossomo 70S, essencial para o início da síntese proteica'. Isso a diferencia de outros inibidores da síntese proteica, que geralmente atuam em etapas posteriores, como a elongação da cadeia.",
+    "type": "conteudista"
+  },
+  {
+    "question": "O que a expressão '1:100.000' significa em uma solução de anestésico local com vasoconstritor?",
+    "options": [
+      "1 mg de vasoconstritor para cada 100.000 mg de anestésico.",
+      "1 grama de vasoconstritor para cada 100.000 mililitros de solução.",
+      "1 molécula de vasoconstritor para cada 100.000 moléculas de anestésico.",
+      "A solução foi diluída 100.000 vezes.",
+      "Contém 100.000 microgramas de vasoconstritor por tubete."
+    ],
+    "correctIndex": 1,
+    "explanation": "A resposta correta é a 1. A notação de proporção em soluções farmacêuticas, como 1:100.000, indica uma relação de massa por volume. O texto mostra o cálculo, explicando que isso corresponde a '1grama ou 1000mg/100.000mL', o que é equivalente a 0,01 mg/mL.",
+    "type": "conteudista"
+  },
+  {
+    "question": "O caso clínico descreve um paciente HIV positivo, não tratado, com histórico de herpes-zóster e que apresenta febre, tosse, dispneia e um infiltrado intersticial difuso no raio-x de tórax. Esses sinais e sintomas são clássicos de uma infecção oportunista comum em pacientes imunodeprimidos. Qual seria a causa mais provável?",
+    "options": [
+      "Tuberculose",
+      "Pneumonia por Pneumocystis jirovecii (anteriormente carinii).",
+      "Infecção por Klebsiella pneumoniae (KPC).",
+      "Endocardite bacteriana.",
+      "Sífilis pulmonar."
+    ],
+    "correctIndex": 1,
+    "explanation": "A resposta correta é a 1. O paciente é 'sabidamente HIV positivo' e não está em tratamento, o que o torna gravemente imunodeprimido. O quadro de tosse seca, febre, dispneia progressiva e, crucialmente, 'infiltrado intersticial difuso e peri-hilar' no raio-x é a apresentação clássica da pneumonia por Pneumocystis jirovecii (PCP), uma infecção fúngica oportunista definidora de SIDA (AIDS). O texto menciona o tratamento de infecções por 'Pneumocystis carinii' com sulfametoxazol+trimetoprim em pacientes com HIV, reforçando a relevância deste patógeno.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Qual é a principal razão para o uso profilático de antibióticos antes de procedimentos como extrações dentárias em pacientes com valvas cardíacas prostéticas?",
+    "options": [
+      "Para prevenir a dor pós-operatória.",
+      "Para prevenir a colonização da prótese por microrganismos que entram na corrente sanguínea, evitando a endocardite.",
+      "Para tratar uma infecção dentária já existente.",
+      "Para acelerar a cicatrização do alvéolo dentário.",
+      "Para prevenir a transmissão de vírus como o HIV durante o procedimento."
+    ],
+    "correctIndex": 1,
+    "explanation": "A resposta correta é a 1. O texto, na seção sobre uso profilático, afirma que em 'pacientes com implantes prostéticos, como valva cardíaca, submetidos à extração dentária, o pré-tratamento previne a colonização da prótese por microrganismos'. A extração dentária pode causar uma bacteremia transitória, e o objetivo da profilaxia é eliminar essas bactérias da corrente sanguínea antes que elas possam se fixar na valva prostética e causar uma infecção grave (endocardite).",
+    "type": "conteudista"
+  },
+  {
+    "question": "A clindamicina, um derivado da lincomicina, é o fármaco de escolha para qual tipo de infecção?",
+    "options": [
+      "Infecções do trato urinário por E. coli.",
+      "Pneumonia por Streptococcus pneumoniae.",
+      "Infecções periféricas causadas por bactérias anaeróbicas resistentes à penicilina, como Bacillus fragilis.",
+      "Meningite bacteriana.",
+      "Infecções por Pseudomonas aeruginosa."
+    ],
+    "correctIndex": 2,
+    "explanation": "A resposta correta é a 2. O texto afirma que 'A clindamicina é o fármaco de escolha para o tratamento de infecções periféricas causadas por Bacillus fragilis ou outras bactérias anaeróbicas penicilina resistentes'. Ela também é utilizada topicamente para acne.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Por que a combinação de sulfametoxazol e trimetoprim é considerada sinérgica?",
+    "options": [
+      "Porque um é bactericida e o outro é bacteriostático.",
+      "Porque ambos inibem a mesma enzima, aumentando a potência.",
+      "Porque o sulfametoxazol aumenta a absorção do trimetoprim.",
+      "Porque eles bloqueiam duas etapas sequenciais diferentes na mesma via metabólica essencial (a síntese de ácido fólico), resultando em um bloqueio mais completo.",
+      "Porque o trimetoprim inativa as enzimas de resistência ao sulfametoxazol."
+    ],
+    "correctIndex": 3,
+    "explanation": "A resposta correta é a 3. O texto explica que 'Cada um desses fármacos bloqueia uma etapa no metabolismo do ácido fólico' e que 'A atuação destes fármacos é sinérgica no bloqueio de dois diferentes passos na via bioquímica'. O sulfametoxazol inibe a di-hidropteroato sintetase e o trimetoprim inibe a di-hidrofolato redutase. O bloqueio sequencial da mesma via é um exemplo clássico de sinergismo farmacológico.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual classe de antibióticos age por desorganização de múltiplas funções da membrana celular bacteriana, sendo representada pela Daptomicina?",
+    "options": [
+      "Oxazolidinonas",
+      "Estreptograminas",
+      "Glicopeptídeos",
+      "Lipodepsipeptídeos",
+      "Quinolonas"
+    ],
+    "correctIndex": 3,
+    "explanation": "A resposta correta é a 3. O texto introduz a Daptomicina como um 'lipodepsipeptídeo' e afirma que seu 'mecanismo de ação envolve desorganização de múltiplas funções da membrana celular bacteriana'.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Um paciente está tomando um macrolídeo como a eritromicina. Qual dos seguintes efeitos adversos, não relacionado à ação antibacteriana, é uma característica conhecida desta classe?",
+    "options": [
+      "Dano no desenvolvimento das cartilagens.",
+      "Fototoxicidade.",
+      "Influência na motilidade gastrointestinal e ações pró-arrítmicas.",
+      "Acúmulo em ossos e dentes.",
+      "Risco de crise hipertensiva com queijos."
+    ],
+    "correctIndex": 2,
+    "explanation": "A resposta correta é a 2. O texto, ao descrever a eritromicina, menciona que ela tem uma 'variedade de outros efeitos colaterais, tais como influência na motilidade gastrointestinal, ações pró-arrítmicas e inibição do metabolismo de fármacos'. Os outros efeitos adversos listados são característicos de outras classes de antibióticos (quinolonas, tetraciclinas, IMAOs).",
+    "type": "conteudista"
+  },
+  {
+    "question": "A rifampicina é o único fármaco em uso clínico que bloqueia um processo específico. Qual é ele?",
+    "options": [
+      "A replicação do DNA pela inibição da DNA girase.",
+      "A formação do ribossomo 70S.",
+      "A transcrição bacteriana, pela inibição da RNA polimerase.",
+      "A reação de transpeptidação na parede celular.",
+      "A síntese de ácido fólico."
+    ],
+    "correctIndex": 2,
+    "explanation": "A resposta correta é a 2. O texto afirma que a rifampicina 'é um inibidor da RNA polimerase, utilizada clinicamente como parte da combinação de fármacos para o tratamento da tuberculose' e que 'É o único fármaco em uso clínico que bloqueia a transcrição bacteriana'.",
+    "type": "conteudista"
+  },
+  {
+    "question": "O fluxograma PK/PD mostra que a farmacocinética determina a 'Concentração no local de infecção'. Se um antibiótico tem excelente absorção oral, mas baixa distribuição para o sistema nervoso central, para qual tipo de infecção ele seria ineficaz?",
+    "options": [
+      "Infecção do trato urinário.",
+      "Pneumonia.",
+      "Infecção de pele.",
+      "Meningite.",
+      "Infecção gastrointestinal."
+    ],
+    "correctIndex": 3,
+    "explanation": "A resposta correta é a 3. O fluxograma mostra a importância de o fármaco atingir o local da infecção. A farmacocinética (especificamente a 'Distribuição') dita para onde o fármaco vai no corpo. A meningite é uma infecção do sistema nervoso central (SNC). Um fármaco com baixa capacidade de atravessar a barreira hematoencefálica e atingir o SNC não alcançará a concentração terapêutica necessária no local da infecção para ser eficaz, independentemente de sua absorção. O texto cita como exemplo os aminoglicosídeos, que 'não podem ser usados para o tratamento de meningites' por essa razão.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "O que a presença de porinas na membrana externa das bactérias Gram-negativas facilita?",
+    "options": [
+      "A adesão da bactéria às células do hospedeiro.",
+      "A saída de antibióticos da célula através de bombas de efluxo.",
+      "A entrada de antimicrobianos hidrofílicos na célula.",
+      "A síntese da camada de peptideoglicano.",
+      "A resposta inflamatória desencadeada pelos lipopolissacarídeos."
+    ],
+    "correctIndex": 2,
+    "explanation": "A resposta correta é a 2. O texto, ao descrever as características das bactérias Gram-negativas, menciona que elas 'Possuem canais transmembrana repletos de água denominados porinas, que facilitam a entrada de antimicrobianos hidrofílicos'.",
+    "type": "conteudista"
+  }
+]

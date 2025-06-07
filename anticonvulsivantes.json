@@ -1,0 +1,392 @@
+[
+  {
+    "question": "Qual é a diferença fundamental entre uma crise epiléptica focal simples e uma focal complexa?",
+    "options": [
+      "A crise simples envolve apenas sintomas motores, enquanto a complexa envolve apenas sintomas psíquicos.",
+      "A crise simples se origina no lobo temporal, e a complexa no lobo frontal.",
+      "A crise simples está associada à preservação da consciência, enquanto na crise complexa há comprometimento ou depressão do nível de consciência.",
+      "A crise complexa sempre evolui para uma crise tônico-clônica generalizada, o que não ocorre com a simples.",
+      "A crise simples dura segundos, e a complexa dura mais de 30 minutos."
+    ],
+    "correctIndex": 2,
+    "explanation": "A resposta correta é a 2. O texto define claramente a distinção entre os dois tipos de crise focal (ou parcial). A crise parcial simples está associada à 'preservação da consciência', enquanto a crise parcial complexa está associada à 'depressão do nível de consciência'. A natureza dos sintomas (motores, sensoriais, etc.) pode variar em ambos os tipos, mas o nível de consciência é o fator de diferenciação chave.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Analisando o fluxograma da ILAE de 2017 e as descrições das crises, como uma crise que começa com uma sensação de 'déjà vu' e evolui para contrações alternadas de músculos com perda de consciência seria classificada?",
+    "options": [
+      "Crise de ausência.",
+      "Crise focal evoluindo para generalizada.",
+      "Crise mioclônica.",
+      "Crise atônica.",
+      "Crise tônico-clônica generalizada desde o início."
+    ],
+    "correctIndex": 1,
+    "explanation": "A resposta correta é a 1. A sensação de 'déjà vu' é descrita como um sintoma de uma crise focal simples. O fluxograma e as descrições indicam que uma crise pode começar de forma focal e depois se espalhar. A evolução para 'contrações alternadas dos músculos com perda da consciência' corresponde à descrição de uma crise tônico-clônica. Portanto, a classificação correta é 'Crise focal evoluindo para generalizada', que começa com sintomas focais (a aura de déjà vu) e depois se torna generalizada.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Qual dos seguintes fármacos anticonvulsivantes é o preferencial para o tratamento de crises de ausência e atua bloqueando os canais de cálcio do tipo T nos neurônios talâmicos?",
+    "options": [
+      "Carbamazepina",
+      "Fenitoína",
+      "Etossuximida",
+      "Fenobarbital",
+      "Gabapentina"
+    ],
+    "correctIndex": 2,
+    "explanation": "A resposta correta é a 2. O texto afirma que a Etossuximida é 'preferencial para ausência' e que seu mecanismo de ação é bloquear 'os canais de Cálcio do tipo T voltagem dependente', que estão localizados nos 'neurônios talâmicos'. O diagrama sobre o mecanismo de ação dos bloqueadores de canais de cálcio também ilustra essa ação. Os outros fármacos atuam principalmente em canais de sódio ou no sistema GABAérgico e não são a primeira escolha para crises de ausência puras.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Um paciente em tratamento prolongado com Fenitoína apresenta um crescimento excessivo e inflamação do tecido da gengiva. Qual é o nome desse efeito adverso característico, que é ilustrado em uma das imagens?",
+    "options": [
+      "Hirsutismo",
+      "Ataxia",
+      "Nistagmo",
+      "Hiperplasia gengival",
+      "Anemia megaloblástica"
+    ],
+    "correctIndex": 3,
+    "explanation": "A resposta correta é a 3. A imagem clínica e o texto listam a 'hiperplasia gengival' como um dos efeitos adversos da Fenitoína. Este efeito consiste no crescimento excessivo do tecido gengival. Embora as outras opções também sejam efeitos adversos possíveis da Fenitoína, a imagem e a descrição clínica correspondem especificamente à hiperplasia gengival.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Qual é o fármaco de escolha para o tratamento de emergência do 'Status epilepticus' (estado de mal epiléptico)?",
+    "options": [
+      "Ácido Valpróico",
+      "Carbamazepina",
+      "Lorazepam",
+      "Lamotrigina",
+      "Topiramato"
+    ],
+    "correctIndex": 2,
+    "explanation": "A resposta correta é a 2. Para o 'Status epilepticus', uma emergência caracterizada por atividade convulsiva contínua, o texto afirma que o 'Lorazepam é o fármaco de escolha para essa condição'. Ele é administrado para cessar a crise rapidamente, seguido por agentes de ação mais longa para manter o controle.",
+    "type": "conteudista"
+  },
+  {
+    "question": "O diagrama do mecanismo de ação dos fármacos que atuam nos canais de cálcio mostra o Valproato e a Etossuximida bloqueando os canais do tipo T. Essa ação leva à 'Redução do nível talâmico de pontas e ondas'. Essa informação explica a eficácia desses fármacos em qual tipo de crise?",
+    "options": [
+      "Crises focais complexas.",
+      "Crises tônico-clônicas generalizadas.",
+      "Crises de ausência.",
+      "Crises atônicas.",
+      "Crises mioclônicas."
+    ],
+    "correctIndex": 2,
+    "explanation": "A resposta correta é a 2. O padrão eletroencefalográfico característico da crise de ausência é o complexo de espícula-onda de 3 Hz, que se origina de descargas rítmicas nos circuitos tálamo-corticais. O diagrama indica que o bloqueio dos canais de cálcio tipo T reduz esse padrão de 'pontas e ondas', que é a base fisiopatológica da crise de ausência. Portanto, essa ação explica a eficácia desses fármacos especificamente para este tipo de crise.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Qual síndrome epiléptica, que se inicia na infância, é caracterizada por uma tríade de múltiplos tipos de crises, retardo mental e um padrão de 'complexos ponta-onda lentos' no EEG?",
+    "options": [
+      "Síndrome Mioclônica Juvenil",
+      "Síndrome de West",
+      "Síndrome de Lennox-Gastaut",
+      "Epilepsia do lobo temporal mesial",
+      "Epilepsia Neonatal Benigna Familiar"
+    ],
+    "correctIndex": 2,
+    "explanation": "A resposta correta é a 2. O texto define a Síndrome de Lennox-Gastaut (SLG) como sendo 'comumente caracterizada por uma tríade de sintomas: epilepsia de vários padrões, retardo mental, e complexos ponta-onda lentos no eletroencefalograma'.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Um paciente apresenta crises que começam com uma 'sensação visceral ascendente' e medo intenso, seguidas por automatismos como movimentos mastigatórios. Com base nas descrições, essas características sugerem fortemente o acometimento de qual estrutura cerebral?",
+    "options": [
+      "Córtex motor primário",
+      "Lobo occipital",
+      "Cerebelo",
+      "Estruturas límbicas do lobo temporal (amígdala, hipocampo).",
+      "Lobo frontal"
+    ],
+    "correctIndex": 3,
+    "explanation": "A resposta correta é a 3. O texto afirma que sintomas como a sensação visceral ascendente e os sintomas psíquicos (medo) 'sugerem o acometimento de estruturas límbicas e para-límbicas temporal, amígdala, hipocampo e giro-hipocampal'. Adicionalmente, as 'crises automotoras' com movimentos oromastigatórios também sugerem 'ação do lobo temporal'.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "O Fenobarbital é um anticonvulsivante eficaz, mas seu uso requer cautela devido à sua propriedade de ser um 'indutor enzimático'. O que isso significa na prática clínica?",
+    "options": [
+      "Ele inibe as enzimas hepáticas, aumentando o nível de outros fármacos.",
+      "Ele aumenta a atividade das enzimas hepáticas (CYP-450), o que pode acelerar o metabolismo e reduzir as concentrações sanguíneas de outros medicamentos, como contraceptivos orais.",
+      "Ele só pode ser administrado por via intravenosa.",
+      "Ele se liga irreversivelmente aos receptores GABA, tornando seu efeito permanente.",
+      "Ele causa uma reação de hipersensibilidade em todos os pacientes."
+    ],
+    "correctIndex": 1,
+    "explanation": "A resposta correta é a 1. O texto descreve o Fenobarbital como um 'indutor enzimático (aumenta quantidade e atividade de CYP-450)'. A indução enzimática acelera o metabolismo de outros fármacos que são substratos dessas enzimas. Como consequência, as concentrações plasmáticas e a eficácia desses outros medicamentos (o texto cita 'anticonvulsivantes, contraceptivos orais, betabloqueadores e anticoagulantes') podem ser reduzidas, exigindo ajuste de dose.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Um traçado de EEG de uma criança com baixo rendimento escolar mostra um padrão generalizado de 'espicula-onda de 3 picos'. Baseado nas imagens e descrições, qual é o diagnóstico mais provável?",
+    "options": [
+      "Síndrome de Lennox-Gastaut",
+      "Crise tônico-clônica",
+      "Crise focal complexa",
+      "Crise de ausência (pequeno mal)",
+      "Síndrome Mioclônica Juvenil"
+    ],
+    "correctIndex": 3,
+    "explanation": "A resposta correta é a 3. A imagem de um EEG mostrando o padrão de 'espicula-onda de 3 Hz' é apresentada como a assinatura eletrográfica característica da crise de ausência. O texto também descreve a crise de ausência como ocorrendo em crianças, podendo ser imperceptível e levar a baixo rendimento escolar, o que se encaixa no cenário clínico.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Qual dos seguintes fármacos anticonvulsivantes atua primariamente aumentando a ação do GABA, mas tem uma estrutura química relacionada a este neurotransmissor e também é usado no tratamento da dor neuropática?",
+    "options": [
+      "Lamotrigina",
+      "Topiramato",
+      "Gabapentina",
+      "Oxcarbazepina",
+      "Etossuximida"
+    ],
+    "correctIndex": 2,
+    "explanation": "A resposta correta é a 2. O texto descreve a Gabapentina como tendo uma 'Estrutura química relacionada ao GABA', que 'aumenta a transmissão do neurotransmissor' e é usada para o 'Tratamento da dor' neuropática, além de crises parciais.",
+    "type": "conteudista"
+  },
+  {
+    "question": "A tabela 'Relação entre os tipos de crises epilépticas, drogas de escolha e drogas alternativas' mostra que um mesmo fármaco pode ser de primeira escolha para crises muito diferentes. Qual fármaco é listado como droga de escolha tanto para crises parciais (simples/complexas) quanto para crises tônico-clônicas generalizadas e mioclônicas?",
+    "options": [
+      "Carbamazepina",
+      "Fenitoína",
+      "Etossuximida",
+      "Valproato",
+      "Clonazepam"
+    ],
+    "correctIndex": 3,
+    "explanation": "A resposta correta é a 3. Analisando a tabela, o Valproato (Ácido Valpróico) é o único fármaco listado como 'Droga de Escolha' para as três categorias: 'Crises parciais simples, complexas...', 'Crises generalizadas tônico-clônicas' (junto com carbamazepina e fenitoína) e 'Crises generalizadas mioclônicas'. Isso reflete seu amplo espectro de ação, atuando em múltiplos mecanismos (GABA e canais de cálcio).",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Qual é a definição de 'epileptogênese'?",
+    "options": [
+      "O período de recuperação da consciência após uma crise.",
+      "A manifestação de sinais e sintomas transitórios de uma crise.",
+      "Uma crise epiléptica que dura mais de 30 minutos.",
+      "A sequência de eventos que converte uma rede neuronal normal em uma rede hiperexcitável.",
+      "A descarga elétrica difusa que ocorre em crises generalizadas."
+    ],
+    "correctIndex": 3,
+    "explanation": "A resposta correta é a 3. O texto define epileptogênese como a 'Sequência de eventos que convertem uma rede neuronal normal em uma rede hiperexcitável'. É o processo pelo qual o cérebro adquire a predisposição para gerar crises epilépticas recorrentes.",
+    "type": "conteudista"
+  },
+  {
+    "question": "O diagrama dos mecanismos de ação dos anticonvulsivantes mostra três vias principais. Se um fármaco precisa ser eficaz tanto em crises tônico-clônicas quanto em crises de ausência, em quais alvos ele provavelmente deveria atuar?",
+    "options": [
+      "Apenas em canais de Sódio (Na+).",
+      "Apenas em canais de Cálcio (Ca2+) do tipo T.",
+      "Apenas no sistema GABAérgico.",
+      "Tanto em canais de Sódio (Na+) ou no sistema GABAérgico, quanto em canais de Cálcio (Ca2+) do tipo T.",
+      "Em nenhum desses alvos, mas sim em receptores NMDA."
+    ],
+    "correctIndex": 3,
+    "explanation": "A resposta correta é a 3. O texto e os diagramas indicam que as crises tônico-clônicas são tratadas por fármacos que atuam bloqueando canais de Na+ ou aumentando a inibição GABAérgica. As crises de ausência são tratadas por fármacos que bloqueiam canais de Ca2+ do tipo T. Para ser eficaz em ambos os tipos de crise, um fármaco de amplo espectro, como o Ácido Valpróico, precisa atuar em mais de um desses mecanismos, o que de fato ocorre, pois ele afeta tanto o sistema GABA quanto os canais de Ca2+ do tipo T.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "A Síndrome de West é diagnosticada por uma tríade de sinais, incluindo um padrão de EEG muito característico. Qual é o nome desse padrão?",
+    "options": [
+      "Complexos ponta-onda lentos",
+      "Hipsarritmia",
+      "Espícula-onda de 3 Hz",
+      "Atividade beta de alta frequência",
+      "Ondas delta contínuas"
+    ],
+    "correctIndex": 1,
+    "explanation": "A resposta correta é a 1. O texto afirma que a Síndrome de West é diagnosticada através de sinais clínicos e eletroencefalográficos, incluindo um 'traçado eletroencefalográfico com padrão de hipsarritmia'. A hipsarritmia é descrita como uma desorganização generalizada com pontas e ondas delta de alta voltagem.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Um paciente sofre um traumatismo craniano e, como profilaxia, inicia o uso de um anticonvulsivante. O médico alerta sobre o risco de anemia aplásica e hepatite, exigindo monitoramento. Qual dos seguintes fármacos é conhecido por essas reações adversas graves?",
+    "options": [
+      "Gabapentina",
+      "Topiramato",
+      "Carbamazepina",
+      "Primidona",
+      "Oxcarbazepina"
+    ],
+    "correctIndex": 2,
+    "explanation": "A resposta correta é a 2. Ao descrever a Carbamazepina, o texto lista como reações adversas a 'sedação, visão turva, tontura, ataxia, diplopia; anemia aplásica, hepatite, agranulocitose'. A anemia aplásica e a hepatite são reações raras, porém graves, associadas a este fármaco.",
+    "type": "conteudista"
+  },
+  {
+    "question": "As crises de ausência são descritas como um 'lapso súbito e breve da consciência', com início e término abruptos. De acordo com a tabela detalhada sobre as fases da crise, o que acontece imediatamente após o evento (fase pós-ictal)?",
+    "options": [
+      "Um longo período de confusão mental e exaustão.",
+      "Uma crise tônico-clônica secundária.",
+      "A criança se lembra de todo o evento em detalhes.",
+      "Uma retomada súbita da consciência, sem confusão mental, e a criança geralmente não percebe que o evento ocorreu.",
+      "Ocorre um grito pela contração do diafragma."
+    ],
+    "correctIndex": 3,
+    "explanation": "A resposta correta é a 3. A tabela que descreve as fases da crise de ausência indica que na 'Fase pos-ictal' ocorre uma 'Retomada súbita da consciência', 'Não há confusão mental' e 'A criança não percebe o evento'. Isso contrasta fortemente com a fase pós-ictal de uma crise tônico-clônica, que envolve confusão e exaustão.",
+    "type": "conteudista"
+  },
+  {
+    "question": "A Vigabatrina é um anticonvulsivante que atua inibindo a metabolização do GABA. No entanto, seu uso é limitado, pois pode agravar quais tipos de crises?",
+    "options": [
+      "Crises focais simples e complexas.",
+      "Crises tônico-clônicas.",
+      "Crises de ausência ou mioclônicas.",
+      "Crises atônicas.",
+      "Status epilepticus."
+    ],
+    "correctIndex": 2,
+    "explanation": "A resposta correta é a 2. O texto especifica que a Vigabatrina 'Pode agravar crises de ausência ou mioclônicas'. Este é um exemplo importante de como um anticonvulsivante pode ser eficaz para um tipo de crise, mas prejudicial para outro, ressaltando a importância da classificação correta das crises para a escolha do tratamento.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é a principal diferença entre os fármacos não especificados Gabapentina e Topiramato, conforme descrito em sua classificação?",
+    "options": [
+      "A Gabapentina é um antagonista do GABA, e o Topiramato é um agonista.",
+      "A Gabapentina é um agonista do GABA, enquanto o Topiramato bloqueia a atividade convulsiva em vez de elevar o limiar.",
+      "Ambos atuam como agonistas do GABA, mas o Topiramato é mais potente.",
+      "A Gabapentina bloqueia canais de sódio, e o Topiramato eleva o limiar convulsivo.",
+      "O Topiramato é um agonista do GABA, e a Gabapentina bloqueia a atividade convulsiva."
+    ],
+    "correctIndex": 1,
+    "explanation": "A resposta correta é a 1. O texto, ao classificar os 'fármacos não especificados', afirma que 'gabapentina é um agonista do GABA, enquanto o topiramato bloqueia a atividade convulsiva, em vez de elevar o limiar'. Isso destaca que, mesmo dentro de uma categoria ampla, os mecanismos podem ser distintos.",
+    "type": "conteudista"
+  },
+  {
+    "question": "A manifestação comportamental de uma crise epiléptica é determinada pela função da área cortical onde a crise se origina. Se uma crise se origina no córtex motor que controla a mão direita, qual seria a manifestação mais provável?",
+    "options": [
+      "Uma alucinação visual.",
+      "Uma sensação de medo intenso.",
+      "Abalos clônicos ou rigidez na mão direita.",
+      "Perda completa de consciência e do tônus muscular.",
+      "Uma alteração no paladar."
+    ],
+    "correctIndex": 2,
+    "explanation": "A resposta correta é a 2. O texto exemplifica esse princípio afirmando que 'uma crise envolvendo o córtex motor está associada aos abalos clônicos da parte corporal controlada por aquela região cortical'. Portanto, uma descarga no córtex motor responsável pela mão direita resultaria em sintomas motores localizados nessa mão. As outras opções corresponderiam à ativação de outras áreas cerebrais (lobo occipital, sistema límbico, etc.).",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Uma crise que envolve contrações súbitas e vigorosas, como um choque, de um ou vários grupos musculares, é classificada como:",
+    "options": [
+      "Crise Tônica",
+      "Crise Atônica",
+      "Crise Clônica",
+      "Crise de Ausência",
+      "Crise Mioclônica"
+    ],
+    "correctIndex": 4,
+    "explanation": "A resposta correta é a 4. A descrição corresponde exatamente à definição de crises mioclônicas fornecida no material: 'Envolvem contrações súbitas e vigorosas de um ou vários grupos de músculos', comparadas a um choque.",
+    "type": "conteudista"
+  },
+  {
+    "question": "De acordo com o texto, qual é a principal razão pela qual o tratamento da epilepsia é considerado sintomático e não curativo?",
+    "options": [
+      "Porque os fármacos causam muitos efeitos adversos.",
+      "Porque a cirurgia é a única opção de tratamento eficaz.",
+      "Porque os fármacos disponíveis inibem as convulsões, mas não existe uma profilaxia eficaz ou uma cura para a predisposição subjacente do cérebro em gerar crises.",
+      "Porque a maioria dos pacientes se torna refratária ao tratamento após alguns anos.",
+      "Porque o diagnóstico da epilepsia é sempre incerto."
+    ],
+    "correctIndex": 2,
+    "explanation": "A resposta correta é a 2. O texto afirma que 'O tratamento é sintomático porque os fármacos disponíveis inibem as convulsões, mas não se dispõe de profilaxia eficaz nem de cura'. Isso significa que os medicamentos controlam o sintoma (a crise), mas não corrigem a causa raiz da epilepsia (a epileptogênese).",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é uma causa comum de crises em adultos de mais idade e idosos, mas menos comum em adolescentes?",
+    "options": [
+      "Traumatismo",
+      "Distúrbios genéticos",
+      "Doença cerebrovascular (derrame).",
+      "Infecção do SNC",
+      "Convulsões febris"
+    ],
+    "correctIndex": 2,
+    "explanation": "A resposta correta é a 2. O fluxograma que mostra as causas de crises por faixa etária lista 'Doença cerebrovascular' como uma causa primária em 'Adultos de mais idade e idosos'. As outras opções, como trauma e distúrbios genéticos, são mais prevalentes em faixas etárias mais jovens, como adolescentes.",
+    "type": "conteudista"
+  },
+  {
+    "question": "A Carbamazepina é estruturalmente semelhante aos antidepressivos tricíclicos. Além da epilepsia, para qual outra condição ela é indicada?",
+    "options": [
+      "Síndrome de West",
+      "Dor de cabeça tensional",
+      "Ansiedade generalizada",
+      "Neuralgia do trigêmeo e distúrbios bipolares.",
+      "Mal de Parkinson"
+    ],
+    "correctIndex": 3,
+    "explanation": "A resposta correta é a 3. O texto especifica que outros usos clínicos da Carbamazepina incluem a 'neuralgia do trigêmeo, distúrbios bipolares e síndrome de abstinência alcoólica'.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual o mecanismo de ação da Vigabatrina?",
+    "options": [
+      "Bloqueia canais de sódio.",
+      "Inibe a recaptação do GABA.",
+      "Inibe a metabolização do GABA.",
+      "Bloqueia canais de cálcio do tipo T.",
+      "É um agonista direto dos receptores GABA-A."
+    ],
+    "correctIndex": 2,
+    "explanation": "A resposta correta é a 2. O texto afirma que a Vigabatrina 'Inibe metabolização do GABA'. Ela atua inibindo a enzima GABA-transaminase, que é responsável pela degradação do GABA, aumentando assim a disponibilidade desse neurotransmissor inibitório na sinapse.",
+    "type": "conteudista"
+  },
+  {
+    "question": "A crise atônica é caracterizada por qual manifestação principal?",
+    "options": [
+      "Contrações rítmicas dos membros.",
+      "Rigidez muscular generalizada.",
+      "Perda súbita do tônus muscular, resultando em quedas.",
+      "Breve lapso de atenção com olhar fixo.",
+      "Sensação de medo intenso e despersonalização."
+    ],
+    "correctIndex": 2,
+    "explanation": "A resposta correta é a 2. O texto descreve as crises atônicas como 'Perda do tônus muscular, a pessoa cai subitamente'. Elas também são chamadas de 'ataques de queda'.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Por que a Oxcarbazepina foi desenvolvida e é considerada uma alternativa à Carbamazepina?",
+    "options": [
+      "Porque é mais barata e de mais fácil acesso.",
+      "Porque tem um mecanismo de ação completamente diferente.",
+      "Porque foi desenvolvida para evitar o metabólito tóxico da carbamazepina (epóxido), sendo geralmente melhor tolerada.",
+      "Porque é eficaz em crises de ausência, ao contrário da carbamazepina.",
+      "Porque não interage com nenhum outro fármaco."
+    ],
+    "correctIndex": 2,
+    "explanation": "A resposta correta é a 2. O texto especifica que a Oxcarbazepina foi 'Desenvolvida para evitar o metabólito tóxico da carbamazepina (epóxido)' e que, por isso, é 'Melhor tolerada que a carbamazepina e exibe menos interações farmacocinéticas'.",
+    "type": "conteudista"
+  },
+  {
+    "question": "O que é uma 'aura' no contexto da epilepsia?",
+    "options": [
+      "O período de confusão mental após uma crise.",
+      "Uma crise generalizada que ocorre durante o sono.",
+      "Um sintoma pré-ictal, como uma sensação estranha ou sensorial, que sinaliza o início de uma crise e se origina no lobo temporal.",
+      "Um tipo de síndrome epiléptica que ocorre apenas em crianças.",
+      "A contração muscular inicial em uma crise tônico-clônica."
+    ],
+    "correctIndex": 2,
+    "explanation": "A resposta correta é a 2. O texto define a aura como 'Sintomas pré-ictais como sensações estranhas, sensações epigástricas, rubor, sudorese, náusea e vertigens' que 'Iniciam no lobo temporal'. Essencialmente, a aura é uma crise focal simples que precede uma crise mais complexa ou generalizada.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Considerando o fluxograma das causas de crises por idade, qual a principal etiologia de crises em lactentes e crianças que não é uma causa comum em adultos jovens?",
+    "options": [
+      "Traumatismo craniano",
+      "Tumor cerebral",
+      "Convulsões febris",
+      "Abstinência de álcool",
+      "Doença cerebrovascular"
+    ],
+    "correctIndex": 2,
+    "explanation": "A resposta correta é a 2. O fluxograma mostra 'Convulsões febris' como uma causa comum em 'Lactentes e crianças'. Esta causa não aparece nas listas para 'Adolescentes' ou 'Adultos jovens', tornando-se uma etiologia característica da faixa etária pediátrica.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "A cirurgia para epilepsia refratária, como a lobectomia temporal, frequentemente envolve a remoção do hipocampo e da amígdala. Esta abordagem é mais eficaz para qual tipo de epilepsia?",
+    "options": [
+      "Síndrome Mioclônica Juvenil",
+      "Crises de ausência generalizadas",
+      "Síndrome de West",
+      "Epilepsia do lobo temporal mesial associada à esclerose hipocampal.",
+      "Crises febris simples."
+    ],
+    "correctIndex": 3,
+    "explanation": "A resposta correta é a 3. O texto descreve a 'Epilepsia do lobo temporal mesial', que é comumente associada à 'Esclerose hipocampal (IRM)', como sendo 'Refratária a antiepilépticos' mas que 'Responde bem a intervenção cirúrgica'. A remoção dessas estruturas (hipocampo e amígdala) tem como alvo a origem da crise nesse tipo específico de epilepsia.",
+    "raciocínio"
+  }
+]

@@ -1,0 +1,379 @@
+[
+  {
+    "question": "Qual é a principal diferença no mecanismo de ação entre os benzodiazepínicos (BZDs) e os barbitúricos que explica o maior perfil de segurança dos BZDs em caso de superdosagem?",
+    "options": [
+      "Os BZDs atuam em receptores de serotonina, enquanto os barbitúricos atuam no sistema GABAérgico.",
+      "Os barbitúricos podem abrir diretamente o canal de cloro do receptor GABA-A, enquanto os BZDs apenas potencializam o efeito do GABA, apresentando um efeito teto.",
+      "Os BZDs possuem um antagonista específico (Flumazenil), enquanto os barbitúricos não possuem, mas seus efeitos são intrinsecamente mais seguros.",
+      "Os barbitúricos são metabolizados mais lentamente, levando a um menor risco de acúmulo tóxico.",
+      "Os BZDs inibem a ação do GABA, enquanto os barbitúricos a potencializam."
+    ],
+    "correctIndex": 1,
+    "explanation": "A resposta correta é a 1. O gráfico de dose-resposta ilustra que os barbitúricos têm uma relação linear e íngreme, onde um aumento na dose leva a uma depressão progressivamente mais severa do SNC, incluindo coma e morte. Em contraste, os benzodiazepínicos (BZDs) exibem um platô, ou efeito teto. Isso ocorre porque os BZDs são moduladores alostéricos positivos, ou seja, eles necessitam da presença de GABA para aumentar a frequência de abertura do canal de cloro. Os barbitúricos, em doses mais altas, podem abrir o canal diretamente, independentemente do GABA, levando a uma depressão descontrolada. As outras opções apresentam informações incorretas sobre os mecanismos ou a segurança desses fármacos.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Um pesquisador deseja desenvolver um novo fármaco ansiolítico com o mínimo possível de efeitos sedativos e amnésticos. De acordo com a tabela de subtipos do receptor GABA-A, em qual(is) subunidade(s) alfa (α) o fármaco deveria atuar seletivamente?",
+    "options": [
+      "Subunidade α1",
+      "Subunidade α5",
+      "Subunidades α2 e/ou α3",
+      "Em todas as subunidades α com igual afinidade.",
+      "O fármaco deveria evitar as subunidades α e focar nas subunidades β."
+    ],
+    "correctIndex": 2,
+    "explanation": "A resposta correta é a 2. A tabela que correlaciona os subtipos do receptor GABA-A com os efeitos farmacológicos indica que a subunidade α1 está associada aos efeitos sedativo e amnéstico (anticonvulsivante). Por outro lado, as subunidades α2 e α3 estão associadas ao efeito ansiolítico e relaxante muscular. A subunidade α5 também está ligada ao efeito amnéstico. Portanto, para criar um ansiolítico com menos sedação e amnésia, o alvo ideal seria um agonista seletivo para as subunidades α2 e/ou α3, evitando a forte ativação da α1 e α5.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Qual é o mecanismo de ação do Suvorexant, um hipnótico aprovado em 2014?",
+    "options": [
+      "Agonista seletivo da subunidade α1 do receptor GABA-A.",
+      "Agonista do receptor de melatonina.",
+      "Antagonista seletivo dos receptores da orexina.",
+      "Inibidor da recaptação de serotonina com forte efeito sedativo.",
+      "Antagonista dos receptores de histamina H1."
+    ],
+    "correctIndex": 2,
+    "explanation": "A resposta correta é a 2. O texto descreve o Suvorexant como um fármaco hipnótico cujo mecanismo de ação é o 'antagonismo seletivo de receptores da orexina'. A orexina é um neuropeptídeo que promove o estado de vigília; ao bloquear seus receptores, o Suvorexant facilita o início e a manutenção do sono. As outras opções descrevem os mecanismos de outras classes de hipnóticos, como os fármacos Z (opção 0), Ramelteona (opção 1), antidepressivos sedativos (opção 3) e anti-histamínicos (opção 4).",
+    "type": "conteudista"
+  },
+  {
+    "question": "A análise de um hipnograma de um adulto saudável mostra que os ciclos de sono se repetem ao longo da noite. Qual é a distribuição predominante do sono de ondas lentas (delta) e do sono REM?",
+    "options": [
+      "O sono REM predomina no início da noite e o sono delta no final.",
+      "Ambos os estágios são distribuídos uniformemente ao longo de toda a noite.",
+      "O sono delta (estágios 3 e 4) predomina na primeira metade da noite, enquanto o sono REM se torna mais longo e frequente na segunda metade.",
+      "O sono delta ocorre apenas uma vez, no primeiro ciclo, e o resto da noite é uma alternância entre sono leve e sono REM.",
+      "O sono REM não ocorre em adultos saudáveis, apenas o sono delta."
+    ],
+    "correctIndex": 2,
+    "explanation": "A resposta correta é a 2. O hipnograma e as informações textuais indicam que a arquitetura do sono não é uniforme. O sono de ondas lentas e profundas (sono delta) 'predomina no início da noite'. À medida que a noite avança, os períodos de sono delta diminuem e os períodos de sono REM aumentam em duração, fazendo com que o sono REM 'predomine no final da noite'. Este padrão cíclico é uma característica fundamental do sono fisiológico.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Os fármacos conhecidos como 'Compostos Z' (Zolpidem, Zopiclona, Zaleplona) são hipnóticos não benzodiazepínicos. Qual é o seu principal mecanismo de ação?",
+    "options": [
+      "Antagonistas dos receptores de orexina.",
+      "Ligam-se a um sítio específico no receptor GABA-A (o sítio benzodiazepínico), atuando como agonistas seletivos para receptores que contêm a subunidade α1.",
+      "Bloqueiam os receptores de histamina H1 no cérebro.",
+      "Inibem a enzima responsável pela degradação da melatonina.",
+      "Atuam como agonistas parciais nos receptores de serotonina 5-HT2A."
+    ],
+    "correctIndex": 1,
+    "explanation": "A resposta correta é a 1. Apesar de não terem a estrutura química de um benzodiazepínico, os 'Compostos Z' atuam no mesmo complexo receptor GABA-A. O texto especifica que eles 'ativam receptores benzodiazepínicos (o sítio de ligação de benzodiazepínicos no receptor GABAérgico)' e que são agonistas seletivos para 'receptores GABAA que contêm a subunidade a1'. Essa seletividade pela subunidade α1, associada à sedação, explica seu potente efeito hipnótico com menores efeitos ansiolíticos e relaxantes musculares em comparação com os BZDs não seletivos.",
+    "type": "conteudista"
+  },
+  {
+    "question": "A tabela comparativa dos efeitos dos BZDs sobre o sono mostra um resultado paradoxal: em fenótipos normais, a latência do sono REM aumenta (↑), mas em insones, ela diminui (↓). Qual é a interpretação mais plausível para essa diferença?",
+    "options": [
+      "Os BZDs funcionam de maneira oposta em insones.",
+      "A tabela contém um erro, pois o efeito deveria ser o mesmo para ambos os grupos.",
+      "Os insones podem ter uma latência de sono REM basal anormalmente curta, e o BZD, apesar de sua tendência a suprimir o REM, 'normaliza' essa latência para um valor mais longo, que ainda é uma diminuição em relação ao estado patológico inicial.",
+      "Em indivíduos normais, os BZDs induzem sonhos, aumentando a latência do REM, enquanto em insones eles inibem os sonhos.",
+      "O efeito depende da dose, sendo que insones recebem doses menores que causam diminuição da latência."
+    ],
+    "correctIndex": 2,
+    "explanation": "A resposta correta é a 2. Esta é uma questão de interpretação de dados. O efeito geral dos BZDs é suprimir o sono REM, o que em uma pessoa normal significa que demorará mais para entrar em REM (aumento da latência). No entanto, alguns tipos de insônia ou depressão estão associados a uma latência para o sono REM patologicamente curta. Nesses pacientes, o efeito supressor do BZD, embora presente, pode corrigir essa anormalidade, resultando em um tempo para o início do REM que, embora mais longo que o basal do paciente, ainda representa uma 'normalização' ou uma diminuição em relação ao seu estado patológico inicial. As outras opções são menos prováveis ou simplistas.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "De acordo com o texto, qual estrutura do tronco encefálico é crucial para o início da atividade cerebral durante o sono REM e para enviar sinais que causam a paralisia muscular temporária (atonia)?",
+    "options": [
+      "O Córtex Cerebral",
+      "O Tálamo",
+      "A Medula",
+      "A Formação Reticular",
+      "A Ponte"
+    ],
+    "correctIndex": 4,
+    "explanation": "A resposta correta é a 4. O texto afirma que 'A atividade cerebral durante o sono REM começa na ponte, uma estrutura no tronco encefálico'. Além disso, é a ponte que 'envia sinais ao tálamo e ao córtex cerebral' e também 'envia sinais à medula espinhal para \"desligar\" neurônios motores', causando a paralisia temporária característica do sono REM.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Analisando a tabela farmacocinética, qual dos seguintes benzodiazepínicos possui a meia-vida (T1/2) mais curta e, portanto, seria mais adequado para um paciente que precisa de um hipnótico para induzir o sono rapidamente, mas se preocupa com a sedação residual no dia seguinte?",
+    "options": [
+      "Diazepam",
+      "Clonazepam",
+      "Nitrazepam",
+      "Triazolam",
+      "Flurazepam"
+    ],
+    "correctIndex": 3,
+    "explanation": "A resposta correta é a 3. A tabela mostra que o Triazolam tem uma meia-vida (T1/2) do composto original de '1,5-5,5' horas, a mais curta entre as opções listadas. Uma meia-vida curta significa que o fármaco é eliminado rapidamente do corpo, o que minimiza os efeitos residuais ('ressaca') no dia seguinte. O Diazepam, Clonazepam, Nitrazepam e Flurazepam (especialmente seu metabólito ativo) possuem meias-vidas muito mais longas, aumentando a probabilidade de sedação diurna.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Durante qual estágio do sono ocorrem os sonhos mais vívidos e a atonia muscular, com uma atividade cerebral no EEG que se assemelha à do estado de vigília?",
+    "options": [
+      "Estágio N1",
+      "Estágio N2",
+      "Estágio N3",
+      "Sono REM (Estágio N4 ou R)",
+      "Vigília relaxada"
+    ],
+    "correctIndex": 3,
+    "explanation": "A resposta correta é a 3. O texto descreve o sono REM como o estágio onde se sonha, caracterizado por 'ausência de tônus (atonia) muscular' e uma atividade cerebral 'semelhante à do estado de vigília', o que lhe confere o nome de 'sono paradoxal'. A tabela também confirma que no sono REM ocorrem 'Ondas cerebrais rápidas e dessincronizadas', atonia e os sonhos mais vívidos.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Um paciente idoso com função hepática diminuída precisa de um benzodiazepínico. Com base no diagrama de biotransformação, que indica quais fármacos têm seu metabolismo alterado em idosos, qual dos seguintes seria uma escolha teoricamente mais segura?",
+    "options": [
+      "Diazepam",
+      "Clordiazepóxido",
+      "Lorazepam",
+      "Flurazepam",
+      "Midazolam"
+    ],
+    "correctIndex": 2,
+    "explanation": "A resposta correta é a 2. O diagrama de biotransformação dos BZDs destaca especificamente um grupo de fármacos (Lorazepam, Oxazepam, Temazepam) cujo metabolismo não é significativamente alterado em idosos ou em pacientes com doença hepática. Isso ocorre porque esses fármacos passam por uma via metabólica mais simples e direta de conjugação (glucuronidação), que é menos afetada pela idade ou disfunção hepática, ao contrário dos fármacos que dependem de oxidação via sistema CYP450 (como Diazepam e Flurazepam), que pode estar diminuída nesses pacientes, levando ao acúmulo de metabólitos ativos.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Qual é a principal função da formação reticular do tronco encefálico no ciclo sono-vigília?",
+    "options": [
+      "Induzir o sono profundo (estágios 3 e 4).",
+      "Receber impulsos sensoriais do ambiente e estimular o córtex cerebral para mantê-lo em estado de alerta.",
+      "Gerar os sonhos durante o sono REM.",
+      "Causar a paralisia muscular durante o sono.",
+      "Regular a temperatura corporal durante o sono."
+    ],
+    "correctIndex": 1,
+    "explanation": "A resposta correta é a 1. A descrição da figura da formação reticular afirma que ela 'recebendo impulsos sensoriais [...] estimula o córtex cerebral com impulsos ativadores que são necessários para alertá-lo'. Uma lesão nesta área pode induzir ao estado de sono. Portanto, sua principal função é atuar como um sistema ativador, promovendo e mantendo o estado de vigília.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Um eletroencefalograma (EEG) de um paciente dormindo mostra a presença de 'fusos de sono' e 'complexos K'. Com base nos diagramas e tabelas, em qual estágio do sono o paciente se encontra?",
+    "options": [
+      "Vigília",
+      "Estágio 1 (N1)",
+      "Estágio 2 (N2)",
+      "Estágio 3 (N3)",
+      "Sono REM"
+    ],
+    "correctIndex": 2,
+    "explanation": "A resposta correta é a 2. Tanto o gráfico de ondas quanto a tabela descritiva associam de forma explícita a presença de 'fusos de sono' e 'complexos K' ao Estágio 2 do sono (sono leve). Essas são as ondas características que marcam a transição para um sono mais estabelecido, após a sonolência do Estágio 1.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Dentre as dissonias intrínsecas listadas, qual é caracterizada por uma necessidade irresistível de mover as pernas, geralmente acompanhada de sensações desconfortáveis?",
+    "options": [
+      "Insônia psicofisiológica",
+      "Síndrome da apnéia do sono (SAS)",
+      "Insônia idiopática",
+      "Síndrome das pernas inquietas",
+      "Distúrbio dos movimentos periódicos dos membros"
+    ],
+    "correctIndex": 3,
+    "explanation": "A resposta correta é a 3. A Síndrome das pernas inquietas é um distúrbio neurológico do sono definido por uma vontade urgente e muitas vezes incontrolável de mover as pernas para aliviar sensações desagradáveis, o que tipicamente interfere no início do sono. As outras opções são outros tipos de distúrbios do sono com causas e sintomas diferentes.",
+    "type": "conteudista"
+  },
+  {
+    "question": "De acordo com o diagrama que ilustra o mecanismo de ação dos BZDs, qual é o resultado final da ligação simultânea do GABA e de um benzodiazepínico ao receptor GABA-A?",
+    "options": [
+      "O fechamento do canal de cloro, causando excitação neural.",
+      "A entrada de íons potássio, causando despolarização da célula.",
+      "Uma maior entrada de cloro (Cl-) na célula, o que a hiperpolariza e reduz a excitabilidade neural.",
+      "A liberação do GABA do receptor, inativando-o.",
+      "A ligação do BZD impede a ligação do GABA."
+    ],
+    "correctIndex": 2,
+    "explanation": "A resposta correta é a 2. O diagrama em três etapas e as legendas explicam o processo claramente. A ligação do GABA abre o canal de cloro. A ligação adicional de um BZD 'potencializa a ação do GABA, resultando em maior entrada de cloro'. O influxo aumentado do íon negativo cloreto torna o interior do neurônio mais negativo (hiperpolarização), o que dificulta o disparo de um potencial de ação e, portanto, reduz a excitabilidade da célula.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Qual dos seguintes NÃO é considerado um tratamento não medicamentoso para a insônia?",
+    "options": [
+      "Medidas de higiene de sono",
+      "Técnicas de relaxamento",
+      "Uso de antidepressivos sedativos como a amitriptilina",
+      "Redução do estresse",
+      "Terapias cognitivo-comportamentais"
+    ],
+    "correctIndex": 2,
+    "explanation": "A resposta correta é a 2. O texto lista os tratamentos não medicamentosos, que incluem 'medidas de higiene de sono', 'redução do estresse', 'técnicas de relaxamento' e 'terapias cognitivo-comportamentais'. O uso de antidepressivos como a amitriptilina, embora possa ser usado para tratar a insônia, é um tratamento medicamentoso (farmacológico).",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual porcentagem do tempo total de sono em adultos é ocupada pelo Estágio 2 (sono leve)?",
+    "options": [
+      "3 - 5%",
+      "20 - 25%",
+      "45 - 55%",
+      "12 - 15%",
+      "Cerca de 80%"
+    ],
+    "correctIndex": 2,
+    "explanation": "A resposta correta é a 2. Múltiplas fontes no material (tabelas e texto) indicam que o Estágio 2 do sono, ou sono leve, é o estágio em que se passa a maior parte da noite. Os valores citados são consistentemente na faixa de '45 - 55%' ou '40-50%' do tempo total de sono.",
+    "type": "conteudista"
+  },
+  {
+    "question": "O que é insônia 'terminal'?",
+    "options": [
+      "Dificuldade em adormecer no início da noite.",
+      "Despertares frequentes durante a noite.",
+      "Um tipo de insônia que leva ao óbito.",
+      "O despertar precoce, antes do horário desejado, com incapacidade de voltar a dormir.",
+      "Insônia causada por doenças terminais."
+    ],
+    "correctIndex": 3,
+    "explanation": "A resposta correta é a 3. O texto classifica a insônia de acordo com o momento do sono que ela afeta. A insônia 'Inicial' é a dificuldade em adormecer; a 'Intermediária' são os despertares frequentes; e a 'Terminal' é definida como o 'Despertar precoce'.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual dos seguintes fármacos atua como agonista do receptor de melatonina e é usado para melhorar o início do sono?",
+    "options": [
+      "Zolpidem",
+      "Doxepina",
+      "Suvorexant",
+      "Temazepam",
+      "Ramelteona"
+    ],
+    "correctIndex": 4,
+    "explanation": "A resposta correta é a 4. O texto menciona explicitamente a 'ramelteona' como um 'agonista de receptor de melatonina', destacando que ela 'é usada para melhorar o início do sono'. A melatonina é o hormônio endógeno regulador do sono, e agonistas de seus receptores mimetizam essa função promotora do sono.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual o principal motivo pelo qual os benzodiazepínicos, em geral, interferem na arquitetura do sono?",
+    "options": [
+      "Aumentam o tempo total do sono profundo (delta).",
+      "Diminuem a quantidade de sono REM e, frequentemente, de sono de ondas lentas.",
+      "Aumentam o número de despertares durante a noite.",
+      "Eliminam completamente o estágio 2 do sono.",
+      "Aumentam a latência do sono, dificultando o adormecer."
+    ],
+    "correctIndex": 1,
+    "explanation": "A resposta correta é a 1. A tabela de efeitos dos BZDs em fenótipos normais mostra claramente uma diminuição (↓) nos estágios N1, N3 e sono REM. O texto também confirma que, em maior ou menor grau, 'todos interferem na arquitetura do sono (diminuindo sono REM)'. Embora aumentem o tempo total de sono e diminuam os despertares, eles o fazem alterando as proporções fisiológicas dos estágios do sono.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Dentre os benzodiazepínicos listados na tabela farmacocinética, qual apresenta a maior meia-vida, considerando tanto o composto original quanto seu metabólito ativo, sugerindo um maior potencial para acúmulo e efeitos residuais?",
+    "options": [
+      "Midazolam",
+      "Triazolam",
+      "Flurazepam",
+      "Estazolam",
+      "Clonazepam"
+    ],
+    "correctIndex": 2,
+    "explanation": "A resposta correta é a 2. Analisando a coluna T1/2 da tabela, o Flurazepam se destaca. Embora a meia-vida do composto original seja curta (2,3 h), seu metabólito ativo tem uma meia-vida extremamente longa, que pode chegar a '40-250' horas. Isso indica um alto potencial de acúmulo no organismo com o uso contínuo, levando a efeitos prolongados e sedação diurna. O Diazepam também possui meia-vida longa (até 200h com o metabólito), mas o valor máximo listado para o Flurazepam é maior.",
+    "type": "conteudista"
+  },
+  {
+    "question": "O que a presença de ondas cerebrais muito lentas (ondas delta) em um EEG indica?",
+    "options": [
+      "O paciente está em sono REM.",
+      "O paciente está em sono leve (Estágio 2).",
+      "O paciente está acordado e alerta.",
+      "O paciente está em sono profundo (Estágios 3 e 4).",
+      "O paciente está na transição entre vigília e sono (Estágio 1)."
+    ],
+    "correctIndex": 3,
+    "explanation": "A resposta correta é a 3. A tabela de frequências do EEG associa as 'Ondas delta (0,5-4 Hz)' ao Estágio 3, que é 'conhecido como sono profundo ou SWS' (Slow Wave Sleep). O texto também menciona que o Estágio 3 é caracterizado por 'ondas cerebrais muito lentas'.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual dos seguintes é um efeito adverso residual comum dos 'Compostos Z' e também dos benzodiazepínicos, especialmente se tomados no meio da noite?",
+    "options": [
+      "Hipertensão",
+      "Melhora da memória de curto prazo.",
+      "Amnésia anterógrada (dificuldade de lembrar eventos após o uso).",
+      "Aumento do tônus muscular.",
+      "Pesadelos vívidos."
+    ],
+    "correctIndex": 2,
+    "explanation": "A resposta correta é a 2. O texto menciona que os efeitos residuais dos compostos Z podem incluir 'dificuldade de lembrar eventos após o uso (amnésia anterógrada)'. Ele também afirma que os benzodiazepínicos, em maior ou menor grau, 'têm efeitos amnésicos'. A amnésia anterógrada é a incapacidade de formar novas memórias após a ingestão do fármaco.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Um paciente relata insônia caracterizada por dificuldade em adormecer, mas, uma vez que dorme, não acorda durante a noite. Qual tipo de insônia ele apresenta e qual fármaco seria mais apropriado, considerando o início de ação?",
+    "options": [
+      "Insônia terminal; um fármaco de longa duração como o Flurazepam.",
+      "Insônia intermediária; um antidepressivo sedativo.",
+      "Insônia inicial; um fármaco de ação rápida e curta duração como o Zaleplona ou Triazolam.",
+      "Insônia crônica; um barbitúrico.",
+      "Insônia psicofisiológica; um fármaco de ação lenta como o Ramelteona."
+    ],
+    "correctIndex": 2,
+    "explanation": "A resposta correta é a 2. A dificuldade em adormecer é classificada como 'insônia inicial'. Para este tipo de insônia, o ideal é um hipnótico de início de ação rápido e meia-vida curta, para que seu efeito se dissipe até a manhã, evitando sedação residual. O Zaleplona é especificamente mencionado como 'útil na insônia inicial', e o Triazolam é conhecido por sua ação ultracurta. As outras opções combinam incorretamente o tipo de insônia com o perfil do fármaco.",
+    "type": "conteudista"
+  },
+  {
+    "question": "A Síndrome da Apneia do Sono (SAS) é listada como uma causa de insônia. Por que o uso de hipnóticos como os benzodiazepínicos é geralmente contraindicado ou requer extrema cautela em pacientes com SAS obstrutiva não tratada?",
+    "options": [
+      "Porque os BZDs aumentam o tônus muscular da via aérea superior, piorando a obstrução.",
+      "Porque os BZDs podem deprimir ainda mais o centro respiratório e relaxar a musculatura da faringe, exacerbando os episódios de apneia e a dessaturação de oxigênio.",
+      "Porque os BZDs causam pesadelos, que são o principal sintoma da SAS.",
+      "Porque os BZDs induzem um sono muito leve, impedindo que o paciente com SAS atinja o sono profundo.",
+      "Porque os pacientes com SAS metabolizam os BZDs muito rapidamente, tornando-os ineficazes."
+    ],
+    "correctIndex": 1,
+    "explanation": "A resposta correta é a 1. A apneia obstrutiva do sono é causada pelo colapso da via aérea superior durante o sono. Os benzodiazepínicos são relaxantes musculares e depressores do sistema nervoso central. Seu uso pode relaxar ainda mais a musculatura da garganta, piorando a obstrução. Além disso, ao deprimir a resposta do cérebro à hipóxia (baixa de oxigênio), eles podem prolongar a duração dos eventos apneicos e tornar a dessaturação de oxigênio mais severa, o que é perigoso.",
+    "raciocínio"
+  },
+  {
+    "question": "A Doxepina, um antidepressivo tricíclico, é mencionada como indicada para 'melhorar a manutenção do sono'. Qual das seguintes características dos ADTs pode contribuir para este efeito, mas também para efeitos residuais diurnos?",
+    "options": [
+      "Sua seletividade para o receptor de orexina.",
+      "Sua meia-vida de eliminação longa e a presença de metabólitos ativos.",
+      "Seu rápido início de ação e curta duração.",
+      "Sua capacidade de aumentar a latência do sono.",
+      "Sua falta de efeito sobre o sono REM."
+    ],
+    "correctIndex": 1,
+    "explanation": "A resposta correta é a 1. A manutenção do sono (ou seja, evitar despertares) é favorecida por um fármaco que permanece em concentrações terapêuticas durante toda a noite. Os ADTs, como a Doxepina, possuem tipicamente meias-vidas longas e frequentemente geram metabólitos que também são farmacologicamente ativos. Essa farmacocinética de longa duração ajuda a manter o sono, mas é também a razão pela qual podem ocorrer efeitos residuais no dia seguinte, como sonolência e comprometimento cognitivo, pois o fármaco ainda está presente no organismo ao despertar.",
+    "raciocínio"
+  },
+  {
+    "question": "De acordo com o texto, o que é o sono paradoxal?",
+    "options": [
+      "Um estágio de sono leve onde o indivíduo pode ser facilmente acordado.",
+      "É o estágio N3, caracterizado por ondas cerebrais muito lentas.",
+      "Um nome para o sono REM, chamado assim porque a atividade cerebral é semelhante à da vigília, mas o corpo apresenta atonia muscular.",
+      "Um distúrbio do sono onde os estágios se invertem.",
+      "Um estado de sono induzido apenas por hipnóticos, não fisiológico."
+    ],
+    "correctIndex": 2,
+    "explanation": "A resposta correta é a 2. O texto define o Estágio N4 como 'o mais profundo', mas o chama de 'sono paradoxal, porque a atividade cerebral é semelhante à do estado de vigília, mas acompanhada por ausência de tônus (atonia) muscular'. Este estágio é o mesmo que o sono REM.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual dos seguintes fármacos listados é um benzodiazepínico protótipo, frequentemente usado como ansiolítico, mas que também pode ser usado como hipnótico?",
+    "options": [
+      "Zolpidem",
+      "Buspirona",
+      "Diazepam",
+      "Suvorexant",
+      "Ramelteona"
+    ],
+    "correctIndex": 2,
+    "explanation": "A resposta correta é a 2. O texto cita o 'diazepam (protótipo)' como um dos BZDs mais usados como ansiolíticos. A nota de rodapé e o contexto geral indicam que, na prática, todos os BZDs podem ser usados como hipnóticos devido às suas propriedades sedativas. As outras opções pertencem a diferentes classes farmacológicas.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é a classificação da insônia que dura algumas semanas?",
+    "options": [
+      "Crônica",
+      "Terminal",
+      "Transitória",
+      "Breve",
+      "Idiopática"
+    ],
+    "correctIndex": 3,
+    "explanation": "A resposta correta é a 3. O texto classifica a insônia com base na sua duração em: 'Transitória (Alguns dias)', 'Breve (Semanas)' e 'Crônica (Muitas semanas)'. Portanto, uma insônia que persiste por algumas semanas é classificada como breve.",
+    "type": "conteudista"
+  },
+  {
+    "question": "O que acontece com a temperatura corporal e a frequência cardíaca à medida que o sono progride do estágio N1 para o N3?",
+    "options": [
+      "Ambas aumentam progressivamente.",
+      "A temperatura aumenta e a frequência cardíaca diminui.",
+      "Ambas diminuem progressivamente.",
+      "A temperatura diminui e a frequência cardíaca aumenta.",
+      "Não há alteração nesses parâmetros."
+    ],
+    "correctIndex": 2,
+    "explanation": "A resposta correta é a 2. O texto descreve que no estágio N2, 'a temperatura corporal e a frequência cardíaca começam a diminuir'. No estágio N3, ocorre 'maior redução de temperatura e frequência cardíaca'. Isso indica uma diminuição progressiva desses parâmetros fisiológicos à medida que o sono se aprofunda nos estágios NREM.",
+    "type": "conteudista"
+  }
+]

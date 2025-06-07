@@ -1,0 +1,392 @@
+[
+  {
+    "question": "Qual é a principal diferença no mecanismo de ação entre os alcaloides da vinca (como a vincristina) e os taxanos (como o paclitaxel)?",
+    "options": [
+      "Os taxanos danificam o DNA, enquanto os alcaloides da vinca inibem a topoisomerase.",
+      "Ambos atuam nos microtúbulos, mas os alcaloides da vinca inibem a polimerização da tubulina, enquanto os taxanos inibem a despolimerização.",
+      "Os alcaloides da vinca são antimetabólitos, e os taxanos são agentes alquilantes.",
+      "Os taxanos atuam na fase S do ciclo celular, e os alcaloides da vinca atuam na fase G1.",
+      "Os alcaloides da vinca são cardiotóxicos, e os taxanos são neurotóxicos."
+    ],
+    "correctIndex": 1,
+    "explanation": "A resposta correta é a 1. O texto especifica que ambos são inibidores mitóticos que atuam nos microtúbulos, mas por mecanismos opostos. Os taxanos 'Inibem a despolimerização da tubulina', estabilizando os microtúbulos e impedindo a separação dos cromossomos. Os alcaloides da vinca, por outro lado, 'Inibem a polimerização da tubulina, impedindo a formação dos microtúbulos' em primeiro lugar. Ambas as ações bloqueiam a mitose na fase M.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Um paciente com câncer desenvolve resistência à doxorrubicina (uma antraciclina). O diagrama da Glicoproteína-P (P-gp) ilustra um possível mecanismo. Se essa for a causa da resistência, o que a P-gp está fazendo?",
+    "options": [
+      "Alterando a estrutura química da doxorrubicina, inativando-a.",
+      "Impedindo a entrada da doxorrubicina na célula.",
+      "Utilizando ATP para bombear ativamente a doxorrubicina para fora da célula, diminuindo sua concentração intracelular.",
+      "Reparando o dano ao DNA causado pela doxorrubicina.",
+      "Iniciando a apoptose antes que a doxorrubicina possa agir."
+    ],
+    "correctIndex": 2,
+    "explanation": "A resposta correta é a 2. O diagrama e o texto explicam que a Glicoproteína-P é uma bomba de efluxo. Ela 'expulsa moléculas da droga para o exterior' da célula. Este processo é ativo, pois utiliza energia na forma de ATP, conforme mostrado no diagrama. Ao bombear o fármaco para fora, a P-gp impede que ele atinja uma concentração eficaz em seu alvo intracelular, conferindo resistência. O texto cita especificamente as antraciclinas como substratos dessa bomba.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Qual classe de fármacos quimioterápicos é conhecida por sua capacidade de atravessar a barreira hematoencefálica, tornando-a eficaz no tratamento de tumores cerebrais?",
+    "options": [
+      "Antraciclinas",
+      "Antimetabólitos",
+      "Nitrosoureas",
+      "Taxanos",
+      "Corticosteroides"
+    ],
+    "correctIndex": 2,
+    "explanation": "A resposta correta é a 2. O texto destaca as Nitrosoureas como um grupo especial de agentes alquilantes que, 'diferente dos agentes alquilantes, [...] podem atravessar a barreira hematoencefálica'. Essa propriedade única as torna particularmente úteis para o tratamento de certos tipos de tumores cerebrais.",
+    "type": "conteudista"
+  },
+  {
+    "question": "O diagrama 'Hallmarks of Cancer' ilustra as capacidades adquiridas pelas células cancerígenas. Se um novo fármaco é desenvolvido para inibir a formação de novos vasos sanguíneos que suprem o tumor, qual das 'marcas do câncer' ele está combatendo diretamente?",
+    "options": [
+      "Evasão da apoptose",
+      "Potencial replicativo sem limite",
+      "Autossuficiência em fatores de crescimento",
+      "Angiogênese",
+      "Insensibilidade a fatores inibidores do crescimento"
+    ],
+    "correctIndex": 3,
+    "explanation": "A resposta correta é a 3. A angiogênese é o processo de formação de novos vasos sanguíneos. O diagrama identifica a 'Angiogênese' como uma das marcas do câncer, pois os tumores precisam criar seu próprio suprimento sanguíneo para crescer além de um certo tamanho. Um fármaco que inibe a formação de vasos sanguíneos (um inibidor da angiogênese) estaria, portanto, atacando diretamente essa capacidade.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "O que é a quimioterapia neoadjuvante?",
+    "options": [
+      "Quimioterapia usada após a cirurgia para prevenir micrometástases.",
+      "Quimioterapia administrada para aliviar os sintomas em pacientes com câncer metastático.",
+      "A primeira linha de tratamento para um câncer localizado.",
+      "Quimioterapia utilizada antes da cirurgia ou radioterapia para diminuir o tamanho do tumor.",
+      "Quimioterapia que combina múltiplos fármacos."
+    ],
+    "correctIndex": 3,
+    "explanation": "A resposta correta é a 3. O texto define a quimioterapia 'Neoadjuvante' como aquela em que 'a farmacoterapia é utilizada antes da remoção cirúrgica ou da radioterapia para diminuir o tamanho do tumor'. O objetivo é tornar o tratamento local (cirurgia ou radioterapia) mais fácil e eficaz.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Um regime quimioterápico combina o 5-fluorouracil (um antimetabólito) com a vincristina (um alcaloide da vinca). Com base no diagrama do ciclo celular, por que essa combinação é racional?",
+    "options": [
+      "Porque ambos os fármacos atuam na fase M, potencializando o bloqueio da mitose.",
+      "Porque um inibe a glicoproteína P e o outro danifica o DNA.",
+      "Porque eles atuam em fases distintas do ciclo celular (o 5-FU na fase S e a vincristina na fase M), aumentando a probabilidade de matar células cancerígenas em diferentes estágios de replicação.",
+      "Porque ambos são agentes alquilantes com mecanismos sinérgicos.",
+      "Porque a vincristina diminui a toxicidade do 5-fluorouracil."
+    ],
+    "correctIndex": 2,
+    "explanation": "A resposta correta é a 2. O diagrama que mostra os alvos dos fármacos no ciclo celular indica que os antimetabólitos atuam na fase S (síntese de DNA) e os alcaloides da vinca (inibidores mitóticos) atuam na fase M (mitose). A combinação de fármacos que atuam em diferentes fases do ciclo celular é um princípio fundamental da quimioterapia combinada. Isso permite atacar uma população heterogênea de células tumorais, que não estão todas na mesma fase do ciclo ao mesmo tempo, maximizando a morte celular.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Qual é a principal preocupação de toxicidade dose-limitante associada às antraciclinas, como a doxorrubicina?",
+    "options": [
+      "Nefrotoxicidade",
+      "Neurotoxicidade",
+      "Hepatotoxicidade",
+      "Cardiotoxicidade permanente",
+      "Alopecia"
+    ],
+    "correctIndex": 3,
+    "explanation": "A resposta correta é a 3. O texto é explícito ao afirmar que 'Uma das principais preocupações ao administrar esses medicamentos [antraciclinas] é que eles podem provocar danos permanentes ao coração se administrados em altas doses'. Por essa razão, 'são definidos limites de dose para esses medicamentos'. A cardiotoxicidade é o efeito adverso mais grave e que limita o uso dessa classe.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Um paciente com um tumor cerebral necessita de quimioterapia. Por que a via de administração intratecal, através de um reservatório de Ommaya, seria superior à via intravenosa para a maioria dos fármacos?",
+    "options": [
+      "Porque a via intravenosa é mais dolorosa.",
+      "Porque a via intratecal permite o uso de doses menores, diminuindo os custos.",
+      "Porque a maioria dos fármacos quimioterápicos administrados por via intravenosa não atravessa a barreira hematoencefálica, enquanto a via intratecal entrega o medicamento diretamente no líquido cefalorraquidiano (LCR), contornando essa barreira.",
+      "Porque o reservatório de Ommaya libera o fármaco de forma lenta ao longo de meses.",
+      "Porque a administração intratecal não causa efeitos colaterais sistêmicos."
+    ],
+    "correctIndex": 2,
+    "explanation": "A resposta correta é a 2. O texto explica que 'a maioria dos medicamentos quimioterápicos administrados sistemicamente (intravenoso ou oral) não atravessa a barreira hematoencefálica'. A via intratecal é projetada especificamente para superar esse obstáculo, administrando 'o medicamento diretamente no canal espinhal e entra no líquido cefalorraquidiano (LCR)', permitindo que ele atinja as células cancerígenas no cérebro e na medula espinhal. O reservatório de Ommaya, como ilustrado, é um dispositivo que facilita essas administrações repetidas.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Qual classe de fármacos quimioterápicos interfere no metabolismo celular, substituindo os blocos de construção normais do DNA e do RNA, e é particularmente ativa durante a fase S do ciclo celular?",
+    "options": [
+      "Agentes alquilantes",
+      "Inibidores mitóticos",
+      "Antimetabólitos",
+      "Antraciclinas",
+      "Inibidores da topoisomerase"
+    ],
+    "correctIndex": 2,
+    "explanation": "A resposta correta é a 2. A descrição corresponde exatamente à dos Antimetabólitos. O texto afirma que eles 'interferem no DNA e no RNA, substituindo seus blocos de construção normais' e que 'provocam danos às células durante a fase em que seus cromossomos são copiados', que é a fase S.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Um paciente com câncer de mama HER2-positivo está sendo tratado com Trastuzumab (Herceptin). Qual é o mecanismo de ação deste fármaco?",
+    "options": [
+      "Inibe a enzima aromatase, reduzindo os níveis de estrogênio.",
+      "É um agente alquilante que danifica o DNA da célula cancerígena.",
+      "Inibe a polimerização da tubulina, impedindo a mitose.",
+      "Inibe a atividade do receptor HER2, que está superexpresso e impulsiona o crescimento dessas células cancerígenas.",
+      "Bloqueia o receptor de estrogênio, impedindo a sinalização hormonal."
+    ],
+    "correctIndex": 3,
+    "explanation": "A resposta correta é a 3. O texto classifica o Trastuzumab como um 'Inibidor do HER2' e explica que seu mecanismo de ação é 'Inibir a atividade do receptor HER2, que está sobreexpresso em algumas células cancerígenas'. Ele é um anticorpo monoclonal que se liga ao receptor HER2, bloqueando sua sinalização de crescimento.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é a principal consequência do dano causado pelos agentes alquilantes às células da medula óssea?",
+    "options": [
+      "Aumento da produção de glóbulos vermelhos.",
+      "Um risco aumentado, embora raro e dependente da dose, de desenvolver leucemia em 5 a 10 anos após o tratamento.",
+      "Melhora da função imunológica.",
+      "Não há consequências significativas para a medula óssea.",
+      "Desenvolvimento de tumores cerebrais secundários."
+    ],
+    "correctIndex": 1,
+    "explanation": "A resposta correta é a 1. O texto alerta que, como os agentes alquilantes 'causam danos ao DNA, eles podem acabar afetando as células da medula óssea que produzem as células sanguíneas' e que 'Em casos raros, isso pode provocar leucemia'. Também especifica que o risco é 'maior em 5 a 10 anos após o tratamento'.",
+    "type": "conteudista"
+  },
+  {
+    "question": "A quimioterapia é frequentemente administrada em 'ciclos'. Qual é a principal justificativa para esse esquema de tratamento intervalado?",
+    "options": [
+      "Para diminuir o custo total do tratamento.",
+      "Para permitir que o paciente descanse e se recupere psicologicamente.",
+      "Para permitir que as células normais do corpo, que também são afetadas pela quimioterapia, tenham tempo para se recuperar dos efeitos colaterais antes da próxima dose.",
+      "Para que o tumor se torne mais sensível ao próximo ciclo de tratamento.",
+      "Para testar diferentes fármacos em cada ciclo."
+    ],
+    "correctIndex": 2,
+    "explanation": "A resposta correta é a 2. O texto explica que a quimioterapia é administrada em ciclos, e que 'Isso permite às células normais um tempo para se recuperar dos efeitos colaterais dos medicamentos'. A quimioterapia afeta tanto células cancerígenas quanto células normais de rápido crescimento (como as da medula óssea e do trato digestivo). O intervalo entre os ciclos é crucial para permitir a recuperação dessas células normais, tornando o tratamento tolerável.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Um paciente com câncer de mama tem um tumor que é positivo para receptor de estrogênio (ER+) e negativo para HER2. Qual das seguintes terapias seria mais apropriada?",
+    "options": [
+      "Um inibidor do HER2 como o Trastuzumab.",
+      "Uma quimioterapia com altas doses de antraciclinas apenas.",
+      "Um inibidor da aromatase como o Anastrozol.",
+      "Uma nitrosourea como a carmustina.",
+      "Nenhuma terapia hormonal seria eficaz."
+    ],
+    "correctIndex": 2,
+    "explanation": "A resposta correta é a 2. O texto explica que medicamentos que bloqueiam os receptores de estrogênio são úteis para tumores com esses receptores. Os inibidores da aromatase (como o anastrozol) atuam 'reduzindo os níveis de estrogênio, impedindo o crescimento das células cancerígenas que dependem do estrogênio'. Essa seria uma terapia-alvo ideal para um tumor ER-positivo. O Trastuzumab seria para tumores HER2-positivos, e as nitrosoureas para tumores cerebrais.",
+    "type": "conteudista"
+  },
+  {
+    "question": "O Metotrexato é classificado como um antimetabólito. No entanto, o texto também menciona seu uso como um fármaco 'padrão ouro' para qual outra condição não oncológica?",
+    "options": [
+      "Doença de Hodgkin",
+      "Diabetes",
+      "Artrite inflamatória (como a artrite reumatoide).",
+      "Doença cardíaca",
+      "Doença de Alzheimer"
+    ],
+    "correctIndex": 2,
+    "explanation": "A resposta correta é a 2. Ao listar os exemplos de antimetabólitos, o texto inclui uma nota específica: 'O metotrexato é o medicamento anti-reumático modificador da doença (DMARD) 'padrão ouro' para o controle da artrite inflamatória'. Isso se deve às suas propriedades imunossupressoras em doses mais baixas.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual via de administração de quimioterapia é usada para tratar uma única área, como o fígado ou um membro, infundindo o fármaco na artéria principal que supre o tumor?",
+    "options": [
+      "Via intratecal",
+      "Via intra-arterial",
+      "Via intracavitária",
+      "Via intravenosa central",
+      "Via intralesional"
+    ],
+    "correctIndex": 1,
+    "explanation": "A resposta correta é a 1. O texto define a 'Via intra-arterial' como a 'administração da quimioterapia na artéria principal que fornece sangue ao tumor para tratar uma única área'. Esta técnica é chamada de 'químio regional' e serve para maximizar a concentração do fármaco no tumor, limitando a exposição sistêmica.",
+    "type": "conteudista"
+  },
+  {
+    "question": "A imagem do sistema linfático da mama mostra uma rede de linfonodos. Qual é a principal implicação clínica dessa rede no contexto do câncer de mama?",
+    "options": [
+      "Os linfonodos produzem hormônios que causam o câncer de mama.",
+      "Essa rede serve como uma via principal para a disseminação (metástase) do câncer de mama para outras partes do corpo.",
+      "Os linfonodos protegem a mama contra infecções, mas não têm relação com o câncer.",
+      "A quimioterapia não consegue atingir as células cancerígenas localizadas nos linfonodos.",
+      "A remoção dos linfonodos cura todos os tipos de câncer de mama."
+    ],
+    "correctIndex": 1,
+    "explanation": "A resposta correta é a 1. O texto que acompanha a imagem afirma que o câncer de mama 'se dissemina através dos linfonodos regionais, da corrente sanguínea, ou de ambos'. A rede linfática é uma via de drenagem natural dos tecidos. As células cancerígenas podem invadir esses vasos linfáticos e viajar para os linfonodos, de onde podem se espalhar para locais distantes. A avaliação dos linfonodos é, portanto, crucial para o estadiamento do câncer.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "O que são os corticosteroides e qual seu duplo papel no tratamento do câncer?",
+    "options": [
+      "São agentes alquilantes que danificam o DNA e previnem náuseas.",
+      "São hormônios que atuam como medicamentos quimioterápicos contra certos tipos de câncer e também são usados para prevenir efeitos colaterais como náuseas, vômitos e reações alérgicas.",
+      "São inibidores mitóticos que bloqueiam a divisão celular e reduzem a dor.",
+      "São antibióticos antitumorais que danificam o coração, mas aliviam a fadiga.",
+      "São inibidores da aromatase que bloqueiam o estrogênio e tratam a alopecia."
+    ],
+    "correctIndex": 1,
+    "explanation": "A resposta correta é a 1. O texto explica que os corticosteroides 'são hormônios úteis no tratamento de muitos tipos de câncer' e, quando usados assim, 'são considerados medicamentos quimioterápicos'. Além disso, destaca seu uso de suporte: 'também são comumente usados para prevenir as náuseas e vômitos provocados pela quimioterapia e antes da quimioterapia para prevenir reações alérgicas'.",
+    "type": "conteudista"
+  },
+  {
+    "question": "A imagem do reservatório de Ommaya mostra um dispositivo implantado sob o couro cabeludo com um cateter que vai até um ventrículo cerebral. Qual é a principal vantagem de usar este dispositivo em vez de punções lombares repetidas para a quimioterapia intratecal?",
+    "options": [
+      "É um procedimento menos invasivo que a punção lombar.",
+      "Permite a administração de quimioterapia pelo próprio paciente em casa.",
+      "Oferece um acesso mais seguro, fácil e repetível ao líquido cefalorraquidiano (LCR) para a administração de múltiplos ciclos de quimioterapia, evitando o desconforto e os riscos de punções lombares frequentes.",
+      "Garante que o fármaco atinja apenas o tumor, sem se espalhar pelo LCR.",
+      "O dispositivo libera o medicamento continuamente por meses, sem necessidade de novas injeções."
+    ],
+    "correctIndex": 2,
+    "explanation": "A resposta correta é a 2. A punção lombar é um procedimento invasivo que pode ser desconfortável e tecnicamente desafiador, especialmente se precisar ser repetido muitas vezes. O reservatório de Ommaya, uma vez implantado, cria um ponto de acesso permanente e de fácil utilização. O texto afirma que ele 'permanece sob o couro cabeludo até que o tratamento seja concluído', permitindo que a equipe médica administre a quimioterapia diretamente no LCR com uma simples injeção no reservatório, o que é muito mais prático e seguro para tratamentos prolongados.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Mutações nos genes BRCA1 e BRCA2 aumentam significativamente o risco de qual tipo de câncer?",
+    "options": [
+      "Câncer de pulmão",
+      "Tumores cerebrais",
+      "Leucemia",
+      "Câncer de mama",
+      "Câncer colorretal"
+    ],
+    "correctIndex": 3,
+    "explanation": "A resposta correta é a 3. O texto, na seção sobre câncer de mama, afirma que 'Mutações genéticas BRCA1 e BRCA2 aumentam o risco de desenvolver câncer de mama para 70%'.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é um dos principais obstáculos ou efeitos colaterais comuns da quimioterapia, relacionado ao seu efeito em células de rápida proliferação?",
+    "options": [
+      "Aumento da massa muscular.",
+      "Melhora da função hepática.",
+      "Crescimento acelerado do cabelo.",
+      "Depressão da medula óssea, lesões na pele e alopecia.",
+      "Aumento da fertilidade."
+    ],
+    "correctIndex": 3,
+    "explanation": "A resposta correta é a 3. A quimioterapia ataca células que se dividem rapidamente. Além das células cancerígenas, isso inclui células normais do corpo que também têm alta taxa de proliferação. O texto lista como 'principais obstáculos à quimioterapia' a 'depressão da medula óssea' (que produz células sanguíneas), 'lesões na pele', 'alopecia (folículos pilosos)' e alterações na 'espermatogênese e foliculogênese'.",
+    "type": "conteudista"
+  },
+  {
+    "question": "O fármaco Verapamil é mencionado no contexto da resistência a fármacos. Qual é o seu papel?",
+    "options": [
+      "É um agente quimioterápico que danifica o DNA.",
+      "É um fármaco que pode inibir a bomba de efluxo Glicoproteína-P, potencialmente revertendo a resistência a outros quimioterápicos.",
+      "Causa resistência aos fármacos ao ativar a Glicoproteína-P.",
+      "É um substrato da Glicoproteína-P, sendo expulso da célula.",
+      "É um corticoide usado para prevenir reações alérgicas."
+    ],
+    "correctIndex": 1,
+    "explanation": "A resposta correta é a 1. O texto, após descrever como a Glicoproteína-P causa resistência ao expulsar fármacos, afirma que 'Alguns fármacos como verapamil, clonidina e ciclosporina inibem essas bombas'. Portanto, o verapamil (um bloqueador de canal de cálcio usado para outras condições) pode atuar como um 'inibidor da resistência', impedindo que a bomba expulse os agentes quimioterápicos.",
+    "type": "conteudista"
+  },
+  {
+    "question": "O diagrama do ciclo celular mostra uma fase 'G0'. O que essa fase representa e por que as células em G0 são um desafio para a quimioterapia?",
+    "options": [
+      "É a fase de mitose, e as células são muito sensíveis à quimioterapia.",
+      "É uma fase de crescimento rápido, alvo ideal para antimetabólitos.",
+      "Representa um estado de repouso ou quiescência, onde a célula não está se dividindo. Isso as torna resistentes a muitos quimioterápicos, especialmente os que atuam em fases específicas do ciclo (como S ou M).",
+      "É uma fase de reparo de DNA, que neutraliza todos os agentes alquilantes.",
+      "É uma fase que só existe em células normais, não em células cancerígenas."
+    ],
+    "correctIndex": 2,
+    "explanation": "A resposta correta é a 2. A fase G0, ilustrada no diagrama, é um estado em que a célula sai do ciclo de divisão e fica quiescente. Muitos quimioterápicos, como os antimetabólitos (fase S) e os inibidores mitóticos (fase M), são eficazes apenas contra células que estão se dividindo ativamente. Células em G0 escapam desses fármacos. Esse é um dos motivos para a recidiva do câncer, pois essas células quiescentes podem reentrar no ciclo celular e começar a se proliferar após o término do tratamento.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Os inibidores da topoisomerase, como as antraciclinas, interferem em enzimas que separam os filamentos de DNA. Em qual(is) fase(s) do ciclo celular essa atividade enzimática é crucial e, portanto, onde esses fármacos são mais eficazes?",
+    "options": [
+      "Apenas na fase G1.",
+      "Apenas na fase M (Mitose).",
+      "Nas fases S (síntese de DNA) e G2 (preparação para mitose).",
+      "Apenas na fase G0.",
+      "Eles são eficazes em todas as fases, incluindo a G0."
+    ],
+    "correctIndex": 2,
+    "explanation": "A resposta correta é a 2. As topoisomerases são essenciais para gerenciar o superenrolamento do DNA durante a replicação (fase S) e para separar os cromossomos irmãos antes da mitose (fase G2). O diagrama do ciclo celular com os alvos dos fármacos mostra claramente os 'Inibidores da Topoisomerase' atuando nas fases S e G2, que é quando a manipulação do DNA é mais intensa.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Qual das seguintes afirmações descreve corretamente a quimioterapia paliativa?",
+    "options": [
+      "Tratamento realizado antes da cirurgia para reduzir o tumor.",
+      "Administração de fármacos em pacientes com metástases ou recidiva, com o objetivo de aliviar sintomas e melhorar a qualidade de vida, não necessariamente de curar a doença.",
+      "Uso de quimioterapia após a cirurgia para eliminar micrometástases.",
+      "O uso de um único agente quimioterápico em vez de uma combinação.",
+      "Tratamento de câncer localizado com intenção curativa completa."
+    ],
+    "correctIndex": 1,
+    "explanation": "A resposta correta é a 1. A definição fornecida no texto para quimioterapia 'Paliativa' é 'a administração de fármacos em pacientes com metástases diagnosticadas ou com recidiva de câncer'. O objetivo nesse cenário não é a cura, mas o controle da doença, o alívio dos sintomas e a prolongação da sobrevida com qualidade.",
+    "type": "conteudista"
+  },
+  {
+    "question": "A via de administração intravesical é usada para entregar a quimioterapia diretamente em qual órgão?",
+    "options": [
+      "No cérebro",
+      "No fígado",
+      "Na cavidade abdominal",
+      "Na bexiga",
+      "No pulmão"
+    ],
+    "correctIndex": 3,
+    "explanation": "A resposta correta é a 3. O texto e o diagrama de localização do cateter vesical deixam claro que a via 'intravesical' consiste na administração do medicamento 'diretamente na bexiga por meio de um cateter'. É uma forma de tratamento local para o câncer de bexiga.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual das seguintes classes de quimioterápicos NÃO é dependente do ciclo celular, podendo danificar o DNA da célula em qualquer fase?",
+    "options": [
+      "Antimetabólitos",
+      "Inibidores mitóticos (Taxanos e Alcaloides da Vinca)",
+      "Agentes alquilantes",
+      "Inibidores da topoisomerase II",
+      "Todos os quimioterápicos são dependentes do ciclo celular."
+    ],
+    "correctIndex": 2,
+    "explanation": "A resposta correta é a 2. O texto afirma que os agentes alquilantes 'agem em todas as fases do ciclo celular'. O diagrama do ciclo celular também os posiciona como 'independentes do ciclo celular'. Isso ocorre porque seu mecanismo de dano direto ao DNA não exige que a célula esteja em uma fase específica de replicação para ser eficaz.",
+    "type": "conteudista"
+  },
+  {
+    "question": "O uso de Dexametasona, um corticoide, é comum na quimioterapia. Além de seu possível efeito antitumoral, qual é a principal razão para seu uso como suporte?",
+    "options": [
+      "Para aumentar a eficácia dos agentes alquilantes.",
+      "Para prevenir a alopecia.",
+      "Para prevenir náuseas, vômitos e reações alérgicas.",
+      "Para tratar a cardiotoxicidade das antraciclinas.",
+      "Para reduzir o risco de leucemia secundária."
+    ],
+    "correctIndex": 2,
+    "explanation": "A resposta correta é a 2. O texto especifica que os esteroides 'são comumente usados para prevenir as náuseas e vômitos provocados pela quimioterapia e antes da quimioterapia para prevenir reações alérgicas'. Eles são um pilar do tratamento de suporte em oncologia.",
+    "type": "conteudista"
+  },
+  {
+    "question": "A imagem do sistema linfático da mama mostra linfonodos em diferentes níveis (axilares, supraclaviculares). A análise desses linfonodos é crucial para qual aspecto do manejo do câncer de mama?",
+    "options": [
+      "Para determinar o tipo de quimioterapia a ser usada.",
+      "Para o estadiamento da doença, ou seja, para determinar a extensão da disseminação do câncer, o que influencia o prognóstico e o plano de tratamento.",
+      "Para decidir se a paciente precisa de terapia hormonal.",
+      "Para aliviar a dor causada pelo tumor.",
+      "Para escolher a via de administração da quimioterapia."
+    ],
+    "correctIndex": 1,
+    "explanation": "A resposta correta é a 1. A disseminação do câncer para os linfonodos regionais é um passo crítico na progressão da doença. A presença e o número de linfonodos comprometidos são fatores prognósticos poderosos e uma parte essencial do sistema de estadiamento (como o sistema TNM - Tumor, Nódulo, Metástase). O estágio da doença, por sua vez, dita a agressividade e o tipo de tratamento necessário (por exemplo, se a quimioterapia adjuvante é necessária após a cirurgia).",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Qual é um dos três critérios mencionados para a seleção de fármacos em uma quimioterapia combinada?",
+    "options": [
+      "Todos os fármacos devem ter o mesmo mecanismo de ação.",
+      "Todos os fármacos devem ser administrados pela mesma via.",
+      "O custo total da combinação deve ser o mais baixo possível.",
+      "Diferença no mecanismo de ação e mínimo de toxicidade de combinação.",
+      "Todos os fármacos devem atuar na mesma fase do ciclo celular."
+    ],
+    "correctIndex": 3,
+    "explanation": "A resposta correta é a 3. O texto lista os critérios de seleção para a farmacoterapia combinada, que incluem: 'efeito individual do fármaco para aquele tipo de câncer, diferença no mecanismo de ação e mínimo de toxicidade de combinação'. Usar fármacos com diferentes mecanismos de ação aumenta a chance de matar as células cancerígenas, e escolher fármacos com perfis de toxicidade diferentes (que não se sobrepõem) permite administrar doses eficazes com efeitos colaterais mais manejáveis.",
+    "type": "conteudista"
+  },
+  {
+    "question": "O fármaco 5-fluorouracil (5-FU) é um antimetabólito. Com base nesse conhecimento e no diagrama do ciclo celular, em qual processo celular ele interfere primariamente?",
+    "options": [
+      "Na formação do fuso mitótico durante a mitose (Fase M).",
+      "No dano direto ao DNA em qualquer fase do ciclo.",
+      "Na síntese de novo DNA durante a replicação (Fase S).",
+      "No crescimento celular e síntese de proteínas (Fase G1).",
+      "Na preparação da célula para a divisão (Fase G2)."
+    ],
+    "correctIndex": 2,
+    "explanation": "A resposta correta é a 2. Antimetabólitos, por definição, interferem na síntese de ácidos nucleicos (DNA e RNA) ao se passarem por blocos de construção normais (como as pirimidinas, no caso do 5-FU). O diagrama do ciclo celular mostra que a síntese de DNA ocorre na fase S. Portanto, o 5-FU exerce sua ação citotóxica primariamente durante a fase S do ciclo celular.",
+    "type": "raciocínio"
+  }
+]

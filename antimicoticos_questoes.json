@@ -257,7 +257,7 @@
     ],
     "correctIndex": 2,
     "explanation": "A resposta correta é a 2. O diagrama do mecanismo de ação do metronidazol mostra que ele precisa ser reduzido por proteínas como a ferredoxina para formar radicais livres que danificam o DNA. Esse processo de redução só ocorre eficientemente em 'organismos anaeróbicos'. Em ambientes com oxigênio, o fármaco não é ativado, o que explica sua seletividade para patógenos anaeróbios (como a *Entamoeba histolytica* e certas bactérias).",
-    "conteudista"
+    "type": "conteudista"
   },
   {
     "question": "O diagrama de uma célula fúngica mostra a Griseofulvina atuando no fuso mitótico. Qual processo celular é diretamente interrompido por essa ação?",
@@ -270,7 +270,7 @@
     ],
     "correctIndex": 3,
     "explanation": "A resposta correta é a 3. O fuso mitótico é a estrutura composta por microtúbulos responsável pela separação dos cromossomos durante a mitose. O texto afirma que a Griseofulvina se liga aos 'MICROTÚBULOS FÚNGICOS' e desfaz 'O FUSO MITÓTICO'. Ao interferir nesta estrutura, ela impede que a célula fúngica complete a divisão celular, agindo como um agente fungistático.",
-    "raciocínio"
+    "type": "raciocínio"
   },
   {
     "question": "A Cloroquina, além de seu efeito antimalárico, é descrita como tendo um efeito antirreumático. Qual mecanismo proposto poderia explicar ambas as ações?",
@@ -283,7 +283,7 @@
     ],
     "correctIndex": 1,
     "explanation": "A resposta correta é a 1. O texto lista diversas ações farmacológicas da Cloroquina e destaca uma em particular: 'Sua capacidade de concentração nas vesículas ácidas intracelulares e a elevação do pH dessas vesículas poderiam explicar tanto o efeito antimalárico como antirreumático'. No parasita da malária, isso interfere na digestão da hemoglobina. Em células imunes, como macrófagos, a alteração do pH lisossômico pode interferir no processamento de antígenos, explicando seu efeito imunomodulador em doenças reumáticas.",
-    "conteudista"
+    "type": "conteudista"
   },
   {
     "question": "Qual dos seguintes anti-helmínticos provoca paralisia tônica no verme ao atuar como estimulante dos receptores nicotínicos na junção neuromuscular?",
@@ -309,7 +309,7 @@
     ],
     "correctIndex": 1,
     "explanation": "A resposta correta é a 1. O texto explica o efeito sinérgico das estreptograminas: 'Aparentemente, a ligação da dalfopristina aumenta a afinidade da ligação para a quinupristina'. Ambas se ligam à subunidade 50S, mas em locais que se sobrepõem parcialmente, e a ligação de uma facilita a ligação da outra, resultando em um bloqueio mais eficaz da síntese proteica.",
-    "conteudista"
+   "type": "conteudista"
   },
   {
     "question": "O paciente do caso clínico fictício descrito no final do material é HIV positivo e apresenta tosse seca, febre e dispneia. O médico solicita um raio-x de tórax. Baseado na patologia oportunista mais comum que causa esses sintomas em pacientes com SIDA (AIDS), o que o médico esperaria encontrar no raio-x?",
@@ -322,7 +322,7 @@
     ],
     "correctIndex": 2,
     "explanation": "A resposta correta é a 2. O caso clínico descreve a apresentação clássica da pneumonia por Pneumocystis jirovecii (PCP). A descrição do exame do paciente inclui 'Ao RX de tórax observou-se infiltrado intersticial difuso e peri-hilar'. Este é o achado radiológico característico da PCP, uma infecção fúngica oportunista que é uma das principais causas de morbimortalidade em pacientes com HIV não tratado.",
-    "raciocínio"
+    "type": "raciocínio"
   },
   {
     "question": "A Griseofulvina induz a atividade do citocromo P450 (CYP450). Que tipo de interação medicamentosa é esperada devido a essa propriedade?",
@@ -335,7 +335,7 @@
     ],
     "correctIndex": 1,
     "explanation": "A resposta correta é a 1. A indução do CYP450 significa que a atividade dessas enzimas metabólicas do fígado é aumentada. Consequentemente, outros fármacos que são metabolizados por essas mesmas enzimas serão eliminados mais rapidamente, o que leva a uma diminuição de suas concentrações no sangue e, potencialmente, à perda de seu efeito terapêutico. O texto alerta para 'interações farmacológicas' e cita a interação com a varfarina e o fenobarbital. No caso da varfarina, a indução diminuiria seu efeito anticoagulante.",
-    "conteudista"
+    "type": "conteudista"
   },
   {
     "question": "Qual antifúngico é o substituto da Griseofulvina para infecções de pele e unha, com melhor taxa de cura, mas que requer monitoramento das transaminases hepáticas?",
@@ -361,7 +361,7 @@
     ],
     "correctIndex": 2,
     "explanation": "A resposta correta é a 2. O diagrama ilustra que o sinal de dor viaja do sistema nervoso periférico (PNS) para a medula espinhal e depois para o cérebro. Os opioides atuam em receptores ao longo dessa via, especialmente na medula espinhal (inibindo a transmissão do sinal do primeiro para o segundo neurônio da dor) e no cérebro (alterando a percepção da dor), para produzir analgesia. Sua ação não se limita a um único local.",
-    "raciocínio"
+    "type": "raciocínio"
   },
   {
     "question": "A imagem da endoscopia mostra o que parece ser candidíase esofágica. Qual dos seguintes fármacos seria uma escolha apropriada para o tratamento sistêmico dessa condição, especialmente em um paciente com AIDS?",
@@ -374,7 +374,7 @@
     ],
     "correctIndex": 2,
     "explanation": "A resposta correta é a 2. A candidíase esofágica é uma infecção mucocutânea que requer tratamento sistêmico. O texto indica que o Fluconazol é usado na 'Candidíase esofágica e orofaríngea' e que o Voriconazol é usado 'nos pacientes com AIDS, para tratamento da esofagite'. A Nistatina seria usada topicamente (bochechos), mas não seria eficaz para a infecção no esôfago. Griseofulvina é para dermatófitos, e Mebendazol e Praziquantel são anti-helmínticos.",
-    "raciocínio"
+    "type": "raciocínio"
   },
   {
     "question": "O diagrama do ciclo de vida da *Entamoeba histolytica* mostra que o ciclo começa com a ingestão de cistos. Qual seria a principal forma de prevenção da amebíase?",
@@ -387,6 +387,6 @@
     ],
     "correctIndex": 2,
     "explanation": "A resposta correta é a 2. O diagrama mostra que a infecção humana ocorre pela ingestão de cistos, que são eliminados nas fezes de indivíduos infectados e podem contaminar água e alimentos. Portanto, a principal medida de prevenção é a interrupção dessa via de transmissão fecal-oral, o que é alcançado através de boas práticas de higiene, saneamento básico e consumo de água e alimentos seguros.",
-    "raciocínio"
+    "type": "raciocínio"
   }
 ]

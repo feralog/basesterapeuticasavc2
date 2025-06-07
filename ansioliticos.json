@@ -1,0 +1,392 @@
+[
+  {
+    "question": "Qual é o mecanismo de ação primário dos benzodiazepínicos (BDZs) no Sistema Nervoso Central?",
+    "options": [
+      "Bloqueiam seletivamente a recaptação de serotonina, aumentando sua disponibilidade na fenda sináptica.",
+      "Atuam como agonistas diretos nos receptores GABA-A, abrindo canais de cloreto independentemente da presença de GABA.",
+      "Potencializam a ação do GABA ao se ligarem a um sítio alostérico no receptor GABA-A, aumentando a frequência de abertura dos canais de cloreto.",
+      "Inibem a enzima monoamina oxidase (MAO), diminuindo a degradação de neurotransmissores como a serotonina e a noradrenalina.",
+      "Antagonizam os receptores de glutamato, reduzindo a neurotransmissão excitatória no cérebro."
+    ],
+    "correctIndex": 2,
+    "explanation": "A resposta correta é a 2. Os benzodiazepínicos se ligam a um sítio específico (alostérico) no receptor GABA-A, distinto do sítio de ligação do GABA. Essa ligação aumenta a afinidade do GABA pelo seu receptor, resultando em uma maior frequência de abertura dos canais de íons cloreto (Cl⁻) e, consequentemente, na hiperpolarização do neurônio, o que produz o efeito inibitório e ansiolítico. A opção 0 descreve o mecanismo dos ISRS. A opção 1 descreve a ação dos barbitúricos, que é mais perigosa por não depender do GABA. A opção 3 descreve o mecanismo dos IMAO. A opção 4 descreve um mecanismo de ação não relacionado aos BDZs.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Com base no fluxograma de metabolismo dos benzodiazepínicos, qual das seguintes afirmações sobre o Diazepam está correta?",
+    "options": [
+      "O Diazepam é diretamente conjugado e excretado sem formar metabólitos ativos significativos.",
+      "Sua biotransformação gera o metabólito ativo Oxazepam diretamente na primeira fase do metabolismo.",
+      "É metabolizado em Desmetildiazepam, um metabólito ativo que subsequentemente é convertido em Oxazepam, contribuindo para sua longa meia-vida.",
+      "O Diazepam e o Lorazepam seguem a mesma via metabólica, sendo ambos convertidos em Desmetildiazepam.",
+      "Sua principal via metabólica é a conversão em Metabólitos a-hidroxi, similar ao Alprazolam."
+    ],
+    "correctIndex": 2,
+    "explanation": "A resposta correta é a 2. O diagrama metabólico mostra claramente que o Diazepam é metabolizado em Desmetildiazepam (também chamado de Nordazepam), que é um metabólito ativo e possui uma longa meia-vida. Este, por sua vez, é metabolizado em Oxazepam, outro composto ativo, antes da conjugação e excreção. Isso explica a duração prolongada dos efeitos do Diazepam. A opção 0 está incorreta, pois ele forma múltiplos metabólitos ativos. A opção 1 é incorreta, a conversão é indireta. A opção 3 é falsa; o Lorazepam, segundo o fluxograma, segue para conjugação direta. A opção 4 descreve a via do Alprazolam/Triazolam, não a do Diazepam.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Qual fármaco é especificamente utilizado como antagonista para reverter quadros de superdosagem por benzodiazepínicos?",
+    "options": [
+      "Buspirona",
+      "Propranolol",
+      "Diazepam",
+      "Flumazenil",
+      "Fenobarbital"
+    ],
+    "correctIndex": 3,
+    "explanation": "A resposta correta é a 3. O Flumazenil é um antagonista competitivo que se liga ao sítio benzodiazepínico do receptor GABA-A, deslocando o agonista (o benzodiazepínico) e revertendo seus efeitos sedativos e depressores. A Buspirona é um agonista parcial de 5-HT1A. O Propranolol é um beta-bloqueador. O Diazepam é um benzodiazepínico agonista. O Fenobarbital é um barbitúrico.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Analisando o diagrama da sinapse serotonérgica, qual é a função do autorreceptor 5-HT1A localizado no neurônio pré-sináptico?",
+    "options": [
+      "Aumentar a síntese de serotonina a partir do triptofano.",
+      "Facilitar a liberação de serotonina das vesículas sinápticas.",
+      "Estimular a recaptação de serotonina da fenda sináptica.",
+      "Degradar o excesso de serotonina na fenda sináptica.",
+      "Regular negativamente a liberação de serotonina, atuando como um freio na atividade do neurônio."
+    ],
+    "correctIndex": 4,
+    "explanation": "A resposta correta é a 4. O diagrama mostra o autorreceptor 5-HT1A no corpo celular do neurônio pré-sináptico. Autorreceptores funcionam como um mecanismo de feedback negativo. Quando a serotonina liberada na sinapse ativa esses receptores, eles inibem a atividade do próprio neurônio, diminuindo a síntese e a liberação subsequente de serotonina. As outras opções descrevem funções de outras estruturas, como enzimas de síntese (opção 0), canais iônicos (relacionado à opção 1), transportadores de recaptação (opção 2) ou a enzima MAO (opção 3).",
+    "type": "raciocínio"
+  },
+  {
+    "question": "A Buspirona apresenta um mecanismo de ação distinto dos benzodiazepínicos. Qual das seguintes opções descreve corretamente sua ação?",
+    "options": [
+      "Agonista parcial dos receptores 5-HT1A, modulando a neurotransmissão serotonérgica.",
+      "Inibidor potente da recaptação de dopamina e noradrenalina.",
+      "Antagonista dos receptores ß-adrenérgicos periféricos.",
+      "Agonista inverso no sítio benzodiazepínico do receptor GABA-A.",
+      "Bloqueador direto dos canais de cloreto na ausência de GABA."
+    ],
+    "correctIndex": 0,
+    "explanation": "A resposta correta é a 0. A Buspirona é um ansiolítico da classe das azapironas cujo mecanismo de ação principal é atuar como agonista parcial nos receptores de serotonina do subtipo 5-HT1A. Isso modula a atividade serotonérgica, resultando em efeito ansiolítico. A opção 1 descreve um mecanismo de alguns antidepressivos. A opção 2 descreve os beta-bloqueadores. A opção 3 descreve um composto experimental que causaria ansiedade. A opção 4 descreve o perigoso mecanismo dos barbitúricos.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Um paciente inicia tratamento com um Inibidor Seletivo da Recaptação de Serotonina (ISRS) para Transtorno de Ansiedade Generalizada (TAG). De acordo com o diagrama do mecanismo de ação e as informações farmacológicas, o que se pode esperar?",
+    "options": [
+      "Alívio imediato dos sintomas ansiosos devido ao bloqueio rápido do transportador de serotonina.",
+      "Aumento da concentração de serotonina na sinapse, mas com um efeito terapêutico que pode levar semanas para se manifestar.",
+      "Sedação e risco de dependência semelhantes aos dos benzodiazepínicos.",
+      "Bloqueio simultâneo e potente dos transportadores de serotonina e noradrenalina.",
+      "Efeito ansiolítico primário por meio da inibição da enzima MAO no neurônio pré-sináptico."
+    ],
+    "correctIndex": 1,
+    "explanation": "A resposta correta é a 1. O diagrama mostra que os ISRS bloqueiam o transportador de recaptação (SERT), aumentando a serotonina na fenda sináptica. No entanto, o texto informa que o início de seu efeito ansiolítico é lento, podendo levar de 4 a 12 semanas para se estabelecer. A opção 0 está incorreta devido à latência do efeito. A opção 2 descreve efeitos colaterais mais associados aos BZD. A opção 3 descreve o mecanismo dos IRSN (Inibidores da Recaptação de Serotonina e Noradrenalina). A opção 4 descreve o mecanismo dos IMAO.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Qual a principal diferença entre o mecanismo de ação dos barbitúricos e dos benzodiazepínicos que justifica o maior risco de toxicidade dos barbitúricos?",
+    "options": [
+      "Barbitúricos são metabolizados mais rapidamente, levando a picos de concentração perigosos.",
+      "Barbitúricos podem abrir os canais de cloreto diretamente, sem a presença de GABA, enquanto os BDZs apenas potencializam a ação do GABA.",
+      "Barbitúricos inibem a recaptação de serotonina, causando síndrome serotoninérgica em superdosagem.",
+      "Não existe um antagonista para os efeitos dos barbitúricos, enquanto os BDZs podem ser revertidos pelo Diazepam.",
+      "BDZs possuem maior afinidade pelo receptor GABA-A, tornando sua ligação mais forte e perigosa."
+    ],
+    "correctIndex": 1,
+    "explanation": "A resposta correta é a 1. A distinção fundamental e mais perigosa é que, em doses mais altas, os barbitúricos podem ativar diretamente o receptor GABA-A e abrir o canal de cloreto, mesmo na ausência do neurotransmissor inibitório GABA. Isso leva a uma depressão profunda e descontrolada do SNC. Os BDZs são moduladores, ou seja, eles necessitam da presença de GABA para exercer seu efeito, o que cria um 'teto' para sua ação depressora, tornando-os mais seguros. A opção 0 não é a principal razão da toxicidade. A opção 2 é um mecanismo incorreto. A opção 3 está parcialmente correta (não há antagonista), mas a segunda parte está errada (Diazepam é um agonista). A opção 4 é o oposto do que se observa em termos de segurança.",
+    "type": "conteudista"
+  },
+  {
+    "question": "A curva de Yerkes-Dodson, ilustrada no material, demonstra a relação entre ansiedade e desempenho. Qual conclusão pode ser tirada a partir da análise deste gráfico?",
+    "options": [
+      "O desempenho é maximizado apenas na ausência total de ansiedade.",
+      "Qualquer nível de ansiedade é prejudicial e leva a um baixo desempenho.",
+      "Um nível moderado de ansiedade está associado ao pico de eficiência no desempenho, enquanto níveis muito baixos ou muito altos são prejudiciais.",
+      "A eficiência do desempenho aumenta linearmente com o aumento do nível de ansiedade.",
+      "A curva demonstra que a ansiedade patológica é a única que afeta negativamente o desempenho."
+    ],
+    "correctIndex": 2,
+    "explanation": "A resposta correta é a 2. O gráfico da curva de Yerkes-Dodson tem um formato de 'U' invertido, indicando que tanto a ausência de ansiedade (tédio, falta de motivação) quanto o excesso de ansiedade (pânico, incapacidade de focar) resultam em baixo desempenho. O ponto ótimo de performance ('Nível ideal') ocorre com um nível intermediário de ansiedade, que atua como um fator motivador. As opções 0, 1 e 3 descrevem relações lineares ou totalmente negativas, o que é refutado pelo formato da curva. A opção 4 é incorreta, pois mesmo a ansiedade 'normal' em excesso prejudica o desempenho.",
+    "type": "raciocinio"
+  },
+  {
+    "question": "Qual das seguintes classes de fármacos é mais utilizada para o tratamento de manifestações físicas da ansiedade de desempenho, como tremores e taquicardia, por sua ação predominantemente periférica?",
+    "options": [
+      "Inibidores Seletivos da Recaptação de Serotonina (ISRS)",
+      "Benzodiazepínicos (BDZs)",
+      "Beta-bloqueadores",
+      "Barbitúricos",
+      "Antidepressivos Tricíclicos"
+    ],
+    "correctIndex": 2,
+    "explanation": "A resposta correta é a 2. Os beta-bloqueadores, como o propranolol, são eficazes em controlar os sintomas somáticos (físicos) da ansiedade, como taquicardia (pela ação em receptores ß1) e tremores (pela ação em receptores ß2). Seu efeito ansiolítico é atribuído a essa ação periférica, sem causar a sedação ou os prejuízos cognitivos dos BDZs, sendo ideais para situações como falar em público. ISRS e Tricíclicos tratam a ansiedade central, mas com início de ação lento. BDZs e Barbitúricos são depressores do SNC com outros perfis de efeito.",
+    "type": "conteudista"
+  },
+  {
+    "question": "O diagrama do 'Circuito cerebral do medo' posiciona a amígdala como uma estrutura central. Se um fármaco atuar diminuindo a hiperatividade da amígdala, qual seria o efeito terapêutico esperado no contexto da ansiedade?",
+    "options": [
+      "Aumento da liberação de cortisol pela glândula supra-renal.",
+      "Potencialização da resposta de 'luta ou fuga'.",
+      "Melhora da memória de eventos traumáticos no hipocampo.",
+      "Redução do sentimento de medo e das respostas fisiológicas associadas, como alterações cardiovasculares e respiratórias.",
+      "Inibição completa da via tálamo-cortical, resultando em perda de consciência."
+    ],
+    "correctIndex": 3,
+    "explanation": "A resposta correta é a 3. O diagrama mostra a amígdala como o hub que recebe informações sobre ameaças e coordena as respostas, incluindo o 'Sentimento de medo' e as reações autonômicas (cardiovasculares, respiratórias) e hormonais (cortisol) através de suas conexões com o córtex, hipotálamo e tronco encefálico. Portanto, a atenuação da atividade da amígdala reduziria diretamente essas respostas. As opções 0 e 1 representam uma ativação, não inibição, do circuito. A opção 2 é uma função mais associada ao hipocampo. A opção 4 é um efeito extremo e não específico da modulação da amígdala.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Dentre os benzodiazepínicos listados, qual é classificado como de curta duração (meia-vida de ~6 horas) e frequentemente utilizado como pré-anestésico e para sedação?",
+    "options": [
+      "Diazepam",
+      "Alprazolam",
+      "Clonazepam",
+      "Lorazepam",
+      "Midazolam"
+    ],
+    "correctIndex": 4,
+    "explanation": "A resposta correta é a 4. O Midazolam é explicitamente mencionado como um BDZ de curta duração, com meia-vida de cerca de 6 horas, e seus usos terapêuticos incluem ser pré-anestésico, causar sedação e amnésia anterógrada, características ideais para procedimentos médicos. O Diazepam é de longa duração, e o Alprazolam é de média duração. Clonazepam e Lorazepam também têm durações maiores que o Midazolam.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Analisando o diagrama comparativo da reação de medo e da resposta ao estresse, qual a principal vantagem da via 'rápida' que vai do tálamo diretamente para a amígdala?",
+    "options": [
+      "Permite uma análise cognitiva detalhada do estímulo ameaçador antes de qualquer reação.",
+      "Ativa a liberação de cortisol de forma mais eficiente que a via hipotalâmica.",
+      "Gera uma resposta fisiológica imediata e protetora, mesmo antes da identificação consciente e completa do perigo pelo córtex.",
+      "É a única via responsável pela sensação subjetiva de medo.",
+      "Impede a ocorrência de respostas de luta ou fuga, promovendo a paralisia."
+    ],
+    "correctIndex": 2,
+    "explanation": "A resposta correta é a 2. O diagrama ilustra uma via direta do tálamo para a amígdala ('reação imediata') e uma via mais lenta que passa pelo córtex visual para processamento. A vantagem da via direta é a velocidade, permitindo que o corpo inicie uma resposta de defesa (aumento da frequência cardíaca, etc.) milissegundos antes que o cérebro 'consciente' (córtex) tenha tempo de processar completamente o que é a ameaça. A opção 0 descreve a via lenta (cortical). As outras opções são interpretações incorretas do propósito dessa via rápida e reflexa.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "A Venlafaxina é um antidepressivo classificado como um IRSN. O que isso significa em termos de seu mecanismo de ação?",
+    "options": [
+      "Inibe exclusivamente o transportador de recaptação de serotonina (SERT).",
+      "Atua como antagonista nos receptores de serotonina e noradrenalina.",
+      "Inibe a recaptação tanto de serotonina quanto de noradrenalina, embora com potências diferentes.",
+      "É um metabólito ativo da Desvenlafaxina.",
+      "Promove a liberação de dopamina e inibe fracamente a de serotonina."
+    ],
+    "correctIndex": 2,
+    "explanation": "A resposta correta é a 2. IRSN significa Inibidor da Recaptação de Serotonina e Noradrenalina (Norepinefrina). O texto especifica que a Venlafaxina inibe potentemente a recaptação de serotonina e, de forma menos potente, a recaptação de noradrenalina. A opção 0 descreve um ISRS. A opção 1 é um mecanismo incorreto. A opção 3 é o inverso da realidade; a Desvenlafaxina é um metabólito da Venlafaxina. A opção 4 descreve um perfil de ação incorreto para a Venlafaxina.",
+    "type": "conteudista"
+  },
+  {
+    "question": "O diagrama que ilustra a interação entre neurônios noradrenérgicos e serotonérgicos mostra os locais de ação de diferentes antidepressivos. Um fármaco que inibe a enzima MAO teria seu efeito em qual local?",
+    "options": [
+      "No receptor pós-sináptico, competindo com a noradrenalina.",
+      "No transportador de recaptação de serotonina (SERT) na membrana pré-sináptica.",
+      "Dentro do neurônio pré-sináptico, impedindo a degradação da serotonina e da noradrenalina.",
+      "No autorreceptor pré-sináptico, aumentando o feedback negativo.",
+      "Na fenda sináptica, ligando-se diretamente à serotonina para inativá-la."
+    ],
+    "correctIndex": 2,
+    "explanation": "A resposta correta é a 2. O diagrama aponta a MAO (Monoamina Oxidase) como uma enzima localizada dentro do neurônio pré-sináptico, onde ela é responsável por degradar os neurotransmissores (como 5-HT e NE) que foram recaptados ou que não foram empacotados em vesículas. Portanto, um inibidor da MAO (IMAO) age nesse local para aumentar a quantidade de neurotransmissor disponível para ser liberado na próxima vez que o neurônio disparar. As outras opções descrevem locais de ação de outras classes de fármacos.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Segundo o material, qual é uma desvantagem significativa da Buspirona em comparação com os benzodiazepínicos para o tratamento de ansiedade aguda?",
+    "options": [
+      "Maior potencial de causar dependência física e psíquica.",
+      "Potencializa significativamente os efeitos sedativos do etanol.",
+      "Causa sonolência e incoordenação motora mais intensas.",
+      "Início de efeito ansiolítico muito lento, podendo levar de 2 a 4 semanas.",
+      "Não possui eficácia comprovada para o Transtorno de Ansiedade Generalizada (TAG)."
+    ],
+    "correctIndex": 3,
+    "explanation": "A resposta correta é a 3. O texto aponta explicitamente como uma desvantagem da Buspirona a 'instalação lenta do efeito ansiolítico (2 - 4 semanas)'. Isso a torna inadequada para situações que exigem alívio rápido da ansiedade. As opções 0, 1 e 2 são, na verdade, vantagens da Buspirona sobre os BZDs, pois ela não causa dependência, não interage significativamente com o etanol e tem menor incidência de sedação. A opção 4 é falsa; ela é um tratamento para o TAG, embora menos prescrita devido à sua lentidão.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Um pesquisador está utilizando o modelo animal 'Labirinto em cruz elevado' para testar um novo fármaco com potencial ansiolítico. O que seria esperado de um animal tratado com um fármaco eficaz, em comparação com um animal controle (placebo)?",
+    "options": [
+      "O animal passaria significativamente mais tempo nos braços fechados do labirinto.",
+      "O animal evitaria completamente o labirinto, demonstrando medo aumentado.",
+      "O animal passaria mais tempo explorando os braços abertos e desprotegidos do labirinto.",
+      "O animal apresentaria um aumento na frequência de congelamento (paralisia).",
+      "O fármaco não alteraria o comportamento do animal neste teste, que mede apenas a atividade motora."
+    ],
+    "correctIndex": 2,
+    "explanation": "A resposta correta é a 2. O Labirinto em Cruz Elevado é um teste padrão para avaliar comportamentos do tipo ansioso em roedores. A premissa é que um animal ansioso evitará os braços abertos e expostos, que são percebidos como mais perigosos, e preferirá a segurança dos braços fechados. Um fármaco com efeito ansiolítico reduz esse medo/ansiedade, levando o animal a explorar os braços abertos por mais tempo. As opções 0 e 1 indicam um efeito ansiogênico (que causa ansiedade) ou nenhum efeito. A opção 3 é um comportamento de medo, não de exploração. O teste mede comportamento ansioso, não apenas atividade motora.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Qual neurotransmissor é considerado o principal inibitório no SNC, e cuja ação é potencializada pela maioria dos ansiolíticos clássicos como os benzodiazepínicos e barbitúricos?",
+    "options": [
+      "Serotonina (5-HT)",
+      "Dopamina",
+      "Noradrenalina",
+      "Glutamato",
+      "Ácido gama-aminobutírico (GABA)"
+    ],
+    "correctIndex": 4,
+    "explanation": "A resposta correta é a 4. O texto afirma repetidamente que o GABA é o principal neurotransmissor inibitório no sistema nervoso central (SNC). Tanto os benzodiazepínicos quanto os barbitúricos exercem seus efeitos ansiolíticos e sedativos ao se ligarem ao receptor GABA-A e aumentarem a neurotransmissão inibitória mediada pelo GABA. Serotonina, dopamina e noradrenalina estão implicadas na ansiedade, mas não são o principal alvo inibitório direto dessas classes de fármacos. O glutamato é o principal neurotransmissor excitatório.",
+    "type": "conteudista"
+  },
+  {
+    "question": "O diagrama sobre a ligação de diferentes moléculas ao receptor benzodiazepínico mostra um 'agonist', um 'inverse agonist' e um 'antagonist' (como o flumazenil). Qual seria o efeito clínico de um 'agonista inverso'?",
+    "options": [
+      "Produziria um efeito ansiolítico mais potente que o de um agonista como o Diazepam.",
+      "Não teria efeito algum, mas impediria a ligação do agonista.",
+      "Causaria efeitos opostos aos de um agonista, como ansiedade e convulsões.",
+      "Facilitaria a ação do GABA de forma mais moderada que um agonista completo.",
+      "Reverteria a superdosagem de um agonista, de forma similar a um antagonista."
+    ],
+    "correctIndex": 2,
+    "explanation": "A resposta correta é a 2. O texto e o diagrama explicam que um agonista inverso se liga ao mesmo receptor que um agonista, mas induz uma resposta farmacológica oposta. Como os agonistas benzodiazepínicos são ansiolíticos e anticonvulsivantes, um agonista inverso seria ansiogênico (causaria ansiedade) e pró-convulsivante. A opção 0 é incorreta. A opção 1 descreve um antagonista neutro. A opção 3 descreve um agonista parcial. A opção 4, embora um agonista inverso possa competir pela ligação, seu principal efeito é a ação oposta, não a simples reversão.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "A Venlafaxina foi o primeiro antidepressivo aprovado pelo FDA para o tratamento do Transtorno de Ansiedade Generalizada (TAG). A qual classe farmacológica pertence a Venlafaxina?",
+    "options": [
+      "Inibidor Seletivo da Recaptação de Serotonina (ISRS)",
+      "Inibidor da Monoamina Oxidase (IMAO)",
+      "Inibidor da Recaptação de Serotonina e Norepinefrina (IRSN)",
+      "Antidepressivo Tricíclico (ADT)",
+      "Benzodiazepínico de longa duração"
+    ],
+    "correctIndex": 2,
+    "explanation": "A resposta correta é a 2. O texto especifica que a Venlafaxina é um 'inibidor seletivo da recaptação da serotonina e norepinefrina (IRSN)'. Sua aprovação para TAG marcou um ponto importante no tratamento da ansiedade com antidepressivos. As outras opções representam outras classes de fármacos psicotrópicos com mecanismos de ação distintos.",
+    "type": "conteudista"
+  },
+  {
+    "question": "O diagrama de farmacocinética da buspirona indica 'Biotransformação: Hepática, 1ª passagem'. O que essa informação implica para a administração do fármaco?",
+    "options": [
+      "O fármaco é completamente eliminado pelos rins sem sofrer alterações.",
+      "Uma fração significativa do fármaco é metabolizada pelo fígado logo após a absorção oral, antes de atingir a circulação sistêmica, o que reduz sua biodisponibilidade.",
+      "A administração intravenosa é a única via eficaz para este medicamento.",
+      "O fármaco se acumula no fígado, causando alta toxicidade hepática em todas as doses.",
+      "A meia-vida do fármaco é extremamente longa devido à lenta biotransformação."
+    ],
+    "correctIndex": 1,
+    "explanation": "A resposta correta é a 1. O efeito de 'primeira passagem' refere-se ao metabolismo de um fármaco no fígado (e/ou parede intestinal) após a absorção pelo trato gastrointestinal, antes que ele possa chegar à circulação sanguínea sistêmica. Isso significa que a quantidade de fármaco ativo que efetivamente chega ao seu local de ação é menor do que a dose administrada por via oral. A opção 0 é incorreta, pois ele é biotransformado. A opção 2 é uma conclusão incorreta; a via oral é usada, mas a dosagem leva em conta a primeira passagem. A opção 3 não é necessariamente verdadeira. A opção 4 é contradita pela meia-vida relativamente curta mencionada no diagrama.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Qual das seguintes afirmações sobre os barbitúricos está CORRETA, com base no texto?",
+    "options": [
+      "São considerados a primeira linha de tratamento para insônia e ansiedade atualmente devido à sua alta eficácia e segurança.",
+      "Atuam como potentes inibidores das enzimas do citocromo P-450, aumentando a concentração de outros fármacos.",
+      "São menos seguros que os benzodiazepínicos, em parte por não possuírem um antagonista específico para casos de superdosagem.",
+      "O risco de dependência e os sintomas de abstinência são considerados leves em comparação com os benzodiazepínicos.",
+      "O tiopental, um barbitúrico, é amplamente utilizado no tratamento de longo prazo da epilepsia."
+    ],
+    "correctIndex": 2,
+    "explanation": "A resposta correta é a 2. O texto afirma que os barbitúricos 'São menos seguros em relação aos BDZs e não existe antagonista'. Esta é uma característica clínica crucial. A opção 0 é falsa; eles caíram em desuso justamente pela falta de segurança. A opção 1 é o oposto do que é afirmado; eles são potentes INDUTORES do citocromo P-450, o que REDUZ a concentração de outros fármacos. A opção 3 é falsa; eles causam grave dependência e abstinência. A opção 4 é incorreta; o tiopental é usado em anestesia e injeção letal, enquanto o fenobarbital é usado como anticonvulsivante.",
+    "type": "conteudista"
+  },
+  {
+    "question": "A tabela comparativa de classes de drogas para ansiedade lista 'Risco de crises hipertensivas' como um efeito negativo dos IMAOs. Esse risco está associado à interação com qual substância presente em certos alimentos e bebidas?",
+    "options": [
+      "Glicose",
+      "Tiramina",
+      "Triptofano",
+      "Glutamato",
+      "Cafeína"
+    ],
+    "correctIndex": 1,
+    "explanation": "A resposta correta é a 1. Embora a tabela não especifique a substância, o risco de crises hipertensivas com os Inibidores da Monoamina Oxidase (IMAO) clássicos é uma interação farmacológica notória com a tiramina, uma amina encontrada em alimentos como queijos envelhecidos, vinhos e carnes curadas. A tiramina normalmente é degradada pela MAO no intestino e no fígado. Quando a MAO é inibida, a tiramina é absorvida, causando uma liberação maciça de noradrenalina e, consequentemente, uma crise hipertensiva perigosa. O texto menciona que os RIMA (uma subclasse mais nova) reduzem essas restrições dietéticas, reforçando a importância dessa interação para os IMAOs clássicos.",
+    "type": "conteudista"
+  },
+  {
+    "question": "O uso prolongado de benzodiazepínicos pode levar ao desenvolvimento de tolerância. O que significa 'tolerância' neste contexto?",
+    "options": [
+      "O paciente desenvolve uma reação alérgica ao medicamento com o uso contínuo.",
+      "O efeito do fármaco aumenta progressivamente com a mesma dose.",
+      "O paciente passa a necessitar de doses cada vez maiores do fármaco para obter o mesmo efeito terapêutico inicial.",
+      "O fármaco perde completamente seu efeito ansiolítico após a primeira dose.",
+      "A interrupção abrupta do medicamento não causa nenhum sintoma adverso."
+    ],
+    "correctIndex": 2,
+    "explanation": "A resposta correta é a 2. Tolerância farmacológica é o fenômeno pelo qual a resposta a um fármaco diminui após administrações repetidas, exigindo um aumento da dose para alcançar o efeito desejado. Isso é um efeito adverso chave listado para os benzodiazepínicos. A opção 0 descreve uma reação de hipersensibilidade. A opção 1 descreve a sensibilização ou efeito reverso. A opção 3 é uma definição incorreta. A opção 4 é o oposto da síndrome de abstinência, que também é um risco.",
+    "type": "conteudista"
+  },
+  {
+    "question": "O único fitoterápico mencionado com estudos clínicos controlados que corroboram sua eficácia para sintomas ansiosos é o kava-kava. Qual dos seguintes mecanismos NÃO é uma das hipóteses para sua ação ansiolítica?",
+    "options": [
+      "Ação facilitadora da inibição GABAérgica.",
+      "Inibição da atividade excitatória glutamatérgica.",
+      "Bloqueio de canais de sódio-voltagem dependentes.",
+      "Aumento significativo da concentração de serotonina.",
+      "Inibição da atividade dopaminérgica."
+    ],
+    "correctIndex": 3,
+    "explanation": "A resposta correta é a 3. O texto lista várias hipóteses para o mecanismo de ação do kava-kava, incluindo facilitação GABAérgica, inibição glutamatérgica, inibição dopaminérgica e bloqueio de canais de sódio. No entanto, ele menciona uma 'redutora da concentração de serotonina', e não um aumento. Portanto, um aumento da concentração de serotonina não está entre os mecanismos propostos. As demais opções são citadas como possíveis vias de ação.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Considerando as classes farmacológicas apresentadas, qual das opções abaixo representa uma combinação de um fármaco de início de efeito rápido (BZD) com um de início de efeito lento (ISRS), frequentemente utilizada na prática clínica para manejar o início do tratamento da ansiedade?",
+    "options": [
+      "Diazepam e Midazolam",
+      "Fluoxetina e Sertralina",
+      "Clonazepam e Escitalopram",
+      "Buspirona e Propranolol",
+      "Fenobarbital e Venlafaxina"
+    ],
+    "correctIndex": 2,
+    "explanation": "A resposta correta é a 2. A tabela e o texto informam que os BZDs (como o Clonazepam) têm um início de efeito rápido, enquanto os ISRS (como o Escitalopram) têm um início de efeito demorado (semanas). Uma estratégia clínica comum é prescrever ambos no início: o BZD oferece alívio imediato da ansiedade enquanto se espera que o efeito terapêutico do ISRS se estabeleça. O BZD é então gradualmente retirado. A opção 0 contém dois BZDs. A opção 1 contém dois ISRS. As opções 3 e 4 combinam fármacos de outras classes com perfis de ação diferentes que não se encaixam nessa estratégia clássica.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Os antidepressivos tricíclicos (ADTs) são listados na tabela comparativa como uma opção para ansiedade. Qual é o principal fator de risco que limita seu uso em comparação com os ISRS?",
+    "options": [
+      "Início de efeito mais demorado que os ISRS.",
+      "Menor eficácia no tratamento da depressão associada.",
+      "Risco de dependência e síndrome de abstinência.",
+      "Cardiotoxicidade e alto risco de mortalidade em superdosagem.",
+      "Necessidade de restrições dietéticas rigorosas, como nos IMAOs."
+    ],
+    "correctIndex": 3,
+    "explanation": "A resposta correta é a 3. A tabela destaca como efeitos negativos dos Tricíclicos a 'Cardiotoxicidade; Efeitos anticolinérgicos; Risco de overdose'. Esses fatores, especialmente o perigo de arritmias cardíacas e a letalidade em superdosagem, fazem com que sejam considerados menos seguros e, portanto, menos utilizados que os ISRS, que possuem um 'Baixo risco de mortalidade em overdose'. As outras opções são incorretas: o início do efeito é similarmente demorado, eles são eficazes para depressão, o risco de dependência é menor que o dos BZDs e não exigem as mesmas restrições dietéticas dos IMAOs.",
+    "type": "conteudista"
+  },
+  {
+    "question": "O fármaco pregabalina é mencionado como um anticonvulsivante que também reduz a ansiedade. Qual mecanismo de ação é atribuído a ela no texto?",
+    "options": [
+      "Inibição seletiva da recaptação de serotonina.",
+      "Potencialização da ação do GABA.",
+      "Antagonismo dos receptores beta-adrenérgicos.",
+      "Estimulação direta de receptores de serotonina 5-HT1A.",
+      "Inibição da enzima MAO."
+    ],
+    "correctIndex": 1,
+    "explanation": "A resposta correta é a 1. O texto afirma que 'A pregabalina é um anticonvulsivante que também potencializa a ação do GABA, reduzindo a ansiedade.' Este mecanismo, relacionado ao principal sistema inibitório do cérebro, explica tanto sua ação anticonvulsivante quanto ansiolítica. As outras opções descrevem os mecanismos de outras classes de fármacos (ISRS, Beta-bloqueadores, Buspirona, IMAO, respectivamente).",
+    "type": "conteudista"
+  },
+  {
+    "question": "O receptor 5-HT3 é distinto dos outros receptores de serotonina por seu mecanismo efetor. Com base nas informações fornecidas, qual é a sua principal característica?",
+    "options": [
+      "Está acoplado a uma proteína G que inibe a adenil ciclase.",
+      "Sua ativação modula o humor e o comportamento por meio da proteína G.",
+      "É um canal iônico (Na⁺/K⁺) e está localizado na área postrema, que controla o vômito.",
+      "Atua como um autorreceptor somatodendrítico, regulando a atividade do neurônio.",
+      "Medeia a broncoconstrição e a agregação plaquetária via proteína G."
+    ],
+    "correctIndex": 2,
+    "explanation": "A resposta correta é a 2. A lista de receptores de serotonina classifica o 5-HT3 como o único 'associado a um canal iónico (Na⁺/K⁺)' e menciona sua localização na 'área postrema que controla o vómito'. Isso o diferencia fundamentalmente dos outros receptores (5-HT1, 2, 4, 5, 6, 7), que são todos acoplados a proteínas G e envolvidos em outras funções. As opções 0, 1, 3 e 4 descrevem características de outros subtipos de receptores de serotonina, como o 5-HT1 e o 5-HT2.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Os benzodiazepínicos são conhecidos por causar amnésia anterógrada. O que este efeito adverso significa na prática?",
+    "options": [
+      "O paciente perde memórias de eventos que ocorreram muito antes de tomar o medicamento.",
+      "O paciente tem dificuldade em formar novas memórias para eventos que ocorrem após a administração do fármaco.",
+      "O paciente desenvolve uma memória fotográfica para todos os eventos.",
+      "O medicamento melhora a capacidade de concentração e memorização a longo prazo.",
+      "O paciente experimenta flashes vívidos de memórias passadas."
+    ],
+    "correctIndex": 1,
+    "explanation": "A resposta correta é a 1. Amnésia anterógrada é a incapacidade de criar novas memórias após o evento que causou a amnésia, neste caso, a administração do fármaco. É por isso que um paciente pode não se lembrar de um procedimento médico (como uma endoscopia) realizado sob sedação com Midazolam. A opção 0 descreve a amnésia retrógrada. As opções 2 e 3 são o oposto do efeito observado. A opção 4 é um sintoma não relacionado.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Analisando a via dopaminérgica 'mesolímbica' destacada no diagrama cerebral, qual função principal é atribuída a ela e por que sua modulação é relevante em psiquiatria?",
+    "options": [
+      "Controle motor fino; sua disfunção está ligada apenas ao Parkinson.",
+      "Processamento sensorial; sua disfunção causa alucinações visuais.",
+      "Regulação do sono e vigília; sua disfunção causa narcolepsia.",
+      "Recompensa, prazer e vício; sua hiperatividade está ligada à adicção e a sintomas positivos da psicose.",
+      "Memória e aprendizado; sua disfunção causa a doença de Alzheimer."
+    ],
+    "correctIndex": 3,
+    "explanation": "A resposta correta é a 3. O diagrama rotula a via mesolímbica como a via da 'recompensa'. Esta via é fundamental para o processamento de sentimentos de prazer, motivação e reforço, e sua desregulação é um componente central no desenvolvimento de dependência de substâncias (vício) e também está implicada em transtornos como a esquizofrenia. Embora o material seja sobre ansiolíticos, a menção a esta via a contextualiza no campo mais amplo da psicofarmacologia. As outras opções descrevem funções de outras vias ou sistemas cerebrais.",
+    "type": "raciocínio"
+  }
+]

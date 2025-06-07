@@ -1,0 +1,379 @@
+[
+  {
+    "question": "Qual é o mecanismo de ação do Albendazol que o torna eficaz contra uma ampla gama de helmintos?",
+    "options": [
+      "Ativação de canais de cloreto regulados por glutamato, causando paralisia.",
+      "Aumento da permeabilidade da membrana ao cálcio, resultando em contração muscular.",
+      "Inibição da polimerização da tubulina, o que esgota a energia do helminto e leva à sua morte.",
+      "Bloqueio de receptores nicotínicos na junção neuromuscular do parasita.",
+      "Inibição da fosforilação anaeróbica do ADP na mitocôndria do parasita."
+    ],
+    "correctIndex": 2,
+    "explanation": "A resposta correta é a 2. O texto especifica que a atividade anti-helmíntica do Albendazol 'ocorre por inibição da polimerização tubulínica, ocasionando alteração no nível de energia do helminto, incluindo o esgotamento da mesma, o que imobiliza os helmintos e posteriormente os mata'. A tubulina é essencial para a captação de nutrientes e manutenção da estrutura celular do verme. As outras opções descrevem os mecanismos de ação da Ivermectina (opção 0), Praziquantel (opção 1), Levamisol/Pirantel (opção 3) e Niclosamina (opção 4).",
+    "type": "conteudista"
+  },
+  {
+    "question": "Analisando a tabela 'Principais Anti-helmínticos que atuam em canais iônicos', qual seria a consequência fisiológica da ação do Levamisol em comparação com a da Piperazina?",
+    "options": [
+      "Ambos causam o mesmo tipo de paralisia ao atuarem no mesmo receptor.",
+      "O Levamisol causa paralisia por hiperpolarização, enquanto a Piperazina causa paralisia por despolarização.",
+      "O Levamisol, ao atuar em receptores nicotínicos, causa uma despolarização e paralisia espástica (tônica), enquanto a Piperazina, ao atuar em receptores GABA, causa hiperpolarização e paralisia flácida.",
+      "A Piperazina atua em canais de cálcio, e o Levamisol em canais de cloreto.",
+      "O Levamisol é seletivo para nematodos e a Piperazina para cestódeos."
+    ],
+    "correctIndex": 2,
+    "explanation": "A resposta correta é a 2. A tabela mostra que o Levamisol atua em receptores nicotínicos, que são canais iônicos excitatórios. O texto sobre o Levamisol confirma que ele promove 'uma despolarização da membrana plasmática fazendo com que o músculo do parasita fique paralisado', o que corresponde a uma paralisia espástica ou tônica. A Piperazina atua em receptores GABA, que são tipicamente canais de cloreto inibitórios, levando à hiperpolarização da célula muscular e, consequentemente, a uma paralisia flácida (relaxamento).",
+    "type": "raciocínio"
+  },
+  {
+    "question": "O metronidazol é uma pró-droga que precisa ser ativada para exercer seu efeito. Qual é a condição necessária para essa ativação e qual o resultado final de sua ação?",
+    "options": [
+      "Precisa de um ambiente aeróbio para ser oxidado, gerando radicais livres.",
+      "É ativado no fígado pelo sistema CYP450, e seu metabólito inibe a síntese de proteínas.",
+      "Precisa ser ativado por organismos anaeróbios, que doam elétrons para a molécula, gerando radicais livres que causam dano oxidativo ao DNA.",
+      "É ativado pela luz solar, causando fototoxicidade ao DNA do parasita.",
+      "É ativado em pH ácido, inibindo a polimerase da hemoglobina."
+    ],
+    "correctIndex": 2,
+    "explanation": "A resposta correta é a 2. O texto afirma que o metronidazol 'precisa ser metabolizada (modificada) para conseguir agir' e que essa ativação ocorre quando 'elétrons são doados pelos microrganismos susceptíveis', um processo que ocorre em organismos anaeróbios. O resultado é a 'liberação de radicais livres' que causam 'dano oxidativo ao DNA celular'.",
+    "type": "conteudista"
+  },
+  {
+    "question": "A Ivermectina e o Praziquantel ambos causam paralisia no verme ao modular canais iônicos, porém seus alvos são distintos. Com base na tabela e no texto, quais são os íons e receptores específicos para cada fármaco?",
+    "options": [
+      "Ambos atuam em canais de cálcio.",
+      "Ivermectina: Cálcio, via receptores nicotínicos; Praziquantel: Cloreto, via receptores GABA.",
+      "Ivermectina: Sódio e Potássio, via desregulação de gradientes; Praziquantel: Cloreto, via receptores de glutamato.",
+      "Ivermectina: Cloreto, via receptores de glutamato; Praziquantel: Cálcio, via permeadores da membrana.",
+      "Ambos atuam em canais de cloreto regulados por glutamato."
+    ],
+    "correctIndex": 3,
+    "explanation": "A resposta correta é a 3. A tabela classifica a Ivermectina como atuante em 'receptores de glutamato e cloreto' e o Praziquantel como atuante em 'permeadores da membrana de cálcio'. O texto corrobora, afirmando que a Ivermectina potencializa 'canais de cloreto regulados por glutamato' e que o Praziquantel causa um 'rápido aumento da passagem de cálcio para o interior do parasita'.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Qual a principal limitação da Quinina que a torna uma droga de segunda linha para a malária, usada apenas em casos de resistência à Cloroquina?",
+    "options": [
+      "Sua ação é mais potente que a da cloroquina.",
+      "Ela não atua sobre os esporozoítos nem sobre as formas pré-eritrocíticas ou exoeritrocíticas do parasita.",
+      "Ela não pode ser administrada por via oral.",
+      "Ela não atravessa a barreira placentária.",
+      "Sua meia-vida é extremamente longa, levando à toxicidade."
+    ],
+    "correctIndex": 1,
+    "explanation": "A resposta correta é a 1. O texto afirma que a Quinina 'não tem ação profilática causal já que não atua sobre os esporozoítos nem sobre as formas preeritrocíticas ou exoeritrocíticas'. Isso significa que ela não pode prevenir a infecção nem erradicar os parasitas no fígado, agindo apenas na fase sanguínea. Além disso, é mencionado que sua ação é 'muito menos potente' que a da cloroquina.",
+    "type": "conteudista"
+  },
+  {
+    "question": "O texto afirma que a Cloroquina se difunde passivamente para dentro dos lisossomos do parasita, onde fica 'protonada e não pode sair'. Qual propriedade físico-química da Cloroquina explica esse fenômeno de 'aprisionamento iônico'?",
+    "options": [
+      "Ser uma molécula muito grande e lipofóbica.",
+      "Ser uma base fraca que, ao entrar em um compartimento ácido como o lisossomo, aceita um próton (H+), torna-se carregada (ionizada) e não consegue mais atravessar a membrana lipídica para sair.",
+      "Ser um ácido forte que se liga irreversivelmente às proteínas lisossomais.",
+      "Ser transportada ativamente para dentro do lisossomo por uma bomba de prótons.",
+      "Ter uma alta afinidade pelo colesterol da membrana lisossomal."
+    ],
+    "correctIndex": 1,
+    "explanation": "A resposta correta é a 1. O fenômeno descrito é o 'aprisionamento iônico'. Bases fracas (como a Cloroquina) existem em equilíbrio entre uma forma não ionizada (lipofílica, que atravessa membranas) e uma forma ionizada (hidrofílica, que não atravessa). Ao entrar em um ambiente ácido (pH baixo) como o lisossomo, o equilíbrio é deslocado para a forma ionizada (protonada). Como a forma ionizada não consegue cruzar a membrana de volta, a droga fica efetivamente presa e se concentra dentro do lisossomo, onde exerce seu efeito.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Qual dos seguintes anti-helmínticos atua inibindo a fosforilação anaeróbica do ADP na mitocôndria do parasita?",
+    "options": [
+      "Albendazol",
+      "Ivermectina",
+      "Praziquantel",
+      "Niclosamina",
+      "Levamisol"
+    ],
+    "correctIndex": 3,
+    "explanation": "A resposta correta é a 3. O texto especifica que a Niclosamina 'atua por inibição da fosforilação anaeróbica do difosfato de adenosina (ADP) pela mitocôndria do parasita'. Este mecanismo interfere diretamente na produção de energia do verme.",
+    "type": "conteudista"
+  },
+  {
+    "question": "O texto afirma que o efeito da Quinina no músculo esquelético é, em parte, 'similar à do curare'. O que isso implica em termos de mecanismo de ação na junção neuromuscular?",
+    "options": [
+      "A Quinina aumenta a liberação de acetilcolina.",
+      "A Quinina inibe a enzima acetilcolinesterase.",
+      "A Quinina atua como um agonista dos receptores nicotínicos, causando despolarização.",
+      "A Quinina atua como um antagonista ou bloqueador dos receptores nicotínicos na placa motora, diminuindo a excitabilidade e impedindo a contração muscular.",
+      "A Quinina aumenta a distribuição de cálcio dentro da fibra muscular, causando contração."
+    ],
+    "correctIndex": 3,
+    "explanation": "A resposta correta é a 3. O curare é o protótipo dos bloqueadores neuromusculares não despolarizantes. Sua ação consiste em competir com a acetilcolina pela ligação aos receptores nicotínicos na placa motora, atuando como um antagonista. Ao dizer que a Quinina tem uma ação 'similar à do curare' e que 'diminui a excitabilidade da placa neuromuscular', infere-se que ela também exerce um bloqueio nesses receptores, o que contribui para seu efeito relaxante muscular.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Qual é a principal diferença entre protozoários e helmintos em relação ao número de células e à capacidade de multiplicação no hospedeiro?",
+    "options": [
+      "Protozoários são multicelulares e se multiplicam no hospedeiro; helmintos são unicelulares e não se multiplicam.",
+      "Protozoários são unicelulares e capazes de se multiplicar no hospedeiro; helmintos são multicelulares e geralmente não se multiplicam no hospedeiro.",
+      "Ambos são unicelulares, mas apenas os helmintos se multiplicam no hospedeiro.",
+      "Ambos são multicelulares e não se multiplicam no hospedeiro.",
+      "Protozoários têm vida útil definida, enquanto helmintos têm vida útil indefinida."
+    ],
+    "correctIndex": 1,
+    "explanation": "A resposta correta é a 1. O texto de comparação é explícito: 'Os protozoários são unicelulares, enquanto os helmintos são multicelulares'. Além disso, 'Os protozoários têm a capacidade de se multiplicar dentro de seu hospedeiro definitivo, mas em geral os helmintos não são capazes como tais'.",
+    "type": "conteudista"
+  },
+  {
+    "question": "O fármaco Nitazoxanida é descrito como tendo um espectro de ação bastante amplo. Quais tipos de organismos ele pode tratar?",
+    "options": [
+      "Apenas helmintos.",
+      "Apenas bactérias anaeróbias.",
+      "Infecções causadas por protozoários, vermes e alguns vírus.",
+      "Apenas malária resistente à cloroquina.",
+      "Apenas fungos."
+    ],
+    "correctIndex": 2,
+    "explanation": "A resposta correta é a 2. O texto afirma que a Nitazoxanida é um 'medicamento antiparasitário e antiviral utilizado no tratamento de infecções causadas por protozoários, vermes e alguns vírus', citando como exemplos giardíase, amebíase, rotavírus e norovírus.",
+    "type": "conteudista"
+  },
+  {
+    "question": "O que acontece com a velocidade de excreção da Quinina quando a urina está ácida?",
+    "options": [
+      "A velocidade diminui pela metade.",
+      "A velocidade dobra em comparação com a urina alcalina.",
+      "A velocidade não é alterada pelo pH da urina.",
+      "A excreção para completamente.",
+      "A quinina é excretada exclusivamente pelas fezes."
+    ],
+    "correctIndex": 1,
+    "explanation": "A resposta correta é a 1. O texto afirma que a Quinina 'é excretada na urina ácida com o dobro da velocidade que na urina alcalina'. Isso ocorre porque em pH ácido, a quinina (uma base) fica mais ionizada, o que diminui sua reabsorção tubular e aumenta sua excreção.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual anti-helmíntico é um carbamato benzimidazólico com atividade larvicida, ovicida e vermicida?",
+    "options": [
+      "Praziquantel",
+      "Ivermectina",
+      "Albendazol",
+      "Niclosamina",
+      "Pirantel"
+    ],
+    "correctIndex": 2,
+    "explanation": "A resposta correta é a 2. O texto identifica o Albendazol como 'um carbamato benzimidazólico' e destaca que ele 'possui atividade larvicida, ovicida e vermicida', o que o torna eficaz contra diferentes estágios de vida de vários parasitas.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Levamisol e Pirantel atuam como agonistas de receptores nicotínicos. Por que essa ação é seletiva para os helmintos?",
+    "options": [
+      "Porque os mamíferos não possuem receptores nicotínicos.",
+      "Porque esses fármacos não são absorvidos no hospedeiro mamífero.",
+      "Porque os receptores nicotínicos dos helmintos são estruturalmente diferentes dos receptores dos mamíferos.",
+      "Porque o fígado dos mamíferos inativa rapidamente esses fármacos.",
+      "Porque os helmintos possuem uma concentração muito maior de receptores nicotínicos."
+    ],
+    "correctIndex": 2,
+    "explanation": "A resposta correta é a 2. O texto explica que esses fármacos agem 'de forma seletiva nos receptores nicotínicos de helmintos, porque estes são bem diferentes dos receptores dos mamíferos, e por esse motivo tem uma ação seletiva com poucos efeitos adversos no hospedeiro'. Essa diferença estrutural no alvo molecular é a base da toxicidade seletiva.",
+    "type": "conteudista"
+  },
+  {
+    "question": "O exato mecanismo de ação da ivermectina não está totalmente esclarecido. Qual é a hipótese mais provável mencionada no texto?",
+    "options": [
+      "Inibição da polimerização da tubulina.",
+      "Desregulação do fluxo de cálcio.",
+      "Inibição da fosforilação anaeróbica do ADP.",
+      "Potencialização e/ou ativação direta de canais de cloreto regulados por glutamato.",
+      "Dano oxidativo ao DNA do parasita."
+    ],
+    "correctIndex": 3,
+    "explanation": "A resposta correta é a 3. O texto afirma que, embora o mecanismo exato não esteja esclarecido, 'alguns estudos realizados sugerem que mecanismo de ação envolva potencialização e/ou ativação direta de canais de cloreto regulados por glutamato em membranas plasmáticas de nematódeos'.",
+    "type": "conteudista"
+  },
+  {
+    "question": "A Piperazina atua como um agonista do receptor GABA, conforme a tabela. Que tipo de paralisia essa ação causaria no verme?",
+    "options": [
+      "Paralisia espástica (tônica), devido à despolarização contínua.",
+      "Paralisia flácida, devido à hiperpolarização da célula muscular.",
+      "Nenhum tipo de paralisia, apenas a morte por depleção de energia.",
+      "Desintegração do tegumento do verme.",
+      "Bloqueio da captação de glicose."
+    ],
+    "correctIndex": 1,
+    "explanation": "A resposta correta é a 1. O GABA é o principal neurotransmissor inibitório. Seus receptores são tipicamente canais de cloreto. A ativação de receptores GABA pela Piperazina causaria um influxo de íons cloreto (Cl-), tornando o interior da célula muscular do verme mais negativo (hiperpolarização). Isso impede a contração muscular, resultando em uma paralisia flácida. Em contraste, agonistas nicotínicos causam paralisia espástica por despolarização.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Qual é um dos mecanismos de ação da Quinina sobre o músculo esquelético?",
+    "options": [
+      "Aumento da excitabilidade da placa neuromuscular.",
+      "Diminuição do período refratário da fibra muscular.",
+      "Alteração da distribuição de cálcio dentro da fibra muscular.",
+      "Inibição da enzima acetilcolinesterase.",
+      "Aumento da liberação de acetilcolina."
+    ],
+    "correctIndex": 2,
+    "explanation": "A resposta correta é a 2. O texto lista três mecanismos para o efeito da Quinina no músculo esquelético, um dos quais é a 'alteração da distribuição de cálcio dentro da fibra muscular'. Os outros são o aumento do período refratário e a diminuição da excitabilidade da placa neuromuscular.",
+    "type": "conteudista"
+  },
+  {
+    "question": "O Albendazol é ovicida, larvicida e vermicida. O Praziquantel causa paralisia e dano ao tegumento do verme. A Ivermectina causa paralisia. Qual desses três fármacos seria mais vantajoso em uma infecção onde a destruição completa de todas as fases do parasita dentro do hospedeiro é crucial para evitar recidivas?",
+    "options": [
+      "Praziquantel, porque a paralisia é imediata.",
+      "Ivermectina, porque seu mecanismo é seletivo.",
+      "Albendazol, porque sua capacidade de matar ovos, larvas e vermes adultos oferece um tratamento mais completo e diminui a chance de o ciclo do parasita continuar.",
+      "Nenhum deles, pois todos atuam da mesma forma.",
+      "Praziquantel, porque o dano ao tegumento impede a formação de novos ovos."
+    ],
+    "correctIndex": 2,
+    "explanation": "A resposta correta é a 2. A capacidade do Albendazol de ser 'larvicida, ovicida e vermicida' é uma vantagem significativa. Enquanto fármacos que apenas paralisam ou matam o verme adulto podem deixar para trás ovos ou larvas viáveis que podem continuar o ciclo de vida do parasita e causar uma recidiva da infecção, a ação do Albendazol em múltiplos estágios de desenvolvimento oferece uma erradicação mais completa.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "O que a Cloroquina impede que aconteça com a hemoglobina dentro do parasita da malária?",
+    "options": [
+      "Impede sua digestão pelo parasita.",
+      "Impede sua conversão em hemazoína, levando ao acúmulo de heme tóxico.",
+      "Aumenta a polimerização da hemoglobina.",
+      "Impede a ligação do oxigênio à hemoglobina.",
+      "Faz com que a hemoglobina seja exportada para fora do parasita."
+    ],
+    "correctIndex": 1,
+    "explanation": "A resposta correta é a 1. O texto afirma que a cloroquina 'inibe a ação da polimerase da hemoglobina nos trofozoítos da malária, impedindo a conversão da hemoglobina em hemazoína'. O parasita digere a hemoglobina, liberando heme, que é tóxico para ele. Para se proteger, o parasita polimeriza o heme na forma não tóxica de hemazoína. A cloroquina bloqueia esse processo de detoxificação.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual a principal diferença no ciclo de vida que distingue os protozoários dos helmintos?",
+    "options": [
+      "Protozoários têm estágios de ovo e larva, e helmintos não.",
+      "Helmintos têm um ciclo de vida com estágios de adulto, ovo e larva, enquanto protozoários geralmente não apresentam esses estágios distintos.",
+      "Ambos possuem ciclos de vida idênticos.",
+      "Protozoários vivem fora do hospedeiro, e helmintos vivem dentro.",
+      "Helmintos têm vida útil indefinida, e protozoários têm vida útil definida."
+    ],
+    "correctIndex": 1,
+    "explanation": "A resposta correta é a 1. O texto destaca que 'O ciclo de vida dos helmintos tem estágios de adulto, ovo e larva, enquanto que não existem estágios entre os protozoários', que se multiplicam por divisão celular.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Se um paciente está tomando Quinina, e seu LCR é analisado, o que se pode esperar da concentração do fármaco nesse fluido?",
+    "options": [
+      "A concentração no LCR será igual à concentração plasmática.",
+      "A concentração no LCR será maior que a concentração plasmática.",
+      "A concentração no LCR será muito baixa, atingindo apenas 2% a 5% da concentração plasmática.",
+      "A Quinina não consegue entrar no LCR.",
+      "A concentração dependerá do pH do LCR, podendo variar de 10% a 90%."
+    ],
+    "correctIndex": 2,
+    "explanation": "A resposta correta é a 2. O texto é específico sobre a farmacocinética da Quinina, afirmando que 'No LCR a quinina atinge somente 2% a 5% da concentração plasmática'. Isso indica uma baixa penetração através da barreira hematoencefálica.",
+    "type": "conteudista"
+  },
+  {
+    "question": "O Praziquantel perturba o metabolismo glicídico dos vermes. Qual é o efeito observado?",
+    "options": [
+      "Aumento na captação de glicose e redução na liberação de lactato.",
+      "Redução na captação de glicose e liberação aumentada de lactato.",
+      "O verme passa a metabolizar apenas proteínas.",
+      "Ocorre um aumento nos estoques de glicogênio do verme.",
+      "O metabolismo glicídico não é afetado, apenas o fluxo iônico."
+    ],
+    "correctIndex": 1,
+    "explanation": "A resposta correta é a 1. Além de sua ação nos canais de cálcio, o texto menciona que o Praziquantel 'perturba o metabolismo glicídico dos vermes, havendo redução na captação de glicose e liberação aumentada de lactato'. Isso contribui para o esgotamento energético do parasita.",
+    "type": "conteudista"
+  },
+  {
+    "question": "O texto afirma que a Quinina atravessa a barreira placentária e pode causar danos ao feto. Qual classe de risco para gestantes essa informação sugere?",
+    "options": [
+      "Categoria A (sem risco demonstrado).",
+      "Categoria B (sem evidência de risco em humanos).",
+      "Uma categoria de alto risco (como C, D ou X), indicando que seu uso na gravidez deve ser evitado ou cuidadosamente pesado contra os benefícios.",
+      "Não há risco, pois o feto metaboliza a Quinina.",
+      "O risco só existe no primeiro trimestre da gestação."
+    ],
+    "correctIndex": 2,
+    "explanation": "A resposta correta é a 2. A afirmação de que um fármaco 'Atravessa a barreira placentária e ocasiona danos ao feto' é uma indicação clara de teratogenicidade ou fetotoxicidade. Isso o colocaria em uma categoria de risco elevado na gestação (como as categorias C, D ou X da FDA), onde o potencial de dano ao feto é conhecido. Portanto, seu uso seria contraindicado ou exigiria uma avaliação de risco-benefício muito criteriosa.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Qual dos seguintes fármacos atua de forma seletiva em receptores nicotínicos de helmintos, que são diferentes dos receptores de mamíferos?",
+    "options": [
+      "Ivermectina",
+      "Praziquantel",
+      "Levamisol",
+      "Albendazol",
+      "Metronidazol"
+    ],
+    "correctIndex": 2,
+    "explanation": "A resposta correta é a 2. O texto descreve que o Levamisol e o Pirantel 'atuam em receptores nicotínicos' e que essa ação é 'seletiva nos receptores nicotínicos de helmintos, porque estes são bem diferentes dos receptores dos mamíferos'.",
+    "type": "conteudista"
+  },
+  {
+    "question": "A Cloroquina, além de seu uso como antimalárico, também tem um uso potencial em virologia, como sugerido no texto. Qual é o mecanismo proposto para sua ação contra o SARS-CoV-2?",
+    "options": [
+      "Inibe diretamente a replicação do RNA viral.",
+      "Impede a conversão da hemoglobina em hemazoína no vírus.",
+      "Aumenta o pH endossômico e impede a glicosilação da ACE2, o receptor de entrada do vírus.",
+      "Estimula a resposta imune do hospedeiro contra o vírus.",
+      "Liga-se à proteína spike do vírus, neutralizando-a."
+    ],
+    "correctIndex": 2,
+    "explanation": "A resposta correta é a 2. O texto menciona um mecanismo antiviral específico para a Cloroquina: 'Aumenta o pH endossômico e impede a glicosilação da ACE2 (Enzima Conversora da Angiotensina 2), o receptor que o SARS-CoV-2 tem como alvo para a entrada celular'.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual a principal diferença entre a paralisia causada pelo Praziquantel e a causada pela Ivermectina?",
+    "options": [
+      "O Praziquantel causa paralisia flácida e a Ivermectina, paralisia espástica.",
+      "O Praziquantel causa paralisia por influxo de Cálcio (Ca2+), resultando em contração tônica, enquanto a Ivermectina causa paralisia por influxo de Cloreto (Cl-), resultando em hiperpolarização e paralisia flácida.",
+      "Ambos causam o mesmo tipo de paralisia, por influxo de Sódio (Na+).",
+      "O Praziquantel atua no sistema nervoso central do verme, e a Ivermectina atua na junção neuromuscular.",
+      "A paralisia da Ivermectina é reversível, e a do Praziquantel é irreversível."
+    ],
+    "correctIndex": 1,
+    "explanation": "A resposta correta é a 1. O texto e a tabela mostram que o Praziquantel aumenta a passagem de 'cálcio para o interior do parasita', causando 'forte contração muscular' (paralisia espástica). A Ivermectina, por sua vez, atua em 'canais de cloreto', cuja ativação leva a um influxo do íon negativo cloreto, hiperpolarizando a célula e causando uma paralisia flácida. Os mecanismos iônicos e os resultados fisiológicos são opostos.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "O tratamento da giardíase em crianças é uma das indicações de qual fármaco?",
+    "options": [
+      "Quinina",
+      "Praziquantel",
+      "Ivermectina",
+      "Albendazol",
+      "Cloroquina"
+    ],
+    "correctIndex": 3,
+    "explanation": "A resposta correta é a 3. O texto, ao listar as indicações do Albendazol, inclui 'a giardíase (Giardia lamblia, G. duodenalis, G. intestinalis) em crianças'. A Nitazoxanida também é indicada para giardíase, mas o Albendazol é explicitamente mencionado neste contexto.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Um paciente com malária resistente à cloroquina é tratado com Quinina. Se o paciente também tiver uma arritmia cardíaca, qual dos efeitos da Quinina no músculo (cardíaco e esquelético) seria motivo de maior preocupação?",
+    "options": [
+      "O efeito hipotérmico.",
+      "A diminuição da excitabilidade da placa neuromuscular.",
+      "A capacidade de alterar a distribuição de cálcio dentro da fibra muscular e aumentar o período refratário.",
+      "A baixa penetração no LCR.",
+      "O fato de ser rapidamente absorvida por via oral."
+    ],
+    "correctIndex": 2,
+    "explanation": "A resposta correta é a 2. O músculo cardíaco depende de um ciclo preciso de despolarização e repolarização para funcionar corretamente. A Quinina, ao 'incrementar o período refratário' e 'alterar a distribuição de cálcio', pode interferir diretamente na eletrofisiologia cardíaca. Em um paciente que já tem uma arritmia, essa interferência pode exacerbar o problema ou induzir novos tipos de arritmias, sendo um risco clínico significativo.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Se um helminto desenvolve resistência ao Levamisol por uma mutação em seu receptor nicotínico, qual outro fármaco, que atua no mesmo alvo, provavelmente também seria ineficaz?",
+    "options": [
+      "Piperazina",
+      "Ivermectina",
+      "Praziquantel",
+      "Pirantel",
+      "Albendazol"
+    ],
+    "correctIndex": 3,
+    "explanation": "A resposta correta é a 3. A tabela de alvos farmacológicos agrupa o Levamisol e o Pirantel como atuantes no mesmo alvo: o 'receptor nicotínico (em nematodos)'. Se a resistência é causada por uma alteração nesse receptor-alvo, é muito provável que ambos os fármacos, que dependem da ligação a esse receptor para funcionar, sejam igualmente ineficazes. Este é um exemplo de resistência cruzada dentro da mesma classe farmacológica.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Qual é uma das principais diferenças biológicas entre protozoários e helmintos, além do número de células?",
+    "options": [
+      "Protozoários são sempre visíveis a olho nu.",
+      "Helmintos têm uma vida útil indefinida.",
+      "Protozoários são capazes de se multiplicar dentro do hospedeiro, enquanto os helmintos geralmente não o fazem.",
+      "Helmintos não possuem estágios de larva.",
+      "Apenas protozoários são capazes de causar infecções em humanos."
+    ],
+    "correctIndex": 2,
+    "explanation": "A resposta correta é a 2. O texto destaca várias diferenças, incluindo que 'Os protozoários têm a capacidade de se multiplicar dentro de seu hospedeiro definitivo, mas em geral os helmintos não são capazes como tais'. Isso tem implicações importantes para a patogênese e o controle da carga parasitária.",
+    "type": "conteudista"
+  }
+]

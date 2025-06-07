@@ -1,0 +1,392 @@
+[
+  {
+    "question": "Qual dos seguintes antidepressivos tricíclicos (ADTs) possui uma predominância de atividade serotoninérgica em vez de noradrenérgica?",
+    "options": [
+      "Nortriptilina",
+      "Maprotilina",
+      "Desipramina",
+      "Clomipramina",
+      "Todos os ADTs têm atividade noradrenérgica predominante."
+    ],
+    "correctIndex": 3,
+    "explanation": "A resposta correta é a 3. O texto especifica que, embora os ADTs em geral inibam a recaptação de serotonina (5-HT) e noradrenalina (NA), alguns têm predominância de uma via sobre a outra. A clomipramina, juntamente com a amitriptilina e a imipramina, é citada como tendo uma atividade predominantemente serotoninérgica. As opções 0, 1 e 2 (nortriptilina, maprotilina e desipramina) são listadas como exemplos com predominância da atividade noradrenérgica.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Analisando a tabela de receptores de serotonina, um fármaco que atue como agonista nos receptores da família 5-HT₁ e como antagonista nos da família 5-HT₂ teria quais efeitos celulares opostos?",
+    "options": [
+      "Aumentaria o AMPc via 5-HT₁ e diminuiria o IP₃/DAG via 5-HT₂.",
+      "Despolarizaria a membrana via 5-HT₁ e a hiperpolarizaria via 5-HT₂.",
+      "Causaria um efeito inibidor via 5-HT₁ (diminuindo AMPc) e um efeito excitador via 5-HT₂ (aumentando IP₃/DAG).",
+      "Causaria um efeito excitador via 5-HT₁ (aumentando AMPc) e um efeito inibidor via 5-HT₂ (diminuindo IP₃/DAG).",
+      "Ambas as famílias de receptores são acopladas à proteína Gs, resultando em efeitos celulares idênticos."
+    ],
+    "correctIndex": 2,
+    "explanation": "A resposta correta é a 2. A tabela mostra que os receptores da família 5-HT₁ estão acoplados a uma proteína Gᵢ/Gₒ, que diminui a concentração de AMPc, resultando em um efeito celular inibidor. Em contraste, os receptores da família 5-HT₂ estão acoplados a uma proteína Gq, que aumenta os níveis de IP₃ e DAG, produzindo um efeito celular excitador. Portanto, um fármaco com essa ação mista teria efeitos opostos na sinalização intracelular e na atividade neuronal. As outras opções invertem ou confundem os mecanismos de ação descritos na tabela.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Qual efeito adverso dos ADTs é diretamente causado pelo bloqueio dos receptores α1-adrenérgicos?",
+    "options": [
+      "Xerostomia (boca seca)",
+      "Ganho de peso",
+      "Sedação",
+      "Arritmias cardíacas",
+      "Hipotensão ortostática"
+    ],
+    "correctIndex": 4,
+    "explanation": "A resposta correta é a 4. O texto atribui efeitos adversos específicos a diferentes bloqueios de receptores. A hipotensão ortostática (queda de pressão ao se levantar) é explicitamente ligada ao 'bloqueio dos receptores α1-adrenérgicos'. A xerostomia é um efeito anticolinérgico/muscarínico; o ganho de peso é atribuído a efeitos anti-histamínicos; as arritmias ao prolongamento do intervalo QT; e a sedação aos efeitos anticolinérgicos e anti-histamínicos.",
+    "type": "conteudista"
+  },
+  {
+    "question": "O diagrama da sinapse noradrenérgica mostra um autorreceptor α2 no neurônio pré-sináptico. Qual é a função desse receptor no processo de neurotransmissão?",
+    "options": [
+      "Aumentar a conversão de tirosina em dopamina.",
+      "Facilitar a liberação de noradrenalina das vesículas.",
+      "Atuar como um mecanismo de feedback negativo, inibindo a liberação subsequente de noradrenalina quando ativado.",
+      "Aumentar a recaptação de noradrenalina pelo transportador NET.",
+      "Ativar a cascata de sinalização da proteína Gs no próprio neurônio pré-sináptico."
+    ],
+    "correctIndex": 2,
+    "explanation": "A resposta correta é a 2. Autorreceptores, como o α2 localizado no terminal do neurônio pré-sináptico, funcionam como um freio para a neurotransmissão. Quando a noradrenalina é liberada na fenda sináptica, parte dela se liga a esses autorreceptores α2. A ativação desses receptores, que são acoplados a uma proteína Gi/o (inibitória) conforme o diagrama, sinaliza ao neurônio para reduzir a liberação de mais noradrenalina. Isso constitui um mecanismo de autorregulação por feedback negativo. As outras opções descrevem funções de outras proteínas ou efeitos opostos.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Qual ISRS tem uma contraindicação específica em pacientes com síndrome congênita de prolongamento do intervalo QT devido a relatos de alteração dose-dependente no ECG?",
+    "options": [
+      "Fluoxetina",
+      "Sertralina",
+      "Paroxetina",
+      "Citalopram",
+      "Fluvoxamina"
+    ],
+    "correctIndex": 3,
+    "explanation": "A resposta correta é a 3. Embora os ISRS sejam geralmente seguros para cardiopatas, o texto destaca uma exceção importante. É relatado um 'prolongamento do intervalo QT dose dependente com o uso do citalopram'. Por causa desse achado, o citalopram está contraindicado em pacientes que já possuem a síndrome congênita de prolongamento do intervalo QT.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Observando o diagrama que classifica os IMAOs, por que a Selegilina, sendo um inibidor irreversível seletivo da MAO-B, é descrita como tendo 'SEM EFEITO ANTIDEPRESSIVO (PARKINSON)'?",
+    "options": [
+      "Porque a MAO-B não metaboliza nenhuma monoamina relevante para a depressão.",
+      "Porque o efeito antidepressivo está correlacionado à inibição da MAO-A, que metaboliza preferencialmente 5-HT e NA, enquanto a MAO-B atua mais sobre a DA, sendo mais relevante para o Parkinson.",
+      "Porque seu efeito reversível impede a ação antidepressiva duradoura.",
+      "Porque a Selegilina não consegue atravessar a barreira hematoencefálica.",
+      "Porque causa a reação do 'queijo' com mais intensidade que os outros IMAOs, limitando seu uso."
+    ],
+    "correctIndex": 1,
+    "explanation": "A resposta correta é a 1. O texto afirma que a MAO-A é responsável por metabolizar 5-HT e NA, enquanto a MAO-B, junto com a MAO-A, degrada a DA. Como a teoria monoaminérgica da depressão foca principalmente na deficiência de 5-HT e NA, a inibição seletiva da MAO-A é mais diretamente antidepressiva. A Selegilina, ao inibir seletivamente a MAO-B, aumenta primariamente os níveis de dopamina, o que é terapêutico na doença de Parkinson (caracterizada pela deficiência de DA), mas não é considerado um mecanismo antidepressivo primário, conforme o material.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Qual dos seguintes antidepressivos atua primariamente como inibidor da recaptação de dopamina (DA) e noradrenalina (NA), sendo uma opção para pacientes que desenvolvem disfunção sexual com ISRS?",
+    "options": [
+      "Venlafaxina",
+      "Trazodona",
+      "Mirtazapina",
+      "Bupropiona",
+      "Amitriptilina"
+    ],
+    "correctIndex": 3,
+    "explanation": "A resposta correta é a 3. A bupropiona é descrita como um fármaco com 'efeitos noradrenérgicos e dopaminérgicos, sendo fraco inibidor da recaptação de DA'. Uma de suas principais vantagens, destacada no texto, é que, diferentemente dos ISRS, 'a bupropiona não causa disfunção sexual, estando indicada para esses casos'.",
+    "type": "conteudista"
+  },
+  {
+    "question": "O diagrama de um traçado de ECG é apresentado no contexto de um alerta sobre o citalopram. Se este fármaco prolonga o intervalo QT, o que isso significa em termos de atividade elétrica do coração?",
+    "options": [
+      "O tempo para a despolarização dos átrios (onda P) está aumentado.",
+      "O tempo para a despolarização dos ventrículos (complexo QRS) está mais rápido.",
+      "O tempo total desde o início da despolarização ventricular até o final da repolarização ventricular está aumentado.",
+      "A frequência cardíaca geral está diminuindo drasticamente.",
+      "A onda T, que representa a repolarização atrial, está invertida."
+    ],
+    "correctIndex": 2,
+    "explanation": "A resposta correta é a 2. O diagrama do ECG mostra que o intervalo QT começa no início do complexo QRS e termina no final da onda T. Eletrofisiologicamente, isso representa todo o ciclo de despolarização (contração) e repolarização (relaxamento) dos ventrículos. Um prolongamento desse intervalo significa que os ventrículos estão levando mais tempo para 'resetar' eletricamente após uma batida, o que aumenta o risco de arritmias ventriculares perigosas.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "A Duloxetina, um IRSN, não é indicada para pacientes hepatopatas. Qual a razão para esta contraindicação?",
+    "options": [
+      "O fármaco causa elevação da pressão arterial, o que sobrecarrega o fígado.",
+      "A duloxetina é extensivamente metabolizada pelo fígado.",
+      "Ela inibe potentemente a CYP 1A2, uma enzima exclusiva de hepatopatas.",
+      "Sua absorção depende inteiramente da função biliar, ausente em hepatopatas.",
+      "O fármaco é excretado de forma inalterada pelos rins, mas compete com metabólitos hepáticos."
+    ],
+    "correctIndex": 1,
+    "explanation": "A resposta correta é a 1. O texto afirma claramente que a duloxetina 'é extensivamente metabolizada pelo fígado, e por isso não está indicada para hepatopatas'. Isso significa que pacientes com função hepática comprometida não conseguiriam metabolizar o fármaco adequadamente, levando ao seu acúmulo e potencial toxicidade. As outras opções apresentam razões incorretas ou não mencionadas no texto.",
+    "type": "conteudista"
+  },
+  {
+    "question": "A descrição da Estimulação Magnética Transcraniana (EMT) menciona que ela potencializa a recuperação ao auxiliar no 'reequilíbrio da atividade cerebral'. Como a EMT consegue isso, segundo o texto?",
+    "options": [
+      "Injetando neurotransmissores diretamente nas áreas inativas.",
+      "Utilizando a neuroplasticidade para que neurônios saudáveis assumam as funções dos afetados.",
+      "Reparando diretamente os neurônios lesionados.",
+      "Aumentando o fluxo sanguíneo para todo o cérebro de forma indiscriminada.",
+      "Bloqueando permanentemente a atividade de áreas cerebrais hiperativas."
+    ],
+    "correctIndex": 1,
+    "explanation": "A resposta correta é a 1. O texto explica que, após uma lesão, áreas cerebrais podem ficar inativas, mas é possível que 'outros neurônios desenvolvam a capacidade de assumir as funções daqueles que foram afetados, um fenômeno conhecido como neuroplasticidade'. A EMT, como uma técnica de neuromodulação, é utilizada para 'auxiliar no reequilíbrio da atividade cerebral' e 'potencializar e acelerar a recuperação' ao estimular esse processo de neuroplasticidade.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Qual é o mecanismo de ação da Mirtazapina que a diferencia de um inibidor de recaptação típico?",
+    "options": [
+      "Inibe seletivamente a recaptação de dopamina.",
+      "Inibe a enzima MAO de forma irreversível.",
+      "Bloqueia os autorreceptores α2-adrenérgicos, além de receptores 5-HT2 e 5-HT3.",
+      "É um agonista direto dos receptores β-adrenérgicos.",
+      "Inibe a recaptação de serotonina e noradrenalina com igual potência."
+    ],
+    "correctIndex": 2,
+    "explanation": "A resposta correta é a 2. A Mirtazapina possui um mecanismo de ação complexo e único. Em vez de inibir transportadores de recaptação, ela 'bloqueia os autorreceptores α2-adrenérgicos', o que remove o freio inibitório e aumenta a liberação de noradrenalina. Ela também aumenta a neurotransmissão de serotonina através do bloqueio de heterorreceptores e de receptores 5-HT2 e 5-HT3. Este mecanismo é fundamentalmente diferente do dos ISRS, IRSN ou ADTs.",
+    "type": "conteudista"
+  },
+  {
+    "question": "O diagrama geral da ação de antidepressivos mostra a Mirtazapina bloqueando o receptor α2 no terminal de um neurônio noradrenérgico. Qual é o resultado esperado dessa ação na sinapse?",
+    "options": [
+      "Uma diminuição na liberação de noradrenalina (NE).",
+      "Um aumento na recaptação de noradrenalina (NE).",
+      "Um aumento na liberação de noradrenalina (NE), pois o mecanismo de feedback inibitório é desativado.",
+      "Um bloqueio da liberação de serotonina (5-HT) no neurônio adjacente.",
+      "Uma ativação direta dos receptores β pós-sinápticos."
+    ],
+    "correctIndex": 2,
+    "explanation": "A resposta correta é a 2. O receptor α2 no terminal pré-sináptico é um autorreceptor inibitório. Ao bloqueá-lo, a mirtazapina impede que a noradrenalina liberada na fenda se ligue a ele para sinalizar a interrupção da liberação. Essencialmente, o 'freio' da liberação de NE é removido, resultando em um aumento da liberação de NE na fenda sináptica. As outras opções descrevem efeitos incorretos ou opostos.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "A Trazodona é indicada em baixas doses à noite devido ao seu forte efeito sedativo. A qual de suas ações farmacológicas esse efeito é primariamente atribuído?",
+    "options": [
+      "Inibição da recaptação de dopamina.",
+      "Antagonismo de receptores α1-adrenérgicos e histamínérgicos.",
+      "Agonismo em receptores 5-HT1A.",
+      "Inibição da enzima MAO-A.",
+      "Bloqueio dos canais de sódio."
+    ],
+    "correctIndex": 1,
+    "explanation": "A resposta correta é a 1. O texto afirma que a trazodona 'inibe a recaptação de 5-HT, sendo antagonista de receptores 5-HT2, α1-adrenérgicos e histaminérgicos, o que causa efeito sedativo'. O antagonismo dos receptores de histamina H1 é um mecanismo clássico para indução de sedação, e o bloqueio α1-adrenérgico também pode contribuir para esse efeito. É por essa razão que seu uso noturno é recomendado.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Um paciente em uso de um IMAO ingere alimentos ricos em tiramina, como queijo envelhecido. Qual é a consequência fisiopatológica que leva à crise hipertensiva descrita como 'reação do queijo'?",
+    "options": [
+      "A tiramina bloqueia diretamente os receptores adrenérgicos, causando vasoconstrição.",
+      "A MAO intestinal e hepática, que normalmente degradaria a tiramina, está inibida, permitindo que a tiramina entre na circulação e provoque uma liberação maciça de noradrenalina.",
+      "A combinação de IMAO com tiramina causa uma liberação excessiva de serotonina, levando à síndrome serotoninérgica.",
+      "A tiramina é convertida em uma substância tóxica no fígado devido à presença do IMAO.",
+      "O IMAO potencializa a absorção de sódio dos alimentos, causando retenção de líquidos e hipertensão."
+    ],
+    "correctIndex": 1,
+    "explanation": "A resposta correta é a 1. O texto detalha que a 'reação do queijo' ocorre porque a tiramina, que é metabolizada no trato gastrointestinal pela MAO, 'não é degradada e permanece na circulação, precipitando a crise' hipertensiva. A tiramina na circulação sistêmica atua como um simpatomimético indireto, deslocando grandes quantidades de noradrenalina das vesículas de armazenamento nos terminais nervosos simpáticos, o que resulta em vasoconstrição e hipertensão grave.",
+    "type": "conteudista"
+  },
+  {
+    "question": "De acordo com o texto, qual é a principal razão pela qual os ISRS são considerados a primeira linha de tratamento para a depressão em comparação com os ADTs e IMAOs?",
+    "options": [
+      "Eles possuem eficácia superior e início de ação mais rápido.",
+      "São significativamente mais baratos que as outras classes.",
+      "São mais bem tolerados e possuem um melhor perfil de segurança, com menos efeitos adversos e baixa toxicidade em sobredose.",
+      "Eles não causam nenhum efeito adverso gastrointestinal.",
+      "Eles são os únicos que podem ser administrados em dose única diária."
+    ],
+    "correctIndex": 2,
+    "explanation": "A resposta correta é a 2. O texto afirma que 'pelo fato de serem mais bem tolerados e não diferirem quanto à eficácia quando comparados aos demais antidepressivos, os ISRS constituem a primeira linha de tratamento'. Também menciona que eles possuem 'melhor perfil de segurança', 'baixa toxicidade' em sobredose e 'mínimos efeitos anticolinérgicos'. A superioridade não está na eficácia, que é comparável, mas na tolerabilidade e segurança. As outras opções são incorretas.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Um efeito adverso raro, porém muito sério, associado à Trazodona é o priapismo. O que é o priapismo?",
+    "options": [
+      "Uma queda súbita e perigosa da pressão arterial.",
+      "Uma arritmia cardíaca ventricular.",
+      "Um tipo de convulsão generalizada.",
+      "Uma ereção peniana prolongada, dolorosa e não relacionada ao estímulo sexual, considerada uma emergência médica.",
+      "Um sangramento gastrointestinal grave."
+    ],
+    "correctIndex": 3,
+    "explanation": "A resposta correta é a 3. O texto cita o priapismo como um 'efeito raro' (incidência de 1/10.000) mas 'sério' da trazodona, que é 'considerado uma emergência médica'. O priapismo é uma condição urológica caracterizada por uma ereção persistente e muitas vezes dolorosa, que pode levar a danos permanentes no tecido peniano se não for tratada rapidamente.",
+    "type": "conteudista"
+  },
+  {
+    "question": "A Venlafaxina, um IRSN, pode causar 'elevação transitória dose-dependente da pressão arterial'. Qual aspecto do seu mecanismo de ação explica este efeito?",
+    "options": [
+      "Sua baixa atividade sobre a dopamina.",
+      "Sua potente inibição da recaptação de noradrenalina.",
+      "O bloqueio de receptores histamínicos.",
+      "O bloqueio de receptores α1-adrenérgicos.",
+      "Sua potente inibição da recaptação de serotonina."
+    ],
+    "correctIndex": 1,
+    "explanation": "A resposta correta é a 1. A Venlafaxina é um Inibidor da Recaptação de Serotonina e Noradrenalina (IRSN). A noradrenalina (NA) é um neurotransmissor chave no sistema nervoso simpático, que regula, entre outras coisas, a frequência cardíaca e o tônus vascular. Ao inibir a recaptação de NA, a venlafaxina aumenta a disponibilidade desse neurotransmissor, o que pode levar a um aumento da estimulação simpática e, consequentemente, a uma elevação da pressão arterial, especialmente em doses mais altas onde o efeito noradrenérgico se torna mais pronunciado.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é a principal implicação farmacocinética do fato de que muitos metabólitos dos ADTs são 'ativos e lipofílicos'?",
+    "options": [
+      "Eles são rapidamente excretados pelos rins, tendo uma ação muito curta.",
+      "Eles não conseguem atravessar a barreira hematoencefálica.",
+      "Eles contribuem para a duração prolongada do efeito do fármaco e podem se acumular no organismo, exigindo cautela na administração com outros medicamentos.",
+      "Eles são inativos e não apresentam risco de interações medicamentosas.",
+      "Eles são hidrossolúveis e, portanto, não se armazenam no tecido adiposo."
+    ],
+    "correctIndex": 2,
+    "explanation": "A resposta correta é a 2. Metabólitos ativos são produtos do metabolismo que ainda possuem atividade farmacológica, contribuindo para o efeito geral e a duração da ação do fármaco original. O fato de serem lipofílicos (solúveis em gordura) significa que eles podem se distribuir amplamente pelo corpo e se armazenar em tecidos como o adiposo, o que prolonga ainda mais sua presença e efeito no organismo. Isso aumenta o potencial de interações medicamentosas e exige cautela na coadministração de outros fármacos.",
+    "type": "conteudista"
+  },
+  {
+    "question": "O texto afirma que a administração dos ADTs é normalmente feita à noite. Qual efeito adverso justifica essa prática?",
+    "options": [
+      "Aumento de energia e insônia.",
+      "Náusea e vômito.",
+      "Sedação.",
+      "Disfunção sexual.",
+      "Perda de apetite."
+    ],
+    "correctIndex": 2,
+    "explanation": "A resposta correta é a 2. O texto afirma que a administração 'normalmente [é feita] à noite devido aos efeitos anticolinérgicos provocados, como sedação'. A sedação é um efeito colateral comum dos ADTs, principalmente devido ao seu bloqueio dos receptores de histamina H1. Administrar o medicamento à noite aproveita esse efeito para auxiliar o sono do paciente e minimiza o impacto da sonolência durante as atividades diurnas.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Considerando que a Duloxetina inibe moderadamente a CYP 2D6, o que aconteceria se um paciente a tomasse concomitantemente com outro fármaco que é extensivamente metabolizado por essa mesma enzima?",
+    "options": [
+      "O segundo fármaco seria metabolizado mais rapidamente, perdendo seu efeito.",
+      "A concentração plasmática do segundo fármaco poderia aumentar, elevando o risco de toxicidade.",
+      "A Duloxetina teria seu efeito anulado.",
+      "Não haveria nenhuma interação, pois a inibição é apenas moderada.",
+      "O metabolismo de ambos os fármacos seria desviado para a via da CYP3A4."
+    ],
+    "correctIndex": 1,
+    "explanation": "A resposta correta é a 1. A enzima CYP 2D6 é uma 'via' metabólica no fígado. Se a Duloxetina está 'inibindo' ou 'bloqueando' essa via, mesmo que moderadamente, outros fármacos que dependem da mesma via para serem metabolizados e eliminados terão seu processo retardado. Isso resulta em um acúmulo do segundo fármaco na corrente sanguínea, aumentando sua concentração plasmática e, consequentemente, o risco de efeitos adversos e toxicidade.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Qual dos seguintes fármacos listados pertence à classe dos Inibidores da Monoamina Oxidase (IMAO)?",
+    "options": [
+      "Amitriptilina",
+      "Sertralina",
+      "Tranilcipromina",
+      "Bupropiona",
+      "Duloxetina"
+    ],
+    "correctIndex": 2,
+    "explanation": "A resposta correta é a 2. O texto lista a tranilcipromina e a selegilina como os representantes da classe dos IMAO registrados no Brasil. A tranilcipromina é um exemplo clássico de um inibidor irreversível e não seletivo da MAO. A amitriptilina é um ADT, a sertralina é um ISRS, a bupropiona é um atípico, e a duloxetina é um IRSN.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Por que, de acordo com o texto, os ISRS são uma opção mais segura para pacientes cardiopatas em comparação com os ADTs?",
+    "options": [
+      "Porque os ISRS diminuem a pressão arterial.",
+      "Porque os ISRS não alteram o ritmo e a condução cardíaca nem causam hipotensão ortostática.",
+      "Porque os ADTs não têm efeito sobre o coração.",
+      "Porque os ISRS são administrados em doses menores.",
+      "Porque os ISRS não sofrem metabolismo hepático."
+    ],
+    "correctIndex": 1,
+    "explanation": "A resposta correta é a 1. O texto afirma que 'os ISRS não estão contraindicados para cardiopatas, uma vez que não alteram o ritmo e a condução cardíaca, tampouco produzem hipotensão ortostática e retenção urinária'. Isso contrasta fortemente com os ADTs, que são conhecidos por causar arritmias (devido ao prolongamento do intervalo QT) e hipotensão ortostática (devido ao bloqueio α1-adrenérgico), tornando os ISRS uma classe com perfil de segurança cardiovascular superior.",
+    "type": "conteudista"
+  },
+  {
+    "question": "O texto menciona que os efeitos adversos são as causas mais comuns para o abandono da terapia antidepressiva. Qual das seguintes opções NÃO é listada como um efeito adverso comum dos ISRS?",
+    "options": [
+      "Sintomas gastrointestinais",
+      "Cefaleia",
+      "Hipotensão ortostática",
+      "Disfunção sexual",
+      "Alterações em sono e nível de energia"
+    ],
+    "correctIndex": 2,
+    "explanation": "A resposta correta é a 2. O texto lista como efeitos adversos comuns dos ISRS os gastrointestinais, cefaleia, falta de coordenação, alterações em sono e nível de energia, e disfunção sexual. A hipotensão ortostática, por outro lado, é um efeito adverso característico dos Antidepressivos Tricíclicos (ADTs) e dos IMAOs, devido ao bloqueio de receptores α1-adrenérgicos, e não é um efeito comum dos ISRS.",
+    "type": "conteudista"
+  },
+  {
+    "question": "A maioria dos antidepressivos, incluindo ADTs e ISRS, possui uma farmacocinética que permite uma única administração diária. Qual característica farmacocinética é responsável por isso?",
+    "options": [
+      "Metabolismo de primeira passagem muito baixo.",
+      "Meia-vida de eliminação curta (2-4 horas).",
+      "Alta ligação a proteínas plasmáticas e meia-vida de eliminação longa (geralmente >20 horas).",
+      "Absorção muito lenta, que dura o dia todo.",
+      "Excreção exclusivamente biliar."
+    ],
+    "correctIndex": 2,
+    "explanation": "A resposta correta é a 2. A possibilidade de uma dose única diária está diretamente relacionada ao tempo que o fármaco permanece no organismo em concentrações terapêuticas. O texto especifica que os ADTs têm uma 'meia vida de eliminação de 24 horas' e os ISRS têm uma 'meia vida de eliminação [que] varia de 20 a 30 horas'. Uma meia-vida longa significa que o corpo leva mais tempo para eliminar metade da dose do fármaco, mantendo seus níveis estáveis por um período prolongado e permitindo a conveniência da dose única diária.",
+    "type": "conteudista"
+  },
+  {
+    "question": "O texto indica que a coadministração de fármacos metabolizados pela CYP 2D6 com a Duloxetina deve ser feita com cautela. Por quê?",
+    "options": [
+      "Porque a Duloxetina induz a atividade da CYP 2D6, diminuindo o efeito de outros fármacos.",
+      "Porque a Duloxetina inibe moderadamente a CYP 2D6, podendo aumentar a concentração de outros fármacos metabolizados por essa via.",
+      "Porque a Duloxetina é um substrato da CYP 2D6 e pode ter seu próprio metabolismo alterado.",
+      "Porque essa combinação sempre leva à síndrome serotoninérgica.",
+      "Porque a CYP 2D6 é a única enzima responsável pelo metabolismo da serotonina."
+    ],
+    "correctIndex": 1,
+    "explanation": "A resposta correta é a 1. O texto afirma que a Duloxetina 'inibe moderadamente a CYP 2D6' e que, por isso, 'a coadministração de fármacos metabolizados por essa CYP deve ser feita com cautela'. A inibição de uma enzima metabólica significa que ela funcionará mais lentamente. Se outro fármaco depende dessa enzima para ser eliminado, sua eliminação será retardada, levando a um aumento de sua concentração no sangue e, consequentemente, a um maior risco de toxicidade.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Qual dos seguintes fármacos é classificado como um Inibidor da Recaptação de Serotonina e Noradrenalina (IRSN)?",
+    "options": [
+      "Sertralina",
+      "Venlafaxina",
+      "Mirtazapina",
+      "Trazodona",
+      "Selegilina"
+    ],
+    "correctIndex": 1,
+    "explanation": "A resposta correta é a 1. O texto introduz a Venlafaxina e a Duloxetina como os dois representantes da classe dos Inibidores da Recaptação de Serotonina e Noradrenalina (IRSN). A Sertralina é um ISRS, a Mirtazapina e a Trazodona são antidepressivos atípicos com outros mecanismos, e a Selegilina é um IMAO.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Apesar da eficácia comparável entre as classes de antidepressivos, qual é a principal razão apontada para o abandono da terapia pelos pacientes?",
+    "options": [
+      "O alto custo dos medicamentos.",
+      "A necessidade de múltiplas doses diárias.",
+      "A falta de disponibilidade nas farmácias.",
+      "Os efeitos adversos.",
+      "A ausência de melhora na primeira semana."
+    ],
+    "correctIndex": 3,
+    "explanation": "A resposta correta é a 3. O texto afirma de forma inequívoca que 'Os efeitos adversos são as causas mais comuns para o abandono da terapia'. Embora outros fatores possam influenciar a adesão, a tolerabilidade do tratamento e o manejo dos efeitos colaterais são citados como o fator mais crítico para a continuidade do uso pelo paciente.",
+    "type": "conteudista"
+  },
+  {
+    "question": "O ganho de peso é um efeito adverso associado a alguns antidepressivos, como os ADTs e a Mirtazapina. A qual ação farmacológica esse efeito é principalmente atribuído?",
+    "options": [
+      "Bloqueio dos receptores α1-adrenérgicos.",
+      "Inibição da recaptação de dopamina.",
+      "Efeitos anti-histamínicos (bloqueio de receptores H1).",
+      "Efeitos anticolinérgicos (bloqueio de receptores muscarínicos).",
+      "Agonismo em receptores 5-HT2C."
+    ],
+    "correctIndex": 2,
+    "explanation": "A resposta correta é a 2. O texto menciona que os ADTs podem causar ganho de peso 'devido aos efeitos anti-histamínicos'. A Mirtazapina também possui afinidade pelos receptores histamínicos H1. O bloqueio do receptor H1 no sistema nervoso central está classicamente associado ao aumento do apetite e sedação, levando ao ganho de peso. As outras ações estão ligadas a outros efeitos adversos.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Se um paciente está tomando um ADT, que sofre 'considerável metabolismo de primeira passagem (≈50%)', o que isso significa para a dose oral do medicamento?",
+    "options": [
+      "A dose oral precisa ser aproximadamente o dobro da dose que seria necessária se administrada por via intravenosa para atingir a mesma concentração no sangue.",
+      "Metade da dose oral é excretada inalterada nas fezes.",
+      "A dose precisa ser administrada com alimentos para garantir 50% de absorção.",
+      "O medicamento só começa a ser metabolizado após a segunda passagem pelo fígado.",
+      "A biodisponibilidade oral é de 100%, mas o efeito é de apenas 50%."
+    ],
+    "correctIndex": 0,
+    "explanation": "A resposta correta é a 0. O metabolismo de primeira passagem refere-se à metabolização de um fármaco no fígado e/ou parede intestinal logo após a sua absorção oral, antes que ele atinja a circulação sistêmica. Se aproximadamente 50% da dose é inativada nesse processo, significa que apenas a metade da dose oral chega efetivamente ao sangue. Portanto, para alcançar a mesma concentração sanguínea que uma dose intravenosa (que tem 100% de biodisponibilidade), a dose oral precisaria ser correspondentemente maior para compensar essa perda inicial.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Um paciente inicia o tratamento com um ISRS. Após alguns dias, ele relata náusea. Qual orientação seria mais adequada, baseada nas informações do texto?",
+    "options": [
+      "Interromper o medicamento imediatamente, pois é um sinal de toxicidade grave.",
+      "Tomar o medicamento em jejum para acelerar a absorção e diminuir a náusea.",
+      "Continuar o tratamento, pois a náusea tende a desaparecer com o uso contínuo, e tomar o medicamento com alimentos pode ajudar.",
+      "Aumentar a dose do medicamento para superar o efeito adverso mais rapidamente.",
+      "Trocar imediatamente por um IMAO, que não causa náusea."
+    ],
+    "correctIndex": 2,
+    "explanation": "A resposta correta é a 2. O texto, ao falar dos efeitos adversos da venlafaxina (que são semelhantes aos dos ISRS nesse quesito), menciona que náusea e vômito 'tendem a desaparecer com o uso'. Além disso, a ingestão de ISRS com alimentos não interfere na absorção e é uma estratégia comum para mitigar o desconforto gastrointestinal. Portanto, a orientação correta é tranquilizar o paciente, informar sobre a natureza transitória do sintoma e sugerir a ingestão com alimentos. As outras opções são incorretas ou potencialmente perigosas.",
+    "type": "raciocínio"
+  }
+]

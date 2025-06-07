@@ -81,41 +81,41 @@ const quizConfig = {
             name: "Antidepressivos 2",
             file: "antidepressivos2"
         },
-             {
-            id: "hipnoticos",
-            name: "Hipnoticos",
-            file: "hipnoticos_questoes"
-        },
-             {
-            id: "anticon",
-            name: "Anticonvulsivantes",
-            file: "anticonvulsivantes_questoes"
-        },
-         {
-            id: "antimicro",
-            name: "Antimicrobianos",
-            file: "antimicrobianos"
-        },
-        {
-            id: "antimicoticos",
-            name: "Antimicoticos",
-            file: "antimicoticos_questoes"
-        },
-        {
-            id: "antimiparasi",
-            name: "Antiparasitarios",
-            file: "antiparasitarios"
-        },
-        {
-            id: "antivirais",
-            name: "Antivirais",
-            file: "antivirais_questoes"
-        },
-        {
-            id: "quimioterapicos",
-            name: "Quimioterapicos",
-            file: "quimioterapicos"
-        },
+{
+id: "hipnoticos",
+name: "Hipnoticos",
+file: "hipnoticos_questoes"
+},
+{
+id: "anticon",
+name: "Anticonvulsivantes",
+file: "anticonvulsivantes_questoes"
+},
+{
+id: "antimicro",
+name: "Antimicrobianos",
+file: "antimicrobianos"
+},
+{
+id: "antimicoticos",
+name: "Antimicoticos",
+file: "antimicoticos_questoes"
+},
+{
+id: "antimiparasi",
+name: "Antiparasitarios",
+file: "antiparasitarios"
+},
+{
+id: "antivirais",
+name: "Antivirais",
+file: "antivirais_questoes"
+},
+{
+id: "quimioterapicos",
+name: "Quimioterapicos",
+file: "quimioterapicos"
+},
         // Adicione mais módulos conforme necessário
     ]
 };

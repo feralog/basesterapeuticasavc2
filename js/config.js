@@ -16,54 +16,30 @@ const quizConfig = {
     // Lista de módulos disponíveis
     // O nome do arquivo deve corresponder ao valor em 'file' (sem a extensão .json)
     modules: [
-        {
-            id: "aiesaines",
-            name: "AIES e AINES",
-            file: "questoes_AIESeAINES"
-        },
-        {
-            id: "anestesicosgerais",
-            name: "Anestésicos Gerais",
-            file: "questoes_anestesicosgerais"
-        },
-        {
-        id: "anestesicoslocais",
-        name: "Anestésicos Locais",
-        file: "questoes_anestesicoslocais"
-          },
-          {
-        id: "antipsicoticos",
-        name: "Antipsicóticos",
-        file: "questoes_antipsicoticos"
-          },
-          {
-        id: "opioides",
-        name: "Opióides",
-        file: "questoes_opioides"
-          },
+        
         {
             id: "aines2",
-            name:"AINES e AIES 2",
+            name:"AINES e AIES ",
             file: "questoes_AINES2"
         },
         {
             id: "opioides2",
-            name: "Opioides 2",
+            name: "Opioides ",
             file: "questoes_opioides2"
         },
         {
             id: "antipsicoticos2",
-            name: "Antipsicóticos 2",
+            name: "Antipsicóticos ",
             file: "questoes_antipsicoticos2"
         },
         {
             id: "anestesicoslocais2",
-            name: "Anestésicos Locais 2",
+            name: "Anestésicos Locais ",
             file: "questoes_anestesicoslocais2"
         },
         {
             id: "anestesicosgerais2",
-            name: "Anestésicos Gerais 2",
+            name: "Anestésicos Gerais ",
             file: "questoes_anestesicosgerais2"
         },
 {
